@@ -1,6 +1,6 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T01:11:51.208444+00:00",
+  "generated_at": "2026-05-08T01:40:21.536669+00:00",
   "items": [
     {
       "source": "Endpoints News",
@@ -244,8 +244,8 @@
     }
   ],
   "overall": [
-    "Entrada의 DMD 치료제 임상 데이터 부진으로 주가 급락하며 Novartis에 경쟁 우위를 내주고, EnGene도 방광암 피벗 데이터 실망으로 동반 하락하는 등 임상 결과 리스크가 부각됨",
-    "Roche가 PathAI를 최대 $1B에 인수하고 Angelini가 Catalyst를 $4.1B에 買收하는 등 AI 진단·신경과 분야 대형 M&A가 집중되며 빅파마의 파이프라인 확충 움직임이 가속화됨",
-    "Blackstone의 Anagram $250M 투자, Banyan BioInnovations $100M 조달 등 희귀질환·바이오 인프라 분야로 사모자본 유입이 이어지는 가운데, BeOne은 암·류마티스 5개 프로그램을 중단하며 선택과 집중 전략을 택함"
+    "Entrada 주가 급락(DMD 임상 기대 미달)·EnGene 주가 폭락(방광암 피벗 데이터 실망)·BeOne 암 5개 프로그램 중단 등 임상 실패가 잇따르며 희귀·종양 분야 개발 리스크가 부각됨",
+    "Roche의 PathAI 최대 $1B 인수, Blackstone의 Anagram $250M 투자, Angelini의 Catalyst $4.1B 인수 등 AI 진단·희귀질환·신경과학 분야 대형 딜이 집중되며 전략적 자본 배치가 가속화됨",
+    "빅파마에서는 Amgen이 푸에르토리코 생산 예산 $300M 증액, Novartis는 독일 경구약 공장 철수, Ascendis는 IL-2 종양학 프로그램 전면 철수하는 등 포트폴리오 선택과 집중이 뚜렷해짐"
   ]
 }
