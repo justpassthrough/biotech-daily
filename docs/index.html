@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Biotech Daily — 2026-05-08</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #fafafa;
+  --bg-card: #ffffff;
+  --fg: #1a1a1a;
+  --fg-muted: #666;
+  --border: #e0e0e0;
+  --accent: #2563eb;
+  --score-high: #dc2626;
+  --score-mid: #ea580c;
+  --score-low: #94a3b8;
+  --score-zero: #cbd5e1;
+  --shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+[data-theme="dark"] {
+  --bg: #0f0f0f;
+  --bg-card: #1a1a1a;
+  --fg: #e5e5e5;
+  --fg-muted: #999;
+  --border: #2a2a2a;
+  --accent: #60a5fa;
+  --shadow: 0 1px 3px rgba(0,0,0,0.4);
+}
+* { box-sizing: border-box; }
+body {
+  font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px 20px 60px;
+  line-height: 1.6;
+  transition: background 0.2s, color 0.2s;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 28px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid var(--border);
+  flex-wrap: wrap;
+}
+.header-left h1 { margin: 0; font-size: 1.5rem; font-weight: 700; }
+.header-left .meta-info { color: var(--fg-muted); margin-top: 6px; font-size: 0.85rem; }
+.header-right {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+select#date-selector {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--fg);
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-family: inherit;
+  min-width: 220px;
+}
+select#date-selector:hover { border-color: var(--accent); }
+button#theme-toggle {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--fg);
+  padding: 8px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+button#theme-toggle:hover { border-color: var(--accent); }
+.day-meta {
+  color: var(--fg-muted);
+  font-size: 0.95rem;
+  margin-bottom: 24px;
+  padding: 10px 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+section { margin-bottom: 36px; }
+h2 {
+  font-size: 1.1rem;
+  margin: 0 0 14px;
+  padding-left: 10px;
+  border-left: 4px solid var(--accent);
+}
+.overall ul {
+  background: var(--bg-card);
+  border-radius: 12px;
+  padding: 18px 24px 18px 36px;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--border);
+  margin: 0;
+}
+.overall li { margin-bottom: 8px; }
+.overall li:last-child { margin-bottom: 0; }
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 18px 20px;
+  margin-bottom: 12px;
+  box-shadow: var(--shadow);
+}
+.card-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+.score {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 16px;
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: white;
+  flex-shrink: 0;
+  min-width: 28px;
+  text-align: center;
+}
+.score-high { background: var(--score-high); }
+.score-mid { background: var(--score-mid); }
+.score-low { background: var(--score-low); }
+.score-zero { background: var(--score-zero); }
+.card-title {
+  font-weight: 500;
+  font-size: 1rem;
+  flex: 1;
+  word-break: break-word;
+}
+.card-summary {
+  white-space: pre-line;
+  margin: 8px 0;
+  color: var(--fg);
+  font-size: 0.95rem;
+}
+.card-reason {
+  font-size: 0.85rem;
+  color: var(--fg-muted);
+  font-style: italic;
+  margin: 6px 0 10px;
+}
+.card-meta { font-size: 0.85rem; color: var(--fg-muted); }
+.card-meta a { color: var(--accent); text-decoration: none; }
+.card-meta a:hover { text-decoration: underline; }
+.cat-bars { margin-bottom: 16px; }
+.cat-bar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 6px 0;
+}
+.cat-name { width: 100px; font-weight: 500; flex-shrink: 0; }
+.cat-count-bar {
+  height: 24px;
+  background: var(--accent);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  color: white;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+details {
+  margin-top: 8px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 12px 16px;
+}
+details summary { cursor: pointer; font-weight: 500; padding: 2px 0; }
+details[open] summary { margin-bottom: 8px; }
+.mini-item {
+  padding: 8px 0;
+  border-top: 1px solid var(--border);
+  font-size: 0.92rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.mini-item:first-of-type { border-top: none; }
+.mini-item a { color: var(--accent); text-decoration: none; word-break: break-word; }
+.mini-item a:hover { text-decoration: underline; }
+@media (max-width: 600px) {
+  body { padding: 16px 14px 40px; }
+  .header-left h1 { font-size: 1.25rem; }
+  .cat-name { width: 80px; font-size: 0.9rem; }
+  select#date-selector { min-width: 180px; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="header-left">
+    <h1>Biotech Daily</h1>
+    <div class="meta-info">1일 누적 · 마지막 업데이트: 2026-05-08 10:11 KST</div>
+  </div>
+  <div class="header-right">
+    <select id="date-selector" aria-label="날짜 선택"><option value="2026-05-08">2026-05-08 (금) — 20건 / ≥7: 0</option></select>
+    <button id="theme-toggle">🌙 다크</button>
+  </div>
+</header>
+
+<main><div class="day-view" data-date="2026-05-08"><div class="day-meta">2026.05.08 (금) · 24h: <strong>20</strong>건 · 관련성 7+: <strong>0</strong>건</div><section class="overall"><h2>▣ 흐름 요약</h2><ul><li>Entrada의 DMD 치료제 임상 데이터 부진으로 주가 급락하며 Novartis에 경쟁 우위를 내주고, EnGene도 방광암 피벗 데이터 실망으로 동반 하락하는 등 임상 결과 리스크가 부각됨</li><li>Roche가 PathAI를 최대 $1B에 인수하고 Angelini가 Catalyst를 $4.1B에 買收하는 등 AI 진단·신경과 분야 대형 M&amp;A가 집중되며 빅파마의 파이프라인 확충 움직임이 가속화됨</li><li>Blackstone의 Anagram $250M 투자, Banyan BioInnovations $100M 조달 등 희귀질환·바이오 인프라 분야로 사모자본 유입이 이어지는 가운데, BeOne은 암·류마티스 5개 프로그램을 중단하며 선택과 집중 전략을 택함</li></ul></section><section><h2>▣ 본인 연구 관련 (관련성 ≥ 7)</h2><div class="card" style="text-align:center;color:var(--fg-muted);">관련성 7점 이상 기사가 없습니다.</div></section><section><h2>▣ 카테고리별</h2><div class="cat-bars"><div class="cat-bar"><span class="cat-name">임상결과</span><div class="cat-count-bar" style="width:440px">7</div></div><div class="cat-bar"><span class="cat-name">M&amp;A</span><div class="cat-count-bar" style="width:140px">2</div></div><div class="cat-bar"><span class="cat-name">모달리티</span><div class="cat-count-bar" style="width:20px">0</div></div><div class="cat-bar"><span class="cat-name">빅파마</span><div class="cat-count-bar" style="width:200px">3</div></div><div class="cat-bar"><span class="cat-name">기타</span><div class="cat-count-bar" style="width:500px">8</div></div></div><details><summary>임상결과 (7)</summary><div class="mini-item"><span class="score score-zero">2</span><a href="https://endpoints.news/astellas-touts-data-from-early-test-of-stem-cell-derived-eye-therapy/" target="_blank" rel="noopener">Astellas touts data from early test of stem cell-derived eye therapy</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Endpoints News · 05-08 07:13</span></div><div class="mini-item"><span class="score score-zero">2</span><a href="https://endpoints.news/atara-pierre-fabres-cell-therapy-to-get-another-shot-at-fda-approval/" target="_blank" rel="noopener">Atara, Pierre Fabre&#x27;s cell therapy to get another shot at FDA approval</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Endpoints News · 05-07 22:17</span></div><div class="mini-item"><span class="score score-zero">2</span><a href="https://www.fiercebiotech.com/pharma/fda-reconsider-surprisingly-rejected-cell-therapy-ebvallo-could-uniqure-be-next" target="_blank" rel="noopener">FDA to reconsider shock rejection of cell therapy Ebvallo. Could uniQure be next?</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Fierce Biotech · 05-07 19:15</span></div><div class="mini-item"><span class="score score-zero">2</span><a href="https://www.fiercebiotech.com/biotech/entradas-stock-craters-dmd-data-underperform-expectations-handing-advantage-novartis" target="_blank" rel="noopener">Entrada&#x27;s stock craters as DMD data underperform expectations, handing advantage to Novartis</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Fierce Biotech · 05-07 18:14</span></div><div class="mini-item"><span class="score score-zero">1</span><a href="https://endpoints.news/engenes-shares-crash-on-updated-pivotal-bladder-cancer-data/" target="_blank" rel="noopener">EnGene&#x27;s shares crash on updated pivotal bladder cancer data</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Endpoints News · 05-08 00:44</span></div><div class="mini-item"><span class="score score-zero">1</span><a href="https://endpoints.news/entrada-stock-falls-on-duchenne-data-wegovy-expands-access/" target="_blank" rel="noopener">Entrada stock falls on Duchenne data; Wegovy expands access</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Endpoints News · 05-08 00:04</span></div><div class="mini-item"><span class="score score-zero">1</span><a href="https://www.fiercebiotech.com/biotech/beone-shelves-5-cancer-programs-halts-phase-2-rheumatoid-arthritis-trial" target="_blank" rel="noopener">BeOne shelves 5 cancer programs, halts phase 2 rheumatoid arthritis trial</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Fierce Biotech · 05-07 19:57</span></div></details><details><summary>M&amp;A (2)</summary><div class="mini-item"><span class="score score-zero">2</span><a href="https://www.fiercebiotech.com/medtech/roche-shell-out-1b-acquire-pathai-move-boost-ai-based-dx-algorithms" target="_blank" rel="noopener">Roche shells out up to $1B for PathAI in move to boost artificial intelligence-powered diagnostics</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Fierce Biotech · 05-07 17:08</span></div><div class="mini-item"><span class="score score-zero">1</span><a href="https://endpoints.news/angelini-fortifies-neurology-portfolio-with-4-1b-buyout-of-catalyst-pharma/" target="_blank" rel="noopener">Angelini fortifies neurology portfolio with $4.1B buyout of Catalyst</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Endpoints News · 05-07 19:40</span></div></details><details><summary>빅파마 (3)</summary><div class="mini-item"><span class="score score-zero">3</span><a href="https://www.fiercebiotech.com/biotech/drug-development-ma-big-pharmas-showcase-measurable-impact-ai" target="_blank" rel="noopener">From drug development to M&amp;A, Big Pharmas showcase AI’s ‘measurable impact’</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Fierce Biotech · 05-07 14:47</span></div><div class="mini-item"><span class="score score-zero">2</span><a href="https://www.fiercebiotech.com/biotech/ascendis-axes-il-2-program-retreat-oncology-expansion" target="_blank" rel="noopener">Ascendis axes IL-2 program in retreat from oncology expansion</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Fierce Biotech · 05-07 19:10</span></div><div class="mini-item"><span class="score score-zero">1</span><a href="https://endpoints.news/amgen-adds-300m-to-puerto-rico-budget-novartis-to-exit-oral-drug-factory-in-germany/" target="_blank" rel="noopener">Amgen adds $300M to Puerto Rico budget; Novartis to exit oral drug factory in Germany</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Endpoints News · 05-07 23:00</span></div></details><details><summary>기타 (8)</summary><div class="mini-item"><span class="score score-zero">1</span><a href="https://endpoints.news/blackstone-puts-250m-into-anagram-to-tackle-cystic-fibrosis-complication/" target="_blank" rel="noopener">Blackstone puts $250M into Anagram to tackle cystic fibrosis complication</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Endpoints News · 05-08 00:31</span></div><div class="mini-item"><span class="score score-zero">1</span><a href="https://www.fiercebiotech.com/cro/banyan-bioinnovations-puts-down-roots-100m-and-icon-partnership" target="_blank" rel="noopener">Banyan BioInnovations puts down roots with $100M, Icon partnership</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Fierce Biotech · 05-07 20:01</span></div><div class="mini-item"><span class="score score-zero">1</span><a href="https://www.fiercebiotech.com/biotech/blackstone-invests-250m-anagram-reduce-burden-cf-complication" target="_blank" rel="noopener">Blackstone invests $250M in Anagram to reduce burden of cystic fibrosis complication</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Fierce Biotech · 05-07 19:06</span></div><div class="mini-item"><span class="score score-zero">0</span><a href="https://endpoints.news/amazon-adds-ozempic-pill-to-same-day-prescription-drug-kiosks/" target="_blank" rel="noopener">Amazon adds Ozempic pill to same-day prescription drug kiosks</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Endpoints News · 05-08 02:15</span></div><div class="mini-item"><span class="score score-zero">0</span><a href="https://www.fiercebiotech.com/biotech/chutes-ladders-biopharma-veteran-takes-her-ceo-cue" target="_blank" rel="noopener">Chutes &amp; Ladders—Biopharma veteran takes her CEO Cue</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Fierce Biotech · 05-08 01:27</span></div><div class="mini-item"><span class="score score-zero">0</span><a href="https://endpoints.news/are-health-insurers-out-of-the-woods-after-a-tough-2025/" target="_blank" rel="noopener">Are health insurers out of the woods after a tough 2025?</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Endpoints News · 05-08 00:41</span></div><div class="mini-item"><span class="score score-zero">0</span><a href="https://endpoints.news/pennsylvania-sues-ai-chatbot-company-for-posing-as-a-licensed-doctor/" target="_blank" rel="noopener">Pennsylvania sues AI chatbot company for posing as a licensed doctor</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Endpoints News · 05-07 21:30</span></div><div class="mini-item"><span class="score score-zero">0</span><a href="https://www.fiercebiotech.com/medtech/insulet-boosts-guidance-q1-update-it-deals-recall-saga" target="_blank" rel="noopener">Insulet boosts guidance in Q1 update as it grapples with recall saga</a><span style="color:var(--fg-muted);font-size:0.85rem;">· Fierce Biotech · 05-07 11:19</span></div></details></section></div></main>
+
+<script>
+(function() {
+  const root = document.documentElement;
+  const themeBtn = document.getElementById('theme-toggle');
+  function applyTheme(t) {
+    root.setAttribute('data-theme', t);
+    themeBtn.textContent = t === 'dark' ? '☀️ 라이트' : '🌙 다크';
+  }
+  applyTheme(localStorage.getItem('biotech-theme') || 'light');
+  themeBtn.addEventListener('click', function() {
+    const cur = root.getAttribute('data-theme');
+    const next = cur === 'dark' ? 'light' : 'dark';
+    applyTheme(next);
+    localStorage.setItem('biotech-theme', next);
+  });
+
+  const sel = document.getElementById('date-selector');
+  function showDate(d) {
+    document.querySelectorAll('.day-view').forEach(function(v) {
+      v.hidden = v.dataset.date !== d;
+    });
+  }
+  sel.addEventListener('change', function(e) { showDate(e.target.value); });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,142 @@
+{
+  "https://endpoints.news/astellas-touts-data-from-early-test-of-stem-cell-derived-eye-therapy/": {
+    "korean_summary": "Astellas가 줄기세포 유래 안과 치료제의 초기 임상 데이터를 발표.\n소수의 고용량 환자군에서 일부 우려 신호가 관찰되었으나 전반적으로 긍정적 결과.\n줄기세포 기반 세포치료제의 초기 임상 진행 현황을 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "줄기세포 안과 치료제로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거리가 멀다",
+    "processed_at": "2026-05-08T00:46:35.128569+00:00"
+  },
+  "https://endpoints.news/amazon-adds-ozempic-pill-to-same-day-prescription-drug-kiosks/": {
+    "korean_summary": "Amazon Pharmacy가 당일 처방약 키오스크에 Ozempic 경구제를 추가.\n기존 경구 Wegovy(2월 도입)에 이어 GLP-1 계열 약물 라인업 확장.\n약물 유통 채널 다변화 트렌드, 제약 산업과 빅테크 접점 확대.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "GLP-1 약물 유통 채널 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-08T00:46:39.485762+00:00"
+  },
+  "https://endpoints.news/engenes-shares-crash-on-updated-pivotal-bladder-cancer-data/": {
+    "korean_summary": "캐나다 바이오텍 EnGene이 방광암 대상 실험적 치료제의 P2 업데이트 데이터를 발표.\n주가가 발표 당일 80% 폭락하며 투자자들의 우려를 반영.\n피벗 임상 데이터 실망으로 치료제 상업화 전망에 심각한 의문 제기.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "방광암 임상 결과로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-05-08T00:46:44.354725+00:00"
+  },
+  "https://endpoints.news/are-health-insurers-out-of-the-woods-after-a-tough-2025/": {
+    "korean_summary": "2025년 미국 건강보험사들이 높은 의료비용으로 수익 전망을 대폭 하향 조정한 이후 회복 여부 분석.\n주요 건강보험사들의 실적 전망 및 의료비 트렌드 점검.\n바이오/제약 산업과 간접적으로 연관된 보험 시장 동향.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "건강보험 산업 동향으로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-08T00:46:48.463094+00:00"
+  },
+  "https://endpoints.news/blackstone-puts-250m-into-anagram-to-tackle-cystic-fibrosis-complication/": {
+    "korean_summary": "Blackstone Life Sciences가 낭포성 섬유증 합병증 치료 바이오텍 Anagram에 2억 5천만 달러 투자.\nAnagram은 낭포성 섬유증 관련 합병증 치료를 목표로 하는 초기 단계 바이오텍.\nBlackstone의 대규모 사모 바이오 투자 흐름의 일환으로, 희귀질환 분야 자금 유입 신호.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "낭포성 섬유증 관련 사모 투자 뉴스로, 사용자 연구 분야와 직접적 연관 없음",
+    "processed_at": "2026-05-08T00:46:53.366027+00:00"
+  },
+  "https://endpoints.news/entrada-stock-falls-on-duchenne-data-wegovy-expands-access/": {
+    "korean_summary": "Entrada Therapeutics의 Duchenne 근이영양증 치료제(exon 44 skipping)가 초기 임상 데이터에서 기대 이하 결과 발표.\n저용량 투여 6명 환자 데이터로 주가 하락, Wegovy 접근성 확대 및 BioCryst·GSK·Roche 관련 소식도 포함.\n희귀질환 유전자 치료 분야의 임상 불확실성을 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "Duchenne 유전자 치료 임상 결과로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-08T00:46:58.280047+00:00"
+  },
+  "https://endpoints.news/amgen-adds-300m-to-puerto-rico-budget-novartis-to-exit-oral-drug-factory-in-germany/": {
+    "korean_summary": "Amgen이 푸에르토리코 Juncos 바이오의약품 생산시설에 3억 달러 추가 투자 발표.\nNovartis는 독일 경구약 공장 철수 계획, FDA 단기 실사 및 BioMADE 관련 소식도 포함.\n빅파마의 생산 인프라 재편 및 지역별 제조 전략 변화를 보여주는 산업 동향.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "제조시설 투자 및 공장 철수 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-08T00:47:03.087666+00:00"
+  },
+  "https://endpoints.news/atara-pierre-fabres-cell-therapy-to-get-another-shot-at-fda-approval/": {
+    "korean_summary": "Atara Biotherapeutics와 Pierre Fabre의 T세포 치료제가 FDA 재심사 기회 획득.\n두 차례 거절 후 FDA가 P3 연구를 승인 근거로 재검토 의사 표명.\nCell therapy 분야의 규제 경로 재협상 사례로, 거절 후 재도전 전략의 가능성 시사.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "세포치료제 FDA 재심사 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-08T00:47:07.705847+00:00"
+  },
+  "https://endpoints.news/pennsylvania-sues-ai-chatbot-company-for-posing-as-a-licensed-doctor/": {
+    "korean_summary": "펜실베이니아 주정부가 AI 챗봇 기업 Character.AI를 의사 사칭 혐의로 제소.\n챗봇이 면허 의사로 위장해 사용자와 대화한 것이 불법으로 판단됨.\nAI 의료 서비스 규제 강화 신호, 첫 번째 주정부 소송 사례.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "AI 챗봇 규제 소송으로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-08T00:47:11.819258+00:00"
+  },
+  "https://endpoints.news/angelini-fortifies-neurology-portfolio-with-4-1b-buyout-of-catalyst-pharma/": {
+    "korean_summary": "Angelini Pharma가 희귀 신경질환 전문 Catalyst Pharmaceuticals를 41억 달러에 인수.\nFDA 승인 3개 제품(Firdapse, Agamree 등) 확보, 희귀 신경질환 포트폴리오 강화.\n중견 유럽 파마의 희귀질환 영역 확장 전략, 빅딜 규모의 M&A.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "희귀 신경질환 M&A 딜, 사용자 연구 분야(단백질 설계/ADC/나노의약)와 무관",
+    "processed_at": "2026-05-08T00:47:17.428798+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/banyan-bioinnovations-puts-down-roots-100m-and-icon-partnership": {
+    "korean_summary": "Banyan BioInnovations가 1억 달러 이상 자금 조달과 함께 공식 출범.\nIcon CRO와 파트너십 체결, 유망 임상 자산 기반 NewCo 설립 모델 추구.\n신규 바이오테크 인큐베이터/스핀아웃 모델의 자금조달 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "바이오테크 펀딩/설립 뉴스로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-08T00:55:18.228970+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/beone-shelves-5-cancer-programs-halts-phase-2-rheumatoid-arthritis-trial": {
+    "korean_summary": "BeOne Medicines가 초기 파이프라인을 대폭 정리, 5개 P1 암 프로그램 중단 및 P2 류마티스 관절염 임상 중단.\n신규 데이터 기반 결정으로 구체적 중단 사유는 공개되지 않음.\n바이오텍의 파이프라인 선택과 집중 전략, 초기 임상 실패율 현실 반영.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "암/류마티스 임상 중단 소식으로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-05-08T00:55:22.300434+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/fda-reconsider-surprisingly-rejected-cell-therapy-ebvallo-could-uniqure-be-next": {
+    "korean_summary": "FDA가 1월에 거부한 T세포 치료제 Ebvallo에 대해 재심사에 동의.\n단일군 임상시험(single-arm trial) 데이터 기반 승인 여부가 핵심 쟁점이며, uniQure 유전자치료제 승인 가능성도 재조명.\nFDA의 단일군 시험 수용 기준 변화가 세포·유전자치료제 전반의 규제 환경에 영향 가능.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "세포·유전자치료제 FDA 규제 동향으로, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-08T00:55:27.521917+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ascendis-axes-il-2-program-retreat-oncology-expansion": {
+    "korean_summary": "Ascendis Pharma가 내부 개발 중이던 IL-2 후보물질 프로그램을 종료.\n종양학 확장 전략에서 후퇴, 한때 신속승인 가능성을 기대했던 파이프라인 폐기.\n빅파마/중견 바이오의 종양학 포트폴리오 구조조정 흐름의 일환.",
+    "category": "빅파마",
+    "relevance_score": 2,
+    "relevance_reason": "IL-2 면역항암 프로그램 종료 소식, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-08T00:55:32.146545+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/blackstone-invests-250m-anagram-reduce-burden-cf-complication": {
+    "korean_summary": "Blackstone Life Sciences가 Anagram Therapeutics에 2억 5천만 달러 투자.\n낭포성 섬유증 관련 외분비 췌장 기능부전(EPI) 치료를 위해 하루 최대 40정을 3정으로 줄이는 기술 개발 목표.\n희귀질환 치료 편의성 개선에 대형 사모펀드가 대규모 베팅한 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "낭포성 섬유증 EPI 치료제 투자 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-08T00:55:41.249434+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/entradas-stock-craters-dmd-data-underperform-expectations-handing-advantage-novartis": {
+    "korean_summary": "Entrada Therapeutics의 DMD(뒤센 근이영양증) 임상 데이터가 기대치를 크게 하회하며 주가 급락.\n구체적 수치 미공개이나 플랫폼 검증 실패로 투자자 신뢰 붕괴, Novartis가 반사이익 전망.\nEntrada의 세포투과 펩타이드 기반 플랫폼 신뢰도 타격, 경쟁 구도 재편 가능성.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "DMD 임상 실패 뉴스, 사용자 연구 분야(ferritin/ADC/단백질 설계)와 직접 관련 없음",
+    "processed_at": "2026-05-08T00:55:47.179307+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/roche-shell-out-1b-acquire-pathai-move-boost-ai-based-dx-algorithms": {
+    "korean_summary": "Roche가 디지털 병리 AI 전문기업 PathAI를 최대 10억 달러에 인수 발표.\n인수 금액은 10억 달러 초과 수준이며, AI 기반 진단 알고리즘 강화가 목적.\nAI 진단 분야에 빅파마 자본이 유입되는 흐름, 디지털 병리 시장 확장 신호.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "AI 진단 M&A로 사용자 연구 분야(단백질 설계, 약물전달)와 직접 연관성 낮음",
+    "processed_at": "2026-05-08T00:55:53.774832+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/drug-development-ma-big-pharmas-showcase-measurable-impact-ai": {
+    "korean_summary": "빅파마들이 1분기 실적 발표에서 AI 활용의 구체적 성과를 공개하기 시작.\n신약 개발, M&A 전략 등 실질적 적용 사례 중심으로 AI 논의가 전환됨.\nAI 과대광고 단계를 넘어 실측 가능한 임팩트 입증 단계로 진입 중.",
+    "category": "빅파마",
+    "relevance_score": 3,
+    "relevance_reason": "AI 신약개발 일반 동향, 사용자 연구 분야와 직접 연관성 낮음",
+    "processed_at": "2026-05-08T00:55:58.260389+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/insulet-boosts-guidance-q1-update-it-deals-recall-saga": {
+    "korean_summary": "Insulet이 1분기 실적 발표에서 연간 가이던스를 상향 조정.\n강한 1분기 성과에도 불구하고 진행 중인 리콜 이슈가 투자자 우려 요인으로 지속.\n인슐린 펌프 기기 기업의 재무/운영 동향으로 연구 분야와 무관.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "의료기기 기업 실적 및 리콜 이슈, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-08T00:56:03.065031+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/chutes-ladders-biopharma-veteran-takes-her-ceo-cue": {
+    "korean_summary": "Cue Biopharma의 신임 CEO로 Shao-Lee Lin (MD, PhD)이 선임됨.\n전 CEO Usman Azam 퇴임 후, Lin은 Acelyrin 창업자 겸 CEO 출신으로 Alumis와의 합병 경험 보유.\n임원 인사 소식으로 산업적 기술 내용 없음.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "임원 인사 뉴스, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-08T01:11:43.354931+00:00"
+  }
+}
