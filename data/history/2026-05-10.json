@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-09T23:36:47.943768+00:00",
+  "items": [
+    {
+      "source": "Endpoints News",
+      "title": "Biotech’s new company model; The super poop behind a startup launch; and more",
+      "link": "https://endpoints.news/biotechs-new-company-model-the-super-poop-behind-a-startup-launch-and-more/",
+      "summary_en": "Welcome back to another edition of Endpoints Weekly! Earnings season is in full swing, but we had plenty of original reporting and exclusives you won’t find anywhere else this week. Chief among them: Andrew Dunn’s ...",
+      "published": "2026-05-09T10:00:14+00:00",
+      "korean_summary": "Endpoints Weekly 뉴스레터의 주간 요약본으로, 바이오텍 산업 전반의 소식을 다룸.\n구체적인 임상 데이터, 딜 규모, 기술 내용 없이 여러 기사를 묶은 편집자 소개글.\n사용자 연구 분야와 직접 관련된 내용 없음.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "뉴스레터 목차 소개글로 연구 관련 실질적 내용 없음",
+      "processed_at": "2026-05-09T23:36:37.417646+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "New Hepta blood test could predict GLP-1 response",
+      "link": "https://www.fiercebiotech.com/medtech/new-hepta-blood-test-could-predict-glp-1-response",
+      "summary_en": "While GLP-1s like Ozempic and Wegovy are being widely prescribed for weight loss, doctors currently do not have a way to predict if a patient will successfully respond to the drugs.",
+      "published": "2026-05-09T03:08:00+00:00",
+      "korean_summary": "Hepta 혈액검사가 GLP-1 약물(Ozempic, Wegovy 등) 치료 반응을 사전 예측할 수 있다고 발표.\n현재 의사들은 환자의 GLP-1 반응 여부를 처방 전 예측할 수단이 없는 상황.\n동반진단(companion diagnostics) 개념의 비만치료제 적용 가능성을 시사.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "GLP-1 반응 예측 혈액검사로, 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+      "processed_at": "2026-05-09T23:36:41.913370+00:00"
+    }
+  ],
+  "overall": [
+    "Hepta의 혈액검사 기반 GLP-1 반응 예측 기술이 주목받으며 비만·대사질환 치료 개인화 진단 분야의 신규 스타트업 모델이 부상하고 있음",
+    "마이크로바이옴(분변 이식) 기반 스타트업이 새로운 창업 모델로 등장하며 바이오텍 기업 구조 다변화 흐름이 감지됨",
+    "전반적으로 진단·예측 바이오마커와 혁신적 기업 모델이 금일 바이오텍 뉴스의 핵심 축을 형성했으나, 대형 딜이나 임상 데이터 발표는 부재한 조용한 하루"
+  ]
+}
