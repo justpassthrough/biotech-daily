@@ -1,0 +1,131 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-11T23:46:42.818693+00:00",
+  "items": [
+    {
+      "source": "Endpoints News",
+      "title": "Optum Rx unveils pharmacy model with clear fees, building on transparency push",
+      "link": "https://endpoints.news/optum-rx-unveils-pharmacy-model-with-clear-fees-building-on-transparency-push/",
+      "summary_en": "UnitedHealth Group’s Optum Rx on Monday unveiled a new approach to prescription drug benefits that it said offers its customers transparency into the entire drug supply chain. Under the new model, launching in 2027, the ...",
+      "published": "2026-05-11T20:05:00+00:00",
+      "korean_summary": "UnitedHealth Group 산하 Optum Rx가 처방약 급여 투명성 강화 모델 발표.\n2027년 출시 예정, 약물 공급망 전반의 비용 구조를 고객에게 공개하는 방식.\n미국 PBM(약국 혜택 관리) 업계의 투명성 규제 압력 대응 움직임.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "PBM 비용 투명성 정책 뉴스, 연구 분야와 무관",
+      "processed_at": "2026-05-11T23:45:48.947269+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Rezdiffra is exceeding Wall Street's expectations as the MASH market takes shape",
+      "link": "https://endpoints.news/rezdiffra-is-exceeding-wall-streets-expectations-as-the-mash-market-takes-shape/",
+      "summary_en": "It seems there’s room for two in the MASH market. When Novo Nordisk’s blockbuster weight loss drug Wegovy won approval in August 2025 to treat the fatty liver disease, some investors thought it would put ...",
+      "published": "2026-05-11T18:27:48+00:00",
+      "korean_summary": "Madrigal의 MASH 치료제 Rezdiffra가 월가 예상을 상회하는 매출 성과를 기록.\nNovo Nordisk의 Wegovy가 MASH 적응증 승인(2025년 8월)을 받았음에도 시장 공존 가능성 확인.\nMASH 시장이 단일 승자 독식이 아닌 복수 치료제 공존 구조로 형성되고 있음을 시사.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "MASH 시장 동향으로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+      "processed_at": "2026-05-11T23:45:54.073162+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Daiichi eyes almost $15B in oncology sales by 2030 in ADC franchise push",
+      "link": "https://endpoints.news/daiichi-eyes-almost-15b-in-oncology-sales-by-2030-in-adc-franchise-push/",
+      "summary_en": "Daiichi Sankyo is betting on its oncology franchise to push it past 3 trillion Japanese yen ($19 billion) in 2030 revenues. The drugmaker published a new five-year business plan on Monday ...",
+      "published": "2026-05-11T15:35:21+00:00",
+      "korean_summary": "Daiichi Sankyo가 2030년 매출 3조 엔(약 190억 달러) 목표의 신규 5개년 사업계획 발표.\n종양학 부문에서만 약 150억 달러 매출 목표, ADC 프랜차이즈가 핵심 성장 동력.\nADC 시장 선도 기업의 장기 전략 공개로 ADC 산업 전반의 성장 방향성 확인.",
+      "category": "빅파마",
+      "relevance_score": 6,
+      "relevance_reason": "ADC 프랜차이즈 전략 직접 언급, ADC 시장 동향 파악에 유용하나 기술 세부사항 없음",
+      "processed_at": "2026-05-11T23:45:59.430133+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "New home for Novo's Parkinson's cell therapy; GSK's deal to sell drug in China",
+      "link": "https://endpoints.news/new-home-for-novos-parkinsons-cell-therapy-gsk-turns-to-china-for-hep-b-drug/",
+      "summary_en": "Plus, label expansions for two drugs targeting rare diseases, and Genmab scraps a Phase 1 cancer trial: 🧠 Novo's Parkinson's cell therapy finds a biotech home: Novo Nordisk has found a home for an early-stage ...",
+      "published": "2026-05-11T15:11:26+00:00",
+      "korean_summary": "Novo Nordisk의 파킨슨병 세포치료제가 바이오텍으로 이전, GSK는 중국 내 약물 판매 딜 체결.\nGenmab은 P1 암 임상을 중단, 희귀질환 2개 약물의 적응증 확대 승인 포함된 복합 뉴스.\n세포치료제 자산 재배치 및 중국 시장 파트너링 전략 등 다양한 업계 동향 포함.",
+      "category": "빅파마",
+      "relevance_score": 2,
+      "relevance_reason": "세포치료, 희귀질환, 임상 중단 등 일반 바이오 뉴스로 사용자 연구 분야와 거리 있음",
+      "processed_at": "2026-05-11T23:46:04.708317+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Inhibrx says combo therapy shrank more tumors than Merck's Keytruda alone",
+      "link": "https://endpoints.news/inhibrx-says-combo-therapy-shrank-more-tumors-than-mercks-keytruda-alone/",
+      "summary_en": "San Diego-based biotech Inhibrx is claiming that it outperformed Merck’s Keytruda in a difficult-to-treat cancer. The combination of Keytruda and Inhibrx’s experimental drug INBRX-106 shrank more tumors than Keytruda alone in patients with metastatic head ...",
+      "published": "2026-05-11T14:51:42+00:00",
+      "korean_summary": "Inhibrx의 INBRX-106과 Keytruda 병용요법이 전이성 두경부암에서 Keytruda 단독 대비 더 높은 종양 축소율 달성.\n구체적 수치는 요약에 미포함이나, 난치성 암종에서 병용 우월성 시사하는 임상 데이터 발표.\nPD-1 병용 전략의 경쟁 심화, INBRX-106(OX40 agonist 계열 추정)의 임상적 가치 부각.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "면역항암제 병용 임상 결과로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관성 낮음",
+      "processed_at": "2026-05-11T23:46:11.400551+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Braveheart Bio's Hengrui-licensed cardiac drug scores second clinical win",
+      "link": "https://endpoints.news/braveheart-bios-hengrui-licensed-cardiac-drug-scores-second-clinical-win/",
+      "summary_en": "Braveheart Bio said Monday that the heart muscle therapy it licensed from China’s Jiangsu Hengrui Pharmaceuticals has succeeded in a mid-stage trial for the same condition in which Cytokinetics recently scored a",
+      "published": "2026-05-11T13:42:46+00:00",
+      "korean_summary": "Braveheart Bio가 중국 Jiangsu Hengrui로부터 라이선스한 심근 치료제가 중기 임상(P2)에서 두 번째 성공 기록.\nCytokinetics가 최근 성과를 낸 동일 적응증에서 긍정적 결과 도출.\n심근 수축 기전 타깃 치료제 경쟁 심화, Cytokinetics 독주 구도에 도전자 등장.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "심장 근육 치료제 임상 결과로 사용자 연구 분야(단백질 전달, ADC, 나노의약)와 무관",
+      "processed_at": "2026-05-11T23:46:16.119621+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "European regulators greenlight Fractyl Health's clinical test of GLP-1 gene therapy",
+      "link": "https://endpoints.news/european-regulators-greenlight-fractyl-healths-clinical-test-of-glp-1-gene-therapy/",
+      "summary_en": "Drug developers are racing to make gene therapies that could replace chronic GLP-1 injections and pills with a one-and-done treatment. Now, a company based just outside of Boston is poised to become ...",
+      "published": "2026-05-11T11:00:40+00:00",
+      "korean_summary": "Fractyl Health가 유럽 규제당국으로부터 GLP-1 유전자치료제 임상시험 승인 획득.\n만성 GLP-1 주사/경구제를 1회 투여로 대체하는 gene therapy 접근법, 보스턴 인근 기업이 선두.\nGLP-1 modality 경쟁이 small molecule·펩타이드를 넘어 gene therapy로 확장되는 산업적 전환점.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "GLP-1 gene therapy 임상 승인, 사용자 연구 분야(ferritin/ADC/단백질 설계)와 직접 관련 없음",
+      "processed_at": "2026-05-11T23:46:20.816834+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "CSL sinks to nine-year low on revenue warning, $5B write-down",
+      "link": "https://endpoints.news/csl-sinks-to-nine-year-low-on-revenue-warning-5b-write-down/",
+      "summary_en": "CSL's stock hit its lowest price since early 2017 on Monday after it lowered its full-year revenue guidance by about 4% and said it would have to take a new $5 billion impairment charge. The ...",
+      "published": "2026-05-11T10:30:09+00:00",
+      "korean_summary": "CSL이 연간 매출 가이던스를 약 4% 하향 조정하고 50억 달러 규모의 손상차손을 발표.\n주가는 2017년 초 이후 최저치로 하락, 9년 만의 저점 기록.\n글로벌 바이오파마 기업의 재무 건전성 악화 신호로 업계 투자심리에 영향.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "CSL 재무 이슈로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-05-11T23:46:24.916394+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Amid M&A buzz, Inhibrx's OX40-Keytruda combo shows promise in early look at midphase data",
+      "link": "https://www.fiercebiotech.com/biotech/ox40-drug-inhibrx-mooted-ma-target-tops-keytruda-early-look-midphase-data",
+      "summary_en": "Adding Inhibrx Biosciences’ OX40 agonist to Keytruda doubled the response rate in a midphase clinical trial, encouraging the biotech to advance a program that reportedly attracted the interest of Merck & Co.",
+      "published": "2026-05-11T09:42:00+00:00",
+      "korean_summary": "Inhibrx Biosciences의 OX40 agonist와 Keytruda 병용요법이 중기 임상에서 반응률 2배 향상.\nP2 임상에서 Keytruda 단독 대비 반응률 두 배, Merck의 인수 관심 보도도 병행.\nOX40 agonist 기반 면역항암 병용전략의 임상적 가능성 확인, M&A 가능성 주목.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "면역항암 병용 임상 결과로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 연관성 낮음",
+      "processed_at": "2026-05-11T23:46:30.200110+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Daiichi Sankyo targets global top 5 oncology rank by 2035, $1.3B efficiency drive in new 5-year plan",
+      "link": "https://www.fiercebiotech.com/pharma/daiichi-sankyo-targets-global-top-5-oncology-rank-2035-13b-efficiency-drive-new-5-year-plan",
+      "summary_en": "Daiichi Sankyo aims to transform its antibody-drug conjugate leadership into a top global oncology standing. In a new five-year business plan unveiled Monday, the Japanese pharma outlined a roadmap to become a global top five oncology player by 2035, plus a major $1.3 billion cost optimization initiative.",
+      "published": "2026-05-11T09:40:00+00:00",
+      "korean_summary": "Daiichi Sankyo가 2035년까지 글로벌 상위 5위 종양학 기업 도약을 목표로 하는 5개년 계획 발표.\nADC 리더십을 기반으로 하며, 13억 달러 규모의 비용 최적화 이니셔티브 병행 추진.\nADC 분야 선두 기업의 장기 전략으로, ADC 시장 성장 지속 신호.",
+      "category": "빅파마",
+      "relevance_score": 5,
+      "relevance_reason": "ADC 리더 기업의 전략 발표로 ADC 시장 동향 파악에 참고 가능하나, 기술적 세부 내용 없음",
+      "processed_at": "2026-05-11T23:46:35.501247+00:00"
+    }
+  ],
+  "overall": [
+    "다이이찌 산쿄가 2030년까지 ADC 프랜차이즈로 약 150억 달러 종양학 매출을 목표로 하고, 2035년 글로벌 상위 5위 진입 및 13억 달러 효율화 계획을 발표하며 ADC 중심의 빅파마 종양학 재편이 가속화되고 있음.",
+    "Inhibrx의 OX40-Keytruda 병용요법이 키트루다 단독 대비 종양 축소율에서 우위를 보이며 M&A 기대감과 함께 면역항암제 병용 전략이 임상 현장에서 주목받고 있음.",
+    "CSL이 실적 경고와 함께 50억 달러 규모 손상차손으로 9년 만에 최저 주가를 기록한 반면, Rezdiffra는 월가 기대치를 상회하며 MASH 시장 내 승자와 패자가 뚜렷이 갈리고 있음."
+  ]
+}
