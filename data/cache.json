@@ -453,5 +453,117 @@
     "relevance_score": 2,
     "relevance_reason": "빅파마 M&A 딜이나 사용자 연구 분야(ADC linker, 단백질 설계, 나노의약)와 직접 연관성 없음",
     "processed_at": "2026-05-12T23:51:32.449025+00:00"
+  },
+  "https://endpoints.news/after-an-apparent-cure-a-gene-editing-company-struggles-to-repeat-the-magic/": {
+    "korean_summary": "유전자편집 스타트업 iECURE가 초기 유아 환자에서 유전질환 치료 성공 후 대규모 임상에서 재현성 문제에 직면.\n동일 유전자치료제를 더 많은 환아에 적용한 결과, 초기 성공 결과를 반복하지 못하는 것으로 나타남.\n유전자치료 분야의 소규모 초기 결과와 대규모 임상 간 재현성 격차 문제를 부각.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "유전자치료 임상 재현성 이슈로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련 없음",
+    "processed_at": "2026-05-13T23:48:57.042772+00:00"
+  },
+  "https://endpoints.news/takeda-to-target-4500-jobs-as-incoming-ceo-continues-restructuring/": {
+    "korean_summary": "Takeda가 신임 CEO 체제 하에 약 4,500명(전체 인력의 약 9%) 감원 계획 발표.\n수년간 진행 중인 구조조정의 연장선으로, 다음 회계연도에 걸쳐 시행 예정.\n빅파마 비용 절감 및 파이프라인 집중화 흐름의 일환.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 구조조정 인사 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-13T23:49:01.497013+00:00"
+  },
+  "https://endpoints.news/valneva-to-cut-up-to-15-of-jobs-as-reduced-travel-hits-vaccine-demand/": {
+    "korean_summary": "프랑스 백신 기업 Valneva가 전체 인력의 10~15%를 감원 예정.\n여행 백신 수요 감소로 매출 전망 하향 조정, 주요 시장에서 여행 백신 수요 부진 확인.\n여행 백신 시장 축소 신호, 회사 구조조정 단행.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "여행 백신 기업 구조조정, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-13T23:49:05.694688+00:00"
+  },
+  "https://endpoints.news/abeona-pivots-to-t-cells-astrazenecas-rare-disease-drug-passes-phase-3/": {
+    "korean_summary": "Abeona가 안과 유전자치료 포기 후 고형암 T세포 치료제로 전환, AstraZeneca 희귀질환 약물 P3 통과.\nDuality Biotherapeutics, BioNTech, C4 Therapeutics 등 다수 기업 소식 포함.\n다양한 모달리티 전환 및 희귀질환 임상 결과 혼재된 뉴스 모음.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "세포치료·유전자치료 중심 뉴스로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 거리 있음",
+    "processed_at": "2026-05-13T23:49:10.194810+00:00"
+  },
+  "https://endpoints.news/post-hoc-why-fda-commissioner-marty-makary-was-ousted/": {
+    "korean_summary": "FDA 커미셔너 Marty Makary가 트럼프 대통령에 의해 해임된 배경 분석.\n구체적 정책 갈등 또는 정치적 이유로 임기 중 교체된 것으로 보도됨.\nFDA 리더십 공백이 신약 심사 일정 및 규제 환경에 미칠 영향 주목.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 인사 변동으로 규제 환경 간접 영향 가능하나 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-13T23:49:14.989677+00:00"
+  },
+  "https://endpoints.news/behind-galapagos-transformation-into-lakefront-biotherapeutics/": {
+    "korean_summary": "Galapagos가 Lakefront Biotherapeutics로 리브랜딩하며 미국 시카고 기반으로 전환 중.\n구체적 파이프라인 데이터나 딜 규모는 공개되지 않은 진행 중인 구조 전환 단계.\n유럽 바이오텍의 미국 중심 재편 전략의 사례로 주목.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "기업 리브랜딩/구조 전환 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-13T23:49:19.295912+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/icon-opens-early-phase-research-unit-san-antonio-satellite-clinics-grow-trial-capabilities": {
+    "korean_summary": "글로벌 CRO Icon이 텍사스 샌안토니오에 초기 임상 연구 시설을 신규 개설.\n휴스턴·캔자스 로렌스에 위성 클리닉도 추가, 임상시험 수행 역량 확대 목적.\nCRO 인프라 확장 동향, 임상 서비스 시장 경쟁 심화 반영.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "CRO 시설 확장 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-13T23:49:23.213846+00:00"
+  },
+  "https://endpoints.news/tessera-reveals-strongest-data-yet-for-in-vivo-sickle-cell-therapy/": {
+    "korean_summary": "Tessera Therapeutics가 겸상적혈구병 대상 체내(in vivo) 유전자 편집 치료제의 최신 데이터를 공개.\n정맥 주사 방식으로 투여, 세포 추출·조작 및 항암제 전처치 없이 치료 가능한 접근법.\n기존 ex vivo 세포치료제(Casgevy 등) 대비 접근성·편의성 측면에서 경쟁 가능성 제시.",
+    "category": "모달리티",
+    "relevance_score": 3,
+    "relevance_reason": "in vivo 유전자 편집 치료제로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 연관성 낮음",
+    "processed_at": "2026-05-13T23:49:29.553942+00:00"
+  },
+  "https://endpoints.news/merck-kgaas-clients-are-stockpiling-due-to-iran-war-supporting-guidance-boost/": {
+    "korean_summary": "Merck KGaA가 이란 전쟁 영향으로 고객사들의 실험실 장비 재고 비축 수요 증가를 보고.\n실험실 장비 부문 수요 급증으로 연간 가이던스 상향 조정.\n지정학적 리스크가 바이오/제약 공급망에 미치는 영향을 보여주는 사례.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "실험실 장비 공급망 이슈로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-13T23:49:33.992509+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/1b-novo-deal-and-diabetes-ambitions-undimmed-lexicon-good-shape-go-crazy": {
+    "korean_summary": "Lexicon Pharmaceuticals가 Novo Nordisk와 10억 달러 규모 딜을 체결하며 당뇨 파이프라인 강화.\nCEO Michael Exton이 회사의 개발 및 재무 경로를 '완전히 다른 궤도'로 전환했다고 언급.\n당뇨 치료제 분야에서 빅파마와의 대형 라이선싱 딜로 중소 바이오텍의 생존 전략을 보여주는 사례.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "당뇨 치료제 딜 관련 뉴스로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-05-13T23:49:38.960554+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/fosun-pays-60m-option-aribios-phase-3-alzheimers-asset": {
+    "korean_summary": "Fosun Pharma가 AriBio의 알츠하이머 P3 자산에 대한 옵션 계약 체결, 선불 6천만 달러 지급.\n추가 8천만 달러 지급 시 해당 자산 권리 확장 가능한 구조.\n빅파마의 알츠하이머 후기 임상 자산 확보 경쟁 지속을 보여주는 딜.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "알츠하이머 라이선싱 딜로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-13T23:49:43.115507+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/humacyte-cuts-spending-staff-it-seeks-boost-sluggish-sales-its-shelf-artery-implant": {
+    "korean_summary": "Humacyte가 FDA 승인 획득(2024년 12월) 후 매출 부진으로 대규모 비용 및 인력 감축 단행.\n기성품(off-the-shelf) 동맥 임플란트 제품의 상업화 초기 판매 저조가 원인.\n혁신 의료기기도 FDA 승인 이후 상업화 단계에서 어려움을 겪을 수 있음을 보여주는 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "의료기기 상업화 관련 뉴스로 사용자 연구 분야(나노의약, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-05-13T23:49:48.639887+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/medtronic-shutter-santa-rosa-plant-it-restructures-cardio-vascular-unit": {
+    "korean_summary": "Medtronic이 Santa Rosa 공장을 향후 2년 내 폐쇄하기로 결정.\n해당 시설은 관상동맥 스텐트 등 심혈관 제품 생산 거점이었음.\n심혈관 사업부 구조조정의 일환으로, 제조 거점 재편 신호.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "의료기기 제조 구조조정 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-13T23:49:54.675192+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/valneva-lay-15-workforce-face-adverse-trend-travel-vaccine-uptake": {
+    "korean_summary": "프랑스 백신 개발사 Valneva가 전체 인력의 최대 15%를 감원할 계획 발표.\n여행용 백신 시장의 '부정적 트렌드'를 이유로 비용 절감 조치 시행.\n백신 전문 바이오텍의 구조조정 사례, 사용자 연구 분야와 무관.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "여행 백신 회사 인력 감축, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-13T23:50:01.176649+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/takeda-0-4-against-nausea-and-vomiting-after-axing-another-asset": {
+    "korean_summary": "Takeda가 구역·구토 치료 후보물질 개발을 전략적 이유로 중단.\n해당 영역에서 4번째 실패로, 수년간 지속된 부진 이어짐.\nTakeda의 파이프라인 구조조정 흐름 반영, 해당 치료 영역 개발 난이도 시사.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "구역·구토 치료제 개발 중단 소식으로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-13T23:50:05.699662+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/astrazeneca-pens-agentic-ai-licensing-deal-owkin": {
+    "korean_summary": "AstraZeneca가 Owkin의 자율형 'AI Scientist' 플랫폼 활용을 위한 3년 라이선싱 계약 체결.\n계약 규모 미공개, agentic AI 기반 신약 연구 자동화가 핵심.\n빅파마의 agentic AI 도입 가속화 트렌드를 보여주는 사례.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "AI 신약개발 일반 딜, 사용자 연구 분야(단백질 설계/ADC/나노의약)와 직접 연관성 낮음",
+    "processed_at": "2026-05-13T23:50:10.043245+00:00"
   }
 }
