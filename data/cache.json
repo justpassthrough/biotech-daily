@@ -565,5 +565,124 @@
     "relevance_score": 2,
     "relevance_reason": "AI 신약개발 일반 딜, 사용자 연구 분야(단백질 설계/ADC/나노의약)와 직접 연관성 낮음",
     "processed_at": "2026-05-13T23:50:10.043245+00:00"
+  },
+  "https://endpoints.news/encodeds-gene-therapy-reduced-seizures-in-dravet-syndrome/": {
+    "korean_summary": "Encoded Therapeutics의 유전자 치료제가 Dravet 증후군 소아 환자에서 발작 76% 감소 효과 보고.\n4단계 용량 중 두 번째 높은 용량 투여 환자 3명에서 관찰된 초기 임상 결과.\nDravet 증후군 대상 유전자 치료 분야의 초기 긍정 신호이나 소규모 데이터.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "유전자 치료 임상 결과로 사용자 연구 분야(단백질 전달/ADC)와 거리가 멈",
+    "processed_at": "2026-05-14T23:44:48.569347+00:00"
+  },
+  "https://endpoints.news/asgct-dispatch-in-vivo-car-t-is-everywhere-but-still-preclinical/": {
+    "korean_summary": "ASGCT 연례학회에서 in vivo CAR-T 기술이 주요 화두로 부상.\n유전자·세포치료 분야 전반의 최신 임상·기술 동향이 발표됨.\n유전자의약품 개발사들의 회복 여부가 주목받는 시점.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "CAR-T/유전자치료 학회 동향, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거리 있음",
+    "processed_at": "2026-05-14T23:44:53.104282+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/chutes-ladders-ac-immune-ceo-bids-adieu": {
+    "korean_summary": "AC Immune CEO Andrea Pfeifer 박사가 가족과의 시간을 위해 은퇴 발표.\n이사회 의장 Martin Zügel이 임시 CEO로 대행하며 신임 CEO 탐색 중.\n스위스 신경퇴행 바이오텍의 경영진 교체 소식.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "임원 인사 뉴스로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-14T23:44:57.088951+00:00"
+  },
+  "https://endpoints.news/drugmakers-have-to-go-through-rigorous-tests-to-get-a-lower-tariff-rate/": {
+    "korean_summary": "트럼프 행정부, 제약사에 20% 감면 관세율 적용 조건으로 상무부의 광범위한 서류 제출 및 모니터링 요구.\n행정명령 서명 후 제약사들은 감면 혜택을 받기 위해 엄격한 심사 절차를 통과해야 함.\n미국 내 제약 공급망 및 생산 정책 변화로 글로벌 바이오텍 운영 비용에 영향 가능.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "관세 정책 뉴스로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-05-14T23:45:02.221336+00:00"
+  },
+  "https://endpoints.news/degron-create-tennor-raise-capital-cabaletta-posts-car-t-data/": {
+    "korean_summary": "Degron Therapeutics(분자 글루 분해제), CREATE Biosciences, TenNor 등 복수 바이오텍이 시리즈 A/B 자금 조달 완료.\nDegron은 추가 4천만 달러로 누적 9,500만 달러 확보, Cabaletta Bio는 CAR-T 임상 데이터 발표.\n소규모 바이오텍 펀딩 및 CAR-T 임상 동향 혼합 뉴스.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "분자 글루/CAR-T 중심 뉴스로 ferritin, ADC linker, 단백질 설계 등 사용자 연구 분야와 거리 있음",
+    "processed_at": "2026-05-14T23:45:08.769409+00:00"
+  },
+  "https://endpoints.news/astrazeneca-follows-merck-with-phase-3-win-in-bladder-cancer/": {
+    "korean_summary": "AstraZeneca의 Imfinzi(durvalumab)와 Pfizer/Astellas의 Padcev(enfortumab vedotin) 병용요법이 방광암 P3에서 표준치료 대비 생존 개선 확인.\nAstraZeneca는 해당 병용요법에 대한 허가 신청 계획 발표, Merck의 유사 P3 성공에 이은 두 번째 사례.\n방광암에서 PD-L1 억제제+ADC 병용 전략이 새로운 표준치료로 자리잡는 흐름 가속화.",
+    "category": "임상결과",
+    "relevance_score": 5,
+    "relevance_reason": "Padcev는 ADC 계열 약물로 ADC 임상 적용 사례이나, linker/delivery 기술 신규 내용 없음",
+    "processed_at": "2026-05-14T23:45:14.746259+00:00"
+  },
+  "https://endpoints.news/macrogenics-sells-manufacturing-arm-west-pharma-discloses-cybersecurity-attack/": {
+    "korean_summary": "MacroGenics가 임상·상업용 원료의약품 생산 포트폴리오를 Bora에 1억 2,250만 달러에 매각.\nWest Pharma는 사이버보안 공격 피해를 공시, Bavarian Nordic·OrganaBio CDMO 설립 소식도 포함.\nCDMO 시장 재편 및 제약 제조 아웃소싱 가속화 흐름을 보여주는 복합 뉴스.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "제조·CDMO·사이버보안 관련 뉴스로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-05-14T23:45:19.627131+00:00"
+  },
+  "https://endpoints.news/how-penn-medicine-plans-to-use-ai-to-train-their-doctors/": {
+    "korean_summary": "Penn Medicine이 AI를 활용한 의사 교육 훈련 방안을 모색 중.\n1월 교육 보조금 프로그램을 통해 110만 달러 그랜트 수주.\n의료 교육 분야 AI 도입 사례로, 신약 연구와는 직접 관련 없음.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "의사 교육용 AI 활용 사례로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-14T23:45:23.314590+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/signant-health-buys-ametris-unite-data-streams-clinical-trials": {
+    "korean_summary": "임상시험 기술 기업 Signant Health가 Ametris를 인수하여 디지털 임상 데이터 통합 추진.\n전자 임상결과평가(eCOA)와 웨어러블 기반 디지털 아웃컴 측정을 단일 플랫폼으로 통합.\n임상시험 데이터 수집 효율화 트렌드, 신약개발 연구와는 직접 연관성 낮음.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "임상시험 IT 인프라 M&A로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-14T23:45:28.135699+00:00"
+  },
+  "https://endpoints.news/biogens-anti-tau-alzheimers-drug-misses-phase-2-goal-but-will-move-to-pivotal-study/": {
+    "korean_summary": "Biogen의 tau 타깃 알츠하이머 치료제 BIIB080이 P2 1차 평가변수 미달성.\n18개월 시점 모든 용량에서 임상적 진행 억제 신호 관찰, 2차 지표에서 일부 긍정적 결과.\n1차 평가변수 실패에도 효능 신호 주장, 알츠하이머 임상 해석 논란 지속.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "알츠하이머 tau 타깃 임상 결과, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-14T23:45:32.386339+00:00"
+  },
+  "https://endpoints.news/regenxbio-hits-duchenne-gene-therapy-milestone-eyes-2027-fda-approval/": {
+    "korean_summary": "Regenxbio의 뒤센 근이영양증 유전자치료제가 피벗 임상에서 주요 평가지표 달성.\n2027년 FDA 승인을 목표로 하며, 해당 적응증 두 번째 상업화 기업 진입 노림.\n유전자치료제 경쟁 심화, Duchenne 시장에서의 후발주자 전략 주목.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "유전자치료제 임상 결과로 사용자 연구 분야(단백질 전달, ADC, ferritin)와 거리가 멈",
+    "processed_at": "2026-05-14T23:45:36.983345+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/biopharma-leaders-rally-behind-pazdur-fda-commissioner-pick-does-he-want-role": {
+    "korean_summary": "FDA 커미셔너 Marty Makary 사임 발표 후 바이오파마 업계가 Richard Pazdur를 차기 FDA 수장으로 지지.\nPazdur는 FDA 전 의약품 규제 총괄로 오랜 경력 보유, 트럼프 행정부의 다음 지명 후보로 거론.\nFDA 리더십 공백이 신약 승인 일정 및 규제 환경에 불확실성을 야기할 수 있음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 인사 관련 뉴스로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-14T23:45:42.287458+00:00"
+  },
+  "https://endpoints.news/beones-next-gen-bcl2-inhibitor-wins-fda-approval-taking-aim-at-venclexta/": {
+    "korean_summary": "BeOne Medicines의 차세대 BCL2 억제제 sonrotoclax가 FDA 가속 승인 획득 (적응증: 맨틀세포림프종).\nAbbVie/Roche의 Venclexta(venetoclax)에 도전하는 포지셔닝, 혈액암 전반으로 확장 목표.\nBCL2 억제제 시장 경쟁 심화, 차세대 분자의 임상적 차별화 전략 주목.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "소분자 BCL2 억제제 FDA 승인, 사용자 연구 분야(단백질 전달/ADC/나노의학)와 직접 관련 없음",
+    "processed_at": "2026-05-14T23:45:49.333892+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/create-medicines-fashions-122m-fundraise-vivo-car-t-dreams": {
+    "korean_summary": "Create Medicines가 in vivo CAR-T 파이프라인 개발을 위해 시리즈 B로 1억 2,200만 달러 조달.\n자가면역 및 암 대상 초기 파이프라인 구축에 사용 예정, 구체적 임상 단계 미공개.\nin vivo CAR-T 분야 투자 열기 지속, 경쟁 심화 중.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "in vivo CAR-T 펀딩 뉴스로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거리 있음",
+    "processed_at": "2026-05-14T23:45:54.032591+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/biogen-advances-alzheimers-tau-program-despite-midphase-miss": {
+    "korean_summary": "Biogen과 Ionis의 tau 표적 알츠하이머 후보물질이 P2 1차 평가변수 미달성.\n그러나 tau 병리 감소 및 인지 기능 개선 신호 확인, Biogen은 등록 임상(P3) 진행 결정.\n1차 평가변수 실패에도 불구 개발 지속, 알츠하이머 tau 타깃 전략의 지속 가능성 시사.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "알츠하이머 tau 임상 결과로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-14T23:45:58.934721+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/regenxbio-reaps-pivotal-win-duchenne-muscular-dystrophy-gene-therapy": {
+    "korean_summary": "Regenxbio의 Duchenne 근이영양증 유전자치료제가 피벗 임상 1차 평가변수를 달성.\nFDA 거절 및 임상 보류 등 어려움을 겪은 후 나온 긍정적 피벗 결과.\n유전자치료제 분야에서 규제 난관 극복 사례로 주목.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "유전자치료제 임상 결과로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거리가 멈",
+    "processed_at": "2026-05-14T23:46:03.392888+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/aptose-facing-cash-crunch-exits-blood-cancer-pact-after-hanmi-buyout-blocks-development": {
+    "korean_summary": "Aptose Biosciences가 혈액암 신약 후보 관련 계약을 파기하고 Hanmi Pharmaceutical의 인수 절차를 진행 중.\n현금 부족으로 인해 해당 혈액암 파이프라인 개발이 중단되었으며, Hanmi 인수가 계기가 됨.\nM&A 과정에서 파이프라인 정리가 이루어지는 전형적 사례로, 한미약품의 글로벌 확장 전략 일환.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "혈액암 M&A 딜로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-05-14T23:46:08.773629+00:00"
   }
 }
