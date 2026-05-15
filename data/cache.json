@@ -684,5 +684,180 @@
     "relevance_score": 1,
     "relevance_reason": "혈액암 M&A 딜로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
     "processed_at": "2026-05-14T23:46:08.773629+00:00"
+  },
+  "https://endpoints.news/cder-chief-hoeg-expected-to-leave-fda-according-to-source/": {
+    "korean_summary": "FDA 의약품 심사센터(CDER) 수장 Tracy Beth Høeg가 조만간 FDA를 떠날 것으로 알려짐.\n최근 Commissioner Marty Makary 퇴임에 이은 연속적인 고위직 이탈.\nFDA 리더십 공백이 신약 심사 일정 및 규제 환경에 미칠 영향 주목.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "FDA 인사 이동으로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-15T23:43:56.412411+00:00"
+  },
+  "https://endpoints.news/biopharma-ma-maintains-strength-even-as-large-deals-wane/": {
+    "korean_summary": "빅파마들이 특허 절벽 대응을 위해 다양한 M&A 전략을 구사 중이나, 메가딜은 부재.\n대형 단일 인수보다 중소형 다건 딜 중심으로 M&A 시장 유지되는 추세.\n바이오파마 M&A 전반적 흐름 파악에 참고할 수 있는 산업 동향 분석.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "M&A 일반 동향 분석으로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-15T23:44:00.876917+00:00"
+  },
+  "https://endpoints.news/amgen-expands-crackdown-on-what-it-says-is-misuse-of-340b-program/": {
+    "korean_summary": "Amgen이 340B 연방 의약품 할인 프로그램 관련 약국 데이터 요건을 강화.\n약국의 청구 데이터 제출 의무 확대, 프로그램 남용 및 사기 방지 목적.\n340B 프로그램 규제 강화 흐름, 미국 의약품 유통·가격 정책 이슈.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "미국 의약품 할인 프로그램 정책 이슈, 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-15T23:44:04.847031+00:00"
+  },
+  "https://www.fiercebiotech.com/partner-content/using-digital-technologies-enhance-patient-experience-and-better-manage-supply": {
+    "korean_summary": "약물 전달 기기에 디지털 연결성을 통합하여 환자 경험 향상 및 공급망 관리 개선 방안 논의.\n스마트 기기를 통한 환자 복약 순응도 향상과 공급망 최적화가 핵심 주제.\n디지털 헬스와 약물 전달 기기의 융합 트렌드를 반영하는 산업 동향.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "약물 전달 기기 관련이나 나노의약/단백질 설계와 직접 연관성 없는 디지털 헬스 주제",
+    "processed_at": "2026-05-15T23:44:09.395735+00:00"
+  },
+  "https://www.fiercebiotech.com/partner-content/ensuring-sustainability-throughout-drug-and-device-development": {
+    "korean_summary": "바이오파마 및 약물전달 산업에서 지속가능성을 핵심 원칙·제품·공정에 내재화하는 움직임 소개.\n구체적 수치나 기술적 내용 없이 산업 전반의 ESG/지속가능성 트렌드를 개괄적으로 다룸.\n약물전달 분야 언급이 있으나 연구 관련성은 낮은 일반 산업 동향 기사.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "지속가능성/ESG 일반 논의로 ferritin, ADC, 단백질 설계 등 사용자 연구와 직접 관련 없음",
+    "processed_at": "2026-05-15T23:44:14.223241+00:00"
+  },
+  "https://www.fiercebiotech.com/partner-content/utilizing-ai-facilitate-combination-product-development": {
+    "korean_summary": "제약사들이 복합 제품(combination product) 개발 과정에서 AI/ML을 활용하는 구체적 사례 소개.\n규제 제출, 설계 검증, 임상 데이터 분석 등 개발 단계별 AI 적용 방식 다룸.\n복합 제품 규제 복잡성 완화를 위한 AI 도입 트렌드 반영.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "AI 활용 제약 개발 일반 내용으로, 사용자의 단백질 설계·나노의약 연구와 직접 연관성 낮음",
+    "processed_at": "2026-05-15T23:44:18.790021+00:00"
+  },
+  "https://www.fiercebiotech.com/partner-content/achieving-effective-manufacturing-scaleup-clinical-and-commercial-success": {
+    "korean_summary": "제약사와 제조 파트너 간 협력을 통한 임상·상업화 단계 제조 스케일업 전략 논의.\n스케일업 과정에서의 성장통과 교훈을 중심으로 한 산업 사례 공유.\n제조 역량 확보가 신약 개발 성공의 핵심 변수임을 강조하는 업계 동향.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "제조 스케일업 일반 논의로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 연관성 없음",
+    "processed_at": "2026-05-15T23:44:23.139485+00:00"
+  },
+  "https://www.fiercebiotech.com/partner-content/advances-and-opportunities-dual-chamber-injectables": {
+    "korean_summary": "2025 PODD 컨퍼런스에서 제약 임원 및 약물전달 전문가들이 이중 챔버 주사제 개발 현황을 논의.\n액체/액체 및 액체/동결건조 이중 챔버 시스템의 기술적 진전과 기회를 다룸.\n복합 제형 안정성 및 투여 편의성 향상을 위한 제형 기술 트렌드 반영.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "약물전달 컨퍼런스 내용이나 나노의약품/단백질 설계와 직접 연관성 낮음",
+    "processed_at": "2026-05-15T23:44:27.677485+00:00"
+  },
+  "https://endpoints.news/candel-reports-prostate-cancer-drugs-long-term-data-ahead-of-fda-filing/": {
+    "korean_summary": "Candel Therapeutics가 전립선암 치료제의 장기 추적 데이터를 공개하며 FDA 허가 신청을 준비 중.\n20개월 장기 추적 데이터로 효능 및 안전성 근거 보강, 연내 FDA 마케팅 승인 신청 예정.\n소규모 바이오텍의 종양 치료제 FDA 허가 전략 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "전립선암 유전자치료제 임상 데이터, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-15T23:44:31.540708+00:00"
+  },
+  "https://endpoints.news/post-hoc-live-makarys-out-at-fda-and-what-comes-next/": {
+    "korean_summary": "FDA 커미셔너 Marty Makary가 임기 중 사임.\n후임 및 FDA 정책 방향에 대한 분석 논의 예정.\nFDA 리더십 변화로 규제 환경 불확실성 증가 가능성.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 인사 변동 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-15T23:44:34.971933+00:00"
+  },
+  "https://www.fiercebiotech.com/partner-content/what-strategic-partnership-looks-practice-inside-takeda-basil-collaboration": {
+    "korean_summary": "Basil Clinical Research와 Takeda의 첫 파트너십이 임상 모집 목표를 10배 초과 달성한 사례 소개.\n조기 협업, 포용적 설계, 사전 평가 전략을 통해 글로벌 최다 모집 기관으로 선정.\n임상시험 운영 효율화 사례로, 신약 연구 분야와 직접적 관련성은 낮음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "임상 모집 운영 사례로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-05-15T23:44:39.631383+00:00"
+  },
+  "https://www.fiercebiotech.com/partner-content/eli-lilly-site-enablement-co-designing-solutions-sites": {
+    "korean_summary": "Eli Lilly가 임상시험 기관과 협력하여 현장 중심의 운영 솔루션을 공동 설계한 사례 발표.\n구체적 수치나 파이프라인 데이터 없이 임상 운영 효율화 방법론 중심 내용.\n임상시험 운영 개선 사례로, 신약 개발 연구와 직접적 연관성은 낮음.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "임상시험 운영 방법론 사례로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-15T23:44:44.099085+00:00"
+  },
+  "https://www.fiercebiotech.com/partner-content/building-trust-driven-partnerships-astrazenecas-concierge-approach-accelerating": {
+    "korean_summary": "AstraZeneca가 임상시험 사이트 활성화 및 환자 모집 가속화를 위한 '컨시어지' 협력 모델을 소개.\n사이트 활성화 속도 향상, 모집 성과 개선, 데이터 전달 효율화를 주요 성과로 제시.\n임상운영 효율화 전략으로, 신약개발 연구와 직접적 연관성은 낮음.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "임상시험 운영 전략 관련 내용으로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-15T23:44:48.553691+00:00"
+  },
+  "https://endpoints.news/aardvarks-next-move-after-clinical-hold-alumis-verdict-on-acelyrin-asset/": {
+    "korean_summary": "Aardvark의 희귀질환 임상이 FDA 전면 임상보류(clinical hold) 조치를 받아 언블라인딩 결정.\nAlumin의 Acelyrin 자산 평가, Tenaya의 TN-401, Taiho의 Inqovi 관련 소식도 포함.\n여러 임상 파이프라인의 규제 이슈 및 자산 평가 동향을 다루는 복합 뉴스.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "희귀질환 임상보류 및 자산 평가 뉴스로, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-15T23:44:53.635625+00:00"
+  },
+  "https://www.fiercebiotech.com/partner-content/bridging-access-gaps-sponsor-led-enablement-research-naive-sites-expand-patient": {
+    "korean_summary": "Endo사가 임상시험 경험이 없는 신규 기관을 직접 지원하여 임상 참여 확대를 추진한 사례 공개.\n멘토십, 인프라 지원, 신뢰 구축 등 스폰서 주도의 현장 역량 강화 방식 소개.\n임상시험 접근성 격차 해소를 위한 스폰서-기관 협력 모델의 실제 적용 사례.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "임상시험 운영 및 접근성 관련 내용으로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-15T23:44:58.212263+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/after-makary-departure-cder-chief-tracy-beth-hoeg-headed-out-door-fda-report": {
+    "korean_summary": "FDA 커미셔너 Marty Makary 사임에 이어 CDER 수장 Tracy Beth Høeg도 FDA 퇴임 가능성 보도.\n구체적 후임 인사나 일정은 미정.\nFDA 주요 규제 리더십 공백이 신약 심사 일정에 영향을 줄 수 있음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 인사 동향으로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-15T23:45:02.234454+00:00"
+  },
+  "https://endpoints.news/ma-isnt-just-for-big-pharma-mid-size-companies-are-stepping-up-deal-hunts/": {
+    "korean_summary": "2024~2025년 바이오파마 M&A 시장에서 빅파마 외 중견 제약사들이 주요 인수자로 부상.\n미국 중형 제약사, 가족 소유 그룹, 유럽 재단 운영 기업 등 다양한 주체가 딜 경쟁에 참여.\n빅파마 중심이던 M&A 구도 변화, 중견사들의 파이프라인 확보 전략 가속화.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "M&A 산업 트렌드 일반 기사, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관 없음",
+    "processed_at": "2026-05-15T23:45:07.962606+00:00"
+  },
+  "https://endpoints.news/andrea-pfeifer-ends-23-year-reign-at-ac-immune-acadias-top-rd-exec-announces-retirement/": {
+    "korean_summary": "AC Immune의 창립 CEO Andrea Pfeifer가 23년 만에 퇴임 예정 발표.\nAcadia Pharmaceuticals의 R&D 최고책임자도 은퇴 선언, 동시에 두 바이오텍 리더십 교체.\n바이오텍 경영진 교체 뉴스로 연구 분야와 직접 관련 없음.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "임원 인사 뉴스, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-15T23:45:12.095867+00:00"
+  },
+  "https://endpoints.news/asgct26-a-zillow-like-marketplace-for-abandoned-gene-therapies-goes-live/": {
+    "korean_summary": "ASGCT와 Orphan Therapeutics Accelerator가 포기된 세포·유전자 치료제를 재매칭하는 비영리 플랫폼 출시.\n부동산 플랫폼 Zillow에 비유되는 마켓플레이스로, 개발 중단된 CGT 자산을 새 개발자와 연결.\n희귀질환 CGT 자산의 사장(死藏) 방지 및 재활용 생태계 구축 시도.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "세포·유전자 치료제 자산 재활용 플랫폼으로, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-15T23:45:17.094208+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/novartis-cuts-select-number-roles-biomedical-research-arm": {
+    "korean_summary": "Novartis가 조직 개편 과정에서 바이오메디컬 연구 부문 인력을 추가 감축.\n구체적 규모는 미공개, 최근 수 주간 이어진 인력 통합 조치의 연장선.\n빅파마 R&D 구조조정 흐름 지속, 연구 인력 감축 트렌드 반영.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 인사/구조조정 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-15T23:45:21.349854+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/neurovision-acquires-fellow-dx-player-durin-life-sciences-undisclosed-price": {
+    "korean_summary": "NeuroVision이 알츠하이머 조기 진단 기술 개발사 Durin Life Sciences를 인수.\n인수 금액은 미공개, 두 회사 모두 진단(diagnostics) 분야 기업.\n알츠하이머 조기 진단 시장 내 통합 움직임.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "진단 기기 M&A로 사용자 연구 분야(약물전달, 단백질 설계, ADC)와 무관",
+    "processed_at": "2026-05-15T23:45:25.079478+00:00"
+  },
+  "https://endpoints.news/supreme-court-preserves-mail-access-for-abortion-pill/": {
+    "korean_summary": "미국 대법원이 낙태약 미페프리스톤의 우편 배송 허용을 유지하는 판결.\n현행 안전 프로토콜 유지, 소송 진행 중 잠정 결정.\n낙태약 접근성 관련 법적 분쟁 지속.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "낙태약 정책/법률 이슈, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-15T23:45:28.850920+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/alumis-pulls-back-would-be-rival-amgens-tepezza-after-assessing-prospects": {
+    "korean_summary": "Alumis가 Amgen의 Tepezza(테페자) 경쟁 후보 프로그램의 전략적 대안을 모색 중.\nP3 진입 계획을 포기하고 해당 자산의 매각 또는 파트너링 등 대안을 검토.\n갑상선 안병증(TED) 시장에서 후발 경쟁 진입의 어려움을 보여주는 사례.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "갑상선 안병증 치료제 파이프라인 철수 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-15T23:45:33.774181+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/aardvark-dig-phase-3-data-early-after-fda-imposes-hold": {
+    "korean_summary": "Aardvark Therapeutics가 FDA의 임상 전면 중단(full clinical hold) 조치 이후 P3 데이터 조기 언블라인딩 계획 발표.\nPrader-Willi 증후군 대상 P3 프로그램이 대상이며, 구체적 hold 사유는 미공개.\n임상 hold는 개발 지연 및 프로그램 중단 위험을 높이는 중대 규제 이벤트.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "희귀질환 임상 규제 이슈로, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-15T23:45:38.486431+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/how-model-medicines-creates-creative-models-ai-drug-development": {
+    "korean_summary": "Model Medicines CEO Daniel Haders가 AI 신약개발 전략에 대해 인터뷰 발표.\n'아웃라이어 발굴'을 핵심 전략으로 제시, 구체적 파이프라인/기술 수치는 공개되지 않음.\nAI 신약개발 기업의 차별화 전략 방향성 소개 수준의 기사.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "AI 신약개발 일반 인터뷰, 구체적 기술 내용 없어 연구 분야와 거리 있음",
+    "processed_at": "2026-05-15T23:45:42.674821+00:00"
   }
 }
