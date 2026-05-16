@@ -859,5 +859,12 @@
     "relevance_score": 2,
     "relevance_reason": "AI 신약개발 일반 인터뷰, 구체적 기술 내용 없어 연구 분야와 거리 있음",
     "processed_at": "2026-05-15T23:45:42.674821+00:00"
+  },
+  "https://endpoints.news/makary-resigns-biogen-reports-alzheimers-data-and-more/": {
+    "korean_summary": "FDA 커미셔너 Marty Makary가 사임하고, Biogen이 알츠하이머 관련 데이터를 발표.\n구체적 임상 수치나 딜 규모는 요약에 포함되지 않은 주간 뉴스레터 형식.\n규제 기관 수장 교체는 FDA 승인 환경에 영향을 줄 수 있는 정책 이슈.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 인사 및 알츠하이머 뉴스 요약, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-16T23:40:37.688909+00:00"
   }
 }

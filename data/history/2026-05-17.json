@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-16T23:40:40.676563+00:00",
+  "items": [
+    {
+      "source": "Endpoints News",
+      "title": "Makary resigns; Biogen reports Alzheimer’s data; and more",
+      "link": "https://endpoints.news/makary-resigns-biogen-reports-alzheimers-data-and-more/",
+      "summary_en": "Welcome back to Endpoints Weekly. The biggest news this week was Marty Makary’s resignation from his role as FDA Commissioner. The announcement came days after reports emerged that President Donald Trump had signed off on ...",
+      "published": "2026-05-16T10:00:39+00:00",
+      "korean_summary": "FDA 커미셔너 Marty Makary가 사임하고, Biogen이 알츠하이머 관련 데이터를 발표.\n구체적 임상 수치나 딜 규모는 요약에 포함되지 않은 주간 뉴스레터 형식.\n규제 기관 수장 교체는 FDA 승인 환경에 영향을 줄 수 있는 정책 이슈.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "FDA 인사 및 알츠하이머 뉴스 요약, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-05-16T23:40:37.688909+00:00"
+    }
+  ],
+  "overall": [
+    "제공된 뉴스가 1건(1점/기타)으로 너무 적고 관련성 점수도 낮아 3개의 구체적 산업 흐름을 도출하기에 충분한 데이터가 없습니다. 더 많은 뉴스 항목을 제공해 주시면 정확히 분석해 드리겠습니다."
+  ]
+}
