@@ -1,0 +1,191 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-21T23:51:25.646056+00:00",
+  "items": [
+    {
+      "source": "Endpoints News",
+      "title": "#ASCO26: Merck partner Kelun outlines Phase 3 lung cancer success in China study",
+      "link": "https://endpoints.news/asco26-merck-partner-kelun-outlines-phase-3-lung-cancer-success-in-china-study/",
+      "summary_en": "Merck partner Kelun-Biotech fleshed out a Phase 3 win in lung cancer from a study in China for the experimental antibody-drug conjugate sac-TMT, raising hopes that the benefit could translate to Western patients. Patients who ...",
+      "published": "2026-05-21T21:00:25+00:00",
+      "korean_summary": "Merck 파트너 Kelun-Biotech가 ASCO 2026에서 ADC sac-TMT의 폐암 P3 중국 임상 성공 데이터 공개.\n중국 환자 대상 P3에서 유의미한 효능 확인, 서구 환자 적용 가능성 기대.\nADC의 폐암 적응증 확장 및 글로벌 전환 가능성 측면에서 주목할 임상 결과.",
+      "category": "임상결과",
+      "relevance_score": 6,
+      "relevance_reason": "ADC 임상 P3 결과로 ADC 분야 직접 관련, 단 linker 기술 등 세부 메커니즘 언급 없어 점수 제한",
+      "processed_at": "2026-05-21T23:50:10.481345+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "#ASCO26: Key head and neck cancer readouts from J&J, Corbus, Summit, Akero and Bicara",
+      "link": "https://endpoints.news/asco26-key-head-and-neck-cancer-readouts-from-jj-corbus-summit-akero-and-bicara/",
+      "summary_en": "Head and neck cancer has always been a tough nut to crack. These tumors can suppress immune responses through multiple pathways, meaning blocking one of those usually isn’t enough. Merck’s Keytruda is approved for head ...",
+      "published": "2026-05-21T21:00:20+00:00",
+      "korean_summary": "ASCO 2026에서 두경부암 대상 J&J, Corbus, Summit, Akero, Bicara 등 다수 기업의 임상 데이터 발표.\nKeytruda 기반 치료 한계 극복을 위한 다중 면역억제 경로 차단 전략이 핵심 주제.\n두경부암 면역치료 병용요법 경쟁 심화, 단일 checkpoint 억제 한계 극복 시도 지속.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "두경부암 면역항암제 임상 결과, 사용자 연구 분야(나노케이지/ADC/단백질 설계)와 직접 연관성 없음",
+      "processed_at": "2026-05-21T23:50:15.867182+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "#ASCO26: New data released for VEGF bispecifics from BioNTech-BMS, Pfizer-3SBio",
+      "link": "https://endpoints.news/new-data-released-for-vegf-bispecifics-from-biontech-bms-pfizer-3sbio/",
+      "summary_en": "Much of the attention heading into the annual ASCO meeting next week has focused on Summit Therapeutics and Akeso’s plenary presentation for their bispecific drug ivonescimab. But two of ivonescimab’s biggest competitors are also releasing ...",
+      "published": "2026-05-21T21:00:09+00:00",
+      "korean_summary": "ASCO 2026에서 BioNTech-BMS 및 Pfizer-3SBio의 VEGF 이중항체 신규 데이터 공개 예정.\nivonescimab(Summit/Akeso)의 경쟁 약물들로, VEGF 타깃 이중특이성 항체 임상 데이터 비교 주목.\nVEGF 이중항체 경쟁 심화, 항체 엔지니어링 분야의 임상 트렌드 파악에 참고.",
+      "category": "임상결과",
+      "relevance_score": 3,
+      "relevance_reason": "이중항체 임상 데이터로 항체 분야 관련이나 사용자 핵심 연구(ferritin, ADC linker, de novo design)와 직접 연관성 낮음",
+      "processed_at": "2026-05-21T23:50:21.087041+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "How a group of biotechs ran a covert campaign to push out the FDA commissioner",
+      "link": "https://endpoints.news/how-a-group-of-biotechs-ran-a-covert-campaign-to-push-out-the-fda-commissioner/",
+      "summary_en": "Biohaven CEO Vlad Coric finally had the attention of the FDA, and most importantly, Commissioner Marty Makary. In late April, after the company’s spinocerebellar ataxia drug had been rejected last year, Coric had won a ...",
+      "published": "2026-05-21T18:26:01+00:00",
+      "korean_summary": "일부 바이오테크 CEO들이 FDA 커미셔너 Marty Makary 축출을 위한 비밀 캠페인을 진행했다는 내용.\nBiohaven CEO 등이 주도, 자사 신약 승인 거부 이후 FDA 리더십 교체 시도.\nFDA 규제 환경의 정치적 불안정성을 보여주는 사례로 업계 전반에 영향.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "FDA 정치/인사 이슈로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-05-21T23:50:25.607889+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Chutes & Ladders—Former FDA leader takes new biotech Turn",
+      "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-former-fda-leader-takes-new-biotech-turn",
+      "summary_en": "Stephen Hahn, M.D., who served as the commissioner of the FDA for just over a year during the first Trump administration, is taking his extensive regulatory expertise to Turn Therapeutics. As executive clinical and regulatory lead, Hahn will guide the regulatory strategy for GX-03, Turn’s topical eczema treatment that is currently in a phase 2 study.",
+      "published": "2026-05-21T16:56:00+00:00",
+      "korean_summary": "전 FDA 국장 Stephen Hahn이 Turn Therapeutics의 임상·규제 총괄로 합류.\nTurn의 아토피 피부염 치료제 GX-03(현재 P2 진행 중) 규제 전략 담당 예정.\n전직 FDA 수장의 바이오텍 이직, 규제 전략 강화 트렌드의 일환.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "임원 인사 및 규제 전략 뉴스, 사용자 연구 분야와 무관",
+      "processed_at": "2026-05-21T23:50:29.809135+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "China’s drugmakers to take the stage at #ASCO26",
+      "link": "https://endpoints.news/chinas-drugmakers-to-take-the-stage-at-asco26/",
+      "summary_en": "It’s no secret that Akeso’s presentation will be one of the most closely watched readouts from the American Society of Clinical Oncology annual meeting this year. Slated for May 31, HARMONi-6 marks the first plenary ...",
+      "published": "2026-05-21T15:39:53+00:00",
+      "korean_summary": "중국 제약사들이 ASCO 2026에서 주요 발표를 예고, Akeso의 HARMONi-6 데이터가 핵심 관심사.\n5월 31일 플레너리 세션 발표 예정, 중국 바이오텍의 글로벌 임상 존재감 확대.\n중국발 항암제 파이프라인의 글로벌 경쟁력 가시화 신호.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "항암 임상 결과 발표 예고, 사용자 연구 분야(ferritin/ADC/단백질 설계)와 직접 관련 없음",
+      "processed_at": "2026-05-21T23:50:34.635191+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "BioMarin to seek further approval of Voxzogo in form of short stature",
+      "link": "https://endpoints.news/biomarin-to-seek-further-approval-of-voxzogo-in-form-of-short-stature/",
+      "summary_en": "BioMarin Pharmaceutical will seek expanded approval for its bone growth-stimulating drug Voxzogo after the shot improved growth speed in children with a form of short stature, the company said Wednesday. The ...",
+      "published": "2026-05-21T14:31:00+00:00",
+      "korean_summary": "BioMarin이 골 성장 촉진제 Voxzogo의 적응증 확대 승인을 추진할 계획 발표.\n단신증(short stature) 소아 환자에서 성장 속도 개선 효과 확인 후 추가 적응증 신청 예정.\n희귀 성장 질환 치료제 시장 확대 시도, 기존 연골무형성증 적응증 외 영역 진출.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "골 성장 촉진제 적응증 확대, 사용자 연구 분야와 무관",
+      "processed_at": "2026-05-21T23:50:39.010129+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Incyte signs AI deals with Genesis Molecular AI, Edison Scientific",
+      "link": "https://endpoints.news/incyte-signs-ai-deals-with-genesis-molecular-ai-edison-scientific/",
+      "summary_en": "Over a 35-year history, Incyte has grown into a $19 billion biopharma company. The Delaware-based drugmaker is now turning to AI to power through the coming decades.",
+      "published": "2026-05-21T14:22:03+00:00",
+      "korean_summary": "Incyte가 Genesis Molecular AI, Edison Scientific과 AI 기반 신약개발 파트너십 체결.\n딜 규모 및 구체적 기술 세부사항은 공개되지 않음; Incyte는 시가총액 약 190억 달러 규모 바이오파마.\n빅파마의 AI 신약개발 도입 가속화 흐름의 일환.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "AI 신약개발 딜이나 단백질 설계/ADC/나노의약 등 사용자 연구 분야와 직접 연관성 없음",
+      "processed_at": "2026-05-21T23:50:43.734410+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "ASCO: Merck, Kelun's sac-TMT ADC combo beats Keytruda by 65% on progression in first-line lung cancer",
+      "link": "https://www.fiercebiotech.com/pharma/merck-kelun-sac-tmt-adc-combo-beats-keytruda-65-progression-first-line-lung-cancer",
+      "summary_en": "According to an abstract released ahead of the ASCO 2026 annual meeting, combining the TROP2-directed ADC with Keytruda slashed the risk of disease progression or death by a whopping 65% compared with Keytruda alone in treatment-naïve, PD-L1-positive non-small cell lung cancer.",
+      "published": "2026-05-21T13:10:00+00:00",
+      "korean_summary": "Merck·Kelun의 TROP2 ADC(sac-TMT)와 Keytruda 병용이 1차 치료 NSCLC에서 Keytruda 단독 대비 질병 진행·사망 위험 65% 감소.\nASCO 2026 사전 공개 초록 기준, PD-L1 양성 치료 경험 없는 NSCLC 환자 대상 결과.\nADC+면역항암제 병용 전략이 1차 치료 표준요법을 대체할 가능성을 보여주는 임상 신호.",
+      "category": "임상결과",
+      "relevance_score": 6,
+      "relevance_reason": "TROP2 ADC 임상 결과로 ADC 분야 직접 관련, linker/payload 기술보다는 임상 효능 데이터 중심",
+      "processed_at": "2026-05-21T23:50:50.988212+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "BMS eyes new campus in Texas; Novartis looks to evict tenant at Slovenian campus",
+      "link": "https://endpoints.news/bms-eyes-new-campus-in-texas-novartis-looks-to-evict-tenant-at-slovenian-campus/",
+      "summary_en": "Plus, news about Gilead and West Pharma: 🏭Bristol Myers Squibb looks to Texas: The drugmaker is considering building a new pharma campus in Generation Park Management District in Houston, TX, which ...",
+      "published": "2026-05-21T13:02:14+00:00",
+      "korean_summary": "BMS가 텍사스 휴스턴 Generation Park에 신규 제약 캠퍼스 건설을 검토 중.\nNovartis는 슬로베니아 캠퍼스 임차인 퇴거 추진, Gilead·West Pharma 관련 소식도 포함.\n빅파마의 생산 인프라 재편 동향을 보여주는 시설 관련 뉴스.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "제약사 시설/부동산 관련 뉴스로 사용자 연구 분야와 무관",
+      "processed_at": "2026-05-21T23:50:55.309440+00:00"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Lilly’s triple agonist still leads among late-stage obesity assets",
+      "link": "https://endpoints.news/lillys-triple-agonist-still-leads-among-late-stage-obesity-assets/",
+      "summary_en": "Many developers of obesity drugs are fond of saying that it’s not a competition to produce the strongest and fastest level of weight loss. They had better hope they’re right, because if it is a ...",
+      "published": "2026-05-21T10:45:31+00:00",
+      "korean_summary": "Lilly의 triple agonist(retatrutide)가 후기 임상 비만 파이프라인 중 효능 선두 유지.\n체중감소 속도·폭 기준으로 경쟁 자산 대비 우위 지속, 시장 경쟁 심화.\nGLP-1 이후 차세대 비만치료제 경쟁에서 효능 차별화가 핵심 변수로 부상.",
+      "category": "빅파마",
+      "relevance_score": 2,
+      "relevance_reason": "비만 치료제 경쟁 동향, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-05-21T23:50:59.608506+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Lilly’s triple-G drug helps patients lose roughly a quarter of weight, showcasing competitive profile",
+      "link": "https://www.fiercebiotech.com/biotech/eli-lillys-triple-g-drug-drives-deep-weight-loss-phase-3-obesity-trial",
+      "summary_en": "As Eli Lilly looks to hold its lead in the lucrative obesity market, the company’s next-gen prospect, the triple-G drug retatrutide, has met the primary endpoint for weight loss in another pivotal study. Though the results show competitive efficacy and tolerability, they may leave some observers slightly underwhelmed based on high expectations.",
+      "published": "2026-05-21T08:20:00+00:00",
+      "korean_summary": "Eli Lilly의 차세대 비만치료제 retatrutide(triple-G)가 추가 피벗 연구에서 1차 평가변수 달성.\n체중감소 약 25% 수준으로 경쟁력 있는 효능·내약성 확인, 단 시장 기대치 대비 다소 미흡 평가.\nGLP-1 이후 비만치료제 경쟁 심화 속 Lilly의 차세대 파이프라인 포지셔닝 확인.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "비만치료제 임상 결과로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 관련 없음",
+      "processed_at": "2026-05-21T23:51:04.603166+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Struggling Liminatus pays $320M in stock for CAR-T biotech InnocsAI",
+      "link": "https://www.fiercebiotech.com/biotech/struggling-liminatus-pays-320m-stock-car-t-biotech-innocs-ai",
+      "summary_en": "Cancer immunotherapy company Liminatus Pharma has agreed to pay out shares worth $320 million to buy CAR-T biotech InnocsAI.",
+      "published": "2026-05-21T05:21:00+00:00",
+      "korean_summary": "Liminatus Pharma가 CAR-T 바이오테크 InnocsAI를 주식 3.2억 달러에 인수 합의.\n현금 아닌 주식 지급 방식, Liminatus는 재정적 어려움을 겪고 있는 상황.\nCAR-T 분야 M&A 지속, 재정 압박 기업의 주식 딜 구조 사례.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "CAR-T 세포치료제 M&A로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련 없음",
+      "processed_at": "2026-05-21T23:51:09.341742+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Infex, following in Insmed’s footsteps, advances lung disease candidate after clearing phase 2a",
+      "link": "https://www.fiercebiotech.com/biotech/infex-following-insmeds-footsteps-advances-lung-disease-candidate-after-clearing-phase-2a",
+      "summary_en": "Infex Therapeutics is pushing ahead with development of a non-cystic fibrosis bronchiectasis drug candidate after posting phase 2a data, advancing efforts to add to the options for treating patients who recently gained access to Insmed’s Brinsupri.",
+      "published": "2026-05-21T04:30:00+00:00",
+      "korean_summary": "Infex Therapeutics가 비낭포성 섬유증 기관지확장증(NCFB) 치료제 후보물질의 P2a 데이터 발표 후 개발 진행.\nInsmed의 Brinsupri(최근 승인) 이후 두 번째 치료 옵션 확보를 목표로 함.\nNCFB 치료제 시장 경쟁 초기 단계, 희귀 폐질환 분야 파이프라인 확장 신호.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "폐질환 임상 결과로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+      "processed_at": "2026-05-21T23:51:14.386757+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Betting on biotech: Prediction markets set sights on clinical trials",
+      "link": "https://www.fiercebiotech.com/biotech/betting-biotech-prediction-markets-set-sights-clinical-trials",
+      "summary_en": "Several biotech contracts are rotating through Kalshi and Polymarket, while a prediction market specifically focused on clinical trials has recently launched.",
+      "published": "2026-05-21T04:14:00+00:00",
+      "korean_summary": "Kalshi, Polymarket 등 예측 시장 플랫폼에서 바이오테크 임상시험 관련 계약 상품이 등장.\n임상시험 결과에 특화된 예측 시장도 최근 새롭게 출시됨.\n임상 결과의 금융화 트렌드, 바이오테크 투자 정보 비대칭 해소 가능성 논의.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "예측 시장/금융 트렌드 뉴스로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-05-21T23:51:18.672920+00:00"
+    }
+  ],
+  "overall": [
+    "Merck·Kelun의 ADC 'sac-TMT'가 1차 폐암 치료에서 Keytruda 대비 무진행생존 65% 개선을 ASCO에서 발표하며 ADC 병용요법이 면역항암제를 압도하는 임상 결과 제시",
+    "Lilly의 삼중 작용제(triple agonist)가 체중 약 25% 감량 데이터로 후기 비만 파이프라인 선두를 유지하는 가운데, 비만·대사 분야 경쟁 구도가 재확인됨",
+    "Liminatus가 CAR-T 바이오텍 InnocsAI를 3억 2천만 달러 규모 주식 거래로 인수하고, Incyte는 Genesis Molecular AI·Edison Scientific과 AI 딜을 체결하며 AI 기반 M&A·파트너십 활동 가속화"
+  ]
+}

@@ -1216,5 +1216,110 @@
     "relevance_score": 5,
     "relevance_reason": "ADC 관련 기업의 IPO/파트너십 동향, 직접 기술 내용보다는 시장 신호 수준",
     "processed_at": "2026-05-21T00:01:51.400180+00:00"
+  },
+  "https://endpoints.news/asco26-merck-partner-kelun-outlines-phase-3-lung-cancer-success-in-china-study/": {
+    "korean_summary": "Merck 파트너 Kelun-Biotech가 ASCO 2026에서 ADC sac-TMT의 폐암 P3 중국 임상 성공 데이터 공개.\n중국 환자 대상 P3에서 유의미한 효능 확인, 서구 환자 적용 가능성 기대.\nADC의 폐암 적응증 확장 및 글로벌 전환 가능성 측면에서 주목할 임상 결과.",
+    "category": "임상결과",
+    "relevance_score": 6,
+    "relevance_reason": "ADC 임상 P3 결과로 ADC 분야 직접 관련, 단 linker 기술 등 세부 메커니즘 언급 없어 점수 제한",
+    "processed_at": "2026-05-21T23:50:10.481345+00:00"
+  },
+  "https://endpoints.news/asco26-key-head-and-neck-cancer-readouts-from-jj-corbus-summit-akero-and-bicara/": {
+    "korean_summary": "ASCO 2026에서 두경부암 대상 J&J, Corbus, Summit, Akero, Bicara 등 다수 기업의 임상 데이터 발표.\nKeytruda 기반 치료 한계 극복을 위한 다중 면역억제 경로 차단 전략이 핵심 주제.\n두경부암 면역치료 병용요법 경쟁 심화, 단일 checkpoint 억제 한계 극복 시도 지속.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "두경부암 면역항암제 임상 결과, 사용자 연구 분야(나노케이지/ADC/단백질 설계)와 직접 연관성 없음",
+    "processed_at": "2026-05-21T23:50:15.867182+00:00"
+  },
+  "https://endpoints.news/new-data-released-for-vegf-bispecifics-from-biontech-bms-pfizer-3sbio/": {
+    "korean_summary": "ASCO 2026에서 BioNTech-BMS 및 Pfizer-3SBio의 VEGF 이중항체 신규 데이터 공개 예정.\nivonescimab(Summit/Akeso)의 경쟁 약물들로, VEGF 타깃 이중특이성 항체 임상 데이터 비교 주목.\nVEGF 이중항체 경쟁 심화, 항체 엔지니어링 분야의 임상 트렌드 파악에 참고.",
+    "category": "임상결과",
+    "relevance_score": 3,
+    "relevance_reason": "이중항체 임상 데이터로 항체 분야 관련이나 사용자 핵심 연구(ferritin, ADC linker, de novo design)와 직접 연관성 낮음",
+    "processed_at": "2026-05-21T23:50:21.087041+00:00"
+  },
+  "https://endpoints.news/how-a-group-of-biotechs-ran-a-covert-campaign-to-push-out-the-fda-commissioner/": {
+    "korean_summary": "일부 바이오테크 CEO들이 FDA 커미셔너 Marty Makary 축출을 위한 비밀 캠페인을 진행했다는 내용.\nBiohaven CEO 등이 주도, 자사 신약 승인 거부 이후 FDA 리더십 교체 시도.\nFDA 규제 환경의 정치적 불안정성을 보여주는 사례로 업계 전반에 영향.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 정치/인사 이슈로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-21T23:50:25.607889+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/chutes-ladders-former-fda-leader-takes-new-biotech-turn": {
+    "korean_summary": "전 FDA 국장 Stephen Hahn이 Turn Therapeutics의 임상·규제 총괄로 합류.\nTurn의 아토피 피부염 치료제 GX-03(현재 P2 진행 중) 규제 전략 담당 예정.\n전직 FDA 수장의 바이오텍 이직, 규제 전략 강화 트렌드의 일환.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "임원 인사 및 규제 전략 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-21T23:50:29.809135+00:00"
+  },
+  "https://endpoints.news/chinas-drugmakers-to-take-the-stage-at-asco26/": {
+    "korean_summary": "중국 제약사들이 ASCO 2026에서 주요 발표를 예고, Akeso의 HARMONi-6 데이터가 핵심 관심사.\n5월 31일 플레너리 세션 발표 예정, 중국 바이오텍의 글로벌 임상 존재감 확대.\n중국발 항암제 파이프라인의 글로벌 경쟁력 가시화 신호.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "항암 임상 결과 발표 예고, 사용자 연구 분야(ferritin/ADC/단백질 설계)와 직접 관련 없음",
+    "processed_at": "2026-05-21T23:50:34.635191+00:00"
+  },
+  "https://endpoints.news/biomarin-to-seek-further-approval-of-voxzogo-in-form-of-short-stature/": {
+    "korean_summary": "BioMarin이 골 성장 촉진제 Voxzogo의 적응증 확대 승인을 추진할 계획 발표.\n단신증(short stature) 소아 환자에서 성장 속도 개선 효과 확인 후 추가 적응증 신청 예정.\n희귀 성장 질환 치료제 시장 확대 시도, 기존 연골무형성증 적응증 외 영역 진출.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "골 성장 촉진제 적응증 확대, 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-21T23:50:39.010129+00:00"
+  },
+  "https://endpoints.news/incyte-signs-ai-deals-with-genesis-molecular-ai-edison-scientific/": {
+    "korean_summary": "Incyte가 Genesis Molecular AI, Edison Scientific과 AI 기반 신약개발 파트너십 체결.\n딜 규모 및 구체적 기술 세부사항은 공개되지 않음; Incyte는 시가총액 약 190억 달러 규모 바이오파마.\n빅파마의 AI 신약개발 도입 가속화 흐름의 일환.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "AI 신약개발 딜이나 단백질 설계/ADC/나노의약 등 사용자 연구 분야와 직접 연관성 없음",
+    "processed_at": "2026-05-21T23:50:43.734410+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/merck-kelun-sac-tmt-adc-combo-beats-keytruda-65-progression-first-line-lung-cancer": {
+    "korean_summary": "Merck·Kelun의 TROP2 ADC(sac-TMT)와 Keytruda 병용이 1차 치료 NSCLC에서 Keytruda 단독 대비 질병 진행·사망 위험 65% 감소.\nASCO 2026 사전 공개 초록 기준, PD-L1 양성 치료 경험 없는 NSCLC 환자 대상 결과.\nADC+면역항암제 병용 전략이 1차 치료 표준요법을 대체할 가능성을 보여주는 임상 신호.",
+    "category": "임상결과",
+    "relevance_score": 6,
+    "relevance_reason": "TROP2 ADC 임상 결과로 ADC 분야 직접 관련, linker/payload 기술보다는 임상 효능 데이터 중심",
+    "processed_at": "2026-05-21T23:50:50.988212+00:00"
+  },
+  "https://endpoints.news/bms-eyes-new-campus-in-texas-novartis-looks-to-evict-tenant-at-slovenian-campus/": {
+    "korean_summary": "BMS가 텍사스 휴스턴 Generation Park에 신규 제약 캠퍼스 건설을 검토 중.\nNovartis는 슬로베니아 캠퍼스 임차인 퇴거 추진, Gilead·West Pharma 관련 소식도 포함.\n빅파마의 생산 인프라 재편 동향을 보여주는 시설 관련 뉴스.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "제약사 시설/부동산 관련 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-21T23:50:55.309440+00:00"
+  },
+  "https://endpoints.news/lillys-triple-agonist-still-leads-among-late-stage-obesity-assets/": {
+    "korean_summary": "Lilly의 triple agonist(retatrutide)가 후기 임상 비만 파이프라인 중 효능 선두 유지.\n체중감소 속도·폭 기준으로 경쟁 자산 대비 우위 지속, 시장 경쟁 심화.\nGLP-1 이후 차세대 비만치료제 경쟁에서 효능 차별화가 핵심 변수로 부상.",
+    "category": "빅파마",
+    "relevance_score": 2,
+    "relevance_reason": "비만 치료제 경쟁 동향, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-21T23:50:59.608506+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/eli-lillys-triple-g-drug-drives-deep-weight-loss-phase-3-obesity-trial": {
+    "korean_summary": "Eli Lilly의 차세대 비만치료제 retatrutide(triple-G)가 추가 피벗 연구에서 1차 평가변수 달성.\n체중감소 약 25% 수준으로 경쟁력 있는 효능·내약성 확인, 단 시장 기대치 대비 다소 미흡 평가.\nGLP-1 이후 비만치료제 경쟁 심화 속 Lilly의 차세대 파이프라인 포지셔닝 확인.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "비만치료제 임상 결과로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-05-21T23:51:04.603166+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/struggling-liminatus-pays-320m-stock-car-t-biotech-innocs-ai": {
+    "korean_summary": "Liminatus Pharma가 CAR-T 바이오테크 InnocsAI를 주식 3.2억 달러에 인수 합의.\n현금 아닌 주식 지급 방식, Liminatus는 재정적 어려움을 겪고 있는 상황.\nCAR-T 분야 M&A 지속, 재정 압박 기업의 주식 딜 구조 사례.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "CAR-T 세포치료제 M&A로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련 없음",
+    "processed_at": "2026-05-21T23:51:09.341742+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/infex-following-insmeds-footsteps-advances-lung-disease-candidate-after-clearing-phase-2a": {
+    "korean_summary": "Infex Therapeutics가 비낭포성 섬유증 기관지확장증(NCFB) 치료제 후보물질의 P2a 데이터 발표 후 개발 진행.\nInsmed의 Brinsupri(최근 승인) 이후 두 번째 치료 옵션 확보를 목표로 함.\nNCFB 치료제 시장 경쟁 초기 단계, 희귀 폐질환 분야 파이프라인 확장 신호.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "폐질환 임상 결과로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-05-21T23:51:14.386757+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/betting-biotech-prediction-markets-set-sights-clinical-trials": {
+    "korean_summary": "Kalshi, Polymarket 등 예측 시장 플랫폼에서 바이오테크 임상시험 관련 계약 상품이 등장.\n임상시험 결과에 특화된 예측 시장도 최근 새롭게 출시됨.\n임상 결과의 금융화 트렌드, 바이오테크 투자 정보 비대칭 해소 가능성 논의.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "예측 시장/금융 트렌드 뉴스로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-21T23:51:18.672920+00:00"
   }
 }
