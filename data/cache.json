@@ -1090,5 +1090,131 @@
     "relevance_score": 1,
     "relevance_reason": "파킨슨병 디지털 바이오마커 임상, 사용자 연구 분야와 무관",
     "processed_at": "2026-05-19T23:54:27.799973+00:00"
+  },
+  "https://endpoints.news/ii-biotech-campfield-attracts-top-tier-investors-in-180m-series-a/": {
+    "korean_summary": "염증·면역 분야 신약 개발 스타트업 cAMPfield Therapeutics가 시리즈 A로 1억 8천만 달러 조달.\n타사 라이선스 기반 I&I 파이프라인을 보유한 샌디에이고 신생 바이오텍, 주요 투자자 참여.\n염증·면역 분야 초기 바이오텍에 대한 대규모 자금 유입 트렌드 지속.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "I&I 분야 펀딩 뉴스로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련 없음",
+    "processed_at": "2026-05-21T00:00:28.571343+00:00"
+  },
+  "https://endpoints.news/the-next-big-pharma-company-will-come-from-china/": {
+    "korean_summary": "FT 바이오파마 서밋에서 중국 최초의 진정한 다국적 제약사 등장 시점에 대한 논의 진행.\n발표자는 약 5년 내 중국 빅파마 탄생을 예측하며 구체적 후보 기업 언급.\n중국 제약산업의 글로벌 확장 가속화 트렌드를 반영한 산업 전망.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "중국 제약산업 거시 전망으로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련 없음",
+    "processed_at": "2026-05-21T00:00:33.534277+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/us-taps-small-san-diego-biotech-experimental-ebola-treatment-epidemic-worsens": {
+    "korean_summary": "미국 정부가 악화되는 에볼라 유행에 대응해 샌디에이고 소재 소규모 바이오텍의 실험적 항체 치료제 공급 계약 체결.\n중앙아프리카 에볼라 발병 악화 상황에서 연방정부가 해당 항체 도입 결정, 구체적 딜 규모는 미공개.\n감염병 대응 목적의 항체 치료제 긴급 조달 사례로, 바이오텍 산업의 공공보건 역할 부각.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "항체 치료제 관련이나 에볼라 감염병 대응 맥락으로 사용자 연구 분야와 거리가 멂",
+    "processed_at": "2026-05-21T00:00:39.555566+00:00"
+  },
+  "https://endpoints.news/driven-by-glp-1s-pharmas-relationship-with-consumers-is-starting-to-change/": {
+    "korean_summary": "GLP-1 비만치료제 붐이 제약사와 소비자 간 직접 소통 채널 확대를 이끌고 있음.\n소비자의 자비 부담 의향이 DTC(Direct-to-Consumer) 채널 성장의 주요 동인으로 작용.\n제약 산업의 소비자화(consumerization) 트렌드 가속, 마케팅·유통 전략 변화 신호.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "GLP-1 시장 트렌드 및 제약 유통 변화, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-05-21T00:00:44.173398+00:00"
+  },
+  "https://endpoints.news/pfizers-next-gen-pneumonia-shot-beats-prevnar-20-relay-raises-175m/": {
+    "korean_summary": "Pfizer의 25가 폐렴구균 백신 후보(PF-07872412)가 P2에서 기존 Prevnar 20 대비 serotype 3 항체가 우위.\nRelay Therapeutics는 1억 7,500만 달러 자금조달 추진.\n폐렴구균 백신 경쟁 심화 및 소규모 바이오텍 자금조달 동향.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "백신 임상 및 펀딩 뉴스로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 무관",
+    "processed_at": "2026-05-21T00:00:49.531447+00:00"
+  },
+  "https://endpoints.news/fetal-gene-therapys-progress-calls-into-question-the-taboo-on-embryo-editing/": {
+    "korean_summary": "태아 유전자 치료의 발전이 인간 배아 유전자 편집 금기에 대한 재논의를 촉발.\n일부 과학자들이 배아 편집 허용 시점에 대한 비공개 논의를 시작하고 있음.\n윤리·규제 측면의 논쟁으로, 직접적 기술 진보보다는 정책 담론 수준.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "배아 편집 윤리 논쟁으로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-05-21T00:00:54.585436+00:00"
+  },
+  "https://www.fiercebiotech.com/finance/gho-capital-cbc-group-plan-merge-forming-21b-healthcare-investment-firm": {
+    "korean_summary": "런던 기반 GHO Capital과 싱가포르 기반 CBC Group이 합병 계획 발표.\n합병 후 운용자산 210억 달러 이상, 헬스케어 전문 최대 투자사 표방.\n헬스케어 투자 섹터 대형화 흐름, 바이오테크 자금 환경에 간접적 영향.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "헬스케어 투자사 합병으로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-21T00:00:58.384568+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/qiagen-links-chip-giant-nvidia-propel-ai-use-drug-discovery": {
+    "korean_summary": "Qiagen(네덜란드 진단기업)이 Nvidia와 AI 신약개발 협력 체결.\n연구자들의 AI 활용 역량 강화를 목표로 하며, 구체적 딜 규모나 기술 세부사항은 미공개.\nAI-진단-신약개발 연계 생태계 확장 흐름의 일환.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "AI 신약개발 일반 협력, 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 연관성 낮음",
+    "processed_at": "2026-05-21T00:01:02.754673+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/busy-lilly-closes-202m-deal-preclinical-dna-delivery-biotech-engage": {
+    "korean_summary": "Eli Lilly가 비바이러스성 DNA 전달 시스템 개발 바이오텍 Engage를 2억 200만 달러에 인수 계약 체결.\nEngage는 전임상 단계로, 기존 바이러스 벡터의 한계를 극복하는 non-viral DNA delivery 플랫폼 보유.\nLilly의 연속적 M&A 행보 중 하나로, 차세대 유전자 전달 기술 확보 경쟁 심화를 반영.",
+    "category": "M&A",
+    "relevance_score": 5,
+    "relevance_reason": "non-viral DNA delivery는 nanomedicine/drug delivery 인접 영역이나 ferritin·ADC·단백질 설계와 직접 연관성은 낮음",
+    "processed_at": "2026-05-21T00:01:08.153570+00:00"
+  },
+  "https://endpoints.news/parabilis-reveals-ipo-plans-the-day-after-regeneron-deal-as-listings-heat-up/": {
+    "korean_summary": "Parabilis Medicines가 Regeneron 딜 체결 다음날 IPO 계획을 공개.\nGreg Verdine의 하버드 연구실 출신 '난치성 타깃' 전문 바이오텍으로, 2025년 12번째 IPO 추진.\n바이오텍 IPO 시장 회복세를 보여주는 사례로, 구체적 기술 내용은 미공개.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "IPO 및 자금조달 뉴스로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-21T00:01:12.955499+00:00"
+  },
+  "https://endpoints.news/gho-capital-cbc-group-to-merge-forming-what-could-be-the-largest-healthcare-specialist-investor/": {
+    "korean_summary": "유럽 헬스케어 투자사 GHO Capital과 CBC Group이 합병 발표.\n합병 후 운용자산 210억 달러 이상으로 헬스케어 전문 투자사 중 최대 규모 예상.\n헬스케어 섹터 대형 자본 통합 흐름, 바이오테크 투자 환경에 간접적 영향.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "헬스케어 투자사 합병으로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-21T00:01:17.090660+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/30m-launch-oorja-bio-breathes-new-life-south-korean-fibrosis-candidate": {
+    "korean_summary": "Oorja Bio가 3,000만 달러 시드 펀딩으로 출범, 한국에서 도입한 IPF(특발성 폐섬유증) 후보물질 개발 착수.\n한국 기원의 신규 메커니즘 기반 IPF 치료제를 in-license하여 휴스턴에서 임상 개발 추진.\nIPF는 미충족 의료 수요가 높은 분야로, 한국 바이오텍 기술의 글로벌 기술이전 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "IPF 신규 바이오텍 펀딩으로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련 없음",
+    "processed_at": "2026-05-21T00:01:23.081501+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/bristol-myers-taps-anthropic-claude-enterprise-wide-ai-adoption-speed-drug-rd-global": {
+    "korean_summary": "BMS가 Anthropic의 Claude AI를 전사적 '공유 지능 플랫폼'으로 도입하는 대규모 협약 체결.\n글로벌 R&D 및 운영 워크플로우 전반에 Claude 배포, 구체적 계약 규모는 미공개.\n빅파마의 범용 AI 도입 가속화 트렌드, 신약개발 효율화 목적.",
+    "category": "빅파마",
+    "relevance_score": 2,
+    "relevance_reason": "빅파마 AI 도입 일반 뉴스, 사용자 연구 분야(단백질 설계·ADC·나노의약)와 직접 연관성 낮음",
+    "processed_at": "2026-05-21T00:01:28.020575+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/incyte-pays-genesis-80m-expand-ai-fueled-drug-discovery-pact": {
+    "korean_summary": "Incyte가 Genesis Therapeutics에 8천만 달러를 선불로 지급하며 AI 신약개발 파트너십 확대.\nGenesis의 AI 플랫폼을 더 넓은 타깃 범위에 적용하는 계약 확장이 핵심.\nAI 기반 신약개발 플랫폼의 빅파마 채택 가속화 트렌드를 보여주는 딜.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "AI 신약개발 딜이나 단백질 설계/ADC/나노의약 등 사용자 연구 분야와 직접 연관성 낮음",
+    "processed_at": "2026-05-21T00:01:32.733173+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/labcorp-joins-lab-results-personalisation-push-mylabcorp-ai-app": {
+    "korean_summary": "Labcorp가 환자용 AI 앱 'MyLabcorp'를 출시하여 검사 결과 개인화 서비스 제공.\n2026년 medtech 트렌드로 AI 기반 검사 결과 해석 앱·챗봇이 부상 중.\nLab 결과 해석 자동화 시장 확대, 진단 분야 AI 적용 가속화.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "진단 AI 앱 관련 뉴스로 사용자 연구 분야(약물전달, 단백질 설계, ADC)와 무관",
+    "processed_at": "2026-05-21T00:01:37.081652+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/endologix-acquires-thrombectomy-system-surmodics-expand-offerings": {
+    "korean_summary": "Endologix가 Surmodics로부터 기계적 혈전제거(thrombectomy) 시스템을 인수.\n딜 규모 미공개, 혈관질환 치료 포트폴리오 확장 목적.\n메드텍 분야 혈관 치료 기기 M&A 사례.",
+    "category": "M&A",
+    "relevance_score": 0,
+    "relevance_reason": "혈관 기기 M&A로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-05-21T00:01:42.105416+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/immunovant-pays-out-39m-call-time-fcrn-inhibitor-after-eye-disease-fails": {
+    "korean_summary": "Immunovant이 1세대 FcRn 억제제 batoclimab을 공식 폐기, 3900만 달러 지급.\n안과 질환 대상 P3 임상 2건 실패 후 한 달 만에 자산 종료 결정.\nFcRn 억제제 계열 내 적응증 선택 중요성 부각, 경쟁사 대비 차별화 실패 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "FcRn 억제제 임상 실패 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-21T00:01:46.809202+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/parabilis-fresh-inking-regeneron-pact-plans-ipo-fund-tumor-drugs-phase-3-push": {
+    "korean_summary": "Parabilis Medicines가 Regeneron과 ADC 방식 딜 체결 직후 IPO를 추진 발표.\n조달 자금은 주력 종양 치료제의 P3 임상 진행에 사용 예정.\nADC 분야 기업의 연속적 자금조달 전략(파트너십+IPO)을 보여주는 사례.",
+    "category": "기타",
+    "relevance_score": 5,
+    "relevance_reason": "ADC 관련 기업의 IPO/파트너십 동향, 직접 기술 내용보다는 시장 신호 수준",
+    "processed_at": "2026-05-21T00:01:51.400180+00:00"
   }
 }
