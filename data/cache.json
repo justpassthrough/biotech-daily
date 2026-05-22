@@ -1321,5 +1321,110 @@
     "relevance_score": 1,
     "relevance_reason": "예측 시장/금융 트렌드 뉴스로 사용자 연구 분야와 직접 관련 없음",
     "processed_at": "2026-05-21T23:51:18.672920+00:00"
+  },
+  "https://endpoints.news/fda-clears-gileads-hepatitis-d-drug-four-years-after-prior-rejection/": {
+    "korean_summary": "Gilead의 만성 B형/D형 간염 치료제 Hepcludex(bulevirtide)가 FDA 승인 획득.\n4년 전 제조·유통 문제로 거부된 후 재심사 끝에 최종 허가.\n희귀 바이러스성 간질환 치료 옵션 확대, Gilead 간질환 포트폴리오 강화.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "간염 치료제 FDA 승인, 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-22T23:56:49.872800+00:00"
+  },
+  "https://endpoints.news/gop-lawmaker-asks-trump-administration-to-curb-china-biotech-deals/": {
+    "korean_summary": "공화당 의원이 트럼프 행정부에 중국 바이오테크 분야 투자 제한을 요청.\n미국 투자사 및 대형 제약사의 중국 바이오테크 딜에 대한 규제 강화 촉구.\n미중 바이오테크 협력 및 딜 환경에 불확실성 증가 가능성.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "정책/규제 뉴스로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-22T23:56:54.089043+00:00"
+  },
+  "https://endpoints.news/astrazeneca-wins-eu-backing-for-breast-cancer-drug-splitting-with-fda-panel/": {
+    "korean_summary": "AstraZeneca 유방암 신약이 EU 규제기관으로부터 긍정적 의견을 획득.\nFDA 자문위원회는 지난달 반대 의견을 낸 상황으로, EU와 FDA 간 규제 판단 엇갈림.\n동일 약물에 대한 미-EU 규제 불일치 사례로, 글로벌 승인 전략의 복잡성을 시사.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "유방암 약물 규제 승인 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-22T23:56:59.207680+00:00"
+  },
+  "https://endpoints.news/how-utahs-ai-prescribing-experiment-is-going-so-far/": {
+    "korean_summary": "유타주가 만성질환 환자 대상 AI 처방 갱신 프로그램의 초기 데이터를 공개.\nDoctronic이 12월 중순부터 처방 자동 갱신을 운영 중이며, 구체적 수치는 제한적으로 공개됨.\nAI 기반 임상 자동화의 규제·실증 사례로, 의료 AI 정책 동향 참고 가능.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "AI 처방 자동화 정책 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-22T23:57:04.207053+00:00"
+  },
+  "https://endpoints.news/fda-grants-daiichi-sankyo-and-astrazenecas-datroway-a-key-breast-cancer-approval/": {
+    "korean_summary": "FDA가 Daiichi Sankyo·AstraZeneca의 TROP2 표적 ADC Datroway를 삼중음성유방암(TNBC) 1차 치료제로 승인.\n이번이 Datroway의 세 번째 FDA 승인이며, 동일 TROP2 타깃 경쟁사 Gilead 대비 우위 확보.\nTROP2 ADC 시장 경쟁 심화 속 Daiichi Sankyo의 ADC 플랫폼 가치 재확인.",
+    "category": "임상결과",
+    "relevance_score": 7,
+    "relevance_reason": "TROP2 표적 ADC FDA 승인, ADC 모달리티 직접 관련 임상 성과",
+    "processed_at": "2026-05-22T23:57:09.499341+00:00"
+  },
+  "https://endpoints.news/tender-offer-for-recordati-sobis-gout-drug-passes-phase-3-test/": {
+    "korean_summary": "CVC Capital Partners와 GBL이 이탈리아 제약사 Recordati에 대한 공개매수(tender offer) 개시.\nSobi의 통풍 치료제가 P3 임상 통과, Immunovant 및 Retro Biosciences 관련 소식도 포함.\n다양한 기업 M&A 및 임상 결과 혼합 뉴스로, 사용자 연구 분야와 직접 연관성 낮음.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "M&A 및 통풍 임상 결과 뉴스로 ferritin, ADC, 단백질 설계 등 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-22T23:57:18.169949+00:00"
+  },
+  "https://endpoints.news/why-one-health-ai-unicorn-is-giving-away-its-service-for-free/": {
+    "korean_summary": "헬스 AI 유니콘 기업이 경쟁 심화 속 서비스 무료 제공 전략을 채택.\n시장 점유율 확보를 위한 무료 모델로 대규모 사용자 기반 구축 시도.\n헬스테크 경쟁 심화에 따른 비즈니스 모델 변화 사례.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "헬스 AI 비즈니스 전략 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-22T23:57:22.747416+00:00"
+  },
+  "https://endpoints.news/novartis-says-aviditys-science-could-apply-beyond-muscular-dystrophies/": {
+    "korean_summary": "Novartis가 120억 달러에 인수한 Avidity Biosciences의 기술을 근이영양증 이외 질환으로 확장 검토 중.\nAvidity의 핵심 기술은 항체-올리고뉴클레오타이드 결합(AOC) 플랫폼으로, 표적 조직 특이적 RNA 치료제 전달 가능.\nAOC 플랫폼의 적응증 확장 가능성이 빅파마 인수 후 전략적 가치 극대화 방향으로 주목.",
+    "category": "빅파마",
+    "relevance_score": 5,
+    "relevance_reason": "항체-올리고뉴클레오타이드 컨주게이트 플랫폼으로 ADC/약물전달 인접 기술, 간접 참고 가치",
+    "processed_at": "2026-05-22T23:57:29.144681+00:00"
+  },
+  "https://endpoints.news/biogen-denali-to-drop-drug-in-non-genetic-parkinsons-after-mid-stage-study-flop/": {
+    "korean_summary": "Biogen과 Denali Therapeutics의 LRRK2 억제제 BIIB122가 초기 파킨슨병 P2b 임상에서 실패.\n비유전성 파킨슨 환자 대상 프로그램 중단 결정, 소분자 약물의 1차 평가변수 미달.\nLRRK2 억제 전략의 한계 확인, 파킨슨 신약 개발 난이도 재확인.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "파킨슨 소분자 임상 실패, 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-22T23:57:33.801505+00:00"
+  },
+  "https://endpoints.news/ibrance-heirs-gileads-tubulis-data-and-more-at-asco26/": {
+    "korean_summary": "ASCO 2026 초록 공개, VEGF 이중항체 경쟁 및 TROP2 ADC 등 주요 데이터 발표.\nMerck/Kelun-Biotech의 TROP2 ADC(sac-TMT), Gilead Tubulis ADC 데이터 포함 다수 임상 결과 공개.\nADC 분야 주요 임상 데이터가 집중 공개되어 linker·payload 기술 경쟁 현황 파악 가능.",
+    "category": "임상결과",
+    "relevance_score": 6,
+    "relevance_reason": "ADC 임상 데이터 다수 포함, linker 기술 관련 간접 정보 제공",
+    "processed_at": "2026-05-22T23:57:40.150171+00:00"
+  },
+  "https://endpoints.news/amgen-cfo-to-follow-david-reese-into-retirement-sanofi-lines-up-a-neurology-leader/": {
+    "korean_summary": "Amgen CFO Peter Griffith가 9월 1일부로 은퇴, Thomas Dittrich가 후임 CFO로 복귀.\nZai Lab의 Josh Smiley도 퇴임, 두 빅파마/바이오텍의 고위 임원 교체 소식.\n임원 인사 변동으로 연구 분야와 직접 관련 없음.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "임원 인사 뉴스, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-22T23:57:44.436999+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/bioage-ceo-talks-nlrp3-and-pipeline-pill-ambitions": {
+    "korean_summary": "BioAge CEO Kristen Fortney가 노화 생물학과 NLRP3 억제제 전략에 대해 인터뷰.\n경구용 NLRP3 억제제를 다수 질환에 적용 가능한 'pipeline in a pill' 전략으로 제시.\n노화·염증 타깃 소분자 치료제 접근법, 사용자 연구 분야와 직접 연관성 낮음.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "NLRP3 억제제 관련 CEO 인터뷰로, 나노의약/단백질 설계 연구와 거리가 멈",
+    "processed_at": "2026-05-22T23:57:49.451690+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/has-novartis-t-charge-been-overtaken-vivo-car-ts-execs-argue-theres-room-both": {
+    "korean_summary": "Novartis의 T-Charge 플랫폼이 in vivo CAR-T 기술 부상으로 경쟁 압박을 받고 있음.\nT-Charge는 4년 전 도입된 ex vivo CAR-T 제조 단축 플랫폼으로, in vivo CAR-T와 공존 가능성 논의 중.\nCAR-T 분야의 기술 경쟁 심화, ex vivo vs in vivo 패러다임 전환 가속화 신호.",
+    "category": "모달리티",
+    "relevance_score": 2,
+    "relevance_reason": "CAR-T 세포치료제 관련, 사용자 연구 분야(단백질 설계/나노의약)와 거리 있음",
+    "processed_at": "2026-05-22T23:57:54.730898+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ose-turns-heat-ovarian-cancer-phase-2-keytruda-supported-win": {
+    "korean_summary": "OSE Immunotherapeutics가 난소암 대상 neo-epitope 백신 후보와 Keytruda 병용 P2 데이터 발표.\n유지요법으로 사용 시 최선 지지요법(BSC) 대비 임상적 개선 확인.\n암 백신+면역관문억제제 병용 전략의 임상 근거 축적 사례.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "암 백신 임상 결과로, 사용자 연구 분야(나노케이지/ADC/단백질 설계)와 직접 연관성 없음",
+    "processed_at": "2026-05-22T23:58:00.568258+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/biogen-axes-denali-partnered-parkinsons-prospect-after-phase-2-flop": {
+    "korean_summary": "Biogen과 Denali Therapeutics의 파킨슨병 후보물질이 P2b 임상에서 1차 평가변수 미달.\n특발성 파킨슨병 적응증에서의 개발을 양사가 공식 중단 결정.\n파킨슨병 치료제 개발의 높은 실패율을 재확인하는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "파킨슨병 P2b 실패 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-22T23:58:05.116238+00:00"
   }
 }
