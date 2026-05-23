@@ -1426,5 +1426,12 @@
     "relevance_score": 1,
     "relevance_reason": "파킨슨병 P2b 실패 뉴스, 사용자 연구 분야와 무관",
     "processed_at": "2026-05-22T23:58:05.116238+00:00"
+  },
+  "https://endpoints.news/inside-makarys-ouster-another-win-for-lillys-triple-g-and-more/": {
+    "korean_summary": "Endpoints Weekly 뉴스레터 주간 요약본으로, Makary 관련 동향 및 Lilly triple-G 임상 결과 등 다수 헤드라인 포함.\n구체적 데이터나 단일 주제 없이 여러 뉴스를 묶은 편집자 큐레이션 형식.\n개별 기사의 세부 내용 없이 요약만 제공되어 분석 가치 제한적.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "뉴스레터 메타 요약본으로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-23T23:46:33.172246+00:00"
   }
 }
