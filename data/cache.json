@@ -1475,5 +1475,54 @@
     "relevance_score": 1,
     "relevance_reason": "Astellas 전략 뉴스로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련 없음",
     "processed_at": "2026-05-26T23:56:51.916267+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/kordata-dynamics-launches-neural-focused-ai-clinical-trial-model": {
+    "korean_summary": "Kordata Dynamics가 신경 데이터 처리 기반 AI 임상시험 실행 플랫폼으로 스텔스 모드에서 공개 출범.\nFDA의 실시간 임상시험 추진 흐름을 활용한 신경 중심 임상 모델 구축이 핵심.\n임상 운영 효율화 AI 스타트업 등장, 신경과학 분야 임상 데이터 처리에 특화.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "AI 임상시험 플랫폼으로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-05-27T23:54:08.335291+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/dd-sees-fibrosis-improvements-mash-resolution-after-rolling-dice-glp-1-drug": {
+    "korean_summary": "한국 바이오텍 D&D Pharmatech가 GLP-1/glucagon 이중 수용체 작용제의 MASH 및 간 섬유화 개선 데이터 발표.\n간 섬유화 개선 및 MASH resolution 확인, Novo Nordisk Wegovy가 선점한 시장에 도전.\n한국 바이오텍의 GLP-1 기반 대사질환 치료제 개발 경쟁 참여 신호.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "GLP-1 대사질환 임상 결과로 사용자 연구 분야(단백질 전달, ADC, ferritin)와 거리가 멀다",
+    "processed_at": "2026-05-27T23:54:13.534307+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/apogee-bags-13b-royalty-funding-deal-push-eczema-challenger-phase-3": {
+    "korean_summary": "Apogee Therapeutics가 Blackstone Life Sciences로부터 최대 13억 달러 로열티 기반 파이낸싱 확보.\n항IL-13 항체의 아토피 피부염 적응증 P3 진입을 위한 자금 조달이 목적.\n로열티 파이낸싱 구조로 빅파마 없이 P3 진입하는 바이오텍 전략 사례.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "항체 치료제 관련이나 사용자 연구 분야(ADC linker, 단백질 설계, 나노의약)와 직접 연관성 낮음",
+    "processed_at": "2026-05-27T23:54:19.104965+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/dexcom-warns-stolen-glucose-monitors-being-sold-unauthorized-dealers": {
+    "korean_summary": "Dexcom이 G7 연속혈당측정기 일부 로트가 폐기 운송 중 도난되어 비공인 판매업자를 통해 유통되고 있다고 경고.\n도난된 기기는 폐기 예정 제품으로, 제3자 판매업자를 통해 시장에 유입된 것으로 확인.\n의료기기 공급망 보안 및 소비자 안전 이슈를 부각시키는 사례.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "의료기기 공급망 도난 사건으로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-27T23:54:24.719997+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/insulet-issues-voluntary-correction-omnipod-devices-leaky-insulin-fault": {
+    "korean_summary": "Insulet社가 Omnipod 인슐린 펌프 기기에 대해 자발적 의료기기 시정 조치 공지 발송.\n제조 결함으로 인슐린 누출 및 불완전 투여 가능성이 원인.\n당뇨 기기 품질 이슈로, 사용자 연구 분야와 무관한 의료기기 리콜 사안.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "인슐린 펌프 기기 결함 이슈로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-27T23:54:29.101904+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/kardigan-itching-ipo-fund-late-stage-cardiovascular-pipeline": {
+    "korean_summary": "심혈관 질환 중심 바이오텍 Kardigan이 창립 1년 만에 IPO를 검토 중.\n후기 임상 파이프라인 자금 조달을 위한 공개시장 진출 타진 단계.\n심혈관 분야 바이오텍의 자금조달 동향 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "심혈관 바이오텍 IPO 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-05-27T23:54:33.162923+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/fda-delays-ruling-astrazenecas-breast-cancer-drug-after-negative-adcomm-vote": {
+    "korean_summary": "FDA가 AstraZeneca의 유방암 치료제 camizestrant 승인 결정을 연기.\n자문위원회(adcomm)의 부정적 투표 이후 추가 분석 자료 검토를 위해 결정 보류.\nFDA adcomm 부결 후 승인 지연 사례로, 규제 리스크 측면에서 참고 가능.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "유방암 신약 FDA 심사 지연 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-27T23:54:37.796043+00:00"
   }
 }

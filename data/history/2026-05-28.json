@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-27T23:54:45.835901+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Kordata Dynamics launches with neural-focused AI clinical trial model",
+      "link": "https://www.fiercebiotech.com/cro/kordata-dynamics-launches-neural-focused-ai-clinical-trial-model",
+      "summary_en": "Kordata Dynamics is emerging from stealth with the aim to redefine clinical trial execution by processing neural data while taking advantage of the FDA’s recent push for real-time clinical trials.",
+      "published": "2026-05-27T11:19:00+00:00",
+      "korean_summary": "Kordata Dynamics가 신경 데이터 처리 기반 AI 임상시험 실행 플랫폼으로 스텔스 모드에서 공개 출범.\nFDA의 실시간 임상시험 추진 흐름을 활용한 신경 중심 임상 모델 구축이 핵심.\n임상 운영 효율화 AI 스타트업 등장, 신경과학 분야 임상 데이터 처리에 특화.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "AI 임상시험 플랫폼으로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+      "processed_at": "2026-05-27T23:54:08.335291+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "D&D sees fibrosis improvements, MASH resolution after rolling dice on GLP-1 drug",
+      "link": "https://www.fiercebiotech.com/biotech/dd-sees-fibrosis-improvements-mash-resolution-after-rolling-dice-glp-1-drug",
+      "summary_en": "D&D Pharmatech has linked its GLP-1/glucagon receptor agonist to improvements in liver health, keeping the Korean biotech in the hunt for a market already served by Novo Nordisk’s Wegovy.",
+      "published": "2026-05-27T10:02:00+00:00",
+      "korean_summary": "한국 바이오텍 D&D Pharmatech가 GLP-1/glucagon 이중 수용체 작용제의 MASH 및 간 섬유화 개선 데이터 발표.\n간 섬유화 개선 및 MASH resolution 확인, Novo Nordisk Wegovy가 선점한 시장에 도전.\n한국 바이오텍의 GLP-1 기반 대사질환 치료제 개발 경쟁 참여 신호.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "GLP-1 대사질환 임상 결과로 사용자 연구 분야(단백질 전달, ADC, ferritin)와 거리가 멀다",
+      "processed_at": "2026-05-27T23:54:13.534307+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Apogee bags $1.3B Blackstone royalty funding deal to push eczema challenger into phase 3",
+      "link": "https://www.fiercebiotech.com/biotech/apogee-bags-13b-royalty-funding-deal-push-eczema-challenger-phase-3",
+      "summary_en": "Apogee Therapeutics has secured a promise of up to $1.3 billion in financing from Blackstone Life Sciences as the biotech gears up to take its anti-IL-13 antibody into phase 3.",
+      "published": "2026-05-27T08:27:00+00:00",
+      "korean_summary": "Apogee Therapeutics가 Blackstone Life Sciences로부터 최대 13억 달러 로열티 기반 파이낸싱 확보.\n항IL-13 항체의 아토피 피부염 적응증 P3 진입을 위한 자금 조달이 목적.\n로열티 파이낸싱 구조로 빅파마 없이 P3 진입하는 바이오텍 전략 사례.",
+      "category": "기타",
+      "relevance_score": 2,
+      "relevance_reason": "항체 치료제 관련이나 사용자 연구 분야(ADC linker, 단백질 설계, 나노의약)와 직접 연관성 낮음",
+      "processed_at": "2026-05-27T23:54:19.104965+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Dexcom warns of stolen glucose monitors being sold by unauthorized dealers",
+      "link": "https://www.fiercebiotech.com/medtech/dexcom-warns-stolen-glucose-monitors-being-sold-unauthorized-dealers",
+      "summary_en": "Dexcom warned that some lots of its G7 wearable glucose monitors were stolen on their way to the scrapyard and were sold by a third-party vendor.",
+      "published": "2026-05-27T07:27:00+00:00",
+      "korean_summary": "Dexcom이 G7 연속혈당측정기 일부 로트가 폐기 운송 중 도난되어 비공인 판매업자를 통해 유통되고 있다고 경고.\n도난된 기기는 폐기 예정 제품으로, 제3자 판매업자를 통해 시장에 유입된 것으로 확인.\n의료기기 공급망 보안 및 소비자 안전 이슈를 부각시키는 사례.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "의료기기 공급망 도난 사건으로 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-05-27T23:54:24.719997+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Insulet issues voluntary correction for Omnipod devices in leaky insulin fault",
+      "link": "https://www.fiercebiotech.com/medtech/insulet-issues-voluntary-correction-omnipod-devices-leaky-insulin-fault",
+      "summary_en": "Insulet has sent out a voluntary medical device correction notice for a series of its Omnipod devices amid a manufacturing fault that could lead to insulin leaking and not being fully delivered.",
+      "published": "2026-05-27T05:34:00+00:00",
+      "korean_summary": "Insulet社가 Omnipod 인슐린 펌프 기기에 대해 자발적 의료기기 시정 조치 공지 발송.\n제조 결함으로 인슐린 누출 및 불완전 투여 가능성이 원인.\n당뇨 기기 품질 이슈로, 사용자 연구 분야와 무관한 의료기기 리콜 사안.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "인슐린 펌프 기기 결함 이슈로 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-05-27T23:54:29.101904+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Kardigan itching for IPO to fund late-stage cardiovascular pipeline",
+      "link": "https://www.fiercebiotech.com/biotech/kardigan-itching-ipo-fund-late-stage-cardiovascular-pipeline",
+      "summary_en": "Kardigan may have only launched last year, but it seems the cardiovascular-focused biotech is already eyeing the public markets.",
+      "published": "2026-05-27T04:59:00+00:00",
+      "korean_summary": "심혈관 질환 중심 바이오텍 Kardigan이 창립 1년 만에 IPO를 검토 중.\n후기 임상 파이프라인 자금 조달을 위한 공개시장 진출 타진 단계.\n심혈관 분야 바이오텍의 자금조달 동향 사례.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "심혈관 바이오텍 IPO 뉴스, 사용자 연구 분야와 무관",
+      "processed_at": "2026-05-27T23:54:33.162923+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote",
+      "link": "https://www.fiercebiotech.com/biotech/fda-delays-ruling-astrazenecas-breast-cancer-drug-after-negative-adcomm-vote",
+      "summary_en": "The FDA has delayed a decision on the approval of AstraZeneca’s camizestrant, deferring its ruling to review analyses filed after an advisory committee voted against the breast cancer prospect.",
+      "published": "2026-05-27T04:43:00+00:00",
+      "korean_summary": "FDA가 AstraZeneca의 유방암 치료제 camizestrant 승인 결정을 연기.\n자문위원회(adcomm)의 부정적 투표 이후 추가 분석 자료 검토를 위해 결정 보류.\nFDA adcomm 부결 후 승인 지연 사례로, 규제 리스크 측면에서 참고 가능.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "유방암 신약 FDA 심사 지연 뉴스, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-05-27T23:54:37.796043+00:00"
+    }
+  ],
+  "overall": [
+    "Apogee Therapeutics가 Blackstone으로부터 13억 달러 규모의 로열티 펀딩을 확보해 아토피 피부염 치료제의 3상 임상을 추진하며, 비희석 방식의 대형 바이오텍 자금조달 모델이 주목받고 있음",
+    "D&D Pharmatech의 GLP-1 계열 약물이 MASH 환자에서 섬유화 개선 및 MASH 해소 효과를 임상에서 입증하며 GLP-1의 대사질환 적응증 확장 흐름이 지속되고 있음",
+    "AstraZeneca의 유방암 신약이 자문위원회 부정적 의견에 이어 FDA 심사까지 지연되며 종양학 분야 규제 허들이 높아지는 반면, Kardigan은 IPO를 통해 심혈관 후기 임상 파이프라인 자금 확보에 나서는 등 자본시장 접근 시도는 계속되고 있음"
+  ]
+}
