@@ -1524,5 +1524,33 @@
     "relevance_score": 1,
     "relevance_reason": "유방암 신약 FDA 심사 지연 뉴스, 사용자 연구 분야와 직접 관련 없음",
     "processed_at": "2026-05-27T23:54:37.796043+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/fda-extends-berens-rare-disease-review-after-info-request-further-stretching-saga": {
+    "korean_summary": "FDA가 Beren Therapeutics의 희귀질환 신약 후보에 대한 심사를 추가 정보 요청으로 연장.\n구체적 딜 규모나 임상 수치는 공개되지 않았으며, 미국 시장 진입이 추가 지연.\n희귀질환 신약의 FDA 심사 불확실성을 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 심사 지연 뉴스로, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-05-29T00:01:20.786371+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/icon-ends-internal-accounting-investigation-finds-overstated-revenue": {
+    "korean_summary": "아일랜드 CRO 기업 Icon이 내부 회계 조사를 마무리하고 2023~2024년 재무제표를 재작성.\n과거 연도 매출이 과대계상된 것으로 확인, 연결 재무제표 수정 발표.\nCRO 업계 회계 신뢰성 이슈, 임상 아웃소싱 시장 신뢰도에 영향 가능.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "CRO 회계 이슈로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-29T00:01:26.140878+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/hoth-therapeutics-pivot-ai-space-sees-stock-price-rocket-after-rebrand": {
+    "korean_summary": "Hoth Therapeutics가 AI 우주 사업으로 피벗 후 사명 변경 및 주가 2배 급등.\n구체적 기술·임상 데이터 없이 테마성 리브랜딩으로 투자자 반응 유도.\n실질적 바이오 파이프라인과 무관한 투기적 주가 움직임 사례.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "AI 우주 피벗 테마 주가 뉴스, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-05-29T00:01:30.858590+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/human-longevity-launches-newco-teams-insilico-ai-powered-longevity-research": {
+    "korean_summary": "Human Longevity가 AI 기반 장수 연구를 위한 신규 법인 Human Life Foundation Models(HLFM)를 설립.\nInsilico Medicine과 협력하여 게놈·생물학 데이터 기반 수명 연장 AI 모델 개발 추진.\n장수 연구와 AI 신약개발의 교차점, 직접적 기술 혁신보다는 플랫폼 구축 단계.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "장수·게노믹스 AI 연구로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 거리가 멈",
+    "processed_at": "2026-05-29T00:01:35.745906+00:00"
   }
 }

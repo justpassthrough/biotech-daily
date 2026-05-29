@@ -1,0 +1,59 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T00:01:39.970526+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "FDA extends Beren’s rare disease review after info request, further stretching saga",
+      "link": "https://www.fiercebiotech.com/biotech/fda-extends-berens-rare-disease-review-after-info-request-further-stretching-saga",
+      "summary_en": "The FDA has delayed its approval decision on Beren Therapeutics’ rare disease drug candidate, extending the asset’s long path toward the U.S. market.",
+      "published": "2026-05-28T10:45:00+00:00",
+      "korean_summary": "FDA가 Beren Therapeutics의 희귀질환 신약 후보에 대한 심사를 추가 정보 요청으로 연장.\n구체적 딜 규모나 임상 수치는 공개되지 않았으며, 미국 시장 진입이 추가 지연.\n희귀질환 신약의 FDA 심사 불확실성을 보여주는 사례.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "FDA 심사 지연 뉴스로, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-05-29T00:01:20.786371+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Icon ends internal accounting investigation, finds it overstated revenue in prior years",
+      "link": "https://www.fiercebiotech.com/cro/icon-ends-internal-accounting-investigation-finds-overstated-revenue",
+      "summary_en": "Irish CRO Icon has concluded its investigation into its accounting practices and restated its consolidated financials for 2023 and 2024.",
+      "published": "2026-05-28T10:14:00+00:00",
+      "korean_summary": "아일랜드 CRO 기업 Icon이 내부 회계 조사를 마무리하고 2023~2024년 재무제표를 재작성.\n과거 연도 매출이 과대계상된 것으로 확인, 연결 재무제표 수정 발표.\nCRO 업계 회계 신뢰성 이슈, 임상 아웃소싱 시장 신뢰도에 영향 가능.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "CRO 회계 이슈로 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-05-29T00:01:26.140878+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Hoth Therapeutics’ pivot to AI in space sees stock rocket after rebrand",
+      "link": "https://www.fiercebiotech.com/biotech/hoth-therapeutics-pivot-ai-space-sees-stock-price-rocket-after-rebrand",
+      "summary_en": "Hoth Therapeutics’ search for salvation in the stars appears to have been rewarded by investors, as the company’s stock doubled after a pivot to powering AI in space.",
+      "published": "2026-05-28T09:43:00+00:00",
+      "korean_summary": "Hoth Therapeutics가 AI 우주 사업으로 피벗 후 사명 변경 및 주가 2배 급등.\n구체적 기술·임상 데이터 없이 테마성 리브랜딩으로 투자자 반응 유도.\n실질적 바이오 파이프라인과 무관한 투기적 주가 움직임 사례.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "AI 우주 피벗 테마 주가 뉴스, 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-05-29T00:01:30.858590+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Human Longevity launches newco, teams with Insilico for AI-powered longevity research",
+      "link": "https://www.fiercebiotech.com/medtech/human-longevity-launches-newco-teams-insilico-ai-powered-longevity-research",
+      "summary_en": "Human Longevity, which is seeking to use biology and genomics to boost the human lifespan, has launched a new company called Human Life Foundation Models (HLFM) to help with its goal.",
+      "published": "2026-05-28T02:13:00+00:00",
+      "korean_summary": "Human Longevity가 AI 기반 장수 연구를 위한 신규 법인 Human Life Foundation Models(HLFM)를 설립.\nInsilico Medicine과 협력하여 게놈·생물학 데이터 기반 수명 연장 AI 모델 개발 추진.\n장수 연구와 AI 신약개발의 교차점, 직접적 기술 혁신보다는 플랫폼 구축 단계.",
+      "category": "기타",
+      "relevance_score": 2,
+      "relevance_reason": "장수·게노믹스 AI 연구로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 거리가 멈",
+      "processed_at": "2026-05-29T00:01:35.745906+00:00"
+    }
+  ],
+  "overall": [
+    "FDA가 Beren의 희귀질환 치료제 심사를 추가 정보 요청으로 재연장하며 규제 불확실성이 지속되고 있음",
+    "Human Longevity가 신규 법인을 설립하고 Insilico Medicine과 협력해 AI 기반 노화 연구에 본격 진입함",
+    "Hoth Therapeutics가 AI·우주 테마로 리브랜딩 후 주가 급등하며 실체 없는 테마 편승 움직임이 포착됨"
+  ]
+}
