@@ -1,0 +1,83 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T00:02:52.530854+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Legend scientific founder returns to ASCO with new ambition for high-yield, non-gene-editing CAR-T platform",
+      "link": "https://www.fiercebiotech.com/biotech/legend-scientific-founder-returns-asco-new-ambition-high-yield-non-gene-edited-car-t",
+      "summary_en": "Nine years after wowing the audience at the American Society of Clinical Oncology annual meeting with a CAR-T candidate that would become Carvykti—now the world’s most successful cell therapy—Legend Biotech’s scientific founder Frank Fan, M.D., Ph.D., is returning to the spotlight with an entirely new playbook.",
+      "published": "2026-05-29T13:07:00+00:00",
+      "korean_summary": "Legend Biotech 창업자 Frank Fan이 ASCO에서 새로운 비유전자편집 CAR-T 플랫폼을 발표.\nCarvykti(현 세계 최대 매출 세포치료제) 개발자가 고수율 비유전자편집 CAR-T 기술로 복귀.\n차세대 CAR-T 제조 효율화 및 비용 절감 가능성을 시사하는 플랫폼 기술 발표.",
+      "category": "모달리티",
+      "relevance_score": 2,
+      "relevance_reason": "CAR-T 세포치료제 관련, 사용자의 ferritin/ADC/단백질 설계 연구와 직접 연관성 낮음",
+      "processed_at": "2026-05-30T00:02:21.796674+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "AstraZeneca, after phase 3 miss, posts subgroup data behind pitch for rare disease approval",
+      "link": "https://www.fiercebiotech.com/biotech/astrazeneca-after-phase-3-miss-posts-subgroup-data-behind-pitch-rare-disease-approval",
+      "summary_en": "AstraZeneca has shared data it believes can rescue anselamimab from a phase 3 failure, linking the rare disease drug candidate to a 62% improvement in survival in a prespecified subgroup.",
+      "published": "2026-05-29T09:51:00+00:00",
+      "korean_summary": "AstraZeneca가 P3 실패 후 희귀질환 신약 anselamimab의 서브그룹 데이터를 공개.\n사전 지정 서브그룹에서 생존율 62% 개선 결과를 근거로 희귀질환 승인 추진 전략.\nP3 전체 실패 후 서브그룹 데이터로 승인 시도하는 규제 전략의 사례.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "희귀질환 임상 전략 뉴스로 사용자 연구 분야와 무관",
+      "processed_at": "2026-05-30T00:02:26.403723+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Agios’ next-gen PK drug fails blood cancer study but sickle cell disease ambitions remain undimmed",
+      "link": "https://www.fiercebiotech.com/biotech/agios-next-gen-pk-drug-fails-blood-cancer-study-scd-ambitions-undimmed",
+      "summary_en": "Agios Pharmaceuticals’ next-gen pyruvate kinase (PK) activator has failed a phase 2 study in a group of rare blood cancers, although the biopharma is still holding out hope in sickle cell disease (SCD).",
+      "published": "2026-05-29T08:54:00+00:00",
+      "korean_summary": "Agios Pharmaceuticals의 차세대 pyruvate kinase(PK) 활성제가 희귀 혈액암 대상 P2 임상에서 실패.\n혈액암 코호트에서 유효성 미달, 그러나 겸상적혈구병(SCD) 적응증 개발은 지속 추진.\n동일 기전 약물의 적응증별 차별화 결과, SCD 파이프라인 가치 재평가 필요.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "혈액암/SCD 대상 소분자 임상 결과, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-05-30T00:02:31.954379+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Boston, China and the future of biotech",
+      "link": "https://www.fiercebiotech.com/biotech/boston-china-and-future-biotech",
+      "summary_en": "Senior Writer Darren Incorvaia talks with industry leaders and experts from Flagship Pioneering, MassBio and PassKey about funding pressures, AI, China's biotech ecosystem and what's next for drug development.",
+      "published": "2026-05-29T08:31:00+00:00",
+      "korean_summary": "Flagship Pioneering, MassBio, PassKey 등 업계 리더들이 바이오텍 미래 전망 논의.\n자금 압박, AI 활용, 중국 바이오텍 생태계 성장 등 주요 이슈 다룸.\n보스턴 중심 글로벌 바이오텍 산업 동향 및 신약개발 방향성 조망.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "업계 일반 동향 인터뷰, 사용자 연구 분야와 직접 연관 없음",
+      "processed_at": "2026-05-30T00:02:36.145232+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Pfizer pens $10B, 12-drug deal with Innovent in broad bet on Chinese cancer med innovation",
+      "link": "https://www.fiercebiotech.com/biotech/pfizer-pays-innovent-650m-broad-bet-chinese-innovation-early-development-speed",
+      "summary_en": "Pfizer is paying Innovent $650 million upfront to partner on cancer drug development, following Bristol Myers Squibb by striking a broad pact that positions it to leverage China’s fast early development system.",
+      "published": "2026-05-29T04:05:00+00:00",
+      "korean_summary": "Pfizer가 중국 바이오텍 Innovent와 12개 항암제 공동개발 계약 체결, 선급금 6.5억 달러.\n총 계약 규모 100억 달러, BMS에 이어 빅파마의 중국 혁신 신약 활용 전략 가속화.\n중국 조기 임상 시스템을 활용한 빅파마의 글로벌 파이프라인 확장 트렌드 반영.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "항암제 라이선싱 딜이나 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관성 없음",
+      "processed_at": "2026-05-30T00:02:41.584395+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Gilead scraps lead arthritis drug from $405M MiroBio buyout in latest blow to BTLA agonist field",
+      "link": "https://www.fiercebiotech.com/biotech/gilead-scraps-lead-arthritis-drug-405m-mirobio-buyout-latest-blow-btla-field",
+      "summary_en": "Gilead has abandoned work on the lead rheumatoid arthritis drug from its $405 million buyout of MiroBio in the latest blow to the BTLA agonist field.",
+      "published": "2026-05-29T03:48:00+00:00",
+      "korean_summary": "Gilead가 2022년 4억 500만 달러에 인수한 MiroBio의 핵심 류마티스 관절염 치료제 개발을 중단.\nBTLA(B and T lymphocyte attenuator) agonist 계열 약물로, 임상 개발 포기 결정.\nBTLA agonist 분야 전반에 타격, 면역관용 기전 치료제 개발의 어려움을 재확인.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "BTLA agonist 항체 개발 중단 소식으로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-05-30T00:02:47.151292+00:00"
+    }
+  ],
+  "overall": [
+    "Pfizer가 Innovent과 $10B 규모 12개 항암제 딜을 체결하며 중국 바이오텍 혁신에 대한 빅파마의 대규모 베팅이 가시화됨",
+    "Legend Scientific 창업자가 유전자편집 없는 고수율 CAR-T 플랫폼을 ASCO에서 공개하며 차세대 세포치료제 모달리티 경쟁이 본격화됨",
+    "Gilead이 $405M에 인수한 MiroBio의 핵심 관절염 후보물질을 포기하며 BTLA agonist 계열의 임상 실패 흐름이 이어짐"
+  ]
+}
