@@ -1608,5 +1608,54 @@
     "relevance_score": 2,
     "relevance_reason": "이중항체 임상 결과로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련성 낮음",
     "processed_at": "2026-05-31T23:55:58.144494+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/asco-2026-paradigm-shift-rare-gut-cancer-looms": {
+    "korean_summary": "GSK가 ASCO 2026에서 희귀 소화관 암(GIST 등 추정)에 대한 새로운 치료 접근법 첫 데이터를 공개.\n20년간 표준치료 변화 없던 희귀 암종에서 패러다임 전환 가능성 제시, 구체적 수치는 미공개.\nGSK의 희귀 종양 파이프라인 확장 신호, 임상 결과 상세 내용은 추후 발표 예정.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "희귀 소화관 암 임상 결과, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관성 없음",
+    "processed_at": "2026-06-02T00:05:34.902937+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/asco-ryght-ai-team-breast-cancer-trial-site-selection": {
+    "korean_summary": "ASCO와 Ryght AI가 전이성 유방암 임상시험 연구기관 선정을 위해 협력.\nCDK4/6 억제제 초기 용량 평가 임상에서 AI 기반 사이트 선정 활용.\nAI의 임상 운영 효율화 적용 사례, 신약 개발 분야와는 거리 있음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "AI 임상 운영 협력 뉴스, 사용자 연구 분야(단백질 설계/ADC/나노의약)와 무관",
+    "processed_at": "2026-06-02T00:05:45.593379+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/rallybio-swerves-past-candid-pothole-land-deal-cancer-drug-developer-avenzo": {
+    "korean_summary": "Rallybio가 Avenzo Therapeutics와 역합병(reverse merger) 계약 체결.\n수주 전 UCB의 인수로 기존 파트너 Candid가 시장에서 이탈한 후 새 딜 성사.\n소규모 바이오텍 간 역합병을 통한 생존 전략, 구체적 재무 조건은 미공개.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "역합병 딜 뉴스로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 무관",
+    "processed_at": "2026-06-02T00:05:51.023926+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/agios-agrees-165m-blood-disorder-drug-koreas-oscotec-flunked-phase-2-study": {
+    "korean_summary": "Agios Pharmaceuticals가 한국 Oscotec의 혈액질환 치료제를 1억 6,500만 달러에 라이선싱 계약 체결.\n해당 약물은 P2 임상에서 실패한 이력이 있으며, Agios는 자사 리드 파이프라인 차질 직후 이 딜을 체결.\n임상 실패 자산도 전략적 재활용 가능성이 있음을 보여주는 사례, 한국 바이오텍의 글로벌 딜 성사.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "혈액질환 약물 라이선싱 딜로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-06-02T00:05:56.839154+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/lilly-locks-vague-5-program-rd-pact-chinas-haisco-worth-3b": {
+    "korean_summary": "Eli Lilly가 중국 Haisco Pharmaceutical과 최대 30억 달러 규모의 5개 프로그램 R&D 파트너십 체결.\n구체적인 타깃/모달리티는 미공개, 같은 날 한미약품으로부터 위장관 약물 도입 계약도 체결.\n빅파마의 아시아 바이오텍 파이프라인 확보 전략 가속화, 딜 규모 대비 정보 불투명.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "빅파마 라이선싱 딜이나 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관 없음",
+    "processed_at": "2026-06-02T00:06:02.630816+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/servier-inks-265b-buyout-edgewises-muscular-dystrophy-unit-beef-neurology-pipeline": {
+    "korean_summary": "Servier가 Edgewise Therapeutics의 근이영양증 사업부를 최대 26억 달러(선급 15.5억 달러)에 인수.\n올해 피벗 데이터 도출 예정인 근이영양증 프로그램 확보가 핵심, 신경과 파이프라인 강화 목적.\n빅파마의 신경근육계 질환 영역 M&A 가속화 흐름을 보여주는 딜.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "근이영양증 M&A 딜로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-06-02T00:06:07.819094+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/lilly-pens-12b-deal-hanmis-glp-2-drug-being-aimed-short-bowel-syndrome": {
+    "korean_summary": "Eli Lilly가 한미약품의 GLP-2 agonist를 12억 달러 규모 라이선싱 계약으로 도입.\n해당 물질은 단장증후군(short bowel syndrome) 적응증 P2 단계 진행 중.\nLilly의 GLP 포트폴리오 확장 전략, 한미약품의 글로벌 기술수출 성과.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "GLP-2 라이선싱 딜로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-06-02T00:06:12.711684+00:00"
   }
 }
