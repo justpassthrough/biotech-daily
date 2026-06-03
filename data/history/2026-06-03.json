@@ -1,0 +1,107 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T00:23:31.703009+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Travere scales Everest with $1.1B deal for BTK inhibitor aimed at rare kidney diseases",
+      "link": "https://www.fiercebiotech.com/biotech/travere-bolsters-rare-kidney-disease-platform-103b-biobucks-deal-everest-btk-inhibitor",
+      "summary_en": "Travere Therapeutics has set its sights on Everest Medicines' therapy for rare kidney diseases, handing over $112.5 million upfront for a drug that has already begun the trek into the clinic.",
+      "published": "2026-06-02T09:49:00+00:00",
+      "korean_summary": "Travere Therapeutics가 Everest Medicines의 BTK 억제제 희귀 신장질환 치료제 라이선싱 딜 체결.\n계약금 1억 1,250만 달러, 총 계약 규모 최대 11억 달러, 해당 약물은 이미 임상 진입 단계.\n희귀 신장질환 분야 BTK 억제제 임상 개발 가속화 및 라이선싱 시장 활성화 신호.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "BTK 억제제 희귀 신장질환 딜, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+      "processed_at": "2026-06-03T00:22:48.977758+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "New heights for NewLimit as anti-aging biotech nabs $435M to rejuvenate old cells",
+      "link": "https://www.fiercebiotech.com/biotech/new-heights-newlimit-anti-aging-biotech-nabs-435m-rejuvenate-old-cells",
+      "summary_en": "Anti-aging startup NewLimit is back with a fresh fundraise of $435 million after landing on its first clinic-ready candidate years earlier than expected.",
+      "published": "2026-06-02T08:41:00+00:00",
+      "korean_summary": "항노화 바이오텍 NewLimit이 시리즈 B 라운드에서 4억 3,500만 달러 조달.\n예상보다 빠르게 임상 준비 후보물질 확보, 세포 재프로그래밍 기반 접근법 추진.\n항노화 분야 대규모 투자 유치, 주류 바이오텍 영역으로 부상 중.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "항노화 펀딩 뉴스로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련 없음",
+      "processed_at": "2026-06-03T00:22:53.843505+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Fulcrum scraps SCD program, considers options after FDA takes hard line on safety risks",
+      "link": "https://www.fiercebiotech.com/biotech/fulcrum-scraps-scd-program-considers-options-after-fda-takes-hard-line-safety-risks",
+      "summary_en": "Fulcrum Therapeutics has scrapped its sole clinical-stage program after the FDA took a hard line on the modality following the recent withdrawal of Ipsen’s Tazverik from the U.S. market.",
+      "published": "2026-06-02T08:17:00+00:00",
+      "korean_summary": "Fulcrum Therapeutics가 FDA의 강경한 안전성 입장으로 인해 유일한 임상 단계 프로그램을 폐기.\nIpsen의 Tazverik(EZH2 억제제) 미국 시장 철수 이후 FDA가 해당 모달리티에 강경 대응, Fulcrum은 전략적 옵션 검토 중.\n규제 리스크가 특정 모달리티 전체에 파급되는 사례로, 임상 파이프라인 집중 기업의 취약성을 보여줌.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "EZH2 억제제 관련 규제 이슈로 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-06-03T00:22:59.421932+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Foundation Medicine tallies FDA nod to pair its blood test with Pfizer’s prostate cancer combo",
+      "link": "https://www.fiercebiotech.com/medtech/foundation-medicine-tallies-fda-nod-pair-its-blood-test-pfizers-prostrate-cancer-combo",
+      "summary_en": "Foundation Medicine tallied another nod from the FDA for one of its genomic profiling tests that searches for specific biomarkers in tumor tissue samples.",
+      "published": "2026-06-02T07:22:00+00:00",
+      "korean_summary": "Foundation Medicine의 혈액 기반 유전체 프로파일링 검사가 FDA 승인 획득.\nPfizer의 전립선암 병용요법과 동반진단(CDx)으로 페어링되는 형태.\n동반진단 시장 확대 및 바이오마커 기반 정밀의료 트렌드 반영.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "동반진단 FDA 승인 뉴스로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거의 무관",
+      "processed_at": "2026-06-03T00:23:04.493044+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Praxis pauses one of its seizure programs after phase 2 fail",
+      "link": "https://www.fiercebiotech.com/biotech/praxis-pauses-one-its-seizure-programs-after-phase-2-fail",
+      "summary_en": "Praxis Precision Medicines’ epilepsy pipeline has suffered a setback after a next-gen NaV blocker failed to sufficiently reduce seizures in a phase 2/3 study.",
+      "published": "2026-06-02T05:24:00+00:00",
+      "korean_summary": "Praxis Precision Medicine의 차세대 NaV 차단제가 뇌전증 P2/3 임상에서 발작 감소 효과 불충분으로 실패.\n해당 프로그램 일시 중단 결정, 구체적 수치는 미공개.\n뇌전증 분야 이온채널 타깃 신약 개발의 어려움을 재확인.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "뇌전증 임상 실패 뉴스, 사용자 연구 분야와 무관",
+      "processed_at": "2026-06-03T00:23:09.373368+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Abivax stock suffers as cancer cases overshadow stellar efficacy in ulcerative colitis phase 3 trial",
+      "link": "https://www.fiercebiotech.com/biotech/abivax-stock-crashes-cancer-cases-overshadow-stellar-efficacy-ulcerative-colitis-phase-3",
+      "summary_en": "Abivax has raised the efficacy bar in ulcerative colitis, linking obefazimod to a 40%, placebo-adjusted jump in clinical remission rates in a phase 3 trial. But the share price of the biotech, a reported takeover target for several Big Pharmas, collapsed after several patients on the high dose developed cancers.",
+      "published": "2026-06-02T04:57:00+00:00",
+      "korean_summary": "Abivax의 obefazimod가 궤양성 대장염 P3에서 위약 대비 40%p 임상 관해율 향상 달성.\n그러나 고용량 투여군 일부 환자에서 암 발생 사례 보고되어 주가 급락.\n빅파마 인수 후보로 거론되던 기업의 안전성 이슈로 M&A 전망 불투명해짐.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "궤양성 대장염 소분자 치료제 임상 결과, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-06-03T00:23:14.412589+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "ASCO: Cardiff posts updated colorectal cancer data ahead of pivotal push",
+      "link": "https://www.fiercebiotech.com/biotech/asco-cardiff-posts-updated-colorectal-cancer-data-ahead-pivotal-push",
+      "summary_en": "Cardiff Oncology has shared updated results from its phase 2 colorectal cancer trial, revealing that the study drug has yet to reach the median progression-free survival as the biotech prepares to enter pivotal development.",
+      "published": "2026-06-02T03:25:00+00:00",
+      "korean_summary": "Cardiff Oncology이 ASCO에서 대장암 대상 P2 임상의 업데이트 결과를 발표.\n중앙 무진행생존기간(mPFS) 미도달 상태로 피벗 임상 진입 준비 중.\n소규모 바이오텍의 대장암 피벗 임상 전환 사례로 임상 개발 전략 참고 가능.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "대장암 P2 임상 결과로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-06-03T00:23:18.884257+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "MindMaze Therapeutics culls program, ends legacy ops from Relief merger to cut costs",
+      "link": "https://www.fiercebiotech.com/medtech/mindmaze-therapeutics-culls-program-ends-legacy-ops-relief-merger-cut-costs",
+      "summary_en": "Digital therapeutics specialist MindMaze Therapeutics is selling off a pipeline program while also removing all non-neurology legacy operations from its recent merger with Relief Therapeutics.",
+      "published": "2026-06-02T02:19:00+00:00",
+      "korean_summary": "MindMaze Therapeutics가 파이프라인 프로그램 매각 및 Relief Therapeutics 합병 후 비신경과 사업 전면 철수.\n비용 절감 목적의 구조조정으로, 디지털 치료제 신경과 분야에 집중 전략 채택.\n소규모 바이오테크의 합병 후 포트폴리오 정리 사례.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "디지털 치료제/신경과 구조조정 뉴스, 사용자 연구 분야와 무관",
+      "processed_at": "2026-06-03T00:23:23.447755+00:00"
+    }
+  ],
+  "overall": [
+    "Travere가 BTK 억제제 희귀 신장질환 치료제 확보를 위해 $1.1B 규모 M&A를 단행하고, 항노화 바이오텍 NewLimit이 $435M 투자를 유치하는 등 대형 자본 이동이 활발했음",
+    "임상 실패 및 안전성 이슈가 잇따라 Fulcrum이 SCD 프로그램을 폐기하고, Praxis가 뇌전증 Phase 2 실패로 프로그램을 중단했으며, Abivax는 궤양성 대장염 Phase 3에서 우수한 효능에도 암 발생 사례로 주가가 급락함",
+    "Foundation Medicine의 혈액 검사가 Pfizer 전립선암 병용요법과의 동반진단으로 FDA 승인을 획득하고, Cardiff가 ASCO에서 대장암 피벗 임상 앞두고 업데이트 데이터를 공개하는 등 정밀의료 기반 종양학 분야의 규제·임상 진전이 두드러졌음"
+  ]
+}
