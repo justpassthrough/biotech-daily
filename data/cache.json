@@ -1741,5 +1741,54 @@
     "relevance_score": 1,
     "relevance_reason": "면역계 분석 플랫폼 펀딩 뉴스로, 사용자의 약물전달/단백질 설계 연구와 거의 무관",
     "processed_at": "2026-06-04T00:24:58.944266+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/autobahn-races-toward-pivotal-trial-after-thyroid-hormone-mimic-eases-bipolar-depression-ph": {
+    "korean_summary": "Autobahn Therapeutics의 뇌 갑상선호르몬 수용체 자극제가 양극성 우울증 P2에서 긍정적 결과.\n우울증 중증도 감소 확인, 이를 바탕으로 피벗 임상(후기 임상) 진입 계획.\n갑상선호르몬 모방체 기반 정신과 치료제 개발의 새로운 가능성 제시.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "정신과 임상 결과로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-06-04T23:59:05.806920+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/divisive-bill-seeks-add-biotech-industry-law-limiting-investment-chinese-industry": {
+    "korean_summary": "미국 연방 의원 2명이 중국 바이오테크 투자에 COINS Act 심사 요건 적용하는 법안 발의.\n중국 바이오테크에 대한 미국 자본 유출 규제 강화 시도, 동시에 업계 반발도 거세지는 상황.\n미-중 바이오테크 디커플링 정책 흐름이 글로벌 신약개발 생태계에 미칠 영향 주목.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "미국 대중국 바이오테크 투자 규제 정책 뉴스, 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-06-04T23:59:10.844959+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/parabilis-preps-413m-ipo-fuel-desmoid-tumor-drug-phase-3": {
+    "korean_summary": "Parabilis Medicines가 최대 4억7600만 달러 규모 IPO를 준비 중.\n조달 자금은 데스모이드 종양 치료제의 P3 임상 진행에 사용 예정.\n희귀 종양 분야 임상 자금조달 사례, 연구 분야와 직접 관련성은 낮음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "IPO 및 희귀 종양 임상 펀딩, 사용자 연구 분야와 무관",
+    "processed_at": "2026-06-04T23:59:15.360392+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/innovent-fresh-12b-deal-posts-phase-3-win-cldn182-adc": {
+    "korean_summary": "Innovent Biologics가 Takeda와 파트너십을 맺은 ADC IBI343의 Phase 3 임상에서 긍정적 결과 발표.\n지난해 Takeda가 12억 달러 규모 딜을 체결한 CLDN18.2 타깃 ADC로, P3 성공으로 상업화 가능성 강화.\nADC 분야 빅파마 투자 및 임상 성과가 이어지며 ADC 플랫폼 가치 지속 상승.",
+    "category": "임상결과",
+    "relevance_score": 6,
+    "relevance_reason": "ADC P3 임상 결과로 ADC 분야 직접 관련, linker/payload 세부 기술 언급은 없음",
+    "processed_at": "2026-06-04T23:59:20.830494+00:00"
+  },
+  "https://www.fiercebiotech.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems": {
+    "korean_summary": "의료기기 유통사 Medline이 FDA로부터 두 번째 경고장을 수령.\n4월 이후 반복적인 완제품 내 독성 세균 오염 문제가 원인.\n의료기기 품질관리 규정 준수 실패 사례로, 연구 분야와 무관.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "의료기기 세균 오염 규제 이슈, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-06-04T23:59:24.990440+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/why-autoimmune-car-t-player-cabaletta-looking-have-durability-its-business-and-therapies": {
+    "korean_summary": "Cabaletta Bio가 EULAR 학회에서 CAR-T 치료제 개발 전략 및 승인 일정을 논의.\n내구성(durability) 중심의 CAR-T 반응 및 비즈니스 전략에 초점, 구체적 임상 수치는 미공개.\n자가면역 질환 대상 CAR-T 분야에서의 경쟁 우위 확보 전략 공유.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "CAR-T 세포치료제 관련 뉴스로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 거리가 멈",
+    "processed_at": "2026-06-04T23:59:30.482199+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/alnylam-pays-inceptive-30m-transform-sirna-design-ai-pioneer": {
+    "korean_summary": "Alnylam이 AI 기반 siRNA 설계 스타트업 Inceptive Nucleics와 최대 20억 달러 규모 파트너십 체결.\n계약금 3천만 달러, ChatGPT 트랜스포머 아키텍처 공동개발자 Jakob Uszkoreit의 회사와 AI 신약설계 협력.\nRNA 치료제 설계에 AI 적용 가속화, siRNA 최적화 분야 기술 경쟁 심화 신호.",
+    "category": "M&A",
+    "relevance_score": 3,
+    "relevance_reason": "siRNA/RNA 치료제 AI 설계 딜로, 사용자 연구 분야(단백질 나노케이지·ADC·단백질 설계)와 직접 연관성 낮음",
+    "processed_at": "2026-06-04T23:59:36.552808+00:00"
   }
 }
