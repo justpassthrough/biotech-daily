@@ -1,0 +1,59 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T00:25:04.867794+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Lilly, Boehringer to slash at least $1B each from planned investments in Germany",
+      "link": "https://www.fiercebiotech.com/pharma/lilly-boehringer-plan-slash-investment-germany-report",
+      "summary_en": "In response to a planned healthcare reform initiative in Germany that would reduce the prices of branded drugs, Eli Lilly and Boehringer Ingelheim have slashed their planned investments in the country, each by at least $1 billion.",
+      "published": "2026-06-03T14:41:00+00:00",
+      "korean_summary": "Eli Lilly와 Boehringer Ingelheim이 독일 의약품 가격 인하 개혁안에 반발해 독일 투자 계획 각각 최소 10억 달러 삭감.\n독일 정부의 브랜드 의약품 가격 규제 강화가 직접적 원인.\n빅파마의 유럽 투자 철수 신호, 의약품 가격 정책과 R&D 투자 간 긴장 관계 부각.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "제약 정책/투자 이슈로 사용자 연구 분야와 무관",
+      "processed_at": "2026-06-04T00:24:44.056757+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Unlocking Unstructured Data with AI for Optimized Protocol Development",
+      "link": "https://www.fiercebiotech.com/partner-content/unlocking-unstructured-data-ai-optimized-protocol-development",
+      "summary_en": "In this podcast, Mike Eckrote, SVP, Strategic Solutions at Advarra, talks about how artificial intelligence is being used to pull insights out of structured and unstructured data sources to help sponsors avoid protocol amendments and delays.",
+      "published": "2026-06-03T10:07:00+00:00",
+      "korean_summary": "Advarra의 Mike Eckrote가 AI를 활용한 임상시험 프로토콜 최적화 방법론을 소개.\nAI로 구조화·비구조화 데이터에서 인사이트 추출, 프로토콜 수정 및 지연 방지 목적.\n임상 운영 효율화 관련 내용으로 신약개발 연구 분야와 직접 연관성 낮음.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "임상시험 운영 효율화 관련 팟캐스트, 사용자 연구 분야와 무관",
+      "processed_at": "2026-06-04T00:24:48.668555+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Regeneron pays $37M, adds $2B in biobucks to expand CytomX pact",
+      "link": "https://www.fiercebiotech.com/biotech/regeneron-pays-37m-adds-2b-biobucks-expand-cytomx-pact",
+      "summary_en": "Regeneron has expanded its research alliance with CytomX Therapeutics, paying $37 million to work on conditionally active bispecifics against two targets and secure options on more programs. The expansion swells the potential value of the deal to about $4 billion.",
+      "published": "2026-06-03T09:32:00+00:00",
+      "korean_summary": "Regeneron이 CytomX와의 연구 협력을 확대, 3,700만 달러 선불 및 최대 20억 달러 마일스톤 추가.\n조건부 활성 이중항체(conditionally active bispecifics) 2개 타깃 대상, 총 딜 가치 약 40억 달러로 확대.\nTME 조건부 활성화(masked antibody) 기술의 상업적 가치가 빅파마 수준에서 재확인됨.",
+      "category": "M&A",
+      "relevance_score": 8,
+      "relevance_reason": "CytomX의 conditionally active(masked) 항체 플랫폼은 TME masking 연구와 직접 관련된 기술",
+      "processed_at": "2026-06-04T00:24:54.052226+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "IMU Biosciences nabs $53M funding round to ‘decode’ the immune system",
+      "link": "https://www.fiercebiotech.com/medtech/imu-biosciences-nabs-53m-funding-round-decode-immune-system",
+      "summary_en": "British medtech startup IMU Biosciences has landed a £40 million ($53 million) series A as it looks to move immune system analysis from analog to “high definition.”",
+      "published": "2026-06-03T02:59:00+00:00",
+      "korean_summary": "영국 메드텍 스타트업 IMU Biosciences가 시리즈 A로 4천만 파운드(약 5,300만 달러) 조달.\n면역계 분석을 '고해상도(high definition)'로 전환하는 기술 개발이 목표.\n면역 분석 플랫폼 분야 초기 투자 유치 사례로, 연구 분야와 직접 연관성은 낮음.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "면역계 분석 플랫폼 펀딩 뉴스로, 사용자의 약물전달/단백질 설계 연구와 거의 무관",
+      "processed_at": "2026-06-04T00:24:58.944266+00:00"
+    }
+  ],
+  "overall": [
+    "Regeneron이 CytomX와의 계약 확대에 선급금 $37M + 마일스톤 $2B 규모의 빅딜을 체결하며 항체 플랫폼 기술 확보 경쟁이 가속화되고 있음",
+    "Lilly와 Boehringer Ingelheim이 각각 독일 내 투자 계획을 $1B 이상 삭감하며 유럽 빅파마의 비용 구조조정 기조가 뚜렷해지고 있음",
+    "IMU Biosciences가 면역계 해독을 목표로 $53M 펀딩을 유치하며 AI 기반 면역학 스타트업으로의 초기 투자 흐름이 지속되고 있음"
+  ]
+}
