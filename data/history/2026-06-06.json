@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-05T23:58:05.284647+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Insulet debuts latest enhancements to popular Omnipod insulin delivery system",
+      "link": "https://www.fiercebiotech.com/medtech/insulet-debuts-latest-enhancement-its-popular-omnipod-insulin-delivery-system",
+      "summary_en": "Insulet, the diabetes device maker, debuted upgrades to its popular Omnipod 5 tubeless automated insulin delivery system.",
+      "published": "2026-06-05T07:10:00+00:00",
+      "korean_summary": "Insulet사가 인슐린 자동 전달 시스템 Omnipod 5의 최신 업그레이드 버전을 공개.\nOmnipod 5는 튜브 없는 자동 인슐린 전달 장치로, 구체적 업그레이드 내용은 미공개.\n당뇨 디바이스 시장 내 경쟁 심화 및 제품 개선 트렌드 반영.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "인슐린 전달 디바이스 관련 뉴스로 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-06-05T23:57:53.769795+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Affibody gets izokibep ‘back on track’ while seeking ‘new home’ after drug’s Acelyrin rejection",
+      "link": "https://www.fiercebiotech.com/biotech/affibody-gets-izokibep-back-track-while-seeking-new-home-after-acelyrin-rejection",
+      "summary_en": "Affibody may not have expected to be working on izokibep again, but the Swedish biotech hasn’t wasted an opportunity to showcase the inflammation drug’s potential to prospective partners.",
+      "published": "2026-06-05T04:10:00+00:00",
+      "korean_summary": "Affibody가 Acelyrin에 의해 반환된 항염증 약물 izokibep의 파트너십을 재추진 중.\nizokibep은 IL-17A 타깃 소형 단백질(Affibody molecule) 기반 후보물질로, Acelyrin이 개발 중단 후 반환.\n소형 단백질 scaffold 기반 치료제의 파트너십 시장 가치와 리스크를 보여주는 사례.",
+      "category": "M&A",
+      "relevance_score": 4,
+      "relevance_reason": "Affibody molecule은 소형 단백질 scaffold로 단백질 binder 연구와 간접 연관, 직접적 기술 연관성은 낮음",
+      "processed_at": "2026-06-05T23:57:59.537487+00:00"
+    }
+  ],
+  "overall": [
+    "Insulet이 Omnipod 인슐린 전달 시스템의 최신 업그레이드를 공개하며 당뇨 관리 기기 시장에서 제품 경쟁력 강화에 나섰다.",
+    "Affibody는 Acelyrin에 반환된 izokibep의 개발을 재궤도에 올리며 새로운 파트너사 확보를 위한 M&A 협상을 적극 추진 중이다.",
+    "전반적으로 기존 파이프라인 자산의 재활용·재파트너링과 기기 플랫폼 고도화가 동시에 진행되며 바이오텍 업계의 자산 재편 흐름이 감지된다."
+  ]
+}
