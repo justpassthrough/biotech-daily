@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-06T23:56:10.400230+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "ADA: Lilly pulls back curtain on impressive triple-G efficacy in patients with obesity, diabetes",
+      "link": "https://www.fiercebiotech.com/biotech/ada-lilly-pulls-back-curtain-impressive-triple-g-efficacy-obesity-and-diabetes-execs-arent",
+      "summary_en": "Even as Zepbound fires on all cylinders and Foundayo gets off to the races in the oral market, Eli Lilly is keenly aware that the one-size-fits-all approach to obesity and diabetes treatment pioneered by early GLP-1s will soon be obsolete.",
+      "published": "2026-06-06T14:52:00+00:00",
+      "korean_summary": "Lilly가 ADA 학회에서 차세대 triple-G(GIP/GLP-1/glucagon) 작용제의 비만·당뇨 임상 데이터 공개.\nZepbound(tirzepatide) 상업적 성공 지속 중이며, 경구용 신약 Foundayo도 시장 진입 시작.\n1세대 GLP-1 단일 접근법의 한계를 넘는 차세대 비만·당뇨 치료제 경쟁 심화.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "GLP-1/비만 치료제 임상 결과로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-06-06T23:55:58.916228+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "ADA: Pfizer pads case for berobenatide in obesity, adding validation to Metsera buy",
+      "link": "https://www.fiercebiotech.com/biotech/ada-pfizer-pads-case-berobenatide-obesity-adding-validation-metsera-buy",
+      "summary_en": "On the heels of a strong showing for the drug earlier this year, Pfizer is padding the case for the GLP-1 receptor agonist it picked up in its $10 billion purchase of obesity biotech Metsera.",
+      "published": "2026-06-06T07:40:00+00:00",
+      "korean_summary": "Pfizer가 ADA 학회에서 GLP-1 수용체 작용제 berobenatide의 비만 치료 데이터를 추가 공개.\n100억 달러 규모 Metsera 인수를 통해 확보한 파이프라인으로, 올해 초 긍정적 결과에 이어 추가 근거 제시.\nGLP-1 비만 치료제 경쟁 심화 속 Pfizer의 시장 진입 전략 강화.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "GLP-1 비만 치료제 임상 데이터로 사용자 연구 분야와 무관",
+      "processed_at": "2026-06-06T23:56:03.727576+00:00"
+    }
+  ],
+  "overall": [
+    "Lilly의 triple-G 계열 비만·당뇨 치료제가 ADA에서 인상적인 임상 효능 데이터를 공개하며 GLP-1 계열 경쟁 심화를 예고",
+    "Pfizer는 ADA에서 berobenatide 비만 치료 데이터를 추가 공개해 Metsera 인수의 전략적 타당성을 강화",
+    "ADA 학회를 중심으로 빅파마들의 비만 치료제 임상 데이터 공개가 집중되며 비만·대사질환이 업계 핵심 격전지로 부상"
+  ]
+}

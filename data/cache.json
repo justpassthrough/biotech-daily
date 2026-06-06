@@ -1804,5 +1804,19 @@
     "relevance_score": 4,
     "relevance_reason": "Affibody molecule은 소형 단백질 scaffold로 단백질 binder 연구와 간접 연관, 직접적 기술 연관성은 낮음",
     "processed_at": "2026-06-05T23:57:59.537487+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ada-lilly-pulls-back-curtain-impressive-triple-g-efficacy-obesity-and-diabetes-execs-arent": {
+    "korean_summary": "Lilly가 ADA 학회에서 차세대 triple-G(GIP/GLP-1/glucagon) 작용제의 비만·당뇨 임상 데이터 공개.\nZepbound(tirzepatide) 상업적 성공 지속 중이며, 경구용 신약 Foundayo도 시장 진입 시작.\n1세대 GLP-1 단일 접근법의 한계를 넘는 차세대 비만·당뇨 치료제 경쟁 심화.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "GLP-1/비만 치료제 임상 결과로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-06-06T23:55:58.916228+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ada-pfizer-pads-case-berobenatide-obesity-adding-validation-metsera-buy": {
+    "korean_summary": "Pfizer가 ADA 학회에서 GLP-1 수용체 작용제 berobenatide의 비만 치료 데이터를 추가 공개.\n100억 달러 규모 Metsera 인수를 통해 확보한 파이프라인으로, 올해 초 긍정적 결과에 이어 추가 근거 제시.\nGLP-1 비만 치료제 경쟁 심화 속 Pfizer의 시장 진입 전략 강화.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "GLP-1 비만 치료제 임상 데이터로 사용자 연구 분야와 무관",
+    "processed_at": "2026-06-06T23:56:03.727576+00:00"
   }
 }
