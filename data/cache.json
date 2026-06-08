@@ -1818,5 +1818,61 @@
     "relevance_score": 1,
     "relevance_reason": "GLP-1 비만 치료제 임상 데이터로 사용자 연구 분야와 무관",
     "processed_at": "2026-06-06T23:56:03.727576+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/city-lay-foundation-rnai-renaissance-nearly-100m-series-b": {
+    "korean_summary": "City Therapeutics가 RNAi 치료제 플랫폼 개발을 위해 약 1억 달러 규모의 시리즈 B 투자 유치.\n임상 진입 및 핵심 플랫폼 고도화에 자금 사용 예정, 항체 수준의 범용성을 RNAi에 구현하는 것이 목표.\nRNAi 모달리티 재부상 흐름 속 플랫폼 기업에 대한 대규모 초기 투자 사례.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "RNAi 플랫폼 펀딩 뉴스로, 사용자의 단백질/ADC/나노의약 연구 분야와 직접 연관성 낮음",
+    "processed_at": "2026-06-08T23:56:57.678308+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/ada-dexcom-cgm-shows-benefit-non-insulin-diabetes-patients": {
+    "korean_summary": "Dexcom의 연속혈당측정기(CGM)가 인슐린 비사용 제2형 당뇨 환자에서 혈당 개선 효과 확인.\nADA 학회에서 발표된 무작위 임상시험 결과, 1차 의료 영역으로 CGM 적응증 확대 근거 제시.\nCGM 시장의 비인슐린 환자군 확장 가능성을 보여주는 임상 데이터.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "당뇨 의료기기 임상 결과로, 사용자의 단백질/나노의약 연구 분야와 무관",
+    "processed_at": "2026-06-08T23:57:03.124097+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/secretive-cancer-biotech-treeline-steps-out-shadows-reverse-merger": {
+    "korean_summary": "임상 단계 암 바이오텍 Treeline Biosciences가 역합병을 통해 나스닥 상장 추진.\n2021년 설립 이후 10억 달러 이상 조달, Standard BioTools와 합병 계획 발표.\n비공개 임상 바이오텍의 공개시장 진입 전략으로 역합병 활용 사례.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "암 바이오텍 상장 관련 M&A 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-06-08T23:57:07.879101+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/resmed-snaps-noctrix-health-340m-sleep-tech-deal": {
+    "korean_summary": "ResMed가 수면 기술 기업 Noctrix Health를 3억 4천만 달러에 인수 완료.\n핵심 자산은 착용형 신경조절(neuromodulation) 기기로, 수면무호흡 외 영역으로 사업 확장.\nResMed의 수면 기술 포트폴리오 다각화 전략, 제약/바이오와 직접 연관성은 낮음.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "수면 기술 M&A로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-06-08T23:57:12.955823+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/jj-makes-1b-upfront-bet-emerging-dac-space-netting-firefly-bio": {
+    "korean_summary": "Johnson & Johnson이 Firefly Bio를 10억 달러 선불로 인수하며 DAC(Degrader Antibody Conjugate) 플랫폼 확보.\nDAC는 항체에 단백질 분해제(degrader)를 결합한 신규 모달리티로, 기존 ADC와 차별화된 작용 기전 보유.\n빅파마의 ADC 인접 차세대 conjugate 기술 투자 가속화, linker-payload 다양화 트렌드 반영.",
+    "category": "M&A",
+    "relevance_score": 7,
+    "relevance_reason": "ADC 인접 신규 conjugate 모달리티(DAC) 빅파마 딜, linker-payload 기술 다양화 관점에서 직접 관련",
+    "processed_at": "2026-06-08T23:57:18.466816+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/incyte-inks-2b-deal-add-star-unit-late-phase-constellation-and-challenge-takeda": {
+    "korean_summary": "Incyte가 Star Therapeutics 자회사를 12.5억 달러에 인수, 총 딜 규모 20억 달러.\n후기 임상 단계 출혈 질환 신약 후보 확보, 2028년 Jakafi 특허 만료 대비 파이프라인 보강 목적.\nBill Meury CEO 취임 후 최대 규모 베팅, 혈액 질환 분야에서 Takeda와 경쟁 구도 형성.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "출혈 질환 M&A 딜, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 무관",
+    "processed_at": "2026-06-08T23:57:23.746785+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gsk-pledges-ps445m-near-term-uk-biotech-tackle-liver-fibrosis-regression": {
+    "korean_summary": "GSK가 영국 바이오텍과 간 섬유화 퇴행(regression) 기전 연구를 위해 4,450만 파운드 규모 파트너십 체결.\n간 섬유화가 어떻게 역전되는지에 초점을 맞춘 비교적 드문 접근법으로, 구체적 타깃/모달리티는 미공개.\n간 섬유화 치료 분야에서 GSK의 hepatology 포트폴리오 강화 전략의 일환.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "간 섬유화 파트너십 딜로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 연관성 없음",
+    "processed_at": "2026-06-08T23:57:29.488569+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/roche-bets-700m-upfront-nurixs-late-phase-btk-degrader-set-lilly-showdown": {
+    "korean_summary": "Roche가 Nurix Therapeutics의 BTK degrader bexobrutideg 권리 확보를 위해 7억 달러 선불 지급 계약 체결.\n해당 물질은 Eli Lilly의 Jaypirca(pirtobrutinib)와 직접 경쟁하는 P3 임상 단계 BTK 단백질 분해제.\nBTK 억제제 시장에서 protein degrader 모달리티가 차세대 경쟁 축으로 부상하는 신호.",
+    "category": "M&A",
+    "relevance_score": 4,
+    "relevance_reason": "protein degrader 모달리티 관련 빅딜이나, ADC/ferritin/de novo 설계와 직접 연관성은 낮음",
+    "processed_at": "2026-06-08T23:57:35.044345+00:00"
   }
 }
