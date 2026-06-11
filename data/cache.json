@@ -1937,5 +1937,47 @@
     "relevance_score": 2,
     "relevance_reason": "폐암 타깃 빅파마 M&A로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관성 낮음",
     "processed_at": "2026-06-10T00:04:53.881019+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ada-more-cagrisema-weight-loss-data-coming-jury-still-out-amid-tough-retatrutide": {
+    "korean_summary": "Novo Nordisk CSO가 ADA 2026에서 CagriSema vs Lilly retatrutide 비교에 대해 '아직 결론 내리기 이르다'고 언급.\n두 차세대 incretin 자산의 직접 비교는 시기상조이며, 업계 경쟁 구도 형성 중.\nGLP-1 차세대 경쟁 심화, 비만/당뇨 치료제 시장 주도권 다툼 지속.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "GLP-1 incretin 경쟁 관련 빅파마 동향, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-06-11T00:07:41.952985+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/big-pharma-backed-sonothera-sounds-125m-series-b-bubble-based-genetic-delivery": {
+    "korean_summary": "Bay Area 바이오텍 SonoThera가 빅파마 지원 하에 시리즈 B로 1억 2,500만 달러 조달.\n초음파 기반 마이크로버블(bubble) 기술을 활용한 유전자 전달 플랫폼 개발 중, 임상 진입 준비 단계.\n비바이러스성 유전자 전달 분야의 새로운 물리적 접근법으로 주목.",
+    "category": "기타",
+    "relevance_score": 4,
+    "relevance_reason": "초음파 버블 기반 유전자 전달은 nanomedicine 인접 분야이나 ferritin/ADC/단백질 설계와 직접 연관성 낮음",
+    "processed_at": "2026-06-11T00:07:47.224714+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ethyreal-bio-manifests-101m-pack-biotechs-gunning-amgens-tepezza": {
+    "korean_summary": "Ethyreal Bio가 1억 1백만 달러 시리즈 A 펀딩으로 스텔스 모드 탈피.\nAmgen의 갑상선 안병증 치료제 Tepezza(teprotumumab)에 도전하는 경쟁사 대열에 합류.\n희귀 안과 질환 시장에서 Tepezza 독점 구도에 균열 시도하는 바이오텍 증가 추세.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "희귀 안과 질환 바이오텍 펀딩, 사용자 연구 분야와 무관",
+    "processed_at": "2026-06-11T00:07:52.512572+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/novartis-sticks-2nd-deal-molecular-glue-biotech-orionis-worth-14b": {
+    "korean_summary": "Novartis가 molecular glue 전문 바이오텍 Orionis Biosciences와 두 번째 딜 체결.\n계약 규모 최대 14억 달러(선급금 4천만 달러), 다수 질환 영역의 난치성 타깃 대상.\nMolecular glue 분야 빅파마 투자 지속, protein degrader 계열 기술 경쟁 심화.",
+    "category": "M&A",
+    "relevance_score": 3,
+    "relevance_reason": "Molecular glue/protein degrader 딜로 사용자 연구 분야(ADC, 단백질 설계)와 직접 연관성 낮음",
+    "processed_at": "2026-06-11T00:07:57.995224+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/cancer-focused-parabilis-upsized-670m-ipo-breaks-new-record-biotechs": {
+    "korean_summary": "Parabilis Medicines가 6억 7천만 달러 규모의 IPO를 완료, 바이오텍 역사상 최대 규모 상장 기록.\n암 치료제 중심 파이프라인 보유, 구체적 임상 단계나 기술 플랫폼 정보는 미공개.\n바이오텍 IPO 시장 회복 및 투자 심리 개선의 신호로 해석 가능.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "바이오텍 IPO 기록 뉴스로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-06-11T00:08:04.037654+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/sanofi-halts-phase-3-autoimmune-trial-early-over-lackluster-efficacy": {
+    "korean_summary": "Sanofi가 자가면역 질환 대상 P3 임상시험을 중간 분석 결과 효능 부족으로 조기 중단.\n중간 분석에서 '충분한 효능 제공 불가' 판정, 후기 파이프라인 핵심 프로그램 하나 소실.\nSanofi 파이프라인 연속 악재로 빅파마 후기 임상 리스크 재조명.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "자가면역 P3 실패 소식, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-06-11T00:08:08.737900+00:00"
   }
 }
