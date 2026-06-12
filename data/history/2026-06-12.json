@@ -1,0 +1,119 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T00:14:40.038959+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Genentech executes another round of layoffs, with 3 VPs axed",
+      "link": "https://www.fiercebiotech.com/biotech/genentech-executes-another-round-layoffs-3-vps-axed",
+      "summary_en": "Genentech vice presidents Vishva Dixit, Man-Wah Tan and Todd McDevitt are among the casualties in another round of layoffs from the South San Francisco subsidiary of Roche. The departures are part of a restructuring of the Genentech Research and Early Development (gRED) group. The company did not reveal how many positions are being affected.",
+      "published": "2026-06-11T14:09:00+00:00",
+      "korean_summary": "Genentech(Roche 자회사)이 연구·초기개발(gRED) 부문 구조조정으로 추가 감원 단행.\nVP급 3명(Vishva Dixit, Man-Wah Tan, Todd McDevitt) 포함, 전체 감원 규모는 미공개.\n빅파마 R&D 조직 슬림화 흐름의 일환으로 gRED 전략 재편 신호.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "임원 인사 및 구조조정 뉴스로 사용자 연구 분야와 무관",
+      "processed_at": "2026-06-12T00:13:53.121002+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "AI use is surging across HHS, jumping 148% at the FDA in 2025, Bipartisan Policy Center data finds",
+      "link": "https://www.fiercebiotech.com/ai-and-machine-learning/all-hhs-agencies-saw-ai-use-case-increases-fy-2025-bipartisan-policy-center",
+      "summary_en": "There was a big uptick in the use of AI across all HHS agencies in 2025, though analysts note some use cases may “reflect new reporting requirements instead of new deployments.\"",
+      "published": "2026-06-11T13:05:00+00:00",
+      "korean_summary": "미국 HHS 전 기관에서 2025년 AI 활용이 급증, FDA에서만 148% 증가.\n다만 일부 증가는 실제 신규 도입이 아닌 새로운 보고 의무 반영일 수 있다고 분석가들이 지적.\n규제기관의 AI 도입 확대는 신약 심사 프로세스 변화 가능성을 시사.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "FDA AI 활용 통계, 사용자 연구 분야와 직접 관련 없는 정책/행정 뉴스",
+      "processed_at": "2026-06-12T00:13:57.781973+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Novo reports data breach, tells clinical trial patients to 'remain vigilant'",
+      "link": "https://www.fiercebiotech.com/pharma/novo-reports-cybersecurity-breach-tells-clinical-trial-patients-remain-vigilant",
+      "summary_en": "As cybersecurity threats have proliferated across industries in recent years, biopharma companies have emerged as prominent targets, with intellectual property, patient data and other sensitive information at stake. Now, Novo Nordisk is the latest drug giant to report a data breach.",
+      "published": "2026-06-11T12:45:00+00:00",
+      "korean_summary": "Novo Nordisk가 데이터 침해 사고를 공개하고 임상시험 환자들에게 주의를 당부.\n유출된 정보는 지적재산, 환자 데이터 등 민감 정보를 포함할 가능성.\n바이오파마 업계 전반의 사이버보안 위협 증가 추세를 반영하는 사례.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "사이버보안/데이터 침해 사고로 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-06-12T00:14:02.026514+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Roche nabs EU approval on label expansions for companion dx platform",
+      "link": "https://www.fiercebiotech.com/medtech/roche-garners-eu-approval-label-expansions-companion-dx-platform",
+      "summary_en": "Roche received approval through the EU’s In Vitro diagnostic regulation for several label expansions of its companion diagnostic platform that can identify a cancer patient's mismatch repair (MMR) status.",
+      "published": "2026-06-11T09:04:00+00:00",
+      "korean_summary": "Roche가 EU IVD 규정 하에 동반진단 플랫폼의 라벨 확장 승인 획득.\n암 환자의 mismatch repair(MMR) 상태 식별 기능 관련 복수 적응증 확대.\n동반진단 플랫폼 규제 승인 확대로 정밀의료 생태계 강화.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "동반진단 규제 승인 뉴스로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-06-12T00:14:06.323798+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Predicta links with Spanish university to offer diagnostic for blood cancers",
+      "link": "https://www.fiercebiotech.com/medtech/predicta-links-spanish-university-offer-diagnostic-blood-cancers",
+      "summary_en": "Predicta Biosciences, a precision oncology specialist, is teaming with the Clínica Universidad de Navarra’s CIMA Lab Diagnostics clinic to offer an assay focused on blood cancers.",
+      "published": "2026-06-11T08:15:00+00:00",
+      "korean_summary": "Predicta Biosciences가 스페인 나바라대학 CIMA Lab Diagnostics와 혈액암 진단 어세이 제공 협력 체결.\n혈액암 대상 정밀 진단 서비스 공동 제공이 목적이며, 구체적 딜 규모는 미공개.\n정밀 종양학 진단 분야의 학계-산업계 협력 사례.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "혈액암 진단 협력으로 사용자 연구 분야(약물전달, 단백질 설계)와 무관",
+      "processed_at": "2026-06-12T00:14:12.006878+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Cardiovascular-focused Kardigan plans to bring in cozy $320M haul from upcoming IPO",
+      "link": "https://www.fiercebiotech.com/biotech/cardiovascular-focused-kardigan-plans-bring-cozy-320m-haul-upcoming-ipo",
+      "summary_en": "Kardigan has sewn up its IPO plans, with the cardiovascular biotech expecting to bring in a cozy $320 million from its planned Nasdaq listing.",
+      "published": "2026-06-11T07:58:00+00:00",
+      "korean_summary": "심혈관 질환 전문 바이오텍 Kardigan이 Nasdaq IPO를 통해 3억 2천만 달러 조달 계획 발표.\n구체적인 파이프라인 임상 단계나 기술 플랫폼 세부 정보는 공개되지 않음.\n심혈관 분야 바이오텍의 대규모 IPO 시도로 자본시장 동향 참고 가능.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "심혈관 바이오텍 IPO 펀딩 뉴스로 사용자 연구 분야와 무관",
+      "processed_at": "2026-06-12T00:14:16.724992+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Caribou boosts case that off-the-shelf CAR-T matches autologous drugs ahead of phase 3",
+      "link": "https://www.fiercebiotech.com/biotech/caribou-boosts-case-shelf-car-t-matches-autologous-drugs-ahead-phase-3",
+      "summary_en": "Caribou Biosciences has linked its CAR-T cell therapy candidate to 17.1-month median progression-free survival, adding to evidence that the off-the-shelf treatment can match the efficacy of autologous products in lymphoma patients.",
+      "published": "2026-06-11T05:14:00+00:00",
+      "korean_summary": "Caribou Biosciences가 동종유래(off-the-shelf) CAR-T 후보물질의 임상 데이터를 발표.\n림프종 환자에서 중앙값 무진행생존기간(PFS) 17.1개월로 자가유래 CAR-T와 유사한 효능 시사.\nPhase 3 진입 전 동종유래 CAR-T의 경쟁력 입증, 세포치료제 접근성 확대 가능성.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "CAR-T 세포치료제 임상 결과로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 관련 없음",
+      "processed_at": "2026-06-12T00:14:23.307049+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Fierce Biotech heading to UK to host event amid London Life Sciences Week",
+      "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-heading-uk-host-event-amid-london-life-sciences-week",
+      "summary_en": "Fierce Biotech is returning to the U.K. in November for a day of curated discussions and networking at The Savoy, London’s iconic hotel.",
+      "published": "2026-06-11T04:58:00+00:00",
+      "korean_summary": "Fierce Biotech이 11월 런던 생명과학 주간에 맞춰 영국 행사를 개최.\nThe Savoy 호텔에서 하루 동안 토론 및 네트워킹 프로그램 진행.\n업계 네트워킹 이벤트로 연구 내용과 직접적 관련 없음.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "업계 행사 공지로 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-06-12T00:14:27.288992+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Takeda’s TYK2 inhibitor beats Bristol Myers’ Sotyktu in phase 3 psoriasis showdown",
+      "link": "https://www.fiercebiotech.com/biotech/takedas-tyk2-inhibitor-beats-bristol-myers-sotyktu-psoriasis-showdown",
+      "summary_en": "Takeda has won the battle of the TYK2 inhibitors, toppling Bristol Myers Squibb’s Sotyktu to strengthen its hand ahead of an anticipated plaque psoriasis launch next year.",
+      "published": "2026-06-11T03:02:00+00:00",
+      "korean_summary": "Takeda의 TYK2 억제제가 P3 건선 임상에서 BMS의 Sotyktu(deucravacitinib) 대비 우월한 효능 입증.\nPlaque psoriasis 적응증으로 내년 출시를 앞두고 head-to-head P3 결과 공개.\nTYK2 억제제 시장 경쟁 심화, Takeda가 BMS 선점 시장에 도전장.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "TYK2 억제제 건선 임상 결과로 사용자 연구 분야와 무관",
+      "processed_at": "2026-06-12T00:14:31.938134+00:00"
+    }
+  ],
+  "overall": [
+    "Caribou Biosciences의 동종(off-the-shelf) CAR-T가 자가유래 치료제와 동등한 효능을 입증하며 Phase 3 진입 근거를 강화했고, Takeda의 TYK2 억제제가 BMS의 Sotyktu를 Phase 3 건선 직접 비교에서 꺾으며 면역·세포치료 임상 경쟁이 격화되고 있음",
+    "Cardiovascular 스타트업 Kardigan이 $320M IPO를 추진하는 등 바이오텍 자금조달 시도가 이어지는 반면, Genentech은 VP급 3명을 포함한 추가 감원을 단행하며 빅파마의 비용 구조조정이 동시에 진행 중",
+    "FDA 내 AI 활용이 2025년 148% 급증했다는 Bipartisan Policy Center 데이터가 공개되며, 규제기관 차원의 AI 도입 가속화가 산업 전반의 주요 변수로 부상"
+  ]
+}
