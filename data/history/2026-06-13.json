@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T00:12:43.505535+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing",
+      "link": "https://www.fiercebiotech.com/biotech/after-two-record-setting-biotech-ipos-public-markets-are-back",
+      "summary_en": "Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.",
+      "published": "2026-06-12T09:33:00+00:00",
+      "korean_summary": "바이오텍 IPO 시장이 이번 주 또 다른 기록적인 상장을 달성했다고 보도됨.\n구체적 기업명이나 딜 규모는 요약에 명시되지 않았으나, SpaceX IPO와 함께 주목받는 수준.\n바이오텍 공개시장 자금조달 환경이 지속적으로 활성화되고 있음을 시사.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "바이오텍 IPO 시장 동향 일반 뉴스, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-06-13T00:12:26.419282+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover",
+      "link": "https://www.fiercebiotech.com/biotech/novartis-data-tee-regulatory-talks-about-asset-12b-avidity-takeover",
+      "summary_en": "Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.",
+      "published": "2026-06-12T03:50:00+00:00",
+      "korean_summary": "Novartis가 120억 달러에 인수한 Avidity Biosciences의 핵심 파이프라인 근이영양증 치료제가 P1/2에서 긍정적 결과.\n해당 결과를 바탕으로 글로벌 규제기관과 다음 단계 논의 예정, 구체적 수치는 미공개.\nAvidity 인수 정당성 확보 및 RNA-기반 근이영양증 치료제 개발 경쟁 가속화 신호.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "근이영양증 P1/2 임상 결과로 사용자 연구 분야(ferritin, ADC, protein design)와 직접 관련 없음",
+      "processed_at": "2026-06-13T00:12:32.516855+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug",
+      "link": "https://www.fiercebiotech.com/medtech/guardant-health-nabs-fda-test-approval-find-patients-boehringers-new-cancer-drug",
+      "summary_en": "Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.",
+      "published": "2026-06-12T02:32:00+00:00",
+      "korean_summary": "Guardant Health의 액체생검 검사 Guardant360 CDx가 FDA 승인을 받아 Boehringer Ingelheim의 신규 항암제 Hernexeos의 동반진단으로 지정.\n액체생검 기반 CDx로 환자 선별 가능, 구체적 적응증 및 바이오마커 타깃은 KRAS 관련 암종.\n동반진단-신약 연계 전략이 항암제 시장 진입의 표준화된 경로로 자리잡는 흐름.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "액체생검 동반진단 FDA 승인 뉴스로, 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 관련 없음",
+      "processed_at": "2026-06-13T00:12:38.646497+00:00"
+    }
+  ],
+  "overall": [
+    "Novartis는 120억 달러에 인수한 Avidity의 근이영양증 치료제가 1/2상에서 긍정적 결과를 내며 규제기관과의 협의 단계에 진입했다.",
+    "Guardant Health는 Boehringer Ingelheim의 신규 항암제 환자 선별을 위한 동반진단 검사에서 FDA 승인을 획득했다.",
+    "바이오텍 IPO 시장은 연속적인 기록 경신 상장으로 단기 현상이 아닌 구조적 회복세로 평가받고 있다."
+  ]
+}
