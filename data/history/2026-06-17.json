@@ -1,0 +1,107 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T00:08:48.036756+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Amenable FDA review bodes well for Moderna's mRNA flu shot ahead of adcomm grilling",
+      "link": "https://www.fiercebiotech.com/biotech/amenable-fda-briefing-docs-bode-well-modernas-mrna-flu-shot-ahead-adcomm-grilling",
+      "summary_en": "With a panel of outside experts set to weigh in Thursday—and with a refusal-to-file fiasco with the FDA just barely in the rearview—Moderna and its contender for the United States’ first mRNA-based influenza vaccine are heading into a critical test this week.",
+      "published": "2026-06-16T14:28:00+00:00",
+      "korean_summary": "Moderna의 mRNA 기반 독감 백신이 FDA 자문위원회(adcomm) 심의를 앞두고 있음.\n최근 FDA의 filing 거부 사태를 극복하고 외부 전문가 패널 검토 단계 진입.\n미국 최초 mRNA 독감 백신 승인 여부가 결정될 중요한 분기점.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "mRNA 백신 규제 동향이나 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거리가 멈",
+      "processed_at": "2026-06-17T00:08:06.272762+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Eli Lilly’s M&A spree continues with acquisition of non-opioid pain drugmaker 4E",
+      "link": "https://www.fiercebiotech.com/biotech/eli-lilly-ma-spree-continues-acquisition-non-opioid-pain-drugmaker-4e",
+      "summary_en": "Eli Lilly is taking another shot at the pain market, continuing a recent M&A binge that shows no signs of slowing down.",
+      "published": "2026-06-16T14:06:00+00:00",
+      "korean_summary": "Eli Lilly가 비오피오이드 진통제 개발사 4E Therapeutics를 인수하며 M&A 행보 지속.\n구체적 딜 규모는 미공개, 비오피오이드 통증 치료제 파이프라인 확보 목적.\nLilly의 연속 M&A 전략이 통증 시장 재진입 의지를 보여줌.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "빅파마 M&A 뉴스, 사용자 연구 분야(단백질 설계/ADC/나노의약)와 무관",
+      "processed_at": "2026-06-17T00:08:11.145872+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "PE firm Altaris scoops up AI drug development outfit Simulations Plus for $375M",
+      "link": "https://www.fiercebiotech.com/biotech/pe-firm-altaris-scoops-ai-drug-development-outfit-simulations-plus-375m",
+      "summary_en": "As biopharma companies of all stripes devote more time and attention to AI-based drug discovery and development, healthcare PE firm Altaris is bolstering its presence in the field through M&A.",
+      "published": "2026-06-16T12:12:00+00:00",
+      "korean_summary": "헬스케어 PE 펀드 Altaris가 AI 신약개발 소프트웨어 기업 Simulations Plus를 3억 7500만 달러에 인수.\nSimulations Plus는 PK/PD 시뮬레이션 및 ADMET 예측 소프트웨어 전문 기업으로, AI 기반 신약개발 툴 시장 공략이 목적.\n바이오파마 AI 도구 시장에 PE 자본이 유입되는 흐름을 보여주는 사례.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "AI 신약개발 인접 분야이나 단백질 설계·ADC·나노의약 등 사용자 핵심 연구와 직접 연관성 낮음",
+      "processed_at": "2026-06-17T00:08:18.472285+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Edgewise data power rival to BMS and Cytokinetics toward phase 3",
+      "link": "https://www.fiercebiotech.com/biotech/edgewise-data-power-rival-bms-and-cytokinetics-toward-phase-3-despite-investor-doubts",
+      "summary_en": "Edgewise Therapeutics has reported phase 2 data on its cardiomyopathy prospect, keeping the biotech on track to start pivotal development of a would-be challenger to Bristol Myers Squibb and Cytokinetics.",
+      "published": "2026-06-16T10:16:00+00:00",
+      "korean_summary": "Edgewise Therapeutics가 심근병증 치료 후보물질의 P2 데이터를 발표.\nBMS(mavacamten)·Cytokinetics(aficamten)의 경쟁 약물로 P3 진입 궤도 유지.\n심근 미오신 억제제 시장 경쟁 심화, 차별화된 임상 데이터 확보가 관건.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "심근병증 소분자 치료제 P2 결과, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-06-17T00:08:22.845562+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Merck inks $510M biobucks data generation partnership with Protillion",
+      "link": "https://www.fiercebiotech.com/biotech/merck-inks-510m-biobucks-data-generation-partnership-protillion",
+      "summary_en": "AI drug design specialist Protillion has inked a $510 million biobucks collaboration and license agreement with Merck & Co. that brings together Protillion’s platform and Merck’s drug discovery expertise.",
+      "published": "2026-06-16T09:48:00+00:00",
+      "korean_summary": "Protillion이 Merck와 최대 5.1억 달러 규모의 AI 신약설계 협력 및 라이선스 계약 체결.\n계약은 Protillion의 AI 플랫폼과 Merck의 신약개발 역량을 결합한 데이터 생성 파트너십 형태.\n빅파마의 AI 기반 단백질/신약 설계 플랫폼 도입 가속화 트렌드를 반영.",
+      "category": "M&A",
+      "relevance_score": 4,
+      "relevance_reason": "AI 신약설계 플랫폼 딜로, de novo protein design 인접 영역이나 직접적 기술 연관성은 낮음",
+      "processed_at": "2026-06-17T00:08:27.711182+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Adaptive plots splitting Pfizer-partnered drug discovery unit from diagnostics business",
+      "link": "https://www.fiercebiotech.com/biotech/adaptive-plots-splitting-pfizer-partnered-drug-discovery-unit-diagnostics-business",
+      "summary_en": "Adaptive Biotechnologies is planning to separate its drug discovery and diagnostics businesses, outlining its intent to evaluate “strategic and structural alternatives” for the medicine wing of the company",
+      "published": "2026-06-16T09:02:00+00:00",
+      "korean_summary": "Adaptive Biotechnologies가 신약개발 부문과 진단 부문의 분리를 계획 발표.\nPfizer와 파트너십을 맺은 신약개발 유닛에 대해 '전략적·구조적 대안' 검토 예정.\n면역 레퍼토리 기반 신약개발 사업의 독립 또는 매각 가능성, 빅파마 파트너십 향방 주목.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "기업 구조 재편 뉴스로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-06-17T00:08:32.526430+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "FDA clears Dexcom’s Stelo OTC glucose monitor for use with children",
+      "link": "https://www.fiercebiotech.com/medtech/fda-clears-dexcoms-stelo-otc-glucose-monitor-use-children",
+      "summary_en": "The FDA gave the green light to Dexcom’s over-the-counter glucose monitor Stelo for children 2 years or older who don’t use insulin.",
+      "published": "2026-06-16T08:17:00+00:00",
+      "korean_summary": "FDA가 Dexcom의 OTC 혈당 모니터 Stelo를 2세 이상 소아에게 사용 승인.\n인슐린 비사용 소아 대상으로 적응증 확대, 처방전 없이 구매 가능한 CGM 기기.\n소아 당뇨 관리 시장에서 OTC CGM 접근성 확대 의미.",
+      "category": "임상결과",
+      "relevance_score": 0,
+      "relevance_reason": "혈당 모니터 기기 FDA 승인, 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-06-17T00:08:36.584322+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "iRhythm hit by cyberattack that compromised patient data, says operations unaffected",
+      "link": "https://www.fiercebiotech.com/medtech/irhythm-hit-cyberattack-has-found-no-impact-its-business",
+      "summary_en": "Medical device maker iRhythm has been hit by a cyberattack, but the company said the incident has not affected its core products, operations or ability to meet patient needs.",
+      "published": "2026-06-16T02:20:00+00:00",
+      "korean_summary": "의료기기 기업 iRhythm이 사이버 공격을 받아 환자 데이터가 유출됨.\n회사 측은 핵심 제품 및 운영에는 영향 없다고 밝혔으나 피해 규모는 미공개.\n의료기기 업계 사이버 보안 리스크를 재조명하는 사건.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "사이버 보안 사고로 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-06-17T00:08:40.643015+00:00"
+    }
+  ],
+  "overall": [
+    "Merck-Protillion $510M 데이터 생성 파트너십, Altaris의 Simulations Plus $375M 인수 등 AI·데이터 기반 신약개발 플랫폼에 대한 대형 투자가 집중되며 빅파마의 기술 확보 경쟁이 가속화됨",
+    "Eli Lilly의 4E Therapeutics 인수, Adaptive의 Pfizer 협력 신약개발 부문 분사 추진 등 포트폴리오 재편을 위한 M&A·구조조정이 복수의 빅파마에서 동시 진행됨",
+    "Moderna mRNA 독감 백신의 FDA 우호적 검토 및 Edgewise의 임상 데이터가 BMS·Cytokinetics 경쟁 약물 대비 3상 진입 근거를 확보하며 mRNA·심근 기전 분야 파이프라인 경쟁이 본격화됨"
+  ]
+}
