@@ -2175,5 +2175,19 @@
     "relevance_score": 0,
     "relevance_reason": "사이버 보안 사고로 사용자 연구 분야와 완전 무관",
     "processed_at": "2026-06-17T00:08:40.643015+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/uniqure-stock-surges-after-fda-u-turn-clears-path-gene-therapy-filing": {
+    "korean_summary": "uniQure의 헌팅턴병 유전자치료제에 대해 FDA가 기존 입장을 번복, 가속승인 신청 허용.\n이전에는 추가 임상 데이터를 요구했으나 현재 보유 데이터로 BLA 제출 가능 판정.\n희귀 신경질환 유전자치료제의 규제 경로 불확실성을 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "유전자치료제 FDA 규제 동향, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-06-18T00:06:19.258593+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/vedana-therapeutics-surfaces-46m-develop-next-gen-migraine-therapy": {
+    "korean_summary": "Vedana Therapeutics가 시리즈 A로 4,600만 달러를 조달하며 스텔스 모드에서 공개.\n피하주사 방식의 편두통 예방 항체 치료제 개발에 자금 투입 예정.\n편두통 예방 항체 시장(CGRP 계열 등) 경쟁 심화 속 신규 플레이어 등장.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "항체 치료제이나 편두통 적응증 중심, 사용자 연구 분야와 거리가 멀다",
+    "processed_at": "2026-06-18T00:06:24.471738+00:00"
   }
 }

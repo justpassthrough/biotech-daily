@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T00:06:29.670743+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "UniQure stock surges after FDA U-turn clears path to gene therapy filing",
+      "link": "https://www.fiercebiotech.com/biotech/uniqure-stock-surges-after-fda-u-turn-clears-path-gene-therapy-filing",
+      "summary_en": "The FDA has pulled a U-turn on uniQure’s Huntington’s disease gene therapy, giving the biotech the OK to file for accelerated approval after previously demanding data from another trial.",
+      "published": "2026-06-17T09:01:00+00:00",
+      "korean_summary": "uniQure의 헌팅턴병 유전자치료제에 대해 FDA가 기존 입장을 번복, 가속승인 신청 허용.\n이전에는 추가 임상 데이터를 요구했으나 현재 보유 데이터로 BLA 제출 가능 판정.\n희귀 신경질환 유전자치료제의 규제 경로 불확실성을 보여주는 사례.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "유전자치료제 FDA 규제 동향, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-06-18T00:06:19.258593+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Vedana Therapeutics surfaces with $46M to develop next generation of migraine prevention therapies",
+      "link": "https://www.fiercebiotech.com/biotech/vedana-therapeutics-surfaces-46m-develop-next-gen-migraine-therapy",
+      "summary_en": "Vedana Therapeutics has emerged from stealth with $46 million in series A financing aimed at advancing the company’s subcutaneously delivered antibodies for migraine prevention.",
+      "published": "2026-06-17T08:53:00+00:00",
+      "korean_summary": "Vedana Therapeutics가 시리즈 A로 4,600만 달러를 조달하며 스텔스 모드에서 공개.\n피하주사 방식의 편두통 예방 항체 치료제 개발에 자금 투입 예정.\n편두통 예방 항체 시장(CGRP 계열 등) 경쟁 심화 속 신규 플레이어 등장.",
+      "category": "기타",
+      "relevance_score": 2,
+      "relevance_reason": "항체 치료제이나 편두통 적응증 중심, 사용자 연구 분야와 거리가 멀다",
+      "processed_at": "2026-06-18T00:06:24.471738+00:00"
+    }
+  ],
+  "overall": [
+    "UniQure, FDA 입장 번복으로 유전자치료제 허가 신청 길 열리며 주가 급등",
+    "Vedana Therapeutics, 차세대 편두통 예방 치료제 개발을 위해 4,600만 달러 시드 자금 확보하며 신규 출범",
+    "유전자치료제 규제 환경 변화와 신경계 질환 분야 초기 투자 유입이 동시에 나타나며 희귀·신경질환 중심의 자금 흐름 형성"
+  ]
+}
