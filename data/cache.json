@@ -2189,5 +2189,40 @@
     "relevance_score": 2,
     "relevance_reason": "항체 치료제이나 편두통 적응증 중심, 사용자 연구 분야와 거리가 멀다",
     "processed_at": "2026-06-18T00:06:24.471738+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/moderna-mflusiva-advisory-committee-fda": {
+    "korean_summary": "Moderna의 mRNA 기반 독감 백신 후보가 FDA 자문위원회에서 만장일치 통과.\n구체적 투표 결과는 공개되지 않았으나 만장일치로 긍정적 권고 획득.\nCOVID 이후 mRNA 플랫폼의 독감 시장 확장 가능성을 보여주는 중요 이정표.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "mRNA 백신 임상 결과로, 사용자의 단백질 나노케이지/ADC 연구와 직접 관련성 낮음",
+    "processed_at": "2026-06-19T00:19:21.732469+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/campfield-harvests-180m-series-advance-oral-ibd-drug-licensed-newsoara": {
+    "korean_summary": "cAMPfield Therapeutics가 시리즈 A로 1억 8천만 달러를 조달하며 출범.\n중국 Newsoara로부터 라이선스한 경구용 IBD 치료제 개발에 집중, 중국발 'NewCo' 모델 기반.\n중국 바이오텍 자산의 글로벌 상업화 트렌드(NewCo 모델) 지속 확산.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "경구 IBD 치료제 펀딩 뉴스로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-06-19T00:19:26.374384+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/kardigan-buttons-400m-upsized-ipo-power-heart-drugs-toward-phase-3": {
+    "korean_summary": "심혈관 질환 바이오텍 Kardigan이 IPO를 통해 4억 달러 조달, 당초 예상 대비 14% 초과.\n공모 규모 확대 및 목표 범위 상단 달성, Phase 3 진입 자금 확보 목적.\n심혈관 분야 바이오텍 IPO 시장 수요 건재함을 보여주는 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "심혈관 바이오텍 IPO 펀딩 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-06-19T00:19:30.658637+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/novocure-device-fails-help-brain-cancer-patients-survival-phase-3-test": {
+    "korean_summary": "Novocure의 종양 치료 전기장(TTFields) 장치가 교모세포종 P3 임상에서 1차 평가변수 미달.\n뇌암 환자 생존율 개선 실패, 구체적 생존 데이터는 미공개.\n기존 표준치료 대비 TTFields 추가 효과 입증 실패로 기기 기반 종양 치료 전략에 의문.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "전기장 기반 의료기기 임상 실패, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-06-19T00:19:35.195769+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/biogen-inks-1b-raythera-buyout-bag-preclinical-immunology-assets": {
+    "korean_summary": "Biogen이 면역학 전문 바이오테크 RayThera를 최대 10억 달러에 인수 계약 체결.\n파이프라인은 임상 진입 직전 단계의 항염증 후보물질 중심, 딜 구조는 백로드(마일스톤 중심).\n빅파마의 면역학 파이프라인 확충 전략, 전임상 자산에도 대형 딜 성사.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "면역학 M&A 딜로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관성 낮음",
+    "processed_at": "2026-06-19T00:19:40.949685+00:00"
   }
 }
