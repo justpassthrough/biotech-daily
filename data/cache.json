@@ -2224,5 +2224,12 @@
     "relevance_score": 2,
     "relevance_reason": "면역학 M&A 딜로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관성 낮음",
     "processed_at": "2026-06-19T00:19:40.949685+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/fda-warning-slams-zoll-medical-multiple-quality-control-and-reporting-violations": {
+    "korean_summary": "FDA가 심폐·호흡기 의료기기 제조사 Zoll Medical에 경고서한 발송.\n다수의 품질관리 및 의료기기 보고 위반 사항이 적시됨.\n의료기기 규제 준수 이슈로, 신약 연구와는 무관한 사안.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "의료기기 품질관리 규제 이슈로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-06-19T23:58:49.277987+00:00"
   }
 }
