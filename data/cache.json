@@ -2231,5 +2231,54 @@
     "relevance_score": 0,
     "relevance_reason": "의료기기 품질관리 규제 이슈로 사용자 연구 분야와 완전 무관",
     "processed_at": "2026-06-19T23:58:49.277987+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/exelixis-cabometyx-successor-fails-primary-endpoint-colorectal-cancer-trial-amid-fda-review": {
+    "korean_summary": "Exelixis의 차세대 신약 후보 zanzalintinib이 대장암 임상에서 1차 평가변수 달성 실패.\nFDA 심사는 진행 중이며, 일부 애널리스트는 승인 가능성이 여전히 있다고 평가.\nCabometyx 후속 파이프라인의 임상 불확실성이 부각된 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "소분자 항암제 임상 실패 뉴스로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-06-22T23:59:13.657672+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/federal-health-agencies-announce-plan-speed-phase-1-clinical-trials-6-12-months": {
+    "korean_summary": "미국 HHS가 Phase 1 임상시험 기간을 6~12개월 단축하는 계획을 발표.\n중국의 급성장하는 초기 임상 개발 역량에 대응하기 위한 일련의 조치 포함.\nBIO International Convention 개막에 맞춰 발표, 미국 임상 규제 환경 변화 신호.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "임상 규제 정책 뉴스로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-06-22T23:59:18.612248+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/another-reversal-rare-disease-fda-reconsider-regenxbio-gene-therapy": {
+    "korean_summary": "FDA가 Regenxbio의 희귀 소아질환 대상 유전자치료제에 대해 재심사 결정.\n약 4개월 전 거절 이후 번복, 새 FDA 리더십 하에서 희귀질환 심사 기조 완화 신호.\nFDA 규제 환경 변화가 유전자치료제 분야 전반에 미치는 영향 주목.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "유전자치료제 FDA 규제 동향, 사용자 연구 분야와 직접 관련성 낮음",
+    "processed_at": "2026-06-22T23:59:23.413748+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/mercks-anti-tl1a-antibody-prometheus-buyout-passes-ph-3-test-ulcerative-colitis": {
+    "korean_summary": "Merck가 110억 달러에 인수한 Prometheus Biosciences의 anti-TL1A 항체가 궤양성 대장염 P3 임상 통과.\n구체적 수치는 미공개이나 P3 1차 평가변수 충족 확인.\nTL1A 타깃 경쟁(AbbVie 등)이 치열한 IBD 시장에서 Merck의 입지 강화.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "항체 치료제 임상 결과이나 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관성 낮음",
+    "processed_at": "2026-06-22T23:59:28.763238+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/sanofi-pangaea-ink-partnership-deal-detect-underdiagnosed-genetic-disease": {
+    "korean_summary": "Sanofi와 Pangaea Data가 AI 기반 Alpha-1 Antitrypsin Deficiency(AATD) 조기 진단 파트너십 체결.\n의료 시스템 및 저소득 지역 클리닉에 AI 진단 플랫폼 배포 예정, 딜 규모 미공개.\n희귀 유전질환 진단 격차 해소를 위한 AI 활용 사례, 신약 개발보다는 진단 영역 협력.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "AI 진단 파트너십으로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-06-22T23:59:33.444184+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/abbvie-inks-109b-apogee-buyout-bag-hotly-tipped-eczema-prospect": {
+    "korean_summary": "AbbVie가 Apogee Therapeutics를 109억 달러에 인수하는 딜 체결.\nApogee의 후기 임상 단계 아토피 피부염(eczema) 후보물질 확보가 핵심, Lilly·Regeneron·Sanofi와 경쟁 구도.\n빅파마의 면역질환 파이프라인 강화 흐름, 아토피 치료제 시장 경쟁 심화.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 M&A 딜이나 면역질환 항체 치료제 영역으로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-06-22T23:59:38.342572+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/sanofi-replaces-rd-chief-new-ceo-seeks-kickstart-pipeline": {
+    "korean_summary": "Sanofi 신임 CEO Belén Garijo가 R&D 수장 교체를 단행.\nHouman Ashrafian 퇴임, Roche 출신 Paulo Fontoura가 R&D 총괄로 임명.\nSanofi 파이프라인 부진 타개를 위한 리더십 개편, 전략 방향 변화 가능성.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 임원 인사 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-06-22T23:59:43.162535+00:00"
   }
 }
