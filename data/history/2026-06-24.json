@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-23T23:48:28.237440+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Discreet biotech Osanni Bio starts making noise with $190M series B for clinical push",
+      "link": "https://www.fiercebiotech.com/biotech/discreet-biotech-osanni-bio-starts-making-noise-190m-series-b-clinical-push",
+      "summary_en": "An under-the-radar Bay Area biotech has brought in a $190 million series B with the goal of hatching a clutch of new companies to fly its drug candidates forward.",
+      "published": "2026-06-23T14:11:00+00:00",
+      "korean_summary": "Bay Area 소재 스텔스 바이오텍 Osanni Bio가 시리즈 B로 1억 9천만 달러 조달.\n복수의 신규 스핀아웃 회사 설립을 통해 파이프라인 후보물질의 임상 진입을 목표로 함.\n구체적 모달리티나 기술 플랫폼 정보 미공개, 펀딩 규모만 확인된 초기 단계 공시.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "단순 펀딩 뉴스, 기술 플랫폼 정보 없어 사용자 연구 분야와 연관성 없음",
+      "processed_at": "2026-06-23T23:48:03.584638+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Serapha Bio takes flight from Boundless merger with $230M and gene-editing prospect from China",
+      "link": "https://www.fiercebiotech.com/biotech/serapha-bio-takes-flight-boundless-merger-230m-and-gene-editing-prospect-china",
+      "summary_en": "The focus of the company is SERP-01, an in vivo base editing program targeting AATD developed in China and licensed from YolTech Therapeutics.",
+      "published": "2026-06-23T12:57:00+00:00",
+      "korean_summary": "Serapha Bio가 Boundless와의 합병을 통해 2억 3천만 달러를 확보하며 출범.\nSERP-01은 중국 YolTech Therapeutics로부터 라이선스한 AATD 대상 in vivo base editing 프로그램.\nbase editing 기술의 중국→미국 기술 이전 및 유전자편집 치료제 파이프라인 확장 사례.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "유전자 편집 기반 신약 딜, 사용자 연구 분야(단백질 전달/ADC)와 거리 있음",
+      "processed_at": "2026-06-23T23:48:08.448137+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Sangamo to put ‘substantially all’ assets for sale in bankruptcy, lines up Lilly and Astellas as buyers",
+      "link": "https://www.fiercebiotech.com/biotech/sangamo-puts-substantially-all-assets-sale-bankruptcy-lines-lilly-and-astellas-buyers",
+      "summary_en": "Eli Lilly and Astellas have emerged as “stalking horse bidders” for certain assets as part of Sangamo’s bankruptcy process.",
+      "published": "2026-06-23T10:59:00+00:00",
+      "korean_summary": "Sangamo Therapeutics가 파산 절차에서 실질적으로 모든 자산을 매각 추진.\nEli Lilly와 Astellas가 특정 자산에 대한 stalking horse bidder로 등장.\n유전자 치료 선구 기업의 파산은 해당 모달리티 시장 재편 신호.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "유전자치료 기업 파산/자산매각 뉴스, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-06-23T23:48:13.123926+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Merck KGaA pledges $50M to build new cardio biotech with eye to later acquisition",
+      "link": "https://www.fiercebiotech.com/biotech/merck-kgaa-pledges-50m-build-new-cardio-biotech-eye-later-acquisition",
+      "summary_en": "Merck KGaA has committed $50 million to build a new biotech with prolific life science investor Versant Ventures, with the ultimate goal of devouring the NewCo down the line.",
+      "published": "2026-06-23T10:07:00+00:00",
+      "korean_summary": "Merck KGaA가 Versant Ventures와 공동으로 심혈관 분야 신규 바이오텍 설립에 5천만 달러 투자 약정.\n향후 해당 NewCo 인수를 목표로 한 전략적 파트너십 구조.\n빅파마의 심혈관 파이프라인 강화를 위한 벤처 빌딩 모델 활용 사례.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "심혈관 바이오텍 설립 딜로, 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+      "processed_at": "2026-06-23T23:48:17.702102+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "FDA issues early alert for J&J’s Abiomed catheter introducer over manufacturing issues, bleeding risk",
+      "link": "https://www.fiercebiotech.com/medtech/fda-issues-early-alert-jjs-abiomed-catheter-introducer-amid-bleeding-risk",
+      "summary_en": "The FDA has sent out an early alert to J&J’s Abiomed unit and its manufacturing partner, Oscor, for their catheter introducer kits that are used with Impella heart pumps amid manufacturing concerns.",
+      "published": "2026-06-23T04:01:00+00:00",
+      "korean_summary": "FDA가 J&J 산하 Abiomed와 제조 파트너 Oscor의 카테터 삽입기 키트에 대해 조기 경보 발령.\n심장 보조 장치 Impella와 함께 사용되는 제품으로, 제조 공정 문제 및 출혈 위험이 원인.\n의료기기 제조 품질 이슈로 인한 FDA 규제 리스크 사례.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "의료기기 제조 규제 이슈로 사용자 연구 분야와 무관",
+      "processed_at": "2026-06-23T23:48:22.016650+00:00"
+    }
+  ],
+  "overall": [
+    "Serapha Bio($230M)·Osanni Bio($190M) 등 초기 바이오텍의 대형 시리즈B 펀딩이 잇따르며 임상 단계 진입을 위한 자금 조달 활발",
+    "Sangamo가 파산 절차에서 Lilly·Astellas를 인수 후보로 지목하며 자산 매각을 추진, 재정난 바이오텍의 빅파마 흡수 흐름 가속",
+    "Merck KGaA의 $50M 심혈관 바이오텍 설립 및 Serapha Bio의 중국발 유전자편집 자산 확보 등 전략적 M&A·파트너십을 통한 파이프라인 외부 조달 기조 지속"
+  ]
+}
