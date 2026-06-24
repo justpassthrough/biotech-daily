@@ -1,0 +1,119 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-24T23:57:59.301714+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Spurned by FDA, Passage Bio finds exit through merger with Remix",
+      "link": "https://www.fiercebiotech.com/biotech/spurned-fda-passage-bio-finds-exit-through-merger-remix",
+      "summary_en": "Passage Bio, the Philadelphia-based gene therapy outfit that launched a strategic review earlier this year after tough feedback from the FDA, has found an exit in an all-stock reverse merger with RNA specialist Remix Therapeutics.",
+      "published": "2026-06-24T17:09:00+00:00",
+      "korean_summary": "Passage Bio가 FDA의 부정적 피드백 이후 전략적 검토를 거쳐 RNA 전문기업 Remix Therapeutics와 전액 주식 교환 방식의 역합병 계약 체결.\n유전자치료 기업이 RNA 모달리티 기업과 합병하는 구조로, 구체적 딜 규모는 미공개.\nFDA 규제 장벽에 막힌 유전자치료 기업의 피벗 사례로, 모달리티 전환 트렌드 반영.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "유전자치료/RNA 합병 뉴스로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 거리가 멀다",
+      "processed_at": "2026-06-24T23:57:09.392093+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Icon names Microsoft tech partner as Q1 results grow analyst confidence",
+      "link": "https://www.fiercebiotech.com/cro/icon-names-microsoft-tech-partner-q1-results-grow-analyst-confidence",
+      "summary_en": "Irish CRO giant Icon this week made Microsoft its technology partner as the organization advances its plan to increase investment in AI over the next three years. Microsoft’s Copilot and data infrastructure will be implemented enterprise-wide to further scale Icon’s agentic AI platform, Orbis.",
+      "published": "2026-06-24T15:11:00+00:00",
+      "korean_summary": "아일랜드 CRO 기업 Icon이 Microsoft를 공식 기술 파트너로 선정.\nMicrosoft Copilot 및 데이터 인프라를 전사 도입, 자체 AI 플랫폼 Orbis 확장 목적.\nCRO 업계의 AI 도입 가속화 흐름, 신약개발 효율화와 간접 연관.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "CRO의 IT 파트너십 뉴스로 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-06-24T23:57:14.198250+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Mapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief",
+      "link": "https://www.fiercebiotech.com/biotech/mapp-gilead-antivirals-be-deployed-drc-ebola-trial-who-chief",
+      "summary_en": "Officials are planning to study Mapp Biopharmaceutical’s MBP134 and Gilead Sciences’ remdesivir, which gained prominence during the COVID-19 pandemic, against the Bundibugyo ebolavirus.",
+      "published": "2026-06-24T14:51:00+00:00",
+      "korean_summary": "WHO가 콩고민주공화국(DRC) 에볼라 발생 대응으로 항바이러스제 임상 투입 계획 발표.\nMapp Biopharmaceutical의 MBP134(항체 칵테일)와 Gilead의 remdesivir를 Bundibugyo 에볼라바이러스 대상으로 연구 예정.\n기존 COVID-19 치료제의 에볼라 적응증 확장 시도, 감염병 대응 플랫폼 활용 사례.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "감염병 항바이러스 임상 뉴스로 사용자 연구 분야(나노케이지, ADC, 단백질 설계)와 거의 무관",
+      "processed_at": "2026-06-24T23:57:20.293664+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "RQ Bio reels in $115M to take long-acting flu prevention antiviral into clinic",
+      "link": "https://www.fiercebiotech.com/biotech/rq-bio-reels-115m-take-long-acting-flu-prevention-antiviral-clinic",
+      "summary_en": "Amid a bustling fundraising week for biotechs, the U.K.’s RQ Bio is adding $115 million to its coffers to advance a long-acting antibody for flu prevention.",
+      "published": "2026-06-24T09:28:00+00:00",
+      "korean_summary": "영국 바이오텍 RQ Bio가 시리즈 B로 1억 1,500만 달러 조달.\n장기 지속형 항체 기반 독감 예방 항바이러스제의 임상 진입 자금으로 활용 예정.\n항체 치료제 분야 펀딩 활발, 독감 예방 시장 경쟁 심화.",
+      "category": "기타",
+      "relevance_score": 2,
+      "relevance_reason": "항체 기반 치료제이나 ferritin/ADC/단백질 설계와 직접 연관성 없는 펀딩 뉴스",
+      "processed_at": "2026-06-24T23:57:25.651409+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Novartis pays Antares $105M to illuminate undruggable cancer targets",
+      "link": "https://www.fiercebiotech.com/biotech/novartis-pays-antares-105m-illuminate-undruggable-cancer-targets",
+      "summary_en": "Novartis is paying Antares Therapeutics $105 million upfront in a deal worth up to $1.9 billion to generate small molecules against historically undruggable oncology targets.",
+      "published": "2026-06-24T09:14:00+00:00",
+      "korean_summary": "Novartis가 Antares Therapeutics와 최대 19억 달러 규모의 파트너십 체결, 선급금 1.05억 달러 지급.\n역사적으로 druggable하지 않았던 종양학 타깃에 대한 소분자 화합물 개발이 목표.\n'undruggable' 타깃 공략 기술의 빅파마 투자 가속화를 보여주는 딜.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "소분자 기반 oncology 딜로, 사용자의 단백질 나노케이지/ADC/de novo 설계 연구와 직접 연관성 낮음",
+      "processed_at": "2026-06-24T23:57:32.979036+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Abbott pens blood-based Alzheimer's testing pact with ALZpath",
+      "link": "https://www.fiercebiotech.com/medtech/abbott-pens-blood-based-alzheimers-testing-pact-alzpath",
+      "summary_en": "Abbott has become the latest company to team up with Alzheimer’s disease blood test developer ALZpath.",
+      "published": "2026-06-24T09:03:00+00:00",
+      "korean_summary": "Abbott이 알츠하이머 혈액 기반 진단 기업 ALZpath와 파트너십 체결.\n계약 규모 및 구체적 조건은 공개되지 않았으며, 혈액 바이오마커 기반 AD 진단 플랫폼 협력이 핵심.\n체외진단 시장에서 혈액 기반 알츠하이머 조기진단 경쟁 가속화.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "알츠하이머 진단 파트너십으로 사용자 연구 분야와 무관",
+      "processed_at": "2026-06-24T23:57:37.885080+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Eli Lilly reunites with Abbisko in $1.9B, multiple target R&D pact",
+      "link": "https://www.fiercebiotech.com/biotech/eli-lilly-reunites-abbisko-19b-multitarget-rd-pact",
+      "summary_en": "Eli Lilly has expanded its relationship with Abbisko Therapeutics, committing up to $1.9 billion to get the Chinese biotech to apply its drug discovery and early development capabilities to multiple targets.",
+      "published": "2026-06-24T07:48:00+00:00",
+      "korean_summary": "Eli Lilly가 중국 바이오텍 Abbisko Therapeutics와 최대 19억 달러 규모의 다중 타깃 R&D 파트너십 체결.\n계약 규모 19억 달러(마일스톤 포함), Abbisko의 신약 발굴 및 초기 개발 역량 활용이 핵심.\n빅파마의 중국 바이오텍 활용 전략 지속, 초기 파이프라인 외부 조달 트렌드 반영.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "빅파마 R&D 파트너십 딜로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 관련 없음",
+      "processed_at": "2026-06-24T23:57:42.962075+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Insulet hires Convatec, Eli Lilly alum as new R&D chief",
+      "link": "https://www.fiercebiotech.com/medtech/insulet-hires-convatec-eli-lilly-alum-new-rd-chief",
+      "summary_en": "Omnipod maker Insulet has hired Divakar Ramakrishnan, Ph.D., as its new Chief Research and Development Officer.",
+      "published": "2026-06-24T03:02:00+00:00",
+      "korean_summary": "인슐렛(Omnipod 제조사)이 Convatec·Eli Lilly 출신 Divakar Ramakrishnan 박사를 새 R&D 총괄로 영입.\n구체적 파이프라인 변화나 기술 발표 없이 임원 인사만 공개.\n당뇨 기기 기업의 인사 이동으로 연구 분야와 무관.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "임원 인사 뉴스, 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-06-24T23:57:47.535450+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "BIO 2026: Flagship inks research collaboration with Saudi sovereign wealth fund company",
+      "link": "https://www.fiercebiotech.com/biotech/bio-2026-flagship-inks-research-collaboration-saudi-sovereign-wealth-fund-company",
+      "summary_en": "On Tuesday afternoon at the 2026 Biotechnology Innovation Organization conference in San Diego, Flagship Pioneering announced a research collaboration with Lean Business Services within the well-appointed Saudi Arabia pavilion in the heart of the conference’s exhibition floor.",
+      "published": "2026-06-24T02:41:00+00:00",
+      "korean_summary": "Flagship Pioneering가 사우디 국부펀드 계열사 Lean Business Services와 연구 협력 체결.\n2026 BIO 컨퍼런스(샌디에고)에서 발표, 구체적 딜 규모나 연구 분야는 미공개.\n중동 자본의 바이오텍 투자 확대 흐름의 일환으로 해석 가능.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "사용자 연구 분야와 무관한 일반 파트너십 발표",
+      "processed_at": "2026-06-24T23:57:52.102265+00:00"
+    }
+  ],
+  "overall": [
+    "Passage Bio-Remix 합병, Novartis의 Antares $105M 인수, Eli Lilly-Abbisko $1.9B R&D 계약 등 M&A·파트너십 딜이 하루 사이 집중되며 빅파마 중심의 외부 자산 확보 경쟁이 가속화됨",
+    "RQ Bio가 $115M 시리즈 펀딩으로 장기지속형 독감 예방 항바이러스제 임상 진입을 준비하는 등 감염병 분야 초기 파이프라인에 대형 자본이 유입됨",
+    "WHO 주도 DRC 에볼라 임상에 Mapp·Gilead 항바이러스제가 투입되는 등 공중보건 위기 대응을 위한 기존 승인/개발 자산의 긴급 활용이 재부상함"
+  ]
+}
