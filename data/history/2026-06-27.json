@@ -1,0 +1,59 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-26T23:53:43.412949+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Epicrispr gene silencer is 1st drug to boost muscle in form of muscular dystrophy, biotech says",
+      "link": "https://www.fiercebiotech.com/biotech/epicrispr-gene-silencer-becomes-first-enhance-muscle-form-muscular-dystrophy",
+      "summary_en": "Epicrispr Biotechnologies has used its gene silencing tech to boost muscle mass in three patients with facioscapulohumeral muscular dystrophy, a clinical first for the debilitating disease with no approved treatments.",
+      "published": "2026-06-26T10:33:00+00:00",
+      "korean_summary": "Epicrispr Biotechnologies가 자사 유전자 침묵 기술로 안면견갑상완 근이영양증(FSHD) 환자 3명에서 근육량 증가 확인.\nFSHD 대상 최초의 임상 효능 신호, 현재 승인된 치료제 없는 질환.\n에피게놈 기반 유전자 침묵 기술의 임상 가능성을 처음 입증한 사례.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "유전자 침묵 기술 임상 결과, 사용자 연구 분야(단백질 전달/ADC/나노케이지)와 직접 연관성 낮음",
+      "processed_at": "2026-06-26T23:53:23.071064+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Biogen ends Apellis research programs, cuts ‘small number’ of roles after $5.6B buyout",
+      "link": "https://www.fiercebiotech.com/biotech/biogen-ends-apellis-research-programs-cuts-small-number-roles-after-56b-buyout",
+      "summary_en": "Biogen isn’t wasting any time integrating its multibillion-dollar purchase of Apellis, revealing plans to part ways with some of the biotech’s staffers and halt work on most of its research programs.",
+      "published": "2026-06-26T09:25:00+00:00",
+      "korean_summary": "Biogen이 56억 달러에 인수한 Apellis의 연구 프로그램 대부분을 중단하고 일부 인력을 감축.\n구체적 감원 규모는 '소수(small number)'로만 공개, 중단 대상 프로그램 수는 미공개.\nM&A 후 파이프라인 정리 및 구조조정의 전형적 패턴, 보체 억제제 분야 집중 전략 시사.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "빅파마 M&A 후 구조조정 뉴스, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-06-26T23:53:27.977011+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Moderna enters in vivo CAR-T, granting autoimmune asset ‘007’ license to kill pathogenic cells",
+      "link": "https://www.fiercebiotech.com/biotech/moderna-enters-vivo-car-t-granting-autoimmune-asset-007-license-kill-pathogenic-cells",
+      "summary_en": "Moderna has unveiled its first in vivo CAR-T program. Building on other groups’ ex vivo CAR-T data, the company plans to start clinical development of an off-the-shelf autoimmune disease prospect, dubbed “007,” next year.",
+      "published": "2026-06-26T08:36:00+00:00",
+      "korean_summary": "Moderna가 첫 번째 in vivo CAR-T 프로그램 '007'을 공개, 자가면역질환 타깃.\n기존 ex vivo CAR-T 데이터를 기반으로 off-the-shelf 방식, 내년 임상 개시 예정.\nmRNA 기반 in vivo CAR-T는 제조 복잡성 해소 가능성으로 주목받는 신흥 모달리티.",
+      "category": "모달리티",
+      "relevance_score": 3,
+      "relevance_reason": "in vivo CAR-T 신규 모달리티이나 ferritin/ADC/단백질 설계 연구와 직접 연관성 낮음",
+      "processed_at": "2026-06-26T23:53:33.306579+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Cardiac medtech HeartBeam drops CEO in restructuring aimed at global ECG platform push",
+      "link": "https://www.fiercebiotech.com/medtech/cardiac-medtech-heartbeam-drops-ceo-eno-part-corporate-restructuring",
+      "summary_en": "HeartBeam, the maker of a cable-free ECG system, moved CEO Robert Eno into a consulting role as part of a corporate restructuring aimed at expanding the company’s global market reach.",
+      "published": "2026-06-26T07:41:00+00:00",
+      "korean_summary": "심장 의료기기 기업 HeartBeam이 CEO Robert Eno를 컨설팅 역할로 전환하는 구조조정 단행.\n무선 ECG 시스템의 글로벌 시장 확장을 목표로 한 경영진 개편.\n심장 의료기기 섹터의 경영 변화, 사용자 연구 분야와 무관.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "심장 의료기기 CEO 교체 뉴스, 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-06-26T23:53:37.534095+00:00"
+    }
+  ],
+  "overall": [
+    "Epicrispr의 유전자 침묵 기술이 근이영양증 환자 대상 임상에서 근육량 증가를 최초로 입증하며 유전자치료 임상 성과가 가시화됨",
+    "Moderna가 자가면역 타깃 in vivo CAR-T 자산 '007'의 라이선스를 체결하며 mRNA를 넘어 세포치료 모달리티로 파이프라인을 확장함",
+    "Biogen이 56억 달러에 인수한 Apellis의 연구 프로그램을 종료하고 인력을 감축하며 빅파마의 대형 M&A 후 파이프라인 구조조정 기조가 이어짐"
+  ]
+}
