@@ -2378,5 +2378,26 @@
     "relevance_score": 1,
     "relevance_reason": "사용자 연구 분야와 무관한 일반 파트너십 발표",
     "processed_at": "2026-06-24T23:57:52.102265+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/otsuka-posts-phase-3b-adhd-trial-win-ahead-looming-fda-approval-decision": {
+    "korean_summary": "Otsuka의 ADHD 신약 후보가 Phase 3b 임상에서 1차 평가변수 달성.\nFDA 승인 결정을 앞두고 긍정적 데이터 확보, 미국 출시 가능성 강화.\nADHD 치료제 시장 경쟁 심화 속 Otsuka의 파이프라인 강화 신호.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "ADHD 소분자/신약 임상 결과로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-06-26T00:03:30.667746+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ionis-bags-30m-recordati-ex-us-rights-near-approval-rare-disease-prospect": {
+    "korean_summary": "Ionis Pharmaceuticals가 희귀질환 후보물질 zilganersen의 미국 외 지역 권리를 Recordati에 라이선스 아웃.\n계약금 3,000만 달러 수령, zilganersen은 승인 임박 단계의 희귀질환 치료제.\n빅파마/스페셜티 파마의 희귀질환 파이프라인 지역 권리 분할 전략의 일환.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "희귀질환 라이선싱 딜로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 무관",
+    "processed_at": "2026-06-26T00:03:35.857107+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/fda-drops-blood-pressure-device-enforcement-against-whoop": {
+    "korean_summary": "FDA가 웨어러블 기기 기업 Whoop에 대한 혈압 측정 기술 관련 단속 조사를 공식 종료.\nEnd of Enforcement 통지 발송으로 규제 조사 마무리, 구체적 제재 없이 종결.\n소비자 웨어러블 혈압 측정 기술의 FDA 규제 방향성에 대한 참고 사례.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "소비자 웨어러블 기기 FDA 규제 이슈로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-06-26T00:03:40.584330+00:00"
   }
 }
