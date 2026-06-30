@@ -2490,5 +2490,47 @@
     "relevance_score": 1,
     "relevance_reason": "혈액암 M&A 딜로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 관련 없음",
     "processed_at": "2026-06-29T23:53:02.518510+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/bain-backed-bone-specialist-angitia-drops-lead-spinal-fusion-candidate": {
+    "korean_summary": "Bain Capital 지원 골(骨) 전문 바이오텍 Angitia가 선도 척추유합 후보물질을 포기.\n4개월 전 1.3억 달러 펀딩 직후 파이프라인 재편, 초기 단계 2개 후보로 전략 전환.\n대규모 투자 직후 리드 에셋 포기는 임상/전임상 실패 신호로 해석 가능.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "골 질환 바이오텍 파이프라인 재편, 사용자 연구 분야와 무관",
+    "processed_at": "2026-06-30T23:57:06.693249+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/fda-gene-therapy-regulator-vijay-kumar-steps-down-leadership-role": {
+    "korean_summary": "FDA 유전자치료제 담당 부서 acting head Vijay Kumar가 1년 만에 사임.\n구체적 후임자 및 사임 사유는 공개되지 않음.\nFDA 유전자치료 규제 리더십 공백으로 심사 일정 불확실성 우려.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 인사 변동, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-06-30T23:57:11.248446+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/abivax-reverses-stock-drop-reassuring-safety-data-much-hyped-colitis-prospect": {
+    "korean_summary": "Abivax가 궤양성 대장염 치료 후보물질의 신규 안전성 데이터를 공개하며 주가 하락에서 회복.\n구체적 임상 수치는 미공개이나 투자자 우려를 완화하는 안전성 프로파일 제시.\n임상 단계 바이오텍의 안전성 데이터가 주가에 미치는 민감도를 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "궤양성 대장염 임상 안전성 데이터, 사용자 연구 분야와 무관",
+    "processed_at": "2026-06-30T23:57:15.917486+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/vistagen-fails-another-phase-3-social-anxiety-trial-spies-path-market": {
+    "korean_summary": "Vistagen의 사회불안장애 후보물질 fasedienol이 두 번째 P3 임상에서 실패.\n사후 하위집단 분석에서 명목상 통계적 유의성 확인, FDA와 단일 P3 + PALISADE 프로그램 기반 승인 경로 논의 예정.\n임상 실패 후 사후분석으로 승인 경로를 모색하는 전략, 규제 불확실성 높음.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "사회불안장애 P3 실패 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-06-30T23:57:20.828722+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/deerfields-boulevard-bio-pens-16b-deal-trispecific-tce-chinas-metis-techbio": {
+    "korean_summary": "Boulevard Bio(Deerfield 산하)가 중국 Metis TechBio의 삼중특이성 T세포 인게이저(TCE)에 대한 글로벌 권리 계약 체결.\n계약금 2천만 달러, 총 계약 규모 최대 16억 달러, 적응증은 자가면역질환.\n중국발 다중특이성 항체 기술의 글로벌 라이선싱 흐름 지속, TCE의 자가면역 적용 확대 신호.",
+    "category": "M&A",
+    "relevance_score": 3,
+    "relevance_reason": "다중특이성 항체 딜이나 ferritin/ADC/단백질 설계와 직접 연관성 낮음",
+    "processed_at": "2026-06-30T23:57:26.866203+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/praxis-faces-fda-delay-analysts-point-finger-agency-layoffs": {
+    "korean_summary": "Praxis Precision Medicine의 희귀 뇌전증 치료제 FDA 승인 결정이 3개월 지연됨.\nTD Cowen 애널리스트는 FDA 인력 감축으로 인한 심사 역량 부족이 주요 원인이라고 분석.\nFDA 구조조정이 신약 승인 일정에 실질적 영향을 미치기 시작했다는 산업적 신호.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 정책/행정 이슈로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-06-30T23:57:31.647085+00:00"
   }
 }
