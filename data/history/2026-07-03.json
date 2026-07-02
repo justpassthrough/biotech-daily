@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-02T23:55:11.988184+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Fosun pays $32M to join Lilly and Novartis in fiercely competitive psoriasis market",
+      "link": "https://www.fiercebiotech.com/biotech/fosun-pays-32m-join-lilly-and-novartis-fiercely-competitive-psoriasis-market",
+      "summary_en": "A Fosun Pharma subsidiary has paid Junshi Biosciences 215 million yuan ($32 million) for Chinese rights to a near-approval autoimmune disease drug candidate.",
+      "published": "2026-07-02T06:56:00+00:00",
+      "korean_summary": "Fosun Pharma 자회사가 Junshi Biosciences로부터 자가면역질환 후보물질의 중국 판권을 2억1500만 위안(약 3200만 달러)에 인수.\n해당 물질은 승인 임박 단계의 건선 치료제로, Lilly·Novartis가 이미 경쟁 중인 시장 진입 목표.\n중국 내 건선 치료제 시장 경쟁 심화, 로컬 파마의 라이선싱 전략 가속화.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "건선 치료제 라이선싱 딜로 사용자 연구 분야와 무관",
+      "processed_at": "2026-07-02T23:55:00.989570+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Roche orchestrates phase 3 KRAS lung cancer win over Amgen, BMS",
+      "link": "https://www.fiercebiotech.com/biotech/roche-orchestrates-phase-3-kras-lung-cancer-win-over-amgen-and-bristol-myers",
+      "summary_en": "Roche’s investigational KRAS G12C inhibitor has beaten Amgen’s Lumakras and Bristol Myers Squibb’s Krazati in a phase 3 trial, furthering its ambitions to establish divarasib as a new standard of care.",
+      "published": "2026-07-02T05:16:00+00:00",
+      "korean_summary": "Roche의 KRAS G12C 억제제 divarasib이 P3 임상에서 Amgen Lumakras, BMS Krazati를 능가하는 결과 발표.\nP3 시험에서 기존 승인 KRAS G12C 억제제 대비 우월한 효능 입증, 표준치료 지위 목표.\nKRAS 억제제 시장 경쟁 심화, Roche의 폐암 파이프라인 강화 신호.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "KRAS 표적 항암제 임상 결과, 사용자 연구 분야(나노케이지/ADC/단백질 설계)와 직접 관련 없음",
+      "processed_at": "2026-07-02T23:55:06.371344+00:00"
+    }
+  ],
+  "overall": [
+    "Roche가 KRAS 표적 폐암 3상에서 Amgen·BMS를 제치고 승리하며 KRAS 치료제 경쟁 구도가 재편되고 있음",
+    "Fosun이 $32M 투자로 건선 시장에 진입, Lilly·Novartis가 선점한 IL-17/IL-23 계열 경쟁이 글로벌로 확산되는 양상",
+    "M&A·라이선싱과 임상 데이터가 동시에 시장을 움직이며 면역·종양학 두 축 중심의 자본 집중 흐름이 뚜렷함"
+  ]
+}
