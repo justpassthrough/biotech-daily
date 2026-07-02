@@ -2532,5 +2532,33 @@
     "relevance_score": 1,
     "relevance_reason": "FDA 정책/행정 이슈로 사용자 연구 분야와 직접 관련 없음",
     "processed_at": "2026-06-30T23:57:31.647085+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/merck-halts-ph-2-alzheimers-trial-after-neuphoria-small-molecule-underwhelms": {
+    "korean_summary": "Merck가 파트너사 Neuphoria Therapeutics의 알츠하이머 소분자 치료제 P2 임상을 중단.\n중간 분석에서 효능 미달로 조기 종료, Neuphoria에 연속 타격.\n알츠하이머 소분자 치료제 개발의 높은 실패율을 재확인.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "알츠하이머 소분자 임상 실패, 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-02T00:00:47.125714+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/zimmer-biomet-buys-non-drug-pain-relief-system-pacira-140m": {
+    "korean_summary": "Pacira BioSciences가 냉각 치료 통증 완화 기기를 Zimmer Biomet에 최대 1.4억 달러에 매각.\n비약물성 통증 완화 기기 사업부 분리, Zimmer Biomet은 정형외과 medtech 포트폴리오 확장.\n제약사의 비핵심 사업 정리 및 medtech 전문화 트렌드 반영.",
+    "category": "M&A",
+    "relevance_score": 0,
+    "relevance_reason": "의료기기 M&A로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-07-02T00:00:52.128882+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ipsen-gets-memo-penning-eu700m-deal-buy-rare-disease-biotech-clinical-stage-asset": {
+    "korean_summary": "Ipsen이 희귀질환 바이오텍을 7억 유로에 인수하는 딜 체결.\n3일 만에 두 번째 바이오텍 인수로, 임상 단계 파이프라인 강화 목적.\n빅파마의 희귀질환 파이프라인 확충을 위한 M&A 가속화 흐름.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "희귀질환 M&A 딜로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-07-02T00:00:56.532226+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/backed-top-tier-vcs-stealthy-biotech-bags-alzecure-alzheimers-asset-12m-upfront": {
+    "korean_summary": "QuantumCell이 AlzeCure Pharma의 알츠하이머 플랫폼 및 선도 자산을 1,200만 달러 선불로 라이선스 계약 체결.\n총 계약 규모 최대 22억 달러, 해당 후보물질은 P2 진입 직전 단계.\n스텔스 바이오테크의 알츠하이머 자산 확보 딜로, 신경계 질환 라이선싱 시장 동향 반영.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "알츠하이머 라이선싱 딜로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-07-02T00:01:02.003860+00:00"
   }
 }

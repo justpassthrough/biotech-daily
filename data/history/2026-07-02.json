@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T00:01:09.744048+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Merck halts ph. 2 Alzheimer’s trial after Neuphoria small molecule underwhelms",
+      "link": "https://www.fiercebiotech.com/biotech/merck-halts-ph-2-alzheimers-trial-after-neuphoria-small-molecule-underwhelms",
+      "summary_en": "Merck & Co. has nixed the phase 2 study of a potential Alzheimer’s disease medicine after the drug underwhelmed in an interim analysis, marking another blow for the pharma’s struggling partner Neuphoria Therapeutics.",
+      "published": "2026-07-01T14:23:00+00:00",
+      "korean_summary": "Merck가 파트너사 Neuphoria Therapeutics의 알츠하이머 소분자 치료제 P2 임상을 중단.\n중간 분석에서 효능 미달로 조기 종료, Neuphoria에 연속 타격.\n알츠하이머 소분자 치료제 개발의 높은 실패율을 재확인.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "알츠하이머 소분자 임상 실패, 사용자 연구 분야와 무관",
+      "processed_at": "2026-07-02T00:00:47.125714+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Zimmer Biomet buys non-drug pain relief system from Pacira for up to $140M",
+      "link": "https://www.fiercebiotech.com/medtech/zimmer-biomet-buys-non-drug-pain-relief-system-pacira-140m",
+      "summary_en": "Pacira BioSciences offloaded its cold-therapy pain relief device to medtech orthopedics specialist Zimmer Biomet in a deal valued at up to $140 million.",
+      "published": "2026-07-01T08:00:00+00:00",
+      "korean_summary": "Pacira BioSciences가 냉각 치료 통증 완화 기기를 Zimmer Biomet에 최대 1.4억 달러에 매각.\n비약물성 통증 완화 기기 사업부 분리, Zimmer Biomet은 정형외과 medtech 포트폴리오 확장.\n제약사의 비핵심 사업 정리 및 medtech 전문화 트렌드 반영.",
+      "category": "M&A",
+      "relevance_score": 0,
+      "relevance_reason": "의료기기 M&A로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+      "processed_at": "2026-07-02T00:00:52.128882+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Ipsen gets the Memo, penning €700M deal to buy rare disease biotech for clinical-stage asset",
+      "link": "https://www.fiercebiotech.com/biotech/ipsen-gets-memo-penning-eu700m-deal-buy-rare-disease-biotech-clinical-stage-asset",
+      "summary_en": "Ipsen is on a roll this week, scooping up its second biotech in three days in order to firm up its pipeline with promising clinical-stage candidates.",
+      "published": "2026-07-01T07:38:00+00:00",
+      "korean_summary": "Ipsen이 희귀질환 바이오텍을 7억 유로에 인수하는 딜 체결.\n3일 만에 두 번째 바이오텍 인수로, 임상 단계 파이프라인 강화 목적.\n빅파마의 희귀질환 파이프라인 확충을 위한 M&A 가속화 흐름.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "희귀질환 M&A 딜로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 관련 없음",
+      "processed_at": "2026-07-02T00:00:56.532226+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Backed by top-tier VCs, stealthy biotech bags AlzeCure Alzheimer’s asset in $2.2B deal",
+      "link": "https://www.fiercebiotech.com/biotech/backed-top-tier-vcs-stealthy-biotech-bags-alzecure-alzheimers-asset-12m-upfront",
+      "summary_en": "QuantumCell has licensed AlzeCure Pharma’s Alzheimer’s disease platform and lead asset for $12 million upfront, bagging a potentially symptom-relieving drug candidate that is on the cusp of phase 2.",
+      "published": "2026-07-01T04:41:00+00:00",
+      "korean_summary": "QuantumCell이 AlzeCure Pharma의 알츠하이머 플랫폼 및 선도 자산을 1,200만 달러 선불로 라이선스 계약 체결.\n총 계약 규모 최대 22억 달러, 해당 후보물질은 P2 진입 직전 단계.\n스텔스 바이오테크의 알츠하이머 자산 확보 딜로, 신경계 질환 라이선싱 시장 동향 반영.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "알츠하이머 라이선싱 딜로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+      "processed_at": "2026-07-02T00:01:02.003860+00:00"
+    }
+  ],
+  "overall": [
+    "Ipsen의 €700M 희귀질환 바이오텍 인수, AlzeCure 알츠하이머 자산의 $2.2B 딜 등 임상단계 파이프라인을 겨냥한 대형 M&A가 하루 사이 연속 성사되며 바이오텍 인수 시장이 활발하게 가동 중",
+    "알츠하이머 치료제 개발 경쟁에서 Merck의 Neuphoria 소분자 후보물질이 2상에서 실패로 중단된 반면, VC 지원 스텔스 바이오텍은 AlzeCure 자산을 $2.2B에 확보하며 알츠하이머 분야 내 명암이 극명하게 엇갈림",
+    "Zimmer Biomet이 Pacira로부터 비약물성 통증 완화 시스템을 최대 $140M에 인수하며 오피오이드 대체 통증 관리 분야로의 포트폴리오 다각화 움직임도 포착됨"
+  ]
+}
