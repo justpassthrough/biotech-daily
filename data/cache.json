@@ -2574,5 +2574,19 @@
     "relevance_score": 2,
     "relevance_reason": "KRAS 표적 항암제 임상 결과, 사용자 연구 분야(나노케이지/ADC/단백질 설계)와 직접 관련 없음",
     "processed_at": "2026-07-02T23:55:06.371344+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/united-therapeutics-pays-140m-thymic-cell-therapy-startup": {
+    "korean_summary": "United Therapeutics가 흉선 재생 세포치료제 개발사 Thymmune Therapeutics를 1억 4천만 달러에 인수.\n전임상 단계의 흉선 기반 재생 세포치료 플랫폼 확보가 목적.\n세포치료제 분야 빅파마의 전임상 단계 조기 인수 전략 지속.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "세포치료제 M&A 딜로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거리가 멈",
+    "processed_at": "2026-07-03T23:55:55.660296+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/astrazeneca-pays-go-chinese-partner-cspc-30m-form-kidney-drug-discovery-pact": {
+    "korean_summary": "AstraZeneca가 중국 CSPC Pharmaceutical과 신장질환 신약 공동 발굴·개발 계약 체결.\n계약 규모 최대 17억 달러, 선급금 3천만 달러로 2개 후보물질 대상.\nAZ의 중국 파트너십 확대 전략 및 신장질환 파이프라인 강화 흐름.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "신장질환 빅파마 딜로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-03T23:56:00.457180+00:00"
   }
 }
