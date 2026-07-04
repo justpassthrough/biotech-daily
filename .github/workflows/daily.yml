@@ -47,3 +47,21 @@ jobs:
             git pull --rebase origin main || true
             git push
           fi
+
+      # 성공 시: 오늘 요약을 텔레그램으로. 이 메시지가 매일 오는 것 = 정상 신호.
+      - name: Notify success summary
+        if: success()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python notify_run.py
+
+      # 실패 시: 조용히 멈추지 않게 경고. API 잔액 소진·스크랩 오류 등을 즉시 알림.
+      - name: Notify on failure
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          pip install requests -q || true
+          python -c "from notify_telegram import send; send('⚠️ biotech-daily 실패 — 오늘 브리핑이 안 만들어졌습니다.\nAPI 잔액 소진/스크랩 오류 가능. Actions 로그 확인:\nhttps://github.com/justpassthrough/biotech-daily/actions')"

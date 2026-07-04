@@ -14,6 +14,11 @@ if "%ANTHROPIC_API_KEY%"=="" (
 )
 
 cd /d "%~dp0"
+
+REM Actions가 매일 원격에 자동 커밋하므로, 로컬을 먼저 최신으로 맞춘다
+REM (안 그러면 로컬이 며칠씩 뒤처져 옛날 데이터를 보게 됨)
+git pull --ff-only
+
 python biotech_daily.py
 
 if errorlevel 1 (
