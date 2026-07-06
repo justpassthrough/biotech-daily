@@ -2588,5 +2588,12 @@
     "relevance_score": 1,
     "relevance_reason": "신장질환 빅파마 딜로 사용자 연구 분야와 직접 관련 없음",
     "processed_at": "2026-07-03T23:56:00.457180+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/novartis-pay-11b-upfront-myricx-expand-adc-pipeline": {
+    "korean_summary": "Novartis가 영국 바이오텍 Myricx Bio를 11억 달러 선불로 인수 계약 체결.\nMyricx의 신규 payload 기반 ADC 파이프라인 확보가 핵심, 총 딜 규모는 추가 마일스톤 포함 가능.\nADC payload 다양화 경쟁 심화, 빅파마의 ADC 플랫폼 내재화 전략 지속.",
+    "category": "M&A",
+    "relevance_score": 7,
+    "relevance_reason": "ADC 파이프라인 M&A로 payload 기술 가치 상승 트렌드 직접 관련",
+    "processed_at": "2026-07-06T23:57:31.618465+00:00"
   }
 }
