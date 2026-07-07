@@ -1,0 +1,119 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-07T23:45:51.400994+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "MeiraGTx scores $400M from Oberland Capital to help get 2 gene therapies to commercialization",
+      "link": "https://www.fiercebiotech.com/biotech/meiragtx-scores-400m-oberland-capital-help-get-2-gene-therapies-commercialization",
+      "summary_en": "As MeiraGTx lines up the pieces for a commercial push, the company has new funding to work with.",
+      "published": "2026-07-07T13:52:00+00:00",
+      "korean_summary": "MeiraGTx가 Oberland Capital로부터 4억 달러 자금을 조달.\n2개 유전자치료제의 상업화 추진을 위한 자금으로 활용 예정.\n유전자치료제 상업화 단계 진입을 위한 대규모 비희석 자금조달 사례.",
+      "category": "기타",
+      "relevance_score": 2,
+      "relevance_reason": "유전자치료제 펀딩 뉴스로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-07-07T23:45:06.103249+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Whitehawk swoops in for five ADCs via development deal with China's Biocytogen",
+      "link": "https://www.fiercebiotech.com/biotech/whitehawk-swoops-five-adcs-development-deal-biocytogen",
+      "summary_en": "Biocytogen and Whitehawk Therapeutics are joining forces to develop bispecific antibody-drug conjugates using Biocytogen's discovery platform.",
+      "published": "2026-07-07T10:43:00+00:00",
+      "korean_summary": "Whitehawk Therapeutics가 중국 Biocytogen과 bispecific ADC 5종 공동개발 계약 체결.\nBiocytogen의 항체 발굴 플랫폼을 활용한 bispecific ADC 개발이 핵심, 딜 규모 미공개.\nBispecific ADC 분야 경쟁 심화, 중국 플랫폼 기업의 글로벌 파트너십 확대 추세 반영.",
+      "category": "M&A",
+      "relevance_score": 6,
+      "relevance_reason": "Bispecific ADC 개발 딜로 ADC 분야 직접 관련, linker 기술 등 세부 내용 미공개로 점수 제한",
+      "processed_at": "2026-07-07T23:45:11.023222+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Endevica spinout Kalohexis submits confidential IPO filing to develop obesity challenger to GLP-1s",
+      "link": "https://www.fiercebiotech.com/biotech/metabolic-biotech-kalohexis-files-confidential-ipo-develop-glp-1-challenger",
+      "summary_en": "Clinical-stage Kalohexis is readying a public listing to support its obesity and cancer cachexia treatments.",
+      "published": "2026-07-07T10:22:00+00:00",
+      "korean_summary": "Endevica 스핀아웃 Kalohexis가 비만 및 암 악액질 치료제 개발을 위해 비공개 IPO 신청서 제출.\nGLP-1 대항 비만 치료제 및 암 악액질 치료제 파이프라인 보유, 임상 단계 기업.\n비만 치료제 시장 경쟁 심화 속 신규 IPO 시도, 구체적 임상 데이터는 미공개.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "비만/악액질 치료제 IPO 뉴스로 사용자 연구 분야와 무관",
+      "processed_at": "2026-07-07T23:45:15.952437+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Boehringer bags PVT’s viral vector platform for cancer vaccine R&D",
+      "link": "https://www.fiercebiotech.com/biotech/boehringer-bags-pvts-viral-vector-platform-cancer-vaccine-rd",
+      "summary_en": "Boehringer Ingelheim has landed an exclusive license to Prime Vector Technologies’ viral vector platform for developing next-generation cancer vaccines.",
+      "published": "2026-07-07T09:42:00+00:00",
+      "korean_summary": "Boehringer Ingelheim이 Prime Vector Technologies의 바이러스 벡터 플랫폼에 대한 독점 라이선스 계약 체결.\n차세대 암 백신 개발 목적, 딜 규모 미공개.\n빅파마의 암 백신 플랫폼 기술 확보 경쟁 지속을 보여주는 사례.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "바이러스 벡터 기반 암 백신 딜로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거리가 멈",
+      "processed_at": "2026-07-07T23:45:20.458386+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Novo Nordisk pens long-acting GLP-1 implant tech deal with Vivani Medical",
+      "link": "https://www.fiercebiotech.com/medtech/novo-nordisk-pens-glp-1-long-acting-implant-tech-deal-vivani-medical",
+      "summary_en": "As Novo Nordisk looks for new ways to broaden its semaglutide GLP-1 franchise, the Danish drugmaker has signed a new deal with Californian medtech Vivani Medical to help.",
+      "published": "2026-07-07T08:53:00+00:00",
+      "korean_summary": "Novo Nordisk가 Vivani Medical과 장기지속형 GLP-1 임플란트 기술 관련 딜 체결.\n세마글루타이드 기반 GLP-1 프랜차이즈 확장을 위한 기술 도입 계약, 구체적 딜 규모는 미공개.\nGLP-1 투여 편의성 개선(주사→임플란트) 경쟁 심화, 약물전달 기술 수요 증가 신호.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "GLP-1 임플란트 딜로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련 없음",
+      "processed_at": "2026-07-07T23:45:25.611394+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Kailera’s oral GLP-1 asset sees 11% weight loss, hits goals in Chinese phase 3 obesity and diabetes trials",
+      "link": "https://www.fiercebiotech.com/biotech/kaileras-oral-glp-1-asset-hits-goals-chinese-phase-3-obesity-and-diabetes-trials",
+      "summary_en": "Phase 3 trials of Kailera Therapeutics’ oral GLP-1 prospect have hit their primary endpoints, positioning the biotech’s partner Hengrui Pharma to seek approval in obesity and diabetes in China.",
+      "published": "2026-07-07T08:44:00+00:00",
+      "korean_summary": "Kailera Therapeutics의 경구용 GLP-1 후보물질이 중국 P3 비만·당뇨 임상에서 1차 평가변수 달성.\n11% 체중감소 확인, 파트너사 Hengrui Pharma가 중국 내 허가 신청 준비 예정.\n경구용 GLP-1 경쟁 심화, 중국 시장 진입을 위한 로컬 파트너십 전략의 사례.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "경구 GLP-1 비만 임상 결과로 사용자 연구 분야와 거리가 멈",
+      "processed_at": "2026-07-07T23:45:30.055337+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Beckman Coulter grows Alzheimer’s dx portfolio with CE mark for new assay",
+      "link": "https://www.fiercebiotech.com/medtech/eckman-coulter-grows-alzheimers-dx-portfolio-ce-mark-new-assay",
+      "summary_en": "Diagnostics specialist Beckman Coulter expanded its portfolio of Alzheimer’s disease diagnostics by earning a CE mark in Europe for its Access p-Tau217 assay.",
+      "published": "2026-07-07T07:57:00+00:00",
+      "korean_summary": "Beckman Coulter가 알츠하이머 진단 포트폴리오 확장을 위해 Access p-Tau217 assay의 CE 마크 획득.\n유럽 시장에서 혈액 기반 p-Tau217 바이오마커 검사 상용화 승인.\n알츠하이머 조기 진단 시장 경쟁 심화, 혈액 기반 진단의 임상 채택 가속화.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "알츠하이머 진단 assay CE 마크, 사용자 연구 분야와 무관",
+      "processed_at": "2026-07-07T23:45:33.823286+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Vertex, in its largest-ever deal, acquires endocrine disease specialist Crinetics for $10B",
+      "link": "https://www.fiercebiotech.com/pharma/vertex-acquires-endocrine-disease-specialist-crinetics-10b",
+      "summary_en": "Vertex Pharmaceuticals has struck a $10 billion deal—its largest ever—to acquire endocrine disease specialist Crinetics Pharmaceuticals. The transaction's two focuses, Palsonify and atumelnant, have combined peak sales potential of more than $5 billion, Vertex said.",
+      "published": "2026-07-07T07:17:00+00:00",
+      "korean_summary": "Vertex Pharmaceuticals가 내분비 질환 전문 바이오텍 Crinetics Pharmaceuticals를 100억 달러에 인수.\nCrinetics의 핵심 파이프라인 Palsonify(paltusotine)와 atumelnant의 합산 최대 매출 잠재력 50억 달러 이상.\nVertex 역대 최대 딜로, 희귀 내분비 질환 시장 진출을 위한 전략적 포트폴리오 확장.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "내분비 질환 M&A 딜로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 관련 없음",
+      "processed_at": "2026-07-07T23:45:38.569802+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "As US lawmakers increase scrutiny of Chinese trials, industry fears ‘huge distraction and expense’",
+      "link": "https://www.fiercebiotech.com/biotech/us-lawmakers-increase-scrutiny-chinese-trials-industry-fears-huge-distraction-and-expense",
+      "summary_en": "As U.S. lawmakers continue to scrutinize the consequences of China’s expanding role in biotech innovation, industry insiders have been left debating how they can navigate this shifting landscape—or even whether biotechs should abandon China altogether.",
+      "published": "2026-07-07T06:08:00+00:00",
+      "korean_summary": "미국 의회가 중국의 바이오테크 혁신 역할 확대에 대한 규제 강화를 추진 중.\n업계는 중국 임상시험 데이터 활용 및 협력 구조 재편 여부를 두고 논쟁 중.\n미중 바이오테크 디커플링 가속화 시 글로벌 임상 전략 및 비용 구조에 큰 영향 예상.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "정책/규제 이슈로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-07-07T23:45:43.415229+00:00"
+    }
+  ],
+  "overall": [
+    "Vertex가 Crinetics를 $10B에 인수하는 등 GLP-1·비만 치료제 주변 딜이 활발하며, Novo Nordisk의 Vivani Medical 장기지속형 GLP-1 임플란트 기술 계약과 Kailera의 경구용 GLP-1 중국 3상 11% 체중감소 성공이 맞물려 비만 치료 플랫폼 경쟁이 다각화되고 있음",
+    "MeiraGTx의 Oberland Capital으로부터 $400M 조달, Boehringer의 PVT 바이럴 벡터 플랫폼 인수 등 유전자치료제·암백신 분야 상업화 자금 및 기술 확보 움직임이 동시다발적으로 진행됨",
+    "Whitehawk가 중국 Biocytogen과 ADC 5종 개발 딜을 체결하는 한편 미 의회의 중국 임상시험 규제 강화 우려가 부상하며, 중국발 파이프라인 활용과 규제 리스크 사이의 긴장이 고조되고 있음"
+  ]
+}
