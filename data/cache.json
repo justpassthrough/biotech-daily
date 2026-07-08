@@ -2658,5 +2658,47 @@
     "relevance_score": 1,
     "relevance_reason": "정책/규제 이슈로 사용자 연구 분야와 직접 관련 없음",
     "processed_at": "2026-07-07T23:45:43.415229+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/fda-halts-release-new-drug-rejection-letters-while-working-formalize-policy": {
+    "korean_summary": "FDA가 신약 거절 사유 공개 서한(rejection letter) 발행을 일시 중단.\n4월 익명 제약사의 시민 청원(citizen's petition) 이후 정책 공식화 작업 중.\n규제 투명성 정책 변화로, 신약 승인 프로세스 전반에 영향 가능.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 규제 정책 변화로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-08T23:58:47.040653+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/prime-wins-patent-fight-beam-can-continue-work-aatd-gene-editing-therapy": {
+    "korean_summary": "Prime Medicine이 Beam Therapeutics와의 특허 분쟁에서 승소, AATD 유전자편집 치료제 개발 지속 가능.\n중재 패널은 Prime이 Beam과의 계약을 위반하지 않았다고 판결, 리드 파이프라인 유지.\nPrime editing 기술의 독립적 개발 경로 확보, gene editing 분야 IP 경쟁 심화 반영.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "유전자편집 특허 분쟁 결과, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-08T23:58:51.530741+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/satellos-intriguing-duchenne-data-raise-hopes-ahead-key-readout": {
+    "korean_summary": "Satellos Bioscience가 뒤센 근이영양증(DMD) 치료 후보물질의 성인 대상 활성 데이터를 공개.\n소아 대상 핵심 임상 결과 발표를 앞두고 분석가들이 긍정적 전망 제시.\nDMD 치료 패러다임 변화 가능성 언급, 소아 데이터 재현 여부가 관건.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "DMD 임상 데이터로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-07-08T23:58:56.194096+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/scipher-picks-chemomabs-ra-drug-nasdaq-listing-all-stock-merger": {
+    "korean_summary": "Scipher Medicine이 이스라엘 바이오텍 Chemomab Therapeutics를 전주식 합병 방식으로 인수.\nChemomab의 간질환 치료제 파이프라인 확보 및 Nasdaq 상장이 목적, 딜 규모 미공개.\n정밀 면역학 기업의 간질환 영역 확장 전략, 소규모 바이오텍 간 합병 사례.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "간질환 바이오텍 M&A로 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-08T23:59:00.649479+00:00"
+  },
+  "https://www.fiercebiotech.com/health-tech/leo-cancer-care-secures-65m-series-d-advance-upright-radiotherapy-system": {
+    "korean_summary": "Leo Cancer Care가 시리즈 D로 6500만 달러 조달, IPO 준비 중.\n직립 자세 방사선 치료 시스템 확장에 자금 사용 예정.\n방사선 치료 기기 분야 투자 동향, 신약 연구와는 무관.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "방사선 치료 기기 펀딩으로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-07-08T23:59:04.399383+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/astrazeneca-pays-sino-200m-challenger-mercks-copd-drug-ohtuvayre": {
+    "korean_summary": "AstraZeneca가 Sino Biopharmaceutical과 COPD 신약 후보물질의 중국 외 권리 계약 체결.\n계약 규모 총 21억 달러(선급금 2억 달러), Merck의 COPD 치료제 Ohtuvayre의 경쟁 약물 대상.\nAZ의 호흡기 파이프라인 강화 및 중국 바이오텍 기술 글로벌 라이선싱 트렌드 반영.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "COPD 치료제 라이선싱 딜로 사용자 연구 분야(나노의약, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-07-08T23:59:09.817032+00:00"
   }
 }
