@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-09T23:57:24.864372+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Roche ends 2 Huntington’s disease programs, including Ionis-partnered tominersen",
+      "link": "https://www.fiercebiotech.com/biotech/roche-ends-2-huntingtons-disease-programs-including-ionis-partnered-tominersen",
+      "summary_en": "Roche has halted development on two of its Huntington’s disease prospects, marking another blow for a patient community that has long awaited new medicines.",
+      "published": "2026-07-09T14:09:00+00:00",
+      "korean_summary": "Roche가 Huntington병 치료제 2개 프로그램 개발 중단, Ionis와 공동개발 중이던 tominersen 포함.\n구체적 중단 사유는 미공개이나, tominersen은 과거 임상에서 안전성 우려로 일시 중단된 전력 있음.\nHuntington병 치료제 개발의 어려움 재확인, 희귀 신경질환 분야 임상 실패 리스크 부각.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "Huntington병 신경질환 프로그램 중단, 사용자 연구 분야와 무관",
+      "processed_at": "2026-07-09T23:57:01.419351+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Illumina names new commercial, legal chiefs as sequencing business shows signs of stability",
+      "link": "https://www.fiercebiotech.com/medtech/illumina-names-new-commercial-legal-chiefs-sequencing-business-shows-signs-stability",
+      "summary_en": "Illumina has filled two key C-suite posts, naming Mike Sullivan as chief commercial officer and Julie Coletti as chief legal officer as the DNA sequencing giant works to keep its turnaround on track after years of regulatory, geopolitical and investor turbulence.",
+      "published": "2026-07-09T12:09:00+00:00",
+      "korean_summary": "Illumina가 최고상업책임자(Mike Sullivan)와 최고법무책임자(Julie Coletti)를 신규 선임.\n수년간의 규제·지정학·투자자 갈등 이후 사업 안정화 과정에서 경영진 공백 보완.\nDNA 시퀀싱 업계 1위 기업의 내부 구조 재정비 신호.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "임원 인사 뉴스로 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-07-09T23:57:06.162452+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Fate’s off-the-shelf CAR-T therapy shows early promise in treatment-resistant autoimmune disease",
+      "link": "https://www.fiercebiotech.com/biotech/fates-shelf-car-t-cell-therapy-shows-early-promise-treatment-resistant-autoimmune-disease",
+      "summary_en": "“We were not expecting to see clinical responses so early,” Vaneet Sandhu, M.D., rheumatologist and vice president of clinical development at Fate Therapeutics, told Fierce.",
+      "published": "2026-07-09T10:04:00+00:00",
+      "korean_summary": "Fate Therapeutics의 동종유래(off-the-shelf) CAR-T 치료제가 난치성 자가면역질환에서 초기 임상 반응 확인.\n예상보다 빠른 시점에 임상적 반응이 관찰되었다고 임상개발 VP가 언급, 구체적 수치는 미공개.\n자가면역 적응증으로 CAR-T 적용 범위 확장 시도, 동종유래 플랫폼의 가능성 시사.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "CAR-T 세포치료제 임상 결과로, 사용자의 단백질 나노케이지/ADC/de novo 설계 연구와 직접 관련 없음",
+      "processed_at": "2026-07-09T23:57:12.903805+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "GSK cuts losses on $700M upfront Alzheimer’s collab with Alector following 2 clinical failures",
+      "link": "https://www.fiercebiotech.com/biotech/gsk-cuts-losses-700m-upfront-alzheimers-collab-alector-following-two-clinical-failures",
+      "summary_en": "GSK has walked away from a $2.2 billion biobucks neurodegenerative disease pact with Alector that has seen both “next generation” drugs involved flunk clinical trials.",
+      "published": "2026-07-09T02:50:00+00:00",
+      "korean_summary": "GSK가 Alector와 체결한 22억 달러 규모 신경퇴행성 질환 협력을 임상 실패 후 종료.\n계약 초기 선불금 7억 달러 지급했으나, 두 파이프라인 모두 임상시험 실패로 손실 확정.\n빅파마의 알츠하이머 신약 개발 리스크를 재확인하는 사례.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "알츠하이머 임상 실패 뉴스, 사용자 연구 분야와 무관",
+      "processed_at": "2026-07-09T23:57:18.509427+00:00"
+    }
+  ],
+  "overall": [
+    "Roche와 GSK가 각각 헌팅턴병(tominersen 포함)과 알츠하이머(Alector에 $700M 선급) 프로그램을 임상 실패로 종료하며 신경계 질환 분야에서 대형 제약사의 연속 철수가 두드러짐",
+    "Fate Therapeutics의 동종(off-the-shelf) CAR-T 치료제가 난치성 자가면역질환에서 초기 유효성 신호를 보이며 세포치료제의 적응증 확장 가능성을 시사함",
+    "Illumina는 신규 상업·법무 최고책임자를 선임하며 시퀀싱 사업 안정화 국면에서 경영진 재편을 통한 체질 개선에 나섬"
+  ]
+}
