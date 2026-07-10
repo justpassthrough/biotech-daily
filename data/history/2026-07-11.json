@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-10T23:46:38.930232+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "GSK sees phase 3 win for Hansoh-partnered ADC in China as validating its ‘priority asset’",
+      "link": "https://www.fiercebiotech.com/biotech/gsk-sees-phase-3-win-hansoh-partnered-adc-china-justifying-hype",
+      "summary_en": "Hansoh Pharmaceutical’s pair of much-hyped ADCs continue to justify partner GSK’s decision to make them priority programs.",
+      "published": "2026-07-10T08:17:00+00:00",
+      "korean_summary": "GSK가 파트너사 Hansoh Pharmaceutical의 ADC 후보물질이 중국 P3 임상에서 긍정적 결과를 획득했다고 발표.\nGSK는 해당 ADC를 '우선 자산(priority asset)'으로 지정하여 집중 개발 중이며, Hansoh와의 파트너십을 통해 중국 ADC 파이프라인을 강화.\nGSK의 ADC 전략 강화 및 중국 ADC 기업과의 글로벌 파트너십 확대 트렌드를 보여주는 사례.",
+      "category": "임상결과",
+      "relevance_score": 6,
+      "relevance_reason": "ADC P3 임상 결과 관련, 구체적 linker/payload 기술 정보는 없으나 ADC 시장 동향 참고 가능",
+      "processed_at": "2026-07-10T23:46:29.025516+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Bausch + Lomb gives up on glaucoma eye drop hopeful after phase 2 fail",
+      "link": "https://www.fiercebiotech.com/biotech/bausch-lomb-gives-next-breakthrough-glaucoma-eye-drops-after-phase-2-fail",
+      "summary_en": "Bausch + Lomb has abandoned its next great hope in glaucoma after the eye drops flunked a phase 2 study.",
+      "published": "2026-07-10T05:14:00+00:00",
+      "korean_summary": "Bausch + Lomb이 녹내장 치료용 점안제 후보물질을 P2 실패 후 개발 중단.\nP2 임상에서 유효성 입증 실패, 구체적 데이터는 공개되지 않음.\n안과 파이프라인 축소, 회사 전략 재편 필요성 시사.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "녹내장 점안제 임상 실패, 사용자 연구 분야와 무관",
+      "processed_at": "2026-07-10T23:46:33.009474+00:00"
+    }
+  ],
+  "overall": [
+    "GSK와 한소제약이 파트너십을 맺은 ADC(항체-약물 접합체)가 중국 3상 임상에서 성공하며 ADC가 빅파마의 핵심 전략 자산으로 재확인됨",
+    "Bausch + Lomb은 녹내장 점안액 후보물질의 2상 실패로 개발을 포기하며 안과 파이프라인 축소",
+    "전반적으로 ADC 분야는 임상 성과로 투자 매력이 부각된 반면, 안과 소분자 치료제는 임상 리스크가 부각되는 온도차를 보임"
+  ]
+}

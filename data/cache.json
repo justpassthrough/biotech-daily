@@ -2728,5 +2728,19 @@
     "relevance_score": 1,
     "relevance_reason": "알츠하이머 임상 실패 뉴스, 사용자 연구 분야와 무관",
     "processed_at": "2026-07-09T23:57:18.509427+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gsk-sees-phase-3-win-hansoh-partnered-adc-china-justifying-hype": {
+    "korean_summary": "GSK가 파트너사 Hansoh Pharmaceutical의 ADC 후보물질이 중국 P3 임상에서 긍정적 결과를 획득했다고 발표.\nGSK는 해당 ADC를 '우선 자산(priority asset)'으로 지정하여 집중 개발 중이며, Hansoh와의 파트너십을 통해 중국 ADC 파이프라인을 강화.\nGSK의 ADC 전략 강화 및 중국 ADC 기업과의 글로벌 파트너십 확대 트렌드를 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 6,
+    "relevance_reason": "ADC P3 임상 결과 관련, 구체적 linker/payload 기술 정보는 없으나 ADC 시장 동향 참고 가능",
+    "processed_at": "2026-07-10T23:46:29.025516+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/bausch-lomb-gives-next-breakthrough-glaucoma-eye-drops-after-phase-2-fail": {
+    "korean_summary": "Bausch + Lomb이 녹내장 치료용 점안제 후보물질을 P2 실패 후 개발 중단.\nP2 임상에서 유효성 입증 실패, 구체적 데이터는 공개되지 않음.\n안과 파이프라인 축소, 회사 전략 재편 필요성 시사.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "녹내장 점안제 임상 실패, 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-10T23:46:33.009474+00:00"
   }
 }
