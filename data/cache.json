@@ -2742,5 +2742,40 @@
     "relevance_score": 1,
     "relevance_reason": "녹내장 점안제 임상 실패, 사용자 연구 분야와 무관",
     "processed_at": "2026-07-10T23:46:33.009474+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/merck-kgaa-institutes-office-requirement-us-research-team-could-lead-70-layoffs": {
+    "korean_summary": "Merck KGaA 미국 연구팀에 사무실 출근 의무화 정책 도입.\n최대 70명 직원 이탈 가능성, 사실상 구조조정 효과 예상.\n빅파마 인력 운영 정책 변화 사례.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "임원 인사/인력 정책 뉴스, 연구 분야와 무관",
+    "processed_at": "2026-07-13T23:41:45.027130+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/fda-releases-14-new-drug-rejection-letters-after-transparency-policy-paused-april": {
+    "korean_summary": "FDA가 3개월간 중단했던 신약 거부 서한(Complete Response Letter) 공개 정책을 재개하며 14건을 일괄 공개.\n4월부터 투명성 정책이 일시 중단되었다가 Fierce의 확인 직후 재개된 것으로, 구체적 거부 사유는 개별 서한에 기재.\n규제 투명성 정책의 불안정성이 제약업계 불확실성을 높일 수 있음을 시사.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 행정 투명성 정책 관련, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-13T23:41:50.416959+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/q32s-stock-jumps-60-latest-phase-2-alopecia-data-complement-inhibitor": {
+    "korean_summary": "Q32 Bio의 탈모증(alopecia) 치료 후보물질이 P2 임상에서 긍정적 결과를 발표하며 주가 60% 급등.\nJAK 억제제 대비 더 지속적인 효과를 제시하는 데이터로 투자자 호응.\n탈모 치료 시장에서 JAK 억제제 대안 모달리티 경쟁 가능성 시사.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "탈모 P2 임상 결과로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-07-13T23:41:55.648958+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/agenus-scraps-phase-3-colorectal-study-after-3-months-narrow-focus-colon-cancer": {
+    "korean_summary": "Agenus가 대장암(colorectal cancer) 대상 P3 임상을 시작 3개월 만에 중단.\n자원 집중을 위해 결장암(colon cancer)으로 적응증을 좁히는 전략적 결정.\n소규모 바이오텍의 파이프라인 선택과 집중 사례, 임상 포트폴리오 재편 신호.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "면역항암제 임상 중단 뉴스로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-07-13T23:42:00.296612+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/insilicos-chinese-partner-returns-177m-pact-explore-mass-market-cns-indication": {
+    "korean_summary": "중국 제약사 China Medical System Holdings가 Insilico Medicine과 1.2억 위안(1억 7700만 달러) 규모 CNS 신약 협력 계약 체결.\n대상은 '대중 시장' CNS 적응증으로, 기존 파트너십 확장 형태.\nAI 신약개발 플랫폼의 중국 시장 내 상업화 가속 사례.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "AI 신약 파트너십이나 CNS 적응증 중심으로 사용자 연구 분야와 거리 있음",
+    "processed_at": "2026-07-13T23:42:05.155043+00:00"
   }
 }
