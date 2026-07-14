@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-14T23:41:48.622984+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "With FDA approval for its breast cancer blockbuster hopeful, Celcuity could ‘belong in the hands’ of a Big Pharma",
+      "link": "https://www.fiercebiotech.com/pharma/fda-approval-its-breast-cancer-blockbuster-hopeful-celcuity-could-belong-hands-big-pharma",
+      "summary_en": "The FDA has approved a new small molecule inhibitor from Celcuity with blockbuster potential that could become a new standard-of-care for patients with breast cancer.",
+      "published": "2026-07-14T16:36:00+00:00",
+      "korean_summary": "Celcuity의 유방암 치료용 소분자 억제제가 FDA 승인 획득.\n블록버스터 잠재력을 가진 신규 표준치료제로 평가받으며 빅파마 인수 후보로 거론.\n소분자 억제제 기반 유방암 치료 시장 경쟁 심화 및 M&A 가능성 시사.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "소분자 유방암 치료제 FDA 승인, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-07-14T23:41:11.106970+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "FDA plans to release more drug rejection letters as controversial policy resumes",
+      "link": "https://www.fiercebiotech.com/biotech/fda-plans-release-more-drug-rejection-letters-controversial-policy-resumes",
+      "summary_en": "After pausing a controversial policy to publicly release drug rejection letters in April, the FDA today confirmed that the pause has been lifted and that more documents will be coming down the line.",
+      "published": "2026-07-14T14:19:00+00:00",
+      "korean_summary": "FDA가 신약 거부 서한(rejection letter) 공개 정책을 재개한다고 발표.\n4월 일시 중단 후 정책 재개, 추가 문서 공개 예정.\n신약 심사 투명성 강화 정책으로 제약업계 전반에 영향.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "FDA 정책 뉴스로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-07-14T23:41:14.898791+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Biogen defends anti-tau drug after stock slides on Alzheimer’s readout",
+      "link": "https://www.fiercebiotech.com/biotech/biogen-defends-anti-tau-drug-after-stock-slides-alzheimers-readout",
+      "summary_en": "Biogen leaders took to an investor call today to defend the phase 2 readout of the company’s anti-tau Alzheimer’s disease candidate, which, despite slowing cognitive decline on par with approved medicines, sparked a significant stock slip.",
+      "published": "2026-07-14T13:48:00+00:00",
+      "korean_summary": "Biogen이 anti-tau 알츠하이머 후보물질의 P2 임상 결과를 투자자 콜에서 적극 방어.\n인지 기능 저하 억제 효과가 기존 승인 약물과 유사한 수준이었으나 주가 급락 발생.\n기존 승인 약물 대비 차별성 부족으로 시장 기대치 미달, anti-tau 전략의 한계 논란.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "알츠하이머 anti-tau 임상 결과로 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-07-14T23:41:19.931514+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Chai brews up $400M series C to fuel AI molecule models used by Lilly, Novartis and Pfizer",
+      "link": "https://www.fiercebiotech.com/biotech/chai-brews-400m-series-c-fuel-ai-used-lilly-novartis-and-pfizer",
+      "summary_en": "Chai Discovery has continued its whirlwind emergence, closing its third financing round in 11 months to bring its total funding haul above $600 million. The latest round values the startup at $3.8 billion.",
+      "published": "2026-07-14T10:03:00+00:00",
+      "korean_summary": "AI 구조예측/분자설계 스타트업 Chai Discovery가 시리즈 C로 4억 달러 조달, 기업가치 38억 달러.\n11개월 만에 세 번째 라운드, 누적 조달액 6억 달러 이상. Lilly, Novartis, Pfizer 등 빅파마가 사용 중.\nAI 단백질/분자 모델 섹터에 대한 투자 열기 지속, AlphaFold 경쟁 구도 심화.",
+      "category": "기타",
+      "relevance_score": 5,
+      "relevance_reason": "AI 단백질 구조예측 모델 관련 펀딩, de novo protein design 인접 영역이나 직접 기술 내용은 없음",
+      "processed_at": "2026-07-14T23:41:25.231461+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Summit sells failed antibiotic to OpenAI-backed startup in $105M deal",
+      "link": "https://www.fiercebiotech.com/biotech/summit-sells-failed-antibiotic-openai-backed-startup-105m-deal",
+      "summary_en": "Summit Therapeutics has cleared out an asset from its pre-ivonescimab history, offloading the antibiotic drug candidate ridinilazole to the OpenAI-backed startup Biossil for $500,000 upfront.",
+      "published": "2026-07-14T09:18:00+00:00",
+      "korean_summary": "Summit Therapeutics가 항생제 후보물질 ridinilazole을 OpenAI 투자 스타트업 Biossil에 매각.\n계약 규모는 선급금 50만 달러, 총 최대 1억 500만 달러(마일스톤 포함).\nivonescimab 중심 전략 집중을 위한 비핵심 자산 정리, OpenAI 계열 바이오 스타트업 등장 주목.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "항생제 자산 매각 딜로, 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+      "processed_at": "2026-07-14T23:41:30.245844+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "‘Neural tourniquet’ device could hold key to stopping life-threatening hemorrhage",
+      "link": "https://www.fiercebiotech.com/medtech/neural-tourniquet-device-could-hold-key-stop-life-threatening-hemorrhage",
+      "summary_en": "An ear-based wearable device that taps into the body’s longest cranial nerve boosts blood clotting, which researchers hope could be a new way to treat severe bleeding.",
+      "published": "2026-07-14T02:40:00+00:00",
+      "korean_summary": "귀 기반 웨어러블 기기가 미주신경(vagus nerve) 자극을 통해 혈액 응고를 촉진하는 기술 개발.\n'Neural tourniquet'으로 명명, 심각한 출혈 치료의 새로운 접근법으로 연구 중.\n신경 자극 기반 지혈 기술로, 기존 약물/기계적 지혈법과 다른 패러다임 제시.",
+      "category": "모달리티",
+      "relevance_score": 1,
+      "relevance_reason": "신경 자극 기반 지혈 기기로, 사용자의 나노의학/단백질 설계 연구와 무관",
+      "processed_at": "2026-07-14T23:41:35.080397+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Avere goes public via NextCure reverse merger, secures Hansoh IL-23 drug with $2.3B deal",
+      "link": "https://www.fiercebiotech.com/biotech/avere-launches-trifecta-chinese-license-reverse-merger-and-320m-advance-oral-inflammatory",
+      "summary_en": "Avere Therapeutics has burst onto the scene by securing a public listing via a reverse merger with NextCure, while stocking a pipeline with an IL-23 drug from Hansoh Pharmaceutical.",
+      "published": "2026-07-14T00:30:00+00:00",
+      "korean_summary": "Avere Therapeutics가 NextCure와의 역합병을 통해 나스닥 상장, 동시에 Hansoh Pharmaceutical로부터 IL-23 억제제 도입.\n딜 규모 최대 23억 달러(마일스톤 포함), IL-23 타깃 면역질환 파이프라인 확보.\n역합병을 통한 신속 상장 전략과 중국 빅파마 자산의 글로벌 라이선싱 흐름을 보여주는 사례.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "IL-23 면역치료제 라이선싱 딜로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+      "processed_at": "2026-07-14T23:41:40.841822+00:00"
+    }
+  ],
+  "overall": [
+    "Chai Discovery가 AI 신약 개발 플랫폼으로 시리즈 C $400M을 유치하며 Lilly·Novartis·Pfizer 등 빅파마와의 협력을 기반으로 AI 모델 상업화를 가속화하고 있음",
+    "Celcuity의 유방암 신약 FDA 승인으로 빅파마 인수 후보로 급부상하는 한편, Biogen은 항타우 알츠하이머 신약의 실망스러운 임상 결과에도 불구하고 프로그램 방어에 나서며 CNS 파이프라인 신뢰성 논란이 지속됨",
+    "Avere가 NextCure와의 역합병으로 나스닥에 우회 상장하며 Hansoh의 IL-23 항체를 $2.3B 규모 딜로 확보하고, Summit은 실패한 항생제를 OpenAI 지원 스타트업에 $105M에 매각하는 등 자산 재편 M&A가 활발히 진행됨"
+  ]
+}
