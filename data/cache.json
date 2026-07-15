@@ -2826,5 +2826,54 @@
     "relevance_score": 1,
     "relevance_reason": "IL-23 면역치료제 라이선싱 딜로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
     "processed_at": "2026-07-14T23:41:40.841822+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/braveheart-aims-freedom-ipo-support-hengrui-licensed-cardio-asset": {
+    "korean_summary": "Braveheart Bio가 Hengrui로부터 라이선스한 심혈관 자산을 위해 Nasdaq IPO를 추진.\n해당 자산은 현재 Phase 3 단계이며, IPO를 통한 자금 조달로 임상 진행 목표.\n중국 빅파마 Hengrui의 자산이 미국 시장에서 독립 바이오텍을 통해 개발되는 구조.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "심혈관 IPO 뉴스로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-07-15T23:48:27.328172+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/advancell-flush-315m-raise-ready-put-radiotherapy-pedal-metal": {
+    "korean_summary": "방사성 치료제 기업 AdvanCell이 시리즈 D로 3억 1,500만 달러 조달.\n전립선암 선도 후보물질의 P3 임상 진입 및 미국 본사 설립에 자금 활용 예정.\n빅파마 지원 받은 방사성 치료제 분야 대규모 투자 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "방사성 치료제 펀딩 뉴스로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거의 무관",
+    "processed_at": "2026-07-15T23:48:32.169643+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/jj-axes-eye-disease-gene-therapy-after-key-phase-2b-readout": {
+    "korean_summary": "J&J가 안과 질환 유전자 치료제 개발을 중단한다고 발표.\nPhase 2b 핵심 데이터 검토 후 2026년 주요 결과 발표 전 개발 중단 결정.\n빅파마의 유전자 치료제 파이프라인 정리 흐름, 안과 gene therapy 분야 리스크 재확인.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "유전자 치료제 임상 중단 소식으로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-15T23:48:36.515505+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/medtronic-recalls-catheter-delivery-system-may-detach-and-cause-death": {
+    "korean_summary": "Medtronic이 Harmony 카테터 전달 시스템 102개 로트에 대해 자발적 리콜 발표.\n카테터 팁 분리 가능성으로 인한 심각한 부상 또는 사망 위험이 리콜 사유.\n의료기기 안전성 이슈로 사용자 연구 분야와 무관한 규제/안전 뉴스.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "의료기기 리콜 뉴스로 나노의약/단백질 설계 연구와 완전 무관",
+    "processed_at": "2026-07-15T23:48:41.533477+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/jj-medtech-sales-trajectory-continues-ease-q2-abiomed-drags-sales": {
+    "korean_summary": "J&J MedTech 사업부가 2분기 매출 89.3억 달러, 운영 성장률 3.6% 기록.\nAbiomed(심장보조장치) 부문 부진이 전체 실적 하락 요인으로 작용.\nJ&J MedTech의 성장 둔화 추세 지속, 포트폴리오 재편 필요성 시사.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "의료기기 사업 실적 발표, 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-15T23:48:49.935508+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/aaic-roche-very-interested-tau-despite-focus-phase-3-amyloid-alzheimers-asset": {
+    "korean_summary": "Roche가 알츠하이머 분야에서 P3 단계 amyloid 타깃 약물에 집중하면서도 tau 타깃에도 관심 표명.\n현재 주력은 amyloid 기전 P3 자산이며, tau 타깃 가능성도 탐색 중.\n알츠하이머 치료 전략의 다각화 시도, 빅파마의 tau 분야 재진입 가능성 시사.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "알츠하이머 빅파마 전략 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-15T23:48:54.821242+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/attovia-files-ipo-take-sanofi-and-regenerons-dupixent": {
+    "korean_summary": "Attovia Therapeutics가 IPO를 신청하며 Dupixent(Sanofi/Regeneron) 및 Nemluvio(Galderma) 경쟁 파이프라인 자금 확보 추진.\n구체적 공모 규모 및 임상 단계 정보는 미공개, 아토피/염증 적응증 경쟁 포지셔닝.\n블록버스터 Dupixent 대항마 개발 경쟁 심화, 항체 치료제 시장 동향 참고.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "항체 치료제 IPO 뉴스, 사용자 연구 분야와 직접 연관성 낮음",
+    "processed_at": "2026-07-15T23:49:00.133214+00:00"
   }
 }
