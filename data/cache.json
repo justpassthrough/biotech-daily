@@ -2875,5 +2875,26 @@
     "relevance_score": 2,
     "relevance_reason": "항체 치료제 IPO 뉴스, 사용자 연구 분야와 직접 연관성 낮음",
     "processed_at": "2026-07-15T23:49:00.133214+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/racing-takeda-innocare-reports-tyk2-inhibitor-win-phase-2-vitiligo-trial": {
+    "korean_summary": "InnoCare Pharma의 TYK2 억제제 soficitinib이 비분절형 백반증 P2 임상에서 1차 평가변수 달성.\nP2/3 연속 설계로 P3 진입 확정, Takeda의 TYK2 억제제와 경쟁 구도 형성.\nTYK2 억제제 적응증 확장 경쟁 심화, 자가면역 분야 소분자 치료제 시장 동향.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "TYK2 억제제 자가면역 임상 결과로 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-16T23:47:19.122118+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/eli-lilly-inks-28b-ataibeckley-buyout-challenge-jj-psychedelic-mental-health-market": {
+    "korean_summary": "Eli Lilly가 사이키델릭 정신건강 기업 AtaiBeckley를 28억 달러에 인수 합의.\n선불 28억 달러 규모의 딜로, J&J 등이 선점한 사이키델릭 정신건강 시장 진입 목적.\n빅파마의 정신건강 분야 M&A 경쟁 심화를 보여주는 사례.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "사이키델릭 정신건강 M&A로 사용자 연구 분야(나노의약, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-07-16T23:47:24.036310+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/vogenx-joins-ipo-queue-fund-phase-2-stage-metabolic-drug": {
+    "korean_summary": "대사질환 바이오텍 Vogenx가 Nasdaq IPO를 추진하며 자금 조달 계획 발표.\nSGLT1 억제제의 P2 임상 진행을 위한 자금 확보가 목적.\n대사질환 분야 바이오텍 IPO 대기열 증가 추세 반영.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "대사질환 IPO 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-16T23:47:28.051591+00:00"
   }
 }
