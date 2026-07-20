@@ -2938,5 +2938,33 @@
     "relevance_score": 1,
     "relevance_reason": "신장 질환 M&A 딜로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
     "processed_at": "2026-07-17T23:41:32.242901+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/kolons-cell-based-gene-therapy-fails-phase-3-osteoarthritis-trial": {
+    "korean_summary": "Kolon TissueGene의 세포 기반 유전자 치료제가 골관절염 P3 임상에서 공동 1차 평가변수 미달성.\n2번째 후기 임상 결과는 10월 발표 예정이며, 회사는 다음 단계 결정을 보류 중.\n세포 기반 유전자 치료제의 임상 실패 사례로, 해당 모달리티의 개발 난이도를 재확인.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "골관절염 유전자치료제 P3 실패, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-20T23:45:27.769773+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/tempus-buys-out-cancer-genomics-specialist-personalis-15-billion-deal": {
+    "korean_summary": "Tempus가 암 유전체 분석 파트너 Personalis를 15억 달러에 인수 합의.\n두 회사는 3년 전 종양학 분야에서 파트너십을 맺은 후 이번에 완전 인수로 전환.\n암 유전체 데이터 플랫폼 통합을 통한 AI 기반 종양학 역량 강화 목적.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "암 유전체 M&A 딜로, 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-07-20T23:45:32.567167+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/scribe-aims-96m-ipo-fund-clinical-push-lipid-lowering-genetic-meds": {
+    "korean_summary": "Scribe Therapeutics가 9,600만 달러 규모 IPO를 추진하며 상장 계획을 공식화.\n지질 저하 유전자 치료제 임상 개발 자금 확보가 목적이며, CRISPR 기반 플랫폼 보유.\n유전자 치료 섹터 IPO 시장 동향을 보여주는 사례.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "유전자 치료 IPO 펀딩 뉴스로, 사용자 연구 분야와 직접 연관성 낮음",
+    "processed_at": "2026-07-20T23:45:37.485140+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/bms-expands-ai-footprint-nvidia-create-largest-drug-rd-supercomputer": {
+    "korean_summary": "BMS가 Nvidia와 협력 확대, 생명과학 분야 최대 규모 AI 슈퍼컴퓨터 구축 목표 발표.\n구체적 투자 규모나 컴퓨팅 스펙은 미공개, 신약 R&D 전반에 활용 예정.\n빅파마의 AI 인프라 투자 경쟁 심화, Nvidia의 바이오 섹터 영향력 확대.",
+    "category": "빅파마",
+    "relevance_score": 2,
+    "relevance_reason": "AI 인프라 협력 발표로 de novo 단백질 설계와 간접 연관성만 있음",
+    "processed_at": "2026-07-20T23:45:42.612747+00:00"
   }
 }
