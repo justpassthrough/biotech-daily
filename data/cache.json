@@ -2966,5 +2966,47 @@
     "relevance_score": 2,
     "relevance_reason": "AI 인프라 협력 발표로 de novo 단백질 설계와 간접 연관성만 있음",
     "processed_at": "2026-07-20T23:45:42.612747+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/why-novartis-ceo-ended-his-adc-holdout-15b-myricx-deal": {
+    "korean_summary": "Novartis CEO Vas Narasimhan이 ADC 분야 관망을 끝내고 Myricx를 15억 달러에 인수 제안.\n수년간 빅파마의 ADC 투자 열풍에도 불참했던 Novartis가 전략 전환을 공식화.\nADC 시장 포화 우려에도 불구하고 빅파마 마지막 주자까지 진입, 섹터 경쟁 심화 신호.",
+    "category": "M&A",
+    "relevance_score": 6,
+    "relevance_reason": "ADC 딜이나 linker 기술 세부 내용 없이 전략적 M&A 동향 수준, ADC 시장 흐름 파악에 참고 가치",
+    "processed_at": "2026-07-21T23:46:24.721678+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/jupiter-neurosciences-enter-psychedelic-space-100-million-mdma-deal": {
+    "korean_summary": "Jupiter Neurosciences가 캐나다 PharmAla Biotech의 MDMA 신약 미국 권리를 330만 달러에 인수.\n신경정신과 질환 치료 목적, 총 딜 규모는 1억 달러 수준으로 언급.\nサイ케델릭 기반 치료제 시장 진입 사례, 사용자 연구 분야와 무관.",
+    "category": "M&A",
+    "relevance_score": 0,
+    "relevance_reason": "사이케델릭/MDMA 신약 딜로 ferritin, ADC, 단백질 설계 등 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-07-21T23:46:29.522648+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/agios-says-adios-sickle-cell-program-over-lackluster-phase-2-data": {
+    "korean_summary": "Agios Pharmaceuticals의 차세대 pyruvate kinase activator가 겸상적혈구병 P2에서 실패.\n유효성 부족으로 개발 중단, 2개월 내 두 번째 적응증 포기.\n희귀혈액질환 분야에서 pyruvate kinase 활성화 전략의 한계 노출.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "혈액질환 임상 실패 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-21T23:46:33.804168+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/novartis-drops-phase-2-stage-radioligand-therapy-commitment-modality-unchanged": {
+    "korean_summary": "Novartis가 P2 단계 방사성리간드 치료제(RLT) 후보물질을 임상 실망 결과로 개발 중단.\n구체적 적응증 및 데이터 미공개, CEO는 RLT 모달리티 전반에 대한 헌신은 변함없다고 강조.\nLutetium-PSMA 성공 이후 RLT 파이프라인 확장 중 발생한 임상 실패로, 모달리티 리스크 재확인.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "방사성리간드 치료제 임상 중단 소식, 사용자 연구 분야와 직접 관련성 낮음",
+    "processed_at": "2026-07-21T23:46:40.857757+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/lupin-seeds-spinout-kaveri-cash-and-clinical-phase-cancer-assets": {
+    "korean_summary": "인도 제네릭 제약사 Lupin이 임상 단계 항암 파이프라인 2개를 분리해 미국 스타트업 Kaveri Therapeutics 설립.\nKaveri의 타깃은 AstraZeneca, Bayer, BMS 등 빅파마가 추구하는 동일 타깃으로, 추가 자금 조달 계획 중.\n제네릭사의 혁신 신약 부문 분사 전략, 미국 시장 진출 시도로서의 산업적 의미.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "항암 임상 자산 분사 뉴스로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관성 없음",
+    "processed_at": "2026-07-21T23:46:46.860467+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/roche-taps-foundation-medicines-chief-new-north-america-diagnostics-lead-creates-new": {
+    "korean_summary": "Roche가 Foundation Medicine CEO Dan Malarek를 Roche Diagnostics North America 사장 겸 CEO로 임명.\n진단 부문 북미 사업 강화를 위한 내부 인사 이동, 신규 상업 직책 신설.\nRoche 진단 부문 조직 개편 신호.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "임원 인사 이동으로 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-21T23:46:50.876662+00:00"
   }
 }
