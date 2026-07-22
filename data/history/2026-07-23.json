@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-22T23:53:48.958702+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "NIH joins Trump’s $5B AI mission with biomedical research push",
+      "link": "https://www.fiercebiotech.com/research/hhs-joins-trumps-artificial-intelligence-genesis-mission",
+      "summary_en": "The U.S. Department of Health and Human Services announced new efforts Wednesday aligned with President Donald Trump’s artificial intelligence-driven Genesis Mission. The centerpiece of HHS’ participation is the NIH-led Bio Genesis Mission",
+      "published": "2026-07-22T14:44:00+00:00",
+      "korean_summary": "HHS가 트럼프 행정부의 AI 중심 Genesis Mission에 참여, NIH 주도 Bio Genesis Mission 발표.\n5억 달러 규모 AI 기반 바이오의학 연구 추진 계획의 일환.\n정부 주도 AI 신약/바이오 연구 투자 확대 신호, 산업 전반에 간접 영향.",
+      "category": "기타",
+      "relevance_score": 2,
+      "relevance_reason": "정부 정책/펀딩 발표로 사용자 연구 분야와 직접 연관성 낮음",
+      "processed_at": "2026-07-22T23:53:28.746661+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "House passes bill directing FDA to update animal testing rules",
+      "link": "https://www.fiercebiotech.com/cro/us-house-passes-bill-direct-fda-update-clinical-trial-regulations-and-allow-non-animal-testing",
+      "summary_en": "The U.S. House of Representatives passed the FDA Modernization Act 3.0 this week, and lawmakers and animal welfare advocates are celebrating the bill as a step toward a new era in preclinical testing and drug development.",
+      "published": "2026-07-22T10:04:00+00:00",
+      "korean_summary": "미국 하원이 FDA Modernization Act 3.0을 통과시켜 동물실험 규정 현대화 추진.\n전임상 시험에서 동물실험 의존도를 줄이고 대체 시험법(organoid, in vitro 등) 활용 확대 방향.\nFDA 전임상 요건 변화는 신약개발 전반에 영향, 바이오텍 R&D 프로세스 변화 가능성.",
+      "category": "기타",
+      "relevance_score": 2,
+      "relevance_reason": "정책/규제 뉴스로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-07-22T23:53:33.920483+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Royalty Pharma pens $425M deal for slice of sales on AstraZeneca’s ATTR drug",
+      "link": "https://www.fiercebiotech.com/biotech/royalty-pharma-pens-425m-deal-slice-sales-astrazenecas-attr-drug",
+      "summary_en": "Royalty Pharma has secured a stake in another transthyretin-mediated amyloidosis drug, this time paying $125 million upfront to Neurimmune for a cut of the sales of its AstraZeneca-partnered med.",
+      "published": "2026-07-22T09:31:00+00:00",
+      "korean_summary": "Royalty Pharma가 Neurimmune의 ATTR 치료제 로열티 지분 확보를 위해 총 4.25억 달러 규모 딜 체결.\n선급금 1.25억 달러를 Neurimmune에 지급, AstraZeneca와 파트너십 중인 ATTR 신약 매출 일부 수취 권리 획득.\nATTR 치료제 시장 성장 기대감 반영, 로열티 금융 모델의 지속적 확장.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "ATTR 치료제 로열티 딜로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+      "processed_at": "2026-07-22T23:53:39.315488+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Celldex ends skin disease program after failing phase 2 test",
+      "link": "https://www.fiercebiotech.com/biotech/celldex-ends-work-skin-disease-after-failing-phase-2-test",
+      "summary_en": "A phase 2 study of Celldex’s barzolvolimab in a chronic skin disease has missed its primary endpoint, driving the biotech to end development in the indication and raising doubts about an upcoming eczema readout.",
+      "published": "2026-07-22T05:11:00+00:00",
+      "korean_summary": "Celldex의 barzolvolimab이 만성 피부질환 대상 P2 임상에서 1차 평가변수 미달성.\n해당 적응증 개발 중단 결정, 향후 습진(eczema) 임상 결과에 대한 불확실성 증가.\nKIT 억제 기반 항체 프로그램의 피부질환 적용 한계를 보여주는 사례.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "피부질환 항체 임상 실패 뉴스, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-07-22T23:53:43.905422+00:00"
+    }
+  ],
+  "overall": [
+    "Royalty Pharma가 AstraZeneca의 ATTR 치료제 매출 일부를 확보하기 위해 $425M 규모의 로열티 딜을 체결하며 희귀질환 자산 중심의 수익권 거래 활발",
+    "NIH가 Trump 행정부의 $5B AI 이니셔티브에 합류해 바이오메디컬 연구에 AI를 접목하는 정부 주도 투자가 본격화",
+    "Celldex가 피부질환 프로그램의 Phase 2 실패로 해당 파이프라인을 종료하며 임상 후기 단계 리스크가 재확인"
+  ]
+}
