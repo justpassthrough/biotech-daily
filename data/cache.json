@@ -3078,5 +3078,40 @@
     "relevance_score": 1,
     "relevance_reason": "수술 로봇 FDA 승인, 사용자 연구 분야(약물전달, 단백질 설계)와 무관",
     "processed_at": "2026-07-23T23:49:51.264470+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/amgen-sheds-around-40-staffers-struggles-pile-tavneos-pipeline": {
+    "korean_summary": "Amgen이 '조직 개편'의 일환으로 약 40명의 직원을 감원.\n구체적 부서나 파이프라인 영향은 공개되지 않음.\n빅파마 구조조정 흐름의 일부로, 전략적 우선순위 재편 신호.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "임원 인사/구조조정 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-24T23:54:35.432178+00:00"
+  },
+  "https://www.fiercebiotech.com/research/study-yescarta-patients-reveals-genetic-red-flags-car-t-therapy-side-effects": {
+    "korean_summary": "Kite Pharma의 CAR-T 치료제 Yescarta 임상 환자 분석에서 독성 위험 유전자 시그니처 발견.\n해당 유전적 특성이 CAR-T 부작용(독성) 위험 예측 바이오마커로 활용 가능성 제시.\n향후 CAR-T 안전성 개선 엔지니어링에 방향성 제공, 세포치료제 분야 안전성 연구 진전.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "CAR-T 독성 유전자 분석으로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 연관성 낮음",
+    "processed_at": "2026-07-24T23:54:40.094610+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/merck-prepares-expanded-access-alimatravir-monthly-hiv-prep-pill-ahead-approval": {
+    "korean_summary": "Merck가 HIV PrEP 경구제 alimatravir의 규제 승인 전 자발적 라이선싱 계약 체결.\nGilead의 선례를 따라 저소득국 접근성 확대를 위한 사전 라이선싱 전략 채택.\nHIV 예방 시장에서 빅파마의 접근성 정책 경쟁 심화.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "HIV PrEP 소분자 약물 관련, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-07-24T23:54:44.597272+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/sanofi-abandons-plan-seek-approval-eczema-drug-11b-kymab-buyout": {
+    "korean_summary": "Sanofi가 2021년 11억 달러에 인수한 Kymab의 amlitelimab에 대한 아토피 피부염 승인 신청 계획을 철회.\n기존 치료제 대비 '의미 있는 개선'을 입증하지 못했다고 공식 인정, 블록버스터 기대 무산.\n빅파마의 고가 인수 후 임상 실패 사례로, 항체 치료제 개발 리스크를 재확인.",
+    "category": "빅파마",
+    "relevance_score": 2,
+    "relevance_reason": "항체 치료제 관련이나 사용자 연구 분야(ferritin, ADC, protein design)와 직접 연관성 낮음",
+    "processed_at": "2026-07-24T23:54:49.857587+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/scribe-records-upsized-129m-ipo-latest-biotech-stock-market-debut": {
+    "korean_summary": "Scribe Therapeutics가 IPO를 통해 1억 2,870만 달러 조달, 당초 목표 9,600만 달러 초과.\n지질 저하 유전자 편집 치료제 개발을 위한 in vivo gene editing 플랫폼 보유 기업.\nGene editing 섹터 IPO 시장 회복 신호, 자금조달 환경 개선 시사.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "유전자 편집 IPO 뉴스로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-07-24T23:54:54.275306+00:00"
   }
 }
