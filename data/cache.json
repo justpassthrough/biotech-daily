@@ -3113,5 +3113,75 @@
     "relevance_score": 2,
     "relevance_reason": "유전자 편집 IPO 뉴스로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 관련 없음",
     "processed_at": "2026-07-24T23:54:54.275306+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ra-capital-launches-rare-disease-company-oak-hill-bio-nasdaq-spac": {
+    "korean_summary": "RA Capital이 희귀질환 바이오텍 Oak Hill Bio를 SPAC 합병을 통해 나스닥에 상장 추진.\nRA Capital 후원 SPAC인 Research Alliance Corporation III(RACC)와 합병, 희귀 유전질환 후보물질 개발 자금 확보 목적.\n희귀질환 분야 SPAC 상장 사례로, 바이오텍 자금조달 시장 동향 반영.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "SPAC 상장 및 희귀질환 펀딩 뉴스로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-07-27T23:53:51.686991+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/apnimed-aspires-160m-ipo-sleep-apnea-pill-launch-nears": {
+    "korean_summary": "수면무호흡증 치료제 개발사 Apnimed이 최대 1억 6천만 달러 규모 IPO를 추진.\n조달 자금은 수면무호흡증 경구 치료제 출시 비용에 사용 예정.\n소형 바이오텍 IPO 시장 동향 참고용 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "수면무호흡증 치료제 IPO로 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-27T23:53:55.971978+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/maplight-shares-sink-mixed-ph-2-schizophrenia-readout": {
+    "korean_summary": "MapLight Therapeutics의 조현병 치료제 P2 임상 결과가 혼재된 성과를 보이며 주가 60% 이상 급락.\n구체적 효능 및 안전성 수치는 공개되지 않았으나 시장 반응은 매우 부정적.\n신경계 질환 신약 개발의 높은 임상 실패 리스크를 재확인.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "조현병 신경계 임상 결과로 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-27T23:54:01.127858+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/fda-signs-freenomes-bowel-cancer-screener-abbott-preps-sell-blood-test-us": {
+    "korean_summary": "FDA가 Freenome의 혈액 기반 대장암 조기진단 검사 SimpleScreen CRC를 승인.\nAbbott이 미국 내 독점 판매권 보유, 혈액 한 번으로 대장암 스크리닝 가능.\n비침습적 암 조기진단 시장 확대, 액체생검 기반 진단 분야 성장 신호.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "암 진단 FDA 승인 뉴스로 사용자 연구 분야(약물전달, 단백질 설계)와 무관",
+    "processed_at": "2026-07-27T23:54:05.993339+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/innocares-oral-tyk2-inhibitor-races-psoriasis-treatment-finish-line": {
+    "korean_summary": "InnoCare Pharma의 경구용 TYK2 억제제 fadeucravacitinib이 중등도-중증 판상 건선 P3 임상 1차 평가변수 달성.\n성인 중등도-중증 판상 건선 환자 대상 P3 시험에서 유효성 확인, 구체적 수치는 미공개.\nBMS의 deucravacitinib(Sotyktu) 이후 TYK2 억제제 경쟁 심화, 중국 바이오텍의 글로벌 진출 신호.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "TYK2 억제제 건선 임상 결과, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-27T23:54:11.610174+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/after-missed-endpoint-gossamer-and-chiesi-pull-plug-pah-drug-collaboration": {
+    "korean_summary": "Gossamer Bio와 Chiesi가 PAH 치료제 seralutinib 공동개발 협약을 종료.\n2024년 최대 4억 8600만 달러 규모로 체결된 딜이었으나 임상 엔드포인트 미달로 해지.\n임상 실패로 인한 대형 라이선싱 딜 해소 사례, PAH 파이프라인 리스크 부각.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "PAH 소분자 약물 임상 실패 관련, 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-27T23:54:16.459660+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/legend-biotech-ceo-abruptly-steps-down-without-permanent-replacement": {
+    "korean_summary": "Legend Biotech CEO Ying Huang 박사가 갑작스럽게 사임, 후임자 미정.\n공식 발표 외 사임 이유 미공개, 임시 체제로 운영 예정.\nCAR-T 치료제 Carvykti 상업화 중인 시점의 리더십 공백으로 주목.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "임원 인사 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-27T23:54:20.863754+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/argenx-acquires-forte-22b-get-hands-phase-2-stage-vitiligo-drug": {
+    "korean_summary": "Argenx가 Forte Biosciences를 22억 달러에 인수 합의.\nForte의 P2 단계 백반증(vitiligo) 및 셀리악병 치료제 파이프라인 확보가 목적.\n자가면역 질환 포트폴리오 확장을 위한 빅딜, ADC/나노의약 분야와는 무관.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "자가면역 질환 M&A 딜로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-07-27T23:54:25.845837+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/astrazeneca-execs-very-confident-homegrown-adcs-despite-scrapping-2-candidates": {
+    "korean_summary": "AstraZeneca 경영진이 자체 ADC 파이프라인에 대한 강한 자신감을 표명.\n임상에서 부진한 ADC 후보 2개를 중단했음에도 불구하고 내부 파이프라인 유지 방침 확인.\nADC 개발 실패 사례가 늘어나는 가운데 빅파마의 선택과 집중 전략을 보여주는 사례.",
+    "category": "빅파마",
+    "relevance_score": 6,
+    "relevance_reason": "ADC 파이프라인 전략 관련, 직접적 기술 내용보다는 산업 동향 수준",
+    "processed_at": "2026-07-27T23:54:31.504599+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/labcorp-launches-dtc-genetic-health-panel-seek-out-multiple-diseases": {
+    "korean_summary": "Labcorp이 소비자 직접 판매(DTC) 유전자 검사 패널 'Marker by Labcorp Genetic Health Panel' 출시.\n163개 유전자 분석으로 100개 이상 유전성 질환 위험도 평가 가능.\nDTC 유전자 검사 시장 확대 흐름, 예방 의학 및 개인 맞춤 의료 트렌드 반영.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "DTC 유전자 검사 서비스로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-07-27T23:54:36.214239+00:00"
   }
 }
