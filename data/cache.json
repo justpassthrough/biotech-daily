@@ -3183,5 +3183,68 @@
     "relevance_score": 1,
     "relevance_reason": "DTC 유전자 검사 서비스로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
     "processed_at": "2026-07-27T23:54:36.214239+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/eli-lilly-rides-launch-success-and-development-timelines-top-new-ranking-worlds-most": {
+    "korean_summary": "Norstella의 첫 Pipeline-to-Patient Productivity Index에서 Eli Lilly가 1위 달성.\n5년 전 16위에서 1위로 상승, GLP-1 성공과 파이프라인 생산성이 주요 요인.\n빅파마 R&D 생산성 평가 지표로서 산업 벤치마크 역할 가능.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 순위 뉴스로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-28T23:49:45.911778+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/incyte-ditches-development-jak-inhibitor-pursue-next-generation-pipeline": {
+    "korean_summary": "Incyte가 희귀 혈액암 대상 JAK2 억제제의 P1 개발을 중단.\n차세대 대체 옵션 개발로 전략 전환, 구체적 후속 물질은 미공개.\nJAK 억제제 시장 내 경쟁 심화로 인한 파이프라인 재편 사례.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "JAK 억제제 임상 중단 소식으로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-07-28T23:49:50.059951+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/altimmunes-next-gen-glp-1-curbs-heavy-drinking-unequivocal-ph-2-alcohol-use-disorder-win": {
+    "korean_summary": "Altimmune의 GLP-1/glucagon 이중 수용체 작용제가 알코올 사용장애(AUD) P2에서 음주량 감소 효과 확인.\n중증 음주 감소에서 '명확한(unequivocal)' 결과로 평가, 구체적 수치는 미공개.\nGLP-1 계열 약물의 적응증 확장 가능성을 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "GLP-1 임상 결과로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-07-28T23:49:54.960805+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gsk-unveils-3-year-cost-saving-plan-fund-late-stage-rd-research-hq-move": {
+    "korean_summary": "GSK가 3년간 비용 절감 계획을 발표하며 후기 임상 R&D 집중 투자 전략 공개.\n연구 본부를 AstraZeneca 인근으로 이전 예정, CEO는 인력 감축 규모 언급 회피.\n빅파마의 구조조정을 통한 R&D 효율화 흐름의 일환.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "GSK 내부 구조조정 및 전략 재편, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-28T23:49:59.746929+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ateas-hepatitis-c-asset-matches-gileads-epclusa-phase-3-trial": {
+    "korean_summary": "Atea Pharmaceuticals의 C형 간염 치료 후보물질이 P3 임상에서 Gilead의 Epclusa와 동등한 효능 확인.\n더 짧고 단순한 치료 요법으로 두 번째 P3 결과를 향해 진행 중.\nC형 간염 치료제 시장에서 Gilead 독점 구도에 도전하는 경쟁 구도 형성.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "C형 간염 소분자 항바이러스제 임상 결과로 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-28T23:50:04.493717+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/acrosian-debuts-ai-focused-biometrics-cro": {
+    "korean_summary": "Quartesian 창업자들이 AI 특화 CRO Acrosian을 새롭게 설립.\n바이오메트릭스 중심의 AI 시대 맞춤형 CRO를 표방하며 출범.\nCRO 업계의 AI 도입 가속화 흐름을 반영한 창업 사례.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "AI CRO 설립 소식으로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-07-28T23:50:08.860107+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/guardant-health-taps-patrick-dempsey-emotional-colorectal-cancer-awareness-video": {
+    "korean_summary": "Guardant Health가 배우 Patrick Dempsey와 협력해 대장암 인식 제고 영상을 제작·공개.\n혈액 기반 대장암 조기검진 제품 홍보 목적의 감성 마케팅 캠페인.\n제품 과학이나 임상 데이터와 무관한 소비자 인식 캠페인.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "마케팅 캠페인으로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-07-28T23:50:13.380366+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gsk-partner-hansoh-reports-another-phase-3-win-priority-adc": {
+    "korean_summary": "Hansoh Pharmaceutical의 B7-H3 타깃 ADC가 중국에서 또 다른 Phase 3 임상 성공.\nGSK와 파트너십 체결된 해당 ADC는 중국 내 우선심사 대상으로, 이번이 두 번째 P3 성공.\nB7-H3 타깃 ADC 경쟁 심화 및 중국 ADC 기업의 글로벌 파트너십 전략 강화 흐름.",
+    "category": "임상결과",
+    "relevance_score": 6,
+    "relevance_reason": "ADC 임상 결과 직접 관련, linker/payload 세부 기술 언급은 없으나 ADC 시장 동향 참고 가치",
+    "processed_at": "2026-07-28T23:50:18.802797+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/boston-scientific-unveils-major-restructuring-plots-job-cuts-amid-savings-drive": {
+    "korean_summary": "Boston Scientific이 대규모 구조조정 및 인력 감축 계획을 발표.\n비용 절감을 목표로 내부 운영 효율화에 집중하는 전략적 전환.\n올해 활발한 M&A 이후 내부 통합 및 비용 관리로 방향 전환.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "의료기기 기업 구조조정 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-28T23:50:22.976486+00:00"
   }
 }
