@@ -3246,5 +3246,61 @@
     "relevance_score": 0,
     "relevance_reason": "의료기기 기업 구조조정 뉴스, 사용자 연구 분야와 무관",
     "processed_at": "2026-07-28T23:50:22.976486+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/fda-adcomm-shoots-down-capricors-duchenne-cell-therapy-after-meeting-marked-statistical": {
+    "korean_summary": "FDA 자문위원회가 Capricor의 Duchenne 근이영양증 세포치료제에 대해 부정적 투표 결정.\n통계적 해석 논란이 회의 전반을 지배했으며, 전문가 패널은 승인에 반대 의견 제시.\n세포치료제 임상 데이터의 통계적 엄밀성 요구 수준을 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "세포치료제 FDA 심사 결과로, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-29T23:52:07.002701+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/merck-posts-then-pulls-trial-plan-pd-1xvegf-and-trop2-adc-combination": {
+    "korean_summary": "Merck가 PD-1xVEGF 이중항체와 TROP2 ADC 병용 임상 계획을 잠시 공개 후 삭제.\n약 2년간 비공개 유지하던 파이프라인 전략의 첫 구체적 단서가 노출됐다가 철회됨.\nADC+이중항체 병용 전략 경쟁이 심화되는 가운데 Merck의 차기 임상 방향성에 시장 관심 집중.",
+    "category": "빅파마",
+    "relevance_score": 5,
+    "relevance_reason": "TROP2 ADC 언급으로 ADC 분야 관련성 있으나, linker/delivery 기술 내용 없이 전략 동향 수준",
+    "processed_at": "2026-07-29T23:52:12.752285+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/low-tech-chemotherapy-nanoparticles-show-promise-deadly-brain-tumor-recurrence": {
+    "korean_summary": "표준 항암제를 나노입자에 탑재해 뇌종양 절제 직후 투여 시 혈액-뇌 장벽(BBB) 투과 가능성 확인.\n종양 절제 후 BBB 투과성이 일시적으로 증가하는 시점을 활용한 전략으로, 구체적 나노입자 종류 및 약물 미공개.\n뇌종양 재발 억제를 위한 나노의약품 전달 전략의 임상적 가능성을 시사.",
+    "category": "모달리티",
+    "relevance_score": 6,
+    "relevance_reason": "나노입자 기반 약물전달 시스템 직접 관련, BBB 투과 전략은 nanomedicine 연구와 연관성 있음",
+    "processed_at": "2026-07-29T23:52:18.265944+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/biogen-ceo-near-term-ma-we-have-what-we-need-grow": {
+    "korean_summary": "Biogen CEO Christopher Viehbacher가 당분간 M&A 속도를 늦추겠다고 밝힘.\n최근 수년간 활발한 사업개발 활동 이후 내부 성장에 집중하겠다는 전략적 방향 전환.\nBiogen의 파이프라인 자체 성장 자신감을 시사하는 경영진 발언.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 경영 전략 발언으로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-29T23:52:22.513460+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/novo-nordisk-fails-dismiss-lawsuit-over-cagrisema-readout": {
+    "korean_summary": "Novo Nordisk가 CagriSema 임상 결과 관련 투자자 소송 기각 신청에 실패.\n판사가 투자자 측 주장 일부가 충분히 타당하다고 판단, 소송 진행 결정.\n빅파마의 임상 데이터 공개 방식과 투자자 소통에 대한 법적 리스크를 보여주는 사례.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "GLP-1 관련 법적 분쟁으로 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-29T23:52:26.966389+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/processa-acquires-vidya-potential-btk-inhibitor-rival-novartis-rhapsido": {
+    "korean_summary": "Processa Pharmaceuticals가 Vidya Therapeutics를 인수하며 자가면역 분야에 진출.\nVidya의 BTK 억제제 파이프라인이 핵심 자산으로, Novartis의 Rhapsido(fenebrutinib)와 경쟁 포지셔닝.\nBTK 억제제 자가면역 시장 경쟁 심화, 소규모 M&A를 통한 파이프라인 확보 전략.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "BTK 억제제 자가면역 M&A 딜, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-29T23:52:31.355397+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/caldera-erupts-public-markets-synlogic-merger-and-278m-financing": {
+    "korean_summary": "Caldera Therapeutics가 상장사 Synlogic과 역합병(reverse merger)을 통해 Nasdaq 우회 상장.\n동시에 2억 7,800만 달러 규모의 파이낸싱 딜 체결.\n염증성 장질환(IBD) 스타트업의 빠른 성장과 역합병 트렌드 확산을 보여주는 사례.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "역합병 및 IBD 기업 금융 딜, 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-29T23:52:36.051548+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/vertexs-latest-autoimmune-tce-play-involves-28m-upfront-abcellera": {
+    "korean_summary": "Vertex가 AbCellera의 T-cell engager(TCE) 플랫폼 활용을 위해 2,800만 달러 선불 지급 계약 체결.\n자가면역 질환 타깃 TCE 개발 협력이며, AbCellera는 올 여름 두 번째 TCE 파트너십 확보.\nTCE 모달리티가 항암을 넘어 자가면역 영역으로 확장되는 산업적 흐름을 반영.",
+    "category": "M&A",
+    "relevance_score": 3,
+    "relevance_reason": "TCE/항체 플랫폼 딜이나 ferritin, ADC linker, 단백질 설계 등 사용자 핵심 연구와 직접 연관성 낮음",
+    "processed_at": "2026-07-29T23:52:42.451084+00:00"
   }
 }
