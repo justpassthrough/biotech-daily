@@ -3372,5 +3372,19 @@
     "relevance_score": 2,
     "relevance_reason": "in vivo CAR-T 딜로 사용자 연구 분야(ferritin, ADC, protein design)와 직접 연관성 낮음",
     "processed_at": "2026-07-30T23:53:02.379027+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/novo-nordisk-left-praying-artemis-and-hermes-salvage-program-after-key-phase-3-trial-flops": {
+    "korean_summary": "Novo Nordisk의 ziltivekimab(IL-6 억제제)이 만성신장질환(CKD) 대상 P3 임상에서 1차 평가변수 미달성.\n블록버스터 기대작이었으나 실패, 현재 진행 중인 Artemis·Hermes 임상으로 프로그램 구제 시도 중.\nNovo의 GLP-1 외 포트폴리오 다각화 전략에 차질, CKD 시장 경쟁 구도 재편 가능성.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "CKD 대상 항체 임상 실패 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-07-31T23:52:04.942657+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/apnimeds-ipo-dream-comes-true-upsized-192m-ipo-fund-sleep-apnea-pill": {
+    "korean_summary": "수면무호흡증 치료제 개발사 Apnimed이 IPO를 통해 1억 9,200만 달러 조달.\n당초 계획보다 규모를 늘린 upsized IPO로, 수면무호흡증 경구용 치료제 출시 자금으로 사용 예정.\n수면무호흡증 비수술·비CPAP 치료제 시장 개척 시도.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "수면무호흡증 IPO 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-07-31T23:52:09.272977+00:00"
   }
 }
