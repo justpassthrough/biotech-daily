@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-03T23:58:59.187006+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Curium strikes up to $8B deal for radiopharma rival Lantheus",
+      "link": "https://www.fiercebiotech.com/medtech/curium-strikes-8b-deal-radiopharma-rival-lantheus",
+      "summary_en": "Months after reports first linked Curium to a potential Lantheus takeover, the radiopharma players have made it official with a deal worth up to $8 billion.",
+      "published": "2026-08-03T13:56:00+00:00",
+      "korean_summary": "방사성의약품 기업 Curium이 경쟁사 Lantheus를 최대 80억 달러에 인수하는 딜 체결.\n수개월 전부터 인수 가능성이 보도된 후 공식화, 딜 규모 최대 80억 달러.\n방사성의약품(radiopharma) 섹터 내 대형 M&A로 시장 통합 가속화.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "방사성의약품 M&A로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련 없음",
+      "processed_at": "2026-08-03T23:58:37.653426+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "BlossomHill eyes $112M IPO harvest to bankroll potential Tagrisso challenger",
+      "link": "https://www.fiercebiotech.com/biotech/blossomhill-eyes-112m-ipo-harvest-bankroll-potential-tagrisso-challenger",
+      "summary_en": "BlossomHill Therapeutics plans to raise $111.7 million to fund the clinical journey of its potential challenger to Tagrisso.",
+      "published": "2026-08-03T09:24:00+00:00",
+      "korean_summary": "BlossomHill Therapeutics가 IPO를 통해 1억 1,170만 달러 조달 계획 발표.\nTagrisso(osimertinib) 대항 후보물질의 임상 개발 자금 확보가 목적.\nEGFR 표적 항암제 시장 경쟁 심화, 차세대 후보 임상 진입 자금조달 동향.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "EGFR 항암제 IPO 펀딩 뉴스로 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-08-03T23:58:42.179669+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "After 5-month wait, BioNTech announces Sobi CEO will take on top job at mRNA company",
+      "link": "https://www.fiercebiotech.com/biotech/after-6-month-wait-biontech-announces-sobi-ceo-will-take-top-job",
+      "summary_en": "One of the most closely watched vacancies in biopharma has now been filled, with Sobi CEO Guido Oelkers, Ph.D., moving across to take up the top job at mRNA pioneer BioNTech.",
+      "published": "2026-08-03T06:50:00+00:00",
+      "korean_summary": "BioNTech가 Sobi CEO Guido Oelkers를 신임 CEO로 선임.\n5개월간 공석이었던 자리로, Oelkers는 Sobi에서 희귀질환 전문 경영 경험 보유.\nBioNTech의 mRNA 파이프라인 전략 방향에 영향을 줄 수 있는 리더십 교체.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "임원 인사 뉴스로 사용자 연구 분야와 무관",
+      "processed_at": "2026-08-03T23:58:48.346859+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea",
+      "link": "https://www.fiercebiotech.com/pharma/astrazeneca-bristol-myers-squibb-merger-would-be-bad-idea",
+      "summary_en": "Combining the two drugmakers would trigger severe regulatory concerns and significant pipeline disruptions, cost numerous jobs, all while damaging the broader biopharma ecosystem and hurting patients, Angus Liu argues in an editorial.",
+      "published": "2026-08-03T00:32:00+00:00",
+      "korean_summary": "AstraZeneca와 BMS의 합병 가능성에 대한 반대 논거를 담은 에디토리얼 기고.\n규제 리스크, 파이프라인 중복, 대규모 인력 감축, 생태계 훼손 등 부정적 영향 열거.\n실제 딜이 아닌 의견 기사로, 빅파마 M&A 논의 동향 참고 수준.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "빅파마 전략 논평 기사, 사용자 연구 분야와 무관",
+      "processed_at": "2026-08-03T23:58:53.564992+00:00"
+    }
+  ],
+  "overall": [
+    "Curium이 Lantheus를 최대 80억 달러에 인수하는 딜을 체결하며 방사성의약품(radiopharma) 분야의 대형 M&A 통합이 가속화되고 있음",
+    "BlossomHill의 1억 1,200만 달러 IPO 추진 및 AstraZeneca-BMS 합병 논의 등 빅파마 간 전략적 재편 가능성이 시장의 주요 화두로 부상",
+    "BioNTech가 5개월의 공백 끝에 Sobi CEO 출신을 새 수장으로 선임하며 mRNA 플랫폼의 상업화 역량 강화를 위한 리더십 정비에 나섬"
+  ]
+}

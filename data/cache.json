@@ -3386,5 +3386,33 @@
     "relevance_score": 0,
     "relevance_reason": "수면무호흡증 IPO 뉴스로 사용자 연구 분야와 무관",
     "processed_at": "2026-07-31T23:52:09.272977+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/curium-strikes-8b-deal-radiopharma-rival-lantheus": {
+    "korean_summary": "방사성의약품 기업 Curium이 경쟁사 Lantheus를 최대 80억 달러에 인수하는 딜 체결.\n수개월 전부터 인수 가능성이 보도된 후 공식화, 딜 규모 최대 80억 달러.\n방사성의약품(radiopharma) 섹터 내 대형 M&A로 시장 통합 가속화.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "방사성의약품 M&A로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련 없음",
+    "processed_at": "2026-08-03T23:58:37.653426+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/blossomhill-eyes-112m-ipo-harvest-bankroll-potential-tagrisso-challenger": {
+    "korean_summary": "BlossomHill Therapeutics가 IPO를 통해 1억 1,170만 달러 조달 계획 발표.\nTagrisso(osimertinib) 대항 후보물질의 임상 개발 자금 확보가 목적.\nEGFR 표적 항암제 시장 경쟁 심화, 차세대 후보 임상 진입 자금조달 동향.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "EGFR 항암제 IPO 펀딩 뉴스로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-08-03T23:58:42.179669+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/after-6-month-wait-biontech-announces-sobi-ceo-will-take-top-job": {
+    "korean_summary": "BioNTech가 Sobi CEO Guido Oelkers를 신임 CEO로 선임.\n5개월간 공석이었던 자리로, Oelkers는 Sobi에서 희귀질환 전문 경영 경험 보유.\nBioNTech의 mRNA 파이프라인 전략 방향에 영향을 줄 수 있는 리더십 교체.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "임원 인사 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-03T23:58:48.346859+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/astrazeneca-bristol-myers-squibb-merger-would-be-bad-idea": {
+    "korean_summary": "AstraZeneca와 BMS의 합병 가능성에 대한 반대 논거를 담은 에디토리얼 기고.\n규제 리스크, 파이프라인 중복, 대규모 인력 감축, 생태계 훼손 등 부정적 영향 열거.\n실제 딜이 아닌 의견 기사로, 빅파마 M&A 논의 동향 참고 수준.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 전략 논평 기사, 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-03T23:58:53.564992+00:00"
   }
 }
