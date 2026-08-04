@@ -3414,5 +3414,68 @@
     "relevance_score": 1,
     "relevance_reason": "빅파마 전략 논평 기사, 사용자 연구 분야와 무관",
     "processed_at": "2026-08-03T23:58:53.564992+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/icon-inks-anthropic-partnership-deploy-claude-clinical-trials": {
+    "korean_summary": "CRO 기업 Icon이 Anthropic과 다년간 파트너십을 체결, Claude AI를 임상시험에 도입.\n임상시험 운영 전반에 Claude의 AI 기능을 적용하는 협력 구조, 구체적 재무 조건은 미공개.\nAI의 임상시험 운영 효율화 트렌드 확산, CRO 섹터의 AI 도입 가속화 신호.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "AI-CRO 협력 뉴스로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-08-04T23:53:25.021339+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/amgen-drops-early-stage-obesity-drug-upping-pressure-maritide": {
+    "korean_summary": "Amgen이 초기 단계 비만 치료제 AMG 513 개발을 중단.\n비만 시장 공략을 Phase 3 후보물질 MariTide에 집중하는 전략으로 전환.\n빅파마 비만 파이프라인 정리 가속화, MariTide의 성패가 Amgen 비만 전략 전체를 좌우.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "비만 치료제 파이프라인 조정 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-04T23:53:29.556127+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/smith-nephew-cuts-2026-outlook-us-knee-implant-sales-slide": {
+    "korean_summary": "Smith & Nephew가 미국 무릎 임플란트 판매 부진으로 2026년 매출 전망 하향 조정.\n미국 정형외과 및 상처 치료 부문 약세가 스포츠 의학 성장을 상쇄.\n의료기기 섹터 내 정형외과 시장 수요 둔화 신호.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "정형외과 임플란트 매출 전망, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-08-04T23:53:33.689703+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/lisata-lays-72-staffers-sues-kuva-after-merger-falls-apart": {
+    "korean_summary": "Lisata Therapeutics가 Kuva Labs와의 합병 무산 후 전체 인력의 72%를 해고.\nCMO 포함 대규모 구조조정 단행, Kuva Labs를 상대로 소송도 제기.\n소규모 바이오텍의 합병 실패가 기업 존속 위기로 이어지는 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "바이오텍 구조조정/합병 실패 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-04T23:53:37.922926+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/pfizer-axes-ex-metsera-obesity-asset-and-gipr-prospect-quarterly-clearout": {
+    "korean_summary": "Pfizer가 분기별 파이프라인 정리의 일환으로 비만 임상 프로그램 2개 중단.\nMetsera 인수로 확보한 GLP-1 수용체 작용제와 GIPR 길항제 각각 개발 중단.\nGLP-1 비만 치료제 경쟁 심화 속 빅파마의 선택과 집중 전략 가속화.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "비만 파이프라인 정리 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-04T23:53:42.234805+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/kkr-shells-out-57b-take-medtech-manufacturing-giant-integer-private": {
+    "korean_summary": "KKR이 medtech 제조 대기업 Integer를 약 57억 달러에 비공개 전환 인수 합의.\n순수 사모펀드 바이아웃 딜로, Integer는 심장박동기·신경조절 등 의료기기 부품 제조 전문.\n헬스케어 제조 섹터에 대한 PE 자본 유입 지속 신호.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "medtech 제조 PE 딜로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-08-04T23:53:47.626566+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/latigo-laces-247m-ipo-fund-non-opioid-pain-drug-rival-vertexs-journavx": {
+    "korean_summary": "Latigo Biotherapeutics가 비오피오이드 통증 치료제 개발을 위해 2억 4700만 달러 규모 IPO 추진 계획 공개.\nVertex의 Journavx(suzetrigine)와 경쟁하는 임상 단계 파이프라인 보유.\n비오피오이드 통증 치료제 시장 경쟁 심화, IPO 자금으로 임상 개발 가속화 예정.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "비오피오이드 통증 치료제 IPO로 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-04T23:53:52.138175+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/mercks-11b-asset-delivers-1-win-1-loss-midphase-inflammatory-disease-trials": {
+    "korean_summary": "Merck가 108억 달러에 인수한 anti-TL1A 단클론항체가 P2 임상에서 1개 적응증 실패, 1개 성공.\n실패한 적응증의 1차 평가변수 미달성으로 해당 적응증 개발 중단 가능성, 다른 적응증은 긍정적 결과.\n대형 인수 자산의 임상 리스크를 보여주는 사례로, 항체 파이프라인 다각화 전략의 중요성 시사.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "일반 항체 임상 결과로 사용자 연구 분야(ADC linker, 단백질 설계, 나노의약)와 직접 연관성 낮음",
+    "processed_at": "2026-08-04T23:53:58.088791+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/pathos-ai-pads-pipeline-22b-alphamab-deal-plus-astrazeneca-pact": {
+    "korean_summary": "Pathos AI가 중국 Alphamab Oncology로부터 이중특이성 ADC를 1.25억 달러에 도입하고, AstraZeneca와도 파트너십 체결.\n총 딜 규모 22억 달러 수준, 이중특이성 항체-약물 접합체(bispecific ADC) 파이프라인 확장이 핵심.\nADC 분야에서 이중특이성 포맷과 AI 기반 플랫폼의 결합이 주목받는 트렌드를 반영.",
+    "category": "M&A",
+    "relevance_score": 6,
+    "relevance_reason": "ADC 관련 딜이나 linker 기술 세부 내용 없이 파이프라인 도입 수준, ADC 시장 동향 참고용",
+    "processed_at": "2026-08-04T23:54:04.107920+00:00"
   }
 }
