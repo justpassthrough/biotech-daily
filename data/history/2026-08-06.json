@@ -1,0 +1,71 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-05T23:47:10.553663+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Sanofi suspends chronic lung disease phase 2 study, tied to ‘strategic business reasons’",
+      "link": "https://www.fiercebiotech.com/biotech/sanofi-suspends-chronic-lung-disease-phase-2-study-tied-strategic-business-reasons",
+      "summary_en": "Sanofi halted a phase 2 trial testing a monoclonal antibody, SAR445399, in non-cystic fibrosis bronchiectasis, Fierce has learned.",
+      "published": "2026-08-05T14:08:00+00:00",
+      "korean_summary": "Sanofi가 비낭성섬유증 기관지확장증 대상 P2 임상을 중단.\nSAR445399(단클론항체) 임상 중단, 이유는 '전략적 사업상 이유'로 공개.\n임상 데이터 문제가 아닌 사업 전략에 의한 중단으로, 파이프라인 우선순위 조정 신호.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "단클론항체 임상 중단 소식이나 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-08-05T23:46:41.764421+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Fecal transplant increases tolerance to peanuts sixfold in small food allergy trial",
+      "link": "https://www.fiercebiotech.com/biotech/fecal-transplant-increases-peanut-sensitivity-six-times-small-phase-1-trial",
+      "summary_en": "Fecal transplants can increase tolerance to peanuts sixfold in people with food allergies, new research out of Boston Children’s Hospital has suggested.",
+      "published": "2026-08-05T10:35:00+00:00",
+      "korean_summary": "보스턴 아동병원 연구팀이 소규모 임상에서 분변 이식(FMT)이 땅콩 알레르기 내성을 6배 증가시킨다고 발표.\n식품 알레르기 환자 대상 소규모 시험, 구체적 환자 수 및 통계 미공개.\n장내 마이크로바이옴과 면역 내성의 연관성을 시사하는 초기 연구.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "분변 이식 알레르기 연구로 사용자 연구 분야(나노의약, 단백질 설계, ADC)와 무관",
+      "processed_at": "2026-08-05T23:46:46.810244+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Lilly drops another gene therapy trial from $1B Prevail buyout",
+      "link": "https://www.fiercebiotech.com/biotech/eli-lilly-drops-another-gene-therapy-trial-1b-prevail-buyout",
+      "summary_en": "Eli Lilly has axed another trial of a gene therapy acquired in its $1 billion Prevail Therapeutics buyout, further denting the drugmaker’s chances of delivering a return on its investment.",
+      "published": "2026-08-05T08:37:00+00:00",
+      "korean_summary": "Eli Lilly가 10억 달러에 인수한 Prevail Therapeutics의 유전자치료제 임상을 추가 중단.\nPrevail 인수 후 또 하나의 파이프라인 임상 종료로 투자 회수 가능성 더욱 낮아짐.\n빅파마의 유전자치료제 투자 실패 사례로, 해당 모달리티 리스크를 재확인.",
+      "category": "빅파마",
+      "relevance_score": 2,
+      "relevance_reason": "유전자치료제 임상 중단 뉴스로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-08-05T23:46:51.551973+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Novo CEO accepts ‘couple of setbacks’ in R&D as CagriSema posts more mixed data",
+      "link": "https://www.fiercebiotech.com/biotech/novo-ceo-accepts-couple-setbacks-rd-cagrisema-posts-more-mixed-data",
+      "summary_en": "Novo Nordisk’s CEO admitted the Danish pharma has had “a couple of setbacks” in the wake of mixed data for CagriSema and its cardiovascular hopeful ziltivekimab, while stressing that the company is already on the hunt for bolt-on deals.",
+      "published": "2026-08-05T03:40:00+00:00",
+      "korean_summary": "Novo Nordisk CEO가 CagriSema 및 ziltivekimab의 혼재된 임상 결과를 '몇 가지 차질'로 인정.\nCagriSema는 비만/당뇨 복합 치료제, ziltivekimab은 심혈관 적응증 후보로 모두 기대 이하 데이터 발표.\nNovo는 파이프라인 보완을 위한 bolt-on 딜 추진 의사를 밝혀 M&A 가능성 시사.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "GLP-1/심혈관 빅파마 동향으로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-08-05T23:46:56.926848+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Attovia's CEO aims to scratch itch opportunity and challenge Dupixent with $289M IPO",
+      "link": "https://www.fiercebiotech.com/biotech/attovia-aims-scratch-itch-opportunity-and-challenge-dupixent-289m-ipo",
+      "summary_en": "Attovia Therapeutics has accreted a hefty $289 million from its IPO to power its anti-itch drugs through clinical development, marking another upsized listing in what has become a banner year for biotech Nasdaq debuts.",
+      "published": "2026-08-05T00:10:00+00:00",
+      "korean_summary": "Attovia Therapeutics가 IPO를 통해 2억 8,900만 달러를 조달, 항소양증(anti-itch) 신약 임상 개발 자금 확보.\nDupixent(dupilumab) 대항 포지셔닝으로 아토피/만성 소양증 시장 진입 목표.\n2024년 바이오텍 나스닥 IPO 호황 흐름의 일환으로, 면역/피부과 분야 자금 유입 지속.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "항소양증 신약 IPO로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+      "processed_at": "2026-08-05T23:47:02.999958+00:00"
+    }
+  ],
+  "overall": [
+    "Lilly가 Prevail 인수($1B)에서 또 하나의 유전자치료 임상을 중단하고, Sanofi도 만성 폐질환 2상을 '전략적 사유'로 중단하는 등 빅파마의 파이프라인 정리·축소 움직임이 두드러짐",
+    "Novo Nordisk CEO가 CagriSema의 엇갈린 데이터 결과를 인정하며 R&D 차질을 공식 시인, 비만·대사질환 분야 선두주자의 신뢰도에 균열 신호",
+    "Attovia가 Dupixent 대항마를 내세워 $289M IPO를 추진하며 아토피·가려움증 치료제 시장 진입을 선언, 희귀·면역질환 분야 신규 자금 유입 지속"
+  ]
+}
