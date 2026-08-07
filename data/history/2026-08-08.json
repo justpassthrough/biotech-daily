@@ -1,0 +1,71 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-07T23:24:00.182092+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Ensoma sheds more staff, pauses preclinical programs to home in on lead gene therapy",
+      "link": "https://www.fiercebiotech.com/biotech/ensoma-sheds-more-staff-pauses-preclinical-programs-home-lead-gene-therapy",
+      "summary_en": "Boston biotech Ensoma is doubling down on its lead gene therapy for a rare immune disease, laying off another round of employees after previously halving its workforce last November.",
+      "published": "2026-08-07T10:59:00+00:00",
+      "korean_summary": "보스턴 바이오텍 Ensoma가 희귀 면역질환 대상 리드 유전자치료제에 집중하기 위해 추가 인력 감축 및 전임상 프로그램 중단.\n지난해 11월 인력 50% 감축에 이어 추가 구조조정 단행, 파이프라인 축소.\n자금 압박 속 유전자치료제 기업들의 선택과 집중 전략 지속.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "유전자치료제 기업 구조조정 뉴스, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-08-07T23:23:36.089155+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "BlossomHill, Latigo outshine IPO expectations with oversubscribed debuts",
+      "link": "https://www.fiercebiotech.com/biotech/blossomhill-latigo-outshine-ipo-expectations-oversubscribed-debuts",
+      "summary_en": "Two growing biotechs blasted through their IPO expectations Friday, with Blossom Hill Therapeutics and Latigo Biotherapeutics each raising at least 30% more than expected in their stock market debuts.",
+      "published": "2026-08-07T10:39:00+00:00",
+      "korean_summary": "BlossomHill Therapeutics와 Latigo Biotherapeutics가 IPO에서 예상 대비 30% 이상 초과 조달.\n두 바이오텍 모두 기대치를 상회하는 오버서브스크라이브 데뷔 기록.\n바이오텍 IPO 시장 회복세를 보여주는 사례.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "바이오텍 IPO 펀딩 뉴스, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-08-07T23:23:40.415201+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "BioMarin axes $270M rare disease asset after missing phase 3 endpoint",
+      "link": "https://www.fiercebiotech.com/biotech/biomarin-axes-270m-rare-disease-asset-after-missing-phase-3-endpoint",
+      "summary_en": "BioMarin Pharmaceutical has ended development of BMN 401 in all indications months after reporting mixed phase 3 data on the rare disease prospect.",
+      "published": "2026-08-07T08:59:00+00:00",
+      "korean_summary": "BioMarin이 희귀질환 파이프라인 BMN 401의 개발을 전면 중단.\nP3 임상에서 주요 엔드포인트 미달성 후 수개월 만에 2.7억 달러 규모 자산 포기 결정.\n희귀질환 분야 P3 실패의 높은 비용과 리스크를 보여주는 사례.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "희귀질환 P3 실패 뉴스, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-08-07T23:23:44.868355+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Novo Nordisk’s CFO on the oral Wegovy rollout and beyond",
+      "link": "https://www.fiercebiotech.com/biotech/novo-nordisks-cfo-oral-wegovy-rollout-and-beyond",
+      "summary_en": "Novo Nordisk CFO Karsten Munk Knudsen joins “The Top Line” to discuss oral Wegovy’s rollout, the company’s raised outlook, why he’s still optimistic about CagriSema and more.",
+      "published": "2026-08-07T08:45:00+00:00",
+      "korean_summary": "Novo Nordisk CFO가 경구용 Wegovy 출시 계획 및 회사 전망 상향에 대해 언급.\nCagriSema(카그리세마)에 대한 낙관적 입장 유지, 구체적 임상 수치는 미공개.\n빅파마 GLP-1 경구제 시장 확장 전략의 일환으로 주목.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "GLP-1 경구제 전략 관련, 사용자 연구 분야와 무관",
+      "processed_at": "2026-08-07T23:23:48.817252+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Roche adds cyclospora PCR tests as outbreak widens",
+      "link": "https://www.fiercebiotech.com/medtech/roche-boosts-cyclospora-testing-offerings-outbreak-widens-across-us",
+      "summary_en": "Roche is launching new tests for cyclospora as an outbreak linked to iceberg lettuce from Mexico continues to spread across U.S. states.",
+      "published": "2026-08-07T06:51:00+00:00",
+      "korean_summary": "Roche가 사이클로스포라 감염증 확산에 대응해 PCR 진단 키트를 출시.\n멕시코산 양상추와 연관된 집단 발병이 미국 여러 주로 확산 중.\n진단 시장 대응 사례이나 신약/바이오 연구와는 무관.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "감염병 진단 키트 뉴스, 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-08-07T23:23:53.294306+00:00"
+    }
+  ],
+  "overall": [
+    "BioMarin이 희귀질환 자산을 Phase 3 실패로 $270M 손실 처리하며 임상 리스크가 현실화된 반면, BlossomHill·Latigo는 IPO 초과청약으로 바이오텍 자금조달 시장의 선별적 강세를 보여줌",
+    "Ensoma가 임직원 추가 감원 및 전임상 프로그램 중단으로 리드 유전자치료제에 자원을 집중하며, 소규모 바이오텍의 파이프라인 구조조정 흐름이 지속됨",
+    "Novo Nordisk CFO가 경구용 Wegovy(세마글루타이드) 출시 전략을 공개적으로 언급하며, 비만치료제의 제형 다변화가 빅파마의 핵심 성장 의제로 부상함"
+  ]
+}

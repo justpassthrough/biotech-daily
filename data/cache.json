@@ -3561,5 +3561,40 @@
     "relevance_score": 1,
     "relevance_reason": "심혈관 바이오테크 IPO 뉴스, 사용자 연구 분야와 무관",
     "processed_at": "2026-08-07T01:40:06.332208+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ensoma-sheds-more-staff-pauses-preclinical-programs-home-lead-gene-therapy": {
+    "korean_summary": "보스턴 바이오텍 Ensoma가 희귀 면역질환 대상 리드 유전자치료제에 집중하기 위해 추가 인력 감축 및 전임상 프로그램 중단.\n지난해 11월 인력 50% 감축에 이어 추가 구조조정 단행, 파이프라인 축소.\n자금 압박 속 유전자치료제 기업들의 선택과 집중 전략 지속.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "유전자치료제 기업 구조조정 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-08-07T23:23:36.089155+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/blossomhill-latigo-outshine-ipo-expectations-oversubscribed-debuts": {
+    "korean_summary": "BlossomHill Therapeutics와 Latigo Biotherapeutics가 IPO에서 예상 대비 30% 이상 초과 조달.\n두 바이오텍 모두 기대치를 상회하는 오버서브스크라이브 데뷔 기록.\n바이오텍 IPO 시장 회복세를 보여주는 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "바이오텍 IPO 펀딩 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-08-07T23:23:40.415201+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/biomarin-axes-270m-rare-disease-asset-after-missing-phase-3-endpoint": {
+    "korean_summary": "BioMarin이 희귀질환 파이프라인 BMN 401의 개발을 전면 중단.\nP3 임상에서 주요 엔드포인트 미달성 후 수개월 만에 2.7억 달러 규모 자산 포기 결정.\n희귀질환 분야 P3 실패의 높은 비용과 리스크를 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "희귀질환 P3 실패 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-08-07T23:23:44.868355+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/novo-nordisks-cfo-oral-wegovy-rollout-and-beyond": {
+    "korean_summary": "Novo Nordisk CFO가 경구용 Wegovy 출시 계획 및 회사 전망 상향에 대해 언급.\nCagriSema(카그리세마)에 대한 낙관적 입장 유지, 구체적 임상 수치는 미공개.\n빅파마 GLP-1 경구제 시장 확장 전략의 일환으로 주목.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "GLP-1 경구제 전략 관련, 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-07T23:23:48.817252+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/roche-boosts-cyclospora-testing-offerings-outbreak-widens-across-us": {
+    "korean_summary": "Roche가 사이클로스포라 감염증 확산에 대응해 PCR 진단 키트를 출시.\n멕시코산 양상추와 연관된 집단 발병이 미국 여러 주로 확산 중.\n진단 시장 대응 사례이나 신약/바이오 연구와는 무관.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "감염병 진단 키트 뉴스, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-08-07T23:23:53.294306+00:00"
   }
 }
