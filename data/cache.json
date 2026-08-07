@@ -3512,5 +3512,54 @@
     "relevance_score": 1,
     "relevance_reason": "항소양증 신약 IPO로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
     "processed_at": "2026-08-05T23:47:02.999958+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/double-shot-vistagens-anxiety-nasal-spray-cant-beat-placebo-ph-2-trial": {
+    "korean_summary": "Vistagen의 사회불안장애 비강 스프레이(PH94B)가 P2 임상에서 2배 용량 투여에도 위약 대비 유의미한 효과 미입증.\n이전 임상 실패에 이어 반복적 부정적 결과, 회사는 특정 하위집단 분석으로 FDA 승인 경로 모색 중.\n임상 실패 후 하위집단 분석 의존 전략의 한계를 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "불안장애 비강 스프레이 임상 결과, 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-07T01:39:35.096480+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/tarsus-stakes-450m-alkeus-phase-3-retinal-disease-drug": {
+    "korean_summary": "Tarsus Pharmaceuticals가 Alkeus Pharmaceuticals를 4억 5천만 달러에 인수.\nAlkeus의 P3 단계 망막질환 치료제 확보가 목적, 블록버스터 가능성 언급.\n안과 희귀질환 파이프라인 강화를 위한 중소형 M&A 사례.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "망막질환 치료제 M&A로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-08-07T01:39:40.331504+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/pacbio-ceo-steps-down-q2-loss-widens": {
+    "korean_summary": "PacBio CEO Christian Henry 사임, 내부 베테랑이 신임 CEO로 승진.\nQ2 손실 확대 속 매출 개선, 임상 시장 확장, 비용 절감이 주요 과제.\nDNA 시퀀싱 기업의 경영진 교체 및 재무 압박 상황.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "DNA 시퀀싱 기업 임원 인사, 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-07T01:39:45.252303+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/biovie-uses-composite-endpoint-make-case-parkinsons-program": {
+    "korean_summary": "BioVie가 파킨슨병 치료제 bezisterim의 P2 데이터를 '의미 있는 진전'이라 발표했으나 주가 50% 급락.\n사전 설정된 1차 평가변수 대신 사후 복합 평가변수와 하위집단 결과를 강조해 신뢰성 논란.\n임상 결과 해석의 투명성 문제, 규제기관 수용 가능성 불확실.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "파킨슨병 임상 결과, 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-07T01:39:50.332275+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/context-scraps-bispecific-program-extend-cash-runway-deeper-2027": {
+    "korean_summary": "Context Therapeutics가 이중특이성 T세포 인게이저(TCE) 프로그램 CT-95 개발을 중단.\n현금 확보를 통해 런웨이를 2027년 이후까지 연장, 2개 우선 임상 프로그램에 집중.\n소규모 바이오텍의 파이프라인 구조조정 및 자원 집중 전략의 전형적 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "TCE 프로그램 중단 소식으로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-08-07T01:39:55.598531+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/actimed-gets-back-rights-wasting-disease-drug-ending-126m-deal-faraday": {
+    "korean_summary": "Actimed Therapeutics가 Faraday와의 계약을 종료하고 근감소증/악액질 치료제 권리를 회수.\n기존 딜 규모는 최대 1억 2,600만 달러(바이오벅스 포함)였으나 마일스톤 수령 기회 상실.\n파트너십 해소로 전략적 자율성 확보, 향후 독자 개발 또는 재라이선싱 가능성.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "근감소증 치료제 딜 종료 소식으로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-08-07T01:40:00.965046+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/braveheart-charges-past-expectations-3825m-ipo-fund-cardio-drug-hengrui": {
+    "korean_summary": "Braveheart Bio가 IPO를 통해 예상을 초과한 3억 8,250만 달러를 조달.\nHengrui로부터 도입한 심혈관 약물 개발 자금 확보 목적으로 상장 규모 상향.\n심혈관 분야 신규 바이오테크의 대형 IPO, 자금조달 환경 회복 신호.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "심혈관 바이오테크 IPO 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-07T01:40:06.332208+00:00"
   }
 }
