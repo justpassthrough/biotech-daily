@@ -3680,5 +3680,40 @@
     "relevance_score": 1,
     "relevance_reason": "인력 구조조정 및 임상 재도전 뉴스, 사용자 연구 분야와 무관",
     "processed_at": "2026-08-10T23:25:02.045491+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/amgen-lays-groundwork-new-rd-center-hyderabad": {
+    "korean_summary": "Amgen이 인도 하이데라바드에 새 R&D 센터 설립을 추진.\n구체적 투자 규모나 인력 계획은 미공개, 캘리포니아 본사의 연구 역량 확장 전략의 일환.\n빅파마의 인도 R&D 거점 확대 트렌드 반영, 연구 분야와 직접 관련 없음.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "Amgen 시설 확장 뉴스, 사용자 연구 분야와 무관한 인프라/지역 전략",
+    "processed_at": "2026-08-11T23:28:21.753328+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/epicrispr-bags-90m-rewrite-treatment-rare-muscle-disease": {
+    "korean_summary": "Epicrispr Biotechnologies가 Sanofi Ventures 등으로부터 시리즈 C 9천만 달러 조달.\n희귀 근육질환 FSHD 대상 에피제네틱 치료제 파이프라인 초기 임상 단계 진행 예정.\n에피게놈 편집 기반 신규 모달리티 투자 지속, 희귀질환 분야 자금 유입 신호.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "에피제네틱 편집 펀딩 뉴스로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거리가 멀다",
+    "processed_at": "2026-08-11T23:28:26.840867+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/mereo-springs-475m-biobucks-sentynl-phase-3-ready-rare-genetic-lung-disease-drug": {
+    "korean_summary": "Sentynl Therapeutics가 Mereo BioPharma의 희귀 유전성 폐질환 치료제 미국 판권 옵션 계약 체결.\n계약 규모 최대 4억 7,500만 달러, 대상 약물은 P3 진입 준비 단계.\n희귀질환 분야 라이선싱 딜, 빅파마 외 중견사 간 거래 증가 추세 반영.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "희귀 폐질환 라이선싱 딜로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-08-11T23:28:32.230716+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/aura-lays-20-staff-rejigs-c-suite-amid-rd-refocusing": {
+    "korean_summary": "Aura Biosciences가 신임 CEO 체제 하에 안구 종양학으로 R&D 집중 재편.\n전체 인력의 20% 감원 및 C-suite 전면 개편 단행.\n파이프라인 집중화를 위한 구조조정으로, 소규모 바이오텍의 전략적 피벗 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "안구 종양 바이오텍 구조조정 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-11T23:28:36.920231+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/abbott-teams-google-health-ai-powered-health-trends-app": {
+    "korean_summary": "Abbott와 Google Health가 AI 기반 건강 인사이트 앱 개발을 위해 협력 발표.\n구체적 기술 사양, 투자 규모, 임상 데이터 등 세부 정보는 공개되지 않음.\n디지털 헬스 분야 빅테크-의료기기 협업 트렌드의 일환.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "디지털 헬스 앱 협업으로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-08-11T23:28:41.399498+00:00"
   }
 }
