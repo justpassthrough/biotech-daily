@@ -3715,5 +3715,26 @@
     "relevance_score": 0,
     "relevance_reason": "디지털 헬스 앱 협업으로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
     "processed_at": "2026-08-11T23:28:41.399498+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report": {
+    "korean_summary": "Tufts CSDD 분석에 따르면 AI 임상 모니터링 에이전트가 P3 종양학 임상에서 최대 82배 ROI 달성 가능.\n비용 절감 및 효율화 측면에서 AI 도입 효과를 정량적으로 제시한 보고서.\nAI 기반 임상 운영 최적화 트렌드를 보여주나, 신약 개발 기술 자체와는 거리가 있음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "AI 임상 모니터링 ROI 분석으로, 사용자의 단백질 설계·약물전달 연구와 직접 관련 없음",
+    "processed_at": "2026-08-12T23:29:02.615063+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/slimmed-down-aardvark-scraps-phase-3-trials-wait-next-steps-drags": {
+    "korean_summary": "Aardvark Therapeutics가 Phase 3 임상시험을 공식 중단하고 재개 계획 없음을 투자자에게 통보.\n인력 감축에 이어 P3 포기, 파이프라인 전체가 사실상 중단 상태.\n소규모 바이오텍의 임상 실패 후 구조조정 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "임상 중단 소식으로 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-12T23:29:07.282026+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/samsung-hearing-aid-features-its-ear-buds-garner-fda-clearance": {
+    "korean_summary": "삼성전자 Galaxy Buds 이어폰의 OTC 보청기 소프트웨어 기능이 FDA 승인 획득.\n해당 기능은 청력 자가 진단 및 보청기 기능을 포함하며, 기존 의료기기 없이 소비자 직접 사용 가능.\n소비자 전자기기의 의료기기화 트렌드를 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 0,
+    "relevance_reason": "보청기 소프트웨어 FDA 승인, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-08-12T23:29:11.548940+00:00"
   }
 }
