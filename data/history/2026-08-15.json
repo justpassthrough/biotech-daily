@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-14T23:11:25.108307+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Skye and Redx form new entity with $125M to advance fibrosis assets",
+      "link": "https://www.fiercebiotech.com/biotech/skye-and-redx-form-new-entity-125m-advance-fibrosis-assets",
+      "summary_en": "Skye Bioscience has entered into an agreement to combine with privately held fibrotic disease biotech Redx Pharma in a deal that will net $125 million in financing for the new public company, called Fibrx Therapeutics.",
+      "published": "2026-08-14T12:28:00+00:00",
+      "korean_summary": "Skye Bioscience와 Redx Pharma가 합병해 섬유증 전문 신규 법인 Fibrx Therapeutics 설립.\n합병과 동시에 1억 2,500만 달러 파이낸싱 확보, 신규 상장사로 출범 예정.\n섬유증 치료제 분야 자본 집중 사례, 사용자 연구와 직접 연관성은 낮음.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "섬유증 바이오텍 합병 딜, 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+      "processed_at": "2026-08-14T23:11:02.247274+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "‘We’re not afraid of competition’: BioCryst CEO sets out strategy after scrapping internal discovery",
+      "link": "https://www.fiercebiotech.com/biotech/were-not-afraid-competition-biocryst-ceo-sets-out-strategy-after-scrapping-internal",
+      "summary_en": "BioCryst CEO Charlie Gayer told Fierce the company is “not getting away from science and R&D” despite shutting down its internal discovery efforts.",
+      "published": "2026-08-14T10:20:00+00:00",
+      "korean_summary": "BioCryst CEO Charlie Gayer가 내부 신약 발굴 부문 폐쇄 후 회사 전략 방향을 공개 발표.\n외부 파트너십 및 라이선싱 중심으로 R&D 전략 전환, 내부 디스커버리 종료.\n중소 바이오텍의 비용 절감형 외부 의존 R&D 모델 전환 사례.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "바이오텍 경영 전략 뉴스로 사용자 연구 분야와 무관",
+      "processed_at": "2026-08-14T23:11:06.845125+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Capricor soars on plan to amend DMD filing after adcomm setback",
+      "link": "https://www.fiercebiotech.com/biotech/capricor-soars-plan-amend-dmd-filing-after-adcomm-setback",
+      "summary_en": "Capricor Therapeutics has bounced back from a bruising FDA advisory committee meeting by securing a green light to file an amendment to its approval application, raising hopes that the biotech can rescue its Duchenne muscular dystrophy cell therapy. The biotech’s stock soared following the news.",
+      "published": "2026-08-14T09:37:00+00:00",
+      "korean_summary": "Capricor Therapeutics가 FDA 자문위원회 부결 이후 DMD 세포치료제 승인 신청 보완 허가를 획득.\n기존 BLA에 대한 amendment 제출 승인으로 재심사 기회 확보, 주가 급등.\nDMD 희귀질환 세포치료제 규제 경로의 불확실성과 FDA 유연성을 동시에 보여주는 사례.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "DMD 세포치료제 규제 이슈로 사용자 연구 분야와 거리가 멈",
+      "processed_at": "2026-08-14T23:11:13.204381+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "MapLight dims preclinical programs to make phase 3-ready schizophrenia drug shine brighter",
+      "link": "https://www.fiercebiotech.com/biotech/maplight-turns-preclinical-tap-channel-resources-phase-3-ready-schizophrenia-drug",
+      "summary_en": "Despite mixed results for its experimental schizophrenia treatment last month, MapLight Therapeutics is going all-in on the asset—at the expense of its preclinical programs.",
+      "published": "2026-08-14T04:41:00+00:00",
+      "korean_summary": "MapLight Therapeutics가 조현병 치료제 임상 집중을 위해 전임상 프로그램 축소 결정.\n지난달 혼재된 임상 결과에도 불구하고 해당 자산의 P3 진입 준비에 자원 집중.\n소규모 바이오텍의 파이프라인 선택과 집중 전략, 연구 포트폴리오 재편 사례.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "조현병 치료제 임상 전략 뉴스, 사용자 연구 분야와 무관",
+      "processed_at": "2026-08-14T23:11:17.921389+00:00"
+    }
+  ],
+  "overall": [
+    "Skye와 Redx가 $125M 규모의 합작법인을 설립해 섬유증 파이프라인을 공동 개발하는 등 희귀·특수질환 분야 자산 통합 움직임이 포착됨",
+    "Capricor가 FDA 자문위원회 부결 이후 DMD(뒤센근이영양증) 허가 신청 수정 계획을 발표하며 주가 급등, 희귀 근육질환 치료제 승인 경로 재정비 시도 주목",
+    "BioCryst의 내부 신약발견 부문 폐지, MapLight의 전임상 프로그램 축소 등 중소 바이오텍들이 후기 임상 자산에 자원을 집중하는 '선택과 집중' 전략이 두드러짐"
+  ]
+}

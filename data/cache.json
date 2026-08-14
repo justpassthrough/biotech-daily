@@ -3771,5 +3771,33 @@
     "relevance_score": 0,
     "relevance_reason": "임원 인사 뉴스, 사용자 연구 분야(약물전달, 단백질 설계 등)와 완전 무관",
     "processed_at": "2026-08-13T23:30:01.431406+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/skye-and-redx-form-new-entity-125m-advance-fibrosis-assets": {
+    "korean_summary": "Skye Bioscience와 Redx Pharma가 합병해 섬유증 전문 신규 법인 Fibrx Therapeutics 설립.\n합병과 동시에 1억 2,500만 달러 파이낸싱 확보, 신규 상장사로 출범 예정.\n섬유증 치료제 분야 자본 집중 사례, 사용자 연구와 직접 연관성은 낮음.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "섬유증 바이오텍 합병 딜, 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-08-14T23:11:02.247274+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/were-not-afraid-competition-biocryst-ceo-sets-out-strategy-after-scrapping-internal": {
+    "korean_summary": "BioCryst CEO Charlie Gayer가 내부 신약 발굴 부문 폐쇄 후 회사 전략 방향을 공개 발표.\n외부 파트너십 및 라이선싱 중심으로 R&D 전략 전환, 내부 디스커버리 종료.\n중소 바이오텍의 비용 절감형 외부 의존 R&D 모델 전환 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "바이오텍 경영 전략 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-14T23:11:06.845125+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/capricor-soars-plan-amend-dmd-filing-after-adcomm-setback": {
+    "korean_summary": "Capricor Therapeutics가 FDA 자문위원회 부결 이후 DMD 세포치료제 승인 신청 보완 허가를 획득.\n기존 BLA에 대한 amendment 제출 승인으로 재심사 기회 확보, 주가 급등.\nDMD 희귀질환 세포치료제 규제 경로의 불확실성과 FDA 유연성을 동시에 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "DMD 세포치료제 규제 이슈로 사용자 연구 분야와 거리가 멈",
+    "processed_at": "2026-08-14T23:11:13.204381+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/maplight-turns-preclinical-tap-channel-resources-phase-3-ready-schizophrenia-drug": {
+    "korean_summary": "MapLight Therapeutics가 조현병 치료제 임상 집중을 위해 전임상 프로그램 축소 결정.\n지난달 혼재된 임상 결과에도 불구하고 해당 자산의 P3 진입 준비에 자원 집중.\n소규모 바이오텍의 파이프라인 선택과 집중 전략, 연구 포트폴리오 재편 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "조현병 치료제 임상 전략 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-14T23:11:17.921389+00:00"
   }
 }
