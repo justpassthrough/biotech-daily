@@ -3799,5 +3799,61 @@
     "relevance_score": 1,
     "relevance_reason": "조현병 치료제 임상 전략 뉴스, 사용자 연구 분야와 무관",
     "processed_at": "2026-08-14T23:11:17.921389+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/regeneron-ends-eye-disease-trial-anti-cd3-antibody-following-safety-review": {
+    "korean_summary": "Regeneron이 안구 염증 치료 목적의 anti-CD3 항체 P1/2a 임상을 안전성 검토 후 중단.\n이상반응 발생으로 위험-편익 프로파일이 부정적으로 평가되어 시험 종료 결정.\n초기 임상에서의 안전성 신호가 개발 중단으로 이어진 사례.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "항체 임상 중단 뉴스로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련성 낮음",
+    "processed_at": "2026-08-17T23:11:38.165448+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/merck-kgaa-lays-20-staffers-latest-blow-us-research-team": {
+    "korean_summary": "Merck KGaA의 북미 법인 EMD Serono가 매사추세츠 연구소에서 직원 20명 해고.\n구체적 파이프라인 변화나 딜 없이 인력 감축만 발표.\n빅파마 연구소 구조조정 흐름의 일환.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "임원 인사/구조조정 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-17T23:11:42.792216+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/slate-uses-fulcrum-vault-nasdaq-245m-migraine-trials": {
+    "korean_summary": "Slate Medicines가 Fulcrum Therapeutics와의 역합병을 통해 Nasdaq 상장 추진.\n2억 4,500만 달러 파이낸싱 확보, 편두통 치료 후보물질 임상 데이터 발표 전 진행.\n스텔스 모드 탈출 6개월 만의 상장 추진으로 임상 결과에 대한 기대감 반영.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "편두통 치료제 역합병 딜, 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-17T23:11:47.925155+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/evaxion-scraps-solid-tumor-vaccine-focus-duke-partnered-brain-cancer-candidate": {
+    "korean_summary": "Evaxion이 차세대 고형암 백신 프로그램을 중단하고 뇌암 백신 후보물질에 자원 집중.\nDuke University와 파트너십을 맺은 뇌암 특이적 백신 후보물질로 전략 전환.\n소규모 바이오텍의 파이프라인 선택과 집중, 뇌암 타깃 개인맞춤형 백신 개발 동향.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "종양 백신 전략 변경 뉴스로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거의 무관",
+    "processed_at": "2026-08-17T23:11:53.397192+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/fda-clears-lantheus-alzheimers-pet-imaging-agent-tauklarify": {
+    "korean_summary": "Lantheus가 알츠하이머 PET 영상 진단제 Tauklarify에 대해 FDA 승인 획득.\nLantheus는 최근 동종 방사성의약품 기업 Curium에 80억 달러 인수 합의 후 이번 승인 발표.\n방사성의약품 진단 분야 확장, 알츠하이머 조기 진단 시장 성장 신호.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "방사성의약품 진단제 FDA 승인, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-08-17T23:11:57.568119+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/lilly-pens-370m-deal-omniab-ion-channel-collab-details-remain-vague": {
+    "korean_summary": "OmniAb이 Eli Lilly와 이온 채널 프로그램 대상 항체 플랫폼 협력 계약 체결.\n계약 규모 최대 3.7억 달러(마일스톤 포함), 세부 타깃 및 적응증은 미공개.\nOmniAb의 빅파마 파트너십 확대 추세, 항체 플랫폼 기술 수요 지속 확인.",
+    "category": "M&A",
+    "relevance_score": 3,
+    "relevance_reason": "항체 플랫폼 딜이나 ADC/linker/단백질 설계와 직접 연관성 낮음",
+    "processed_at": "2026-08-17T23:12:02.631550+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/baylor-genetics-hit-cybersecurity-attack-personal-information-patients-staff-impacted": {
+    "korean_summary": "Baylor Genetics가 사이버보안 공격을 받아 환자 및 직원 정보가 유출됨.\n진단 유전체학 기업 대상 침해로, 피해 규모 및 세부 정보는 공개되지 않음.\n생명과학 분야 사이버보안 위협 증가 추세를 보여주는 사례.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "사이버보안 침해 사건으로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-08-17T23:12:07.874633+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/astrazeneca-ends-phase-3-lung-cancer-trial-after-bispecific-falls-short-versus-keytruda": {
+    "korean_summary": "AstraZeneca가 이중특이항체 volrustomig의 폐암 대상 P3 임상을 중간 효능 데이터 기반으로 조기 종료.\nKeytruda(pembrolizumab) 대비 효능 미달로 임상 중단, 면역관문억제제 대체 전략 실패.\n이중특이항체의 기존 PD-1 억제제 대체 가능성에 의문, 차세대 면역항암제 개발 경쟁에 시사점.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "이중특이항체 임상 실패 뉴스, 사용자 연구 분야와 직접 관련성 낮음",
+    "processed_at": "2026-08-17T23:12:13.091968+00:00"
   }
 }
