@@ -1,0 +1,71 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-18T23:11:59.294841+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Kolon TissueGene shrinks workforce after pivotal osteoarthritis trial miss",
+      "link": "https://www.fiercebiotech.com/biotech/kolon-tissuegene-shrinks-workforce-after-pivotal-osteoarthritis-trial-miss",
+      "summary_en": "Following a phase 3 knee osteoarthritis failure that its CEO acknowledged caused “great disappointment and concern,” Kolon TissueGene is laying off 37 employees at its Maryland headquarters.",
+      "published": "2026-08-18T15:44:00+00:00",
+      "korean_summary": "Kolon TissueGene이 무릎 골관절염 대상 P3 임상 실패 후 메릴랜드 본사 직원 37명 감원.\nCEO가 '큰 실망과 우려'를 인정한 피벗 임상 실패가 직접적 원인.\n한국계 바이오텍의 미국 임상 실패 사례, 세포유전자치료제 분야 리스크 재확인.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "골관절염 세포치료제 임상 실패 및 구조조정 뉴스, 사용자 연구 분야와 무관",
+      "processed_at": "2026-08-18T23:11:32.662063+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Merck and Sarah Cannon team up to boost oncology trial efficiency",
+      "link": "https://www.fiercebiotech.com/biotech/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency",
+      "summary_en": "Oncology R&D organization Sarah Cannon Research Institute (SCRI) announced a collaboration with Merck & Co. to increase patient access to oncology trials at community-based sites in the U.S.",
+      "published": "2026-08-18T13:48:00+00:00",
+      "korean_summary": "Merck와 Sarah Cannon Research Institute(SCRI)가 종양학 임상시험 효율화를 위한 협력 발표.\n미국 지역사회 기반 사이트에서 환자의 임상시험 접근성 확대가 핵심 목표.\n빅파마의 임상 네트워크 확장 전략, 환자 모집 속도 개선 목적.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "임상 운영 협력 뉴스로 사용자 연구 분야(나노의약, ADC, 단백질 설계)와 무관",
+      "processed_at": "2026-08-18T23:11:37.831542+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca",
+      "link": "https://www.fiercebiotech.com/biotech/biomarin-bulks-bone-unit-275m-alesta-buyout-challenge-astrazeneca",
+      "summary_en": "BioMarin Pharmaceutical has agreed to buy Alesta Therapeutics for $275 million upfront, positioning the biopharma to challenge AstraZeneca in the rare bone disease market.",
+      "published": "2026-08-18T09:15:00+00:00",
+      "korean_summary": "BioMarin이 희귀 골질환 전문 바이오텍 Alesta Therapeutics를 2억 7,500만 달러에 인수 합의.\n선급금 2억 7,500만 달러 규모의 딜로, AstraZeneca와의 희귀 골질환 시장 경쟁 강화 목적.\n희귀 골질환 시장에서 빅파마 간 경쟁 심화, BioMarin의 파이프라인 확장 전략.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "희귀 골질환 M&A 딜로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 무관",
+      "processed_at": "2026-08-18T23:11:43.350518+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Craif raises $33M to boost work on its urine test for cancer",
+      "link": "https://www.fiercebiotech.com/medtech/craif-raises-33m-boost-work-its-urine-test-cancer",
+      "summary_en": "The AI biopharma Craif has raised $33 million in its series D funding round as it also adds a new exec, bringing its total capital raised to date to $88 million.",
+      "published": "2026-08-18T08:14:00+00:00",
+      "korean_summary": "AI 바이오파마 Craif가 시리즈 D 라운드에서 3,300만 달러 조달.\n누적 조달액 8,800만 달러, 소변 기반 암 조기진단 테스트 개발에 활용 예정.\n액체생검 분야 투자 지속, 단 본 연구 분야와 직접 연관성 낮음.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "소변 암 진단 바이오마커 펀딩 뉴스, 사용자 연구 분야와 무관",
+      "processed_at": "2026-08-18T23:11:47.986833+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Johnson & Johnson MedTech nabs Monarch Quest 3 update for lung cancer detection",
+      "link": "https://www.fiercebiotech.com/medtech/johnson-johnson-medtech-nabs-monarch-quest-3-update-lung-cancer-detection",
+      "summary_en": "Johnson & Johnson MedTech has been handed its fourth major software launch in the past 18 months for its Monarch bronchoscopy robot.",
+      "published": "2026-08-18T07:53:00+00:00",
+      "korean_summary": "Johnson & Johnson MedTech이 Monarch 기관지경 로봇의 네 번째 주요 소프트웨어 업데이트(Quest 3)를 획득.\n18개월 내 4번째 주요 소프트웨어 출시로 폐암 조기 발견 기능 강화.\n의료기기 로봇 분야 소프트웨어 업데이트 전략, 신약 연구와 직접 연관성 낮음.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "의료기기/로봇 기관지경 소프트웨어 업데이트로 사용자 연구 분야와 무관",
+      "processed_at": "2026-08-18T23:11:53.369063+00:00"
+    }
+  ],
+  "overall": [
+    "BioMarin이 $275M에 Alesta를 인수하며 희귀 골질환 포트폴리오를 강화, AstraZeneca와의 경쟁 구도 형성",
+    "Merck-Sarah Cannon 파트너십 및 J&J MedTech의 Monarch Quest 3 폐암 탐지 업데이트 등 빅파마의 종양학 임상·진단 역량 확대 움직임 지속",
+    "Kolon TissueGene의 골관절염 임상 실패에 따른 인력 감축과 Craif의 $33M 조달(소변 기반 암 진단)이 대조되며 진단·재생의학 분야의 명암 교차"
+  ]
+}
