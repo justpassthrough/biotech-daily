@@ -3890,5 +3890,54 @@
     "relevance_score": 1,
     "relevance_reason": "의료기기/로봇 기관지경 소프트웨어 업데이트로 사용자 연구 분야와 무관",
     "processed_at": "2026-08-18T23:11:53.369063+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency": {
+    "korean_summary": "Merck와 Sarah Cannon Research Institute(SCRI)가 종양학 임상시험 효율화를 위한 협력 발표.\n미국 지역사회 기반 사이트에서 환자의 임상시험 접근성 확대가 핵심 목표.\n빅파마의 임상 네트워크 확장 전략, 환자 모집 속도 개선 목적.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "임상 운영 협력 뉴스로 사용자 연구 분야(나노의약, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-08-19T23:12:48.186419+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/trump-taps-white-house-aide-overton-next-fda-commissioner": {
+    "korean_summary": "트럼프 대통령이 백악관 보좌관 Heidi Overton을 FDA 청장 후보로 지명.\n3개월간 공석이었던 FDA 수장 자리, 상원 인준 절차 예정.\nFDA 리더십 공백 해소 여부가 향후 신약 심사 일정에 영향 가능.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 인사 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-08-19T23:12:52.846920+00:00"
+  },
+  "https://www.fiercebiotech.com/partner-content/new-biotech-academia-partnership-approaches-empower-drug-development-ecosystem": {
+    "korean_summary": "바이오텍과 학계 간 파트너십 강화를 통한 신약 개발 생태계 혁신 방안 논의.\n글로벌 임상 개발 생태계의 변화에 대응하는 협력 모델 제시, 구체적 수치나 딜 없음.\n산업-학계 협력 트렌드 일반 논의로, 특정 기술이나 파이프라인 내용 없음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "바이오텍-학계 파트너십 일반 논의로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-08-19T23:12:57.701845+00:00"
+  },
+  "https://www.fiercebiotech.com/partner-content/developing-global-clinical-trial-strategy-emerging-biotechs": {
+    "korean_summary": "소규모 바이오텍이 글로벌 임상시험 전략을 통해 임상 개발을 가속화하는 방법 논의.\n목적에 맞는(fit-for-purpose) 글로벌 임상 전략 수립이 핵심 주제.\n신약 개발 전략 일반론으로, 특정 기술이나 데이터 없이 방법론 중심 콘텐츠.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "임상 전략 일반론으로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-08-19T23:13:02.552615+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/tolerance-bio-jumps-phase-2-260m-deal-thymus-targeting-fusion-protein": {
+    "korean_summary": "Tolerance Bio가 NeoImmuneTech의 흉선 타깃 융합 단백질 권리를 최대 2.6억 달러에 라이선싱.\n미주 및 유럽 지역 특정 흉선 관련 적응증 대상, P2 임상 단계 진입.\n면역 관용(tolerance) 분야 융합 단백질 치료제의 임상 가치 부각.",
+    "category": "M&A",
+    "relevance_score": 3,
+    "relevance_reason": "융합 단백질 라이선싱 딜이나, 사용자 연구 분야(ferritin, ADC, de novo design)와 직접 연관성 낮음",
+    "processed_at": "2026-08-19T23:13:07.467215+00:00"
+  },
+  "https://www.fiercebiotech.com/partner-content/how-pharma-teams-evaluate-biotech-companies-partnerships-and-acquisitions": {
+    "korean_summary": "제약사가 바이오텍 파트너십·인수 시 평가 방식과 투자자 평가와의 차이점 분석.\nCMO(Chief Medical Officer)가 해당 협상에서 수행하는 역할과 지원 방식 소개.\n딜 구조 및 실사 과정에 대한 업계 실무 관점의 가이드.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "M&A 실무 가이드로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-08-19T23:13:12.532283+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/merck-and-modernas-personalized-cancer-vaccine-slows-recurrence-ph-3-trial": {
+    "korean_summary": "Merck와 Moderna의 개인맞춤형 mRNA 암 백신이 고위험 피부암(흑색종) 환자 대상 P3에서 재발 억제 효과 입증.\nKeytruda 병용 시 재발 없는 생존기간(RFS) 유의미하게 연장, 가속 승인 신청 추진 예정.\nmRNA 기반 개인맞춤 암 백신의 첫 P3 성공 사례로, 해당 모달리티 상업화 가능성 입증.",
+    "category": "임상결과",
+    "relevance_score": 3,
+    "relevance_reason": "mRNA 암 백신 P3 결과로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 연관성 낮음",
+    "processed_at": "2026-08-19T23:13:18.669397+00:00"
   }
 }
