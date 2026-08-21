@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T03:55:38.970591+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Chai tees up Bristol Myers Squibb AI antibody discovery collab",
+      "link": "https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal",
+      "summary_en": "A month after Chai Discovery tied up a major $400 million series C funding round, the AI drug discovery firm has teamed up with Bristol Myers Squibb.",
+      "published": "2026-08-20T09:59:00+00:00",
+      "korean_summary": "AI 신약개발 기업 Chai Discovery가 Bristol Myers Squibb과 AI 항체 발굴 협업 계약 체결.\nChai는 약 1개월 전 4억 달러 규모의 시리즈 C 펀딩을 완료한 직후 빅파마와 딜 성사.\nAI 기반 항체 설계 플랫폼의 상업화 가속, 빅파마의 AI 도구 도입 흐름 지속.",
+      "category": "M&A",
+      "relevance_score": 5,
+      "relevance_reason": "AI 항체 발굴 협업으로 de novo 단백질 설계 인접 영역이나 직접적 기술 연관성은 낮음",
+      "processed_at": "2026-08-21T03:55:17.827723+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Lilly pens deal with Gateway Labs alumni Amplitude for RNA vaccine platform for infectious disease",
+      "link": "https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease",
+      "summary_en": "Eli Lilly has turned to one of its Gateway Labs residents to help the Big Pharma develop trans-amplifying RNA (taRNA) vaccines for infectious diseases.",
+      "published": "2026-08-20T09:29:00+00:00",
+      "korean_summary": "Eli Lilly가 Gateway Labs 출신 스타트업 Amplitude와 trans-amplifying RNA(taRNA) 백신 플랫폼 계약 체결.\ntaRNA는 기존 mRNA 대비 낮은 용량으로 면역반응 유도 가능한 차세대 RNA 기술, 감염병 적응증 대상.\nLilly의 RNA 백신 영역 진출 시도이나 사용자 연구 분야(단백질 전달/ADC)와는 거리 있음.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "RNA 백신 플랫폼 딜로, 나노의약 전달 일부 접점 있으나 ferritin/ADC/단백질 설계와 직접 관련 없음",
+      "processed_at": "2026-08-21T03:55:24.127065+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Merck-Moderna cancer vaccine win spurs stock jump, speculation of Keytruda-like impact",
+      "link": "https://www.fiercebiotech.com/biotech/merck-moderna-cancer-vaccine-data-spur-speculation-keytruda-impact",
+      "summary_en": "As the dust settles on phase 3 data that added $45 billion to Moderna’s market cap, analysts have begun to ask a question that could define cancer care in the coming years: Can use of the vaccine be as broad as Keytruda?",
+      "published": "2026-08-20T09:25:00+00:00",
+      "korean_summary": "Merck-Moderna mRNA 개인맞춤형 암백신이 P3 임상에서 긍정적 결과를 발표하며 Moderna 시총 450억 달러 급등.\n애널리스트들은 이 백신의 적응증 확장 가능성이 Keytruda(pembrolizumab)에 필적할 수 있는지 논의 중.\nmRNA 기반 종양 항원 백신이 면역항암제 시장의 새로운 축으로 부상 가능성 시사.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "mRNA 암백신 임상 결과로, 사용자 연구 분야(ferritin, ADC, protein binder)와 직접 연관성 낮음",
+      "processed_at": "2026-08-21T03:55:29.899974+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Meet Aletta: The first FDA approved robotic blood draw device",
+      "link": "https://www.fiercebiotech.com/medtech/meet-aletta-first-fda-approved-robotic-blood-draw-device",
+      "summary_en": "The FDA has approved Vitestro’s Aletta as the first standalone robotic device in the U.S. designed to draw blood without the need for hands-on human help.",
+      "published": "2026-08-20T07:57:00+00:00",
+      "korean_summary": "Vitestro의 Aletta가 FDA로부터 미국 최초 독립형 로봇 채혈 기기로 승인됨.\n인체 개입 없이 자동으로 채혈 수행하는 standalone 로봇 디바이스.\n임상 검체 처리 자동화 영역의 규제 선례로 기록될 수 있음.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "의료기기 FDA 승인 뉴스, 사용자의 약물전달·단백질 설계 연구와 거의 무관",
+      "processed_at": "2026-08-21T03:55:34.296093+00:00"
+    }
+  ],
+  "overall": [
+    "Bristol Myers Squibb이 Chai와 AI 기반 항체 발굴 협력 계약을 체결하며 AI-신약개발 빅파마 협업 흐름 지속",
+    "Eli Lilly가 Gateway Labs 출신 Amplitude와 감염병 RNA 백신 플랫폼 딜을 체결, mRNA 기술 확장 투자 이어져",
+    "Merck-Moderna 암 백신 임상 성과로 주가 급등 및 Keytruda급 블록버스터 가능성 시장 기대감 형성"
+  ]
+}
