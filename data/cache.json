@@ -3967,5 +3967,12 @@
     "relevance_score": 1,
     "relevance_reason": "의료기기 FDA 승인 뉴스, 사용자의 약물전달·단백질 설계 연구와 거의 무관",
     "processed_at": "2026-08-21T03:55:34.296093+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/werewolf-transforming-reverse-merger-support-ambros-phase-3-push": {
+    "korean_summary": "Werewolf Therapeutics가 Ambros Therapeutics와 역합병(all-stock deal)을 통해 Ambros로 전환.\n합병과 동시에 1.5억 달러 자금 조달, 희귀질환 선도 파이프라인의 P3 및 FDA 허가 신청 준비.\n희귀질환 분야 소형 바이오텍 전략적 합병을 통한 임상 후기 진입 사례.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "역합병 및 희귀질환 파이프라인 딜로, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-08-21T23:12:42.958201+00:00"
   }
 }
