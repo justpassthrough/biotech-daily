@@ -271,7 +271,6 @@ def analyze_item(client, item: dict, cache: dict) -> tuple[dict, bool]:
     resp = client.messages.create(
         model=MODEL,
         max_tokens=400,
-        temperature=0,
         system=[
             {
                 "type": "text",
@@ -325,7 +324,6 @@ def summarize_overall(client, items: list[dict]) -> list[str]:
     resp = client.messages.create(
         model=MODEL,
         max_tokens=400,
-        temperature=0.3,
         messages=[{"role": "user", "content": prompt}],
     )
     text = resp.content[0].text if resp.content else ""
