@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-24T23:13:34.161019+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Qiagen appoints new chief executive after 9-month search",
+      "link": "https://www.fiercebiotech.com/medtech/qiagen-appoints-new-chief-executive-after-9-month-search",
+      "summary_en": "Molecular diagnostics specialist Qiagen has a new CEO as Jonathan M. Pratt takes the reins.",
+      "published": "2026-08-24T10:19:00+00:00",
+      "korean_summary": "분자진단 기업 Qiagen이 9개월 탐색 끝에 Jonathan M. Pratt를 신임 CEO로 선임.\n구체적 전략 변화나 파이프라인 언급 없음, 단순 인사 발표.\n사용자 연구 분야와 무관한 경영진 교체 뉴스.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "임원 인사 뉴스, 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-08-24T23:13:02.074902+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "TME holds onto $1B dream for brain cancer drug as search for partners nears conclusion",
+      "link": "https://www.fiercebiotech.com/biotech/tme-holds-1b-dream-brain-cancer-drug-search-partners-nears-conclusion",
+      "summary_en": "TME Pharma’s hunt for a partner for its brain cancer drug is closer to bearing fruit as the German biotech clings to its hope of generating $1 billion in peak sales from the asset.",
+      "published": "2026-08-24T10:15:00+00:00",
+      "korean_summary": "TME Pharma가 뇌암 치료제의 파트너십 계약 체결에 근접했다고 발표.\n해당 자산의 최대 매출 목표는 10억 달러로, 독일 바이오테크 TME Pharma가 협상 마무리 단계.\n뇌암 시장의 파트너십 딜 동향, 구체적 기술·임상 데이터 공개는 미흡.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "TME는 tumor microenvironment 약어가 아닌 회사명으로, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-08-24T23:13:06.707688+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Spruce’s successful FDA talks plant seeds for Q4 filing of ultra-rare disease drug",
+      "link": "https://www.fiercebiotech.com/biotech/spruces-successful-fda-talks-plant-seeds-q4-filing-ultra-rare-disease-drug",
+      "summary_en": "Spruce Biosciences has taken another step toward filing for FDA approval of its ultra-rare disease drug candidate, ticking off some of the manufacturing tasks needed to submit the long-awaited application.",
+      "published": "2026-08-24T09:58:00+00:00",
+      "korean_summary": "Spruce Biosciences가 초희귀질환 치료 후보물질의 FDA 허가 신청을 위한 제조 요건을 충족하며 Q4 제출에 한 발 다가섬.\nFDA와의 사전 협의 성공적으로 완료, 제조 관련 과제 해결이 핵심 진전.\n초희귀질환 NDA 신청 일정이 구체화되고 있으나 사용자 연구 분야와는 직접 연관성 낮음.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "초희귀질환 FDA 신청 진행 상황으로 단백질/나노의약 연구와 무관",
+      "processed_at": "2026-08-24T23:13:12.125183+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Regenxbio gene therapy refiling plan derailed by FDA hold over spine MRI findings",
+      "link": "https://www.fiercebiotech.com/biotech/fda-clinical-hold-derails-regenxbio-gene-therapy-refiling-plan",
+      "summary_en": "The FDA has put a clinical hold on Regenxbio’s RGX-121 over asymptomatic spine MRI findings, derailing the biotech’s plans to refile for approval of the once-rejected gene therapy candidate.",
+      "published": "2026-08-24T07:51:00+00:00",
+      "korean_summary": "FDA가 Regenxbio의 유전자치료제 RGX-121에 임상 보류(clinical hold) 결정.\n척추 MRI에서 무증상 이상 소견 발견으로 재허가 신청 계획 무산.\n한 차례 거절 이력에 이어 추가 규제 장벽, 유전자치료제 안전성 심사 엄격화 신호.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "유전자치료제 규제 이슈로 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-08-24T23:13:16.630933+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Roche, Eli Lilly net FDA approval for first-of-its-kind Alzheimer’s biomarker blood test",
+      "link": "https://www.fiercebiotech.com/medtech/roche-eli-lilly-see-fda-approval-first-its-kind-alzheimers-biomarker-blood-test",
+      "summary_en": "Roche and Eli Lilly have won FDA clearance for their latest Alzheimer’s disease diagnostic.",
+      "published": "2026-08-24T07:31:00+00:00",
+      "korean_summary": "Roche와 Eli Lilly가 알츠하이머 바이오마커 혈액검사에 대한 FDA 승인 획득.\n동 제품은 최초의 이 종류 혈액 기반 알츠하이머 진단 검사로 분류됨.\n알츠하이머 조기 진단 시장 확장, 항아밀로이드 치료제 접근성과 연계 가능성.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "알츠하이머 진단 승인으로 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-08-24T23:13:20.931588+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Roche pens $2.5B pact for Hanmi’s clinical-stage obesity drug targeting less-explored mechanism",
+      "link": "https://www.fiercebiotech.com/biotech/roche-pens-25b-pact-hanmis-clinical-stage-obesity-drug-targeting-less-used-mechanism",
+      "summary_en": "Roche has taken its obesity strategy into uncharted territory via a $190 million upfront payment for a clinical-stage urocortin-2 analog from South Korea’s Hanmi Pharm.",
+      "published": "2026-08-24T04:44:00+00:00",
+      "korean_summary": "Roche가 한미약품의 임상 단계 비만 신약(urocortin-2 유사체)을 총 25억 달러 규모로 라이선스 인.\n계약금 1.9억 달러, 잔여 마일스톤 포함 총액 25억 달러; urocortin-2는 GLP-1과 다른 기전(CRF2 수용체 작용).\n빅파마의 비만 치료제 기전 다각화 경쟁 심화, 한국 바이오의 글로벌 라이선싱 성과.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "비만 펩타이드 딜로 사용자 연구 분야(ADC, 단백질 설계, 나노입자)와 직접 관련성 낮음",
+      "processed_at": "2026-08-24T23:13:26.955670+00:00"
+    }
+  ],
+  "overall": [
+    "Roche가 한미약품의 비만 신약(덜 알려진 기전 타깃)을 25억 달러에 라이선스 계약하며 글로벌 빅파마의 비만 치료제 확보 경쟁이 가속화되고 있음",
+    "뇌암 치료제를 보유한 TME가 10억 달러 규모의 파트너십 협상을 마무리 단계에서 진행 중이며, FDA 규제 대응에서는 Regenxbio의 유전자치료제가 척추 MRI 소견으로 임상 보류되는 등 승인 리스크가 부각됨",
+    "Roche·Eli Lilly의 알츠하이머 바이오마커 혈액검사가 FDA 승인을 획득하며 진단 분야에서 최초의 혈액 기반 알츠하이머 마커 상용화 시대가 열림"
+  ]
+}
