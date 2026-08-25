@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-25T23:15:51.124330+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Labcorp launches new hepatitis D test to find patients with most severe form of virus",
+      "link": "https://www.fiercebiotech.com/medtech/labcorp-launches-new-hepatitis-d-test-find-patients-most-severe-form-virus",
+      "summary_en": "Labcorp is looking to plug the gap in hepatitis D monitoring with a new reflex testing solution to help find more patients with this form of the virus earlier.",
+      "published": "2026-08-25T11:28:00+00:00",
+      "korean_summary": "Labcorp이 B형 간염 환자 대상 D형 간염(HDV) 조기 발견을 위한 반사검사(reflex testing) 솔루션을 출시.\nHDV는 HBV 동시감염 시 가장 중증 형태로 진행되나 진단율이 낮은 문제가 있음.\n진단 인프라 확충 차원의 뉴스로, 신약 개발보다는 검사 서비스 영역.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "진단 검사 서비스 출시로 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-08-25T23:15:29.309496+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Founded by Metsera backers, Sentivera emerges with $1.5B inflammatory disease deal",
+      "link": "https://www.fiercebiotech.com/biotech/founded-metsera-backers-sentivera-emerges-15b-inflammatory-disease-deal",
+      "summary_en": "Having set Metsera on its journey to a $10 billion takeover, Arch Venture Partners and Population Health Partners have powered their new startup—Sentivera—to a licensing deal worth up to $1.5 billion.",
+      "published": "2026-08-25T09:24:00+00:00",
+      "korean_summary": "Arch Venture Partners 등이 설립한 신생 바이오텍 Sentivera가 염증질환 대상 최대 15억 달러 규모 라이선싱 딜 체결.\n구체적 파이프라인 및 메커니즘은 미공개, Metsera 성공 경험 기반 벤처 빌더 모델 적용.\n염증질환 분야 대형 선행 라이선싱 딜, 신생 바이오텍의 자금조달 전략으로서의 의미.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "염증질환 라이선싱 딜로 사용자 연구 분야(ferritin, ADC, protein design)와 무관",
+      "processed_at": "2026-08-25T23:15:34.647604+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Implantica finally nabs FDA approval 8 years after EU green light for reflux implant",
+      "link": "https://www.fiercebiotech.com/medtech/implantica-finally-nabs-fda-approval-8-years-after-european-green-light-reflux-implant",
+      "summary_en": "The FDA has signed off on Implantica’s gastroesophageal reflux disease (GERD) implant as the medtech eyes a lucrative U.S. market.",
+      "published": "2026-08-25T05:32:00+00:00",
+      "korean_summary": "Implantica의 위식도역류질환(GERD) 임플란트가 EU 승인 8년 만에 FDA 승인 획득.\n미국 시장 진출을 위한 규제 허들 통과, 구체적 딜 규모나 임상 데이터는 미공개.\n메드텍 기기의 미국 FDA 승인 지연 사례, 사용자 연구 분야와 무관.",
+      "category": "임상결과",
+      "relevance_score": 0,
+      "relevance_reason": "GERD 의료기기 FDA 승인, 사용자 연구 분야(나노의약, 단백질 설계, ADC)와 완전 무관",
+      "processed_at": "2026-08-25T23:15:39.856732+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Capricor secures reprieve as FDA extends DMD cell therapy review",
+      "link": "https://www.fiercebiotech.com/biotech/capricor-secures-reprieve-fda-extends-dmd-cell-therapy-review",
+      "summary_en": "The FDA has extended its review of Capricor Therapeutics’ Duchenne muscular dystrophy drug candidate, deferring the decision to review information the biotech submitted after a negative advisory committee vote.",
+      "published": "2026-08-25T03:27:00+00:00",
+      "korean_summary": "Capricor Therapeutics의 DMD 세포치료제 후보물질에 대해 FDA가 심사 기간을 연장.\n자문위원회의 부정적 의견 후 Capricor가 추가 제출한 정보를 검토하기 위한 결정 유예.\nFDA 승인 심사 과정에서 자문위 반대 후 추가 데이터 제출로 재검토 기회를 얻은 사례.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "DMD 세포치료제 FDA 심사 연장, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-08-25T23:15:44.930462+00:00"
+    }
+  ],
+  "overall": [
+    "Sentivera가 Metsera 투자자들의 지원으로 설립되며 15억 달러 규모의 염증성 질환 딜을 체결, 비만 이후 차세대 대형 투자 테마로 염증 분야가 부상하는 신호를 보임",
+    "Capricor의 DMD(뒤센근이영양증) 세포치료제에 대해 FDA가 심사 기간을 연장하며 희귀 근육병 유전자·세포치료 분야의 규제 불확실성이 지속되고 있음",
+    "Implantica의 역류 임플란트가 EU 승인 8년 만에 FDA 허가를 획득, 미·유럽 간 의료기기 승인 격차 문제가 다시 부각됨"
+  ]
+}
