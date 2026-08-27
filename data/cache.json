@@ -4044,5 +4044,61 @@
     "relevance_score": 1,
     "relevance_reason": "DMD 세포치료제 FDA 심사 연장, 사용자 연구 분야와 직접 관련 없음",
     "processed_at": "2026-08-25T23:15:44.930462+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger": {
+    "korean_summary": "Revolution Medicines의 RAS 억제제 daraxonrasib이 FDA로부터 전이성 췌장암 치료제로 승인.\nASCO 2025에서 주목받은 임상 데이터를 기반으로 한 승인으로, 구체적 반응률 등 수치는 요약에 미포함.\nRAS 타깃 치료제 최초 승인 사례로 난치성 췌장암 치료 패러다임 변화 가능성.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "RAS 억제제 FDA 승인, 사용자 연구 분야(단백질 설계·ADC·나노의약)와 직접 연관성 낮음",
+    "processed_at": "2026-08-27T04:07:58.056395+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/akeso-ceo-looks-beyond-lung-cancer-phase-3-biliary-tract-win-counters-ivonescimab-debate": {
+    "korean_summary": "Akeso CEO Michelle Xia가 PD-1xVEGF 이중항체 ivonescimab의 담도암 P3 성공을 발표하며 NSCLC 외 적응증 확장 가능성 강조.\n담도암 P3 임상 승리, 기존 ivonescimab 데이터에 대한 외부 회의론에 방어적 입장.\n이중특이항체의 다중 적응증 전략이 부각되며 항체 플랫폼 확장성에 주목.",
+    "category": "임상결과",
+    "relevance_score": 3,
+    "relevance_reason": "이중항체 임상 결과이나 ADC/나노의학/단백질 설계와 직접 관련 없음",
+    "processed_at": "2026-08-27T04:08:03.761978+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/jatt-mastermind-launches-latest-biotech-focused-spac-60m-ipo": {
+    "korean_summary": "Someit Sidhu가 두 번째 SPAC(Talawar Therapeutics 합병) 완료 2개월 만에 세 번째 바이오텍 SPAC 상장.\n신규 SPAC 규모 6,000만 달러 IPO로 바이오텍 M&A 타깃 물색 예정.\n바이오텍 SPAC 시장 동향이나 특정 기술 혁신과는 무관한 금융 뉴스.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "SPAC 금융 딜, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-08-27T04:08:08.347965+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/china-moving-follower-frontrunner-pharma-hansoh": {
+    "korean_summary": "한소제약(Hansoh)이 중국 혁신 제약 산업의 도약을 낙관적으로 평가.\n'추격자'에서 '선도자'로의 전환 단계에 있다고 주장, 구체적 수치는 없음.\n중국 바이오파마의 글로벌 위상 변화 및 혁신 전략 방향성을 시사.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "중국 제약 산업 일반 동향, 사용자 연구 분야와 직접 연관 없음",
+    "processed_at": "2026-08-27T04:08:12.687022+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/fda-green-lights-abbotts-wearable-sensor-capturing-diabetic-ketoacidosis": {
+    "korean_summary": "Abbott의 당뇨병성 케톤산증(DKA) 경고용 웨어러블 바이오센서가 FDA 최초 승인.\n혈중 케톤 수치 상승을 실시간 감지하는 최초의 웨어러블 센서로, 당뇨환자 대상.\nDKA 조기 경고 디바이스 시장 개척, 디지털 헬스와 바이오센서 분야 확장 신호.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "웨어러블 의료기기 FDA 승인, 사용자 연구 분야(단백질 나노입자·ADC·약물전달)와 거의 무관",
+    "processed_at": "2026-08-27T04:08:18.150108+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/boston-scientific-hit-cyberattack-causing-disruptions-parts-its-business": {
+    "korean_summary": "Boston Scientific이 사이버 공격을 받아 일부 사업 부문에 운영 차질 발생.\n구체적 피해 규모나 영향 받은 시스템은 공개되지 않음.\n2025년 들어 의료기기 업계의 사이버 보안 위협이 증가하는 추세.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "사이버 보안 사건으로 사용자 연구 분야와 무관",
+    "processed_at": "2026-08-27T04:08:22.454050+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/spyres-rheumatoid-arthritis-plan-toppled-subpar-tl1a-data": {
+    "korean_summary": "Spyre Therapeutics의 항-TL1A 항체 SPY072가 류마티스 관절염 P2에서 기대 이하 결과.\n단독요법 개발을 해당 적응증에서 우선순위 하향 조정.\nTL1A 타깃 항체의 RA 적용 가능성에 의문, 개발 방향 재검토 시사.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "일반 항체 임상 결과로, 사용자 연구 분야(ADC, 단백질 설계, 약물전달)와 직접 관련 없음",
+    "processed_at": "2026-08-27T04:08:27.176450+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/sk-biopharma-pens-795m-deal-usher-biohavens-epilepsy-therapy-towards-fda": {
+    "korean_summary": "SK Biopharmaceuticals가 Biohaven의 뇌전증 치료제 도입을 위해 3억 5천만 달러 선급금 포함 최대 7억 9천5백만 달러 규모 딜 체결.\nBiohaven의 Kv7 이온채널 활성제(소분자)를 대상으로 하며, 2029년 출시 목표.\nSK Biopharma의 CNS 파이프라인 강화 전략, 라이선싱 딜 구조.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "소분자 CNS 라이선싱 딜로 사용자 연구 분야(단백질 나노소재, ADC, 약물전달)와 무관",
+    "processed_at": "2026-08-27T04:08:33.006120+00:00"
   }
 }
