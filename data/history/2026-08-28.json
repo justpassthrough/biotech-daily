@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T06:25:21.552284+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "CEPI backs push to bring Egyptian biotech's Ebola vaccine into clinic to curb fast-growing outbreak",
+      "link": "https://www.fiercebiotech.com/biotech/cepi-backs-push-bring-ebola-vaccine-clinic-curb-fast-growing-outbreak",
+      "summary_en": "The Coalition for Epidemic Preparedness Innovations has committed up to $16.5 million to push Minapharm’s Bundibugyo vaccine candidate into the clinic, furthering its response to the Ebola outbreak.",
+      "published": "2026-08-27T10:10:00+00:00",
+      "korean_summary": "CEPI가 이집트 바이오텍 Minapharm의 Bundibugyo형 에볼라 백신 후보를 임상 진입시키기 위해 최대 1,650만 달러 지원 결정.\n현재 빠르게 확산 중인 에볼라 발병 사태에 대응하기 위한 긴급 자금 지원이며, 임상 단계 진입이 목표.\n감염병 대유행 대비 백신 개발 가속화 맥락, 사용자 연구 분야와는 거리가 있음.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "에볼라 백신 임상 자금 지원 뉴스, 단백질 전달·ADC·나노의약 연구와 무관",
+      "processed_at": "2026-08-28T06:25:09.462906+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Osivax bags flu vaccine rights to pursue combination shot vision",
+      "link": "https://www.fiercebiotech.com/biotech/osivax-bags-flu-vaccine-rights-pursue-combination-shot-vision",
+      "summary_en": "Osivax has licensed an influenza vaccine from GC Biopharma, positioning the biotech to build on early evidence that its midphase candidate complements traditional flu shots.",
+      "published": "2026-08-27T09:07:00+00:00",
+      "korean_summary": "Osivax가 GC Biopharma로부터 인플루엔자 백신 라이선스를 취득.\n기존 독감 백신과 병용 투여를 목표로 한 복합 백신 전략 추진, 중기 임상 단계 후보 물질 확보.\n독감 백신 시장에서 범용 독감 백신 개발을 위한 라이선싱 딜.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "독감 백신 라이선싱 딜로 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-08-28T06:25:14.021820+00:00"
+    }
+  ],
+  "overall": [
+    "CEPI가 이집트 바이오텍의 에볼라 백신을 임상 단계로 진입시키기 위해 지원에 나서며, 급속히 확산 중인 에볼라 발병에 대응한 감염병 백신 개발 움직임이 가속화됨",
+    "Osivax가 독감 백신 권리를 확보하며 복합 백신(combination shot) 개발 전략을 본격화, 백신 플랫폼 간 기술 통합을 위한 M&A 활동이 이어짐",
+    "전반적으로 감염병(에볼라·독감) 대응 백신 분야에서 임상 진입 및 권리 인수 딜이 동시에 나타나며, 백신 개발·상업화 파이프라인 강화가 오늘의 핵심 흐름으로 부상함"
+  ]
+}

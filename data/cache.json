@@ -4100,5 +4100,19 @@
     "relevance_score": 1,
     "relevance_reason": "소분자 CNS 라이선싱 딜로 사용자 연구 분야(단백질 나노소재, ADC, 약물전달)와 무관",
     "processed_at": "2026-08-27T04:08:33.006120+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/cepi-backs-push-bring-ebola-vaccine-clinic-curb-fast-growing-outbreak": {
+    "korean_summary": "CEPI가 이집트 바이오텍 Minapharm의 Bundibugyo형 에볼라 백신 후보를 임상 진입시키기 위해 최대 1,650만 달러 지원 결정.\n현재 빠르게 확산 중인 에볼라 발병 사태에 대응하기 위한 긴급 자금 지원이며, 임상 단계 진입이 목표.\n감염병 대유행 대비 백신 개발 가속화 맥락, 사용자 연구 분야와는 거리가 있음.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "에볼라 백신 임상 자금 지원 뉴스, 단백질 전달·ADC·나노의약 연구와 무관",
+    "processed_at": "2026-08-28T06:25:09.462906+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/osivax-bags-flu-vaccine-rights-pursue-combination-shot-vision": {
+    "korean_summary": "Osivax가 GC Biopharma로부터 인플루엔자 백신 라이선스를 취득.\n기존 독감 백신과 병용 투여를 목표로 한 복합 백신 전략 추진, 중기 임상 단계 후보 물질 확보.\n독감 백신 시장에서 범용 독감 백신 개발을 위한 라이선싱 딜.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "독감 백신 라이선싱 딜로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-08-28T06:25:14.021820+00:00"
   }
 }
