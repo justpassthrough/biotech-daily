@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T03:57:15.684761+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "BioNTech-Genentech cancer vax records more deaths than control in scrapped ph. 2 test",
+      "link": "https://www.fiercebiotech.com/biotech/biontech-genentech-personalized-cancer-vaccine-posts-worse-patient-survival-terminated-ph-2",
+      "summary_en": "Following Merck and Moderna’s phase 3 triumph with a Keytruda-paired personalized mRNA cancer vaccine, a similar shot from BioNTech and Genentech has faltered in a reminder of the approach’s struggles as a standalone therapy.",
+      "published": "2026-08-28T13:27:00+00:00",
+      "korean_summary": "BioNTech-Genentech의 개인화 mRNA 암 백신이 P2 임상에서 대조군보다 높은 사망률 기록, 시험 중단.\n단독 요법으로 진행된 P2에서 부정적 결과, Merck/Moderna의 Keytruda 병용 P3 성공과 대조적.\nmRNA 암 백신의 단독 요법 한계 재확인, 병용 전략의 중요성 부각.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "mRNA 암 백신 임상 결과로 사용자 연구 분야와 거리 있음",
+      "processed_at": "2026-08-29T03:56:57.112083+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "AusperBio adds $120M series C to advance hep B oligo therapy through phase 3 and beyond",
+      "link": "https://www.fiercebiotech.com/biotech/ausperbio-adds-120m-advance-hepatitis-b-therapy-through-ph3-and-commercialization",
+      "summary_en": "AusperBio Therapeutics has raised $120 million in series C funds to advance its oligonucleotide therapy for chronic hepatitis B through phase 3 testing and hopefully on to commercialization.",
+      "published": "2026-08-28T10:30:00+00:00",
+      "korean_summary": "AusperBio Therapeutics가 시리즈 C로 1억 2천만 달러 조달.\n만성 B형 간염 대상 올리고뉴클레오타이드 치료제의 P3 임상 및 상업화 추진 자금 확보.\n올리고뉴클레오타이드 modality의 임상 후기 단계 투자 사례.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "올리고뉴클레오타이드 기반 간염 치료제 펀딩, 사용자 연구 분야와 직접 연관성 낮음",
+      "processed_at": "2026-08-29T03:57:03.175059+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Teva saddles up as stalking horse bidder for bankrupt BioXcel’s neuroscience portfolio",
+      "link": "https://www.fiercebiotech.com/biotech/teva-saddles-stalking-horse-bidder-bankrupt-bioxcels-neuroscience-portfolio",
+      "summary_en": "BioXcel Therapeutics has filed for bankruptcy and lined up a deal for Teva Pharmaceutical to acquire its assets for $57.5 million upfront.",
+      "published": "2026-08-28T09:17:00+00:00",
+      "korean_summary": "BioXcel Therapeutics가 파산 신청 후 Teva를 우선 입찰자(stalking horse)로 지정.\nTeva가 BioXcel의 신경과학 포트폴리오를 5,750만 달러에 인수 예정.\n파산 경매 절차를 통한 빅파마의 신경과학 자산 저가 확보 사례.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "신경과학 자산 M&A로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 무관",
+      "processed_at": "2026-08-29T03:57:07.857166+00:00"
+    }
+  ],
+  "overall": [
+    "BioNTech-Genentech 공동개발 암 백신이 임상 2상에서 대조군 대비 사망자 수 증가로 중단되며 개인맞춤형 암 백신 분야에 부정적 신호",
+    "AusperBio가 B형 간염 올리고 치료제의 3상 진행을 위해 시리즈 C 1억 2천만 달러를 추가 유치하며 감염병 분야 자금 조달 지속",
+    "Teva가 파산한 BioXcel의 신경과학 포트폴리오 인수를 위한 stalking horse 입찰자로 나서며 부실 자산 M&A 활동 전개"
+  ]
+}
