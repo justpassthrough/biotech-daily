@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T01:30:31.990910+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Novartis, Bristol Myers halt autoimmune CAR-T trials due to adverse events",
+      "link": "https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events",
+      "summary_en": "Novartis and Bristol Myers Squibb have halted several CAR-T trials in autoimmune diseases due to immune-related adverse events, Fierce has learned.",
+      "published": "2026-08-31T16:20:00+00:00",
+      "korean_summary": "Novartis와 BMS가 자가면역질환 대상 CAR-T 임상 여러 건을 이상반응으로 인해 중단.\n면역 관련 이상반응(immune-related adverse events)이 중단 원인으로, 구체적 시험 수와 AE 유형은 미공개.\n자가면역 CAR-T 분야의 안전성 우려가 부각되며 해당 모달리티 개발 경쟁에 제동.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "CAR-T 세포치료 임상 중단 소식으로 사용자 연구 분야(단백질 설계, ADC, 나노전달)와 직접 관련 없음",
+      "processed_at": "2026-09-01T01:29:58.969759+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Electra aims to light up Nasdaq with IPO for phase 2/3 I&I push",
+      "link": "https://www.fiercebiotech.com/biotech/electra-sets-plans-light-nasdaq-ipo-fuel-phase-23-trial-ii-asset",
+      "summary_en": "The 2026 IPO streak continues as Electra Therapeutics has filed to go public to support its immunology and cancer pipeline.",
+      "published": "2026-08-31T11:28:00+00:00",
+      "korean_summary": "Electra Therapeutics가 나스닥 IPO를 신청하며 면역학 및 암 파이프라인 자금 조달 추진.\n2026년 바이오텍 IPO 흐름의 일환으로, Phase 2/3 면역·염증(I&I) 및 항암 프로그램 지원 목적.\nIPO 시장 트렌드 파악에 참고할 수 있으나 구체적 기술 정보는 미공개.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "바이오텍 IPO 뉴스로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약품)와 거의 무관",
+      "processed_at": "2026-09-01T01:30:05.641117+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "ESC26: AstraZeneca's heart failure drug shows promise in ph. 2 trial",
+      "link": "https://www.fiercebiotech.com/biotech/esc26-astrazenecas-heart-failure-drug-shows-promise-ph-2-trial",
+      "summary_en": "AstraZeneca’s oral relaxin agonist delivered encouraging phase 2b results in chronic heart failure, improving measures of cardiac function across two patient groups.",
+      "published": "2026-08-31T10:47:00+00:00",
+      "korean_summary": "AstraZeneca의 경구용 relaxin agonist가 만성 심부전 P2b 임상에서 긍정적 결과 발표.\n두 환자군에서 심장 기능 지표 개선 확인, ESC 2026 학회에서 공개.\n심부전 치료제 파이프라인 확장, 경구용 relaxin 계열 약물의 임상 가능성 확인.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "심부전 P2b 결과, 사용자 연구 분야(나노케이지/ADC/단백질 설계)와 무관",
+      "processed_at": "2026-09-01T01:30:10.747771+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Eli Lilly inks $2.88B Merida buyout for autoimmune drugs against rogue antibodies",
+      "link": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-29b-merida-buyout-autoimmune-drugs-against-rogue-antibodies",
+      "summary_en": "Eli Lilly has struck a deal to acquire Merida Biosciences for up to $2.875 billion, establishing a beachhead in efforts to treat disease through the selective degradation of pathogenic autoantibodies.",
+      "published": "2026-08-31T08:04:00+00:00",
+      "korean_summary": "Eli Lilly가 자가항체 선택적 분해 기술 보유 Merida Biosciences를 최대 28.75억 달러에 인수 합의.\n병원성 자가항체의 선택적 분해(selective degradation)를 통한 자가면역질환 치료가 핵심 전략.\n자가항체 표적 분해라는 신규 모달리티에 빅파마가 대규모 자본 투입, 항체 분해 치료제 분야 주목도 상승.",
+      "category": "M&A",
+      "relevance_score": 3,
+      "relevance_reason": "항체 분해 메커니즘 관련이나 ferritin/ADC/protein design과 직접 연관성 낮음",
+      "processed_at": "2026-09-01T01:30:15.942096+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Natera teams with Angiex on cancer drug trial monitoring",
+      "link": "https://www.fiercebiotech.com/medtech/natera-teams-angiex-advance-its-signatera-cancer-dx-tool",
+      "summary_en": "Natera inked a collaboration deal with biotech Angiex to assess the use of its Signatera blood test, which looks for small traces of cancer DNA in patients who have been diagnosed and treated for the disease.",
+      "published": "2026-08-31T07:44:00+00:00",
+      "korean_summary": "Natera와 Angiex가 암 임상시험 모니터링을 위한 협력 계약 체결.\nNatera의 Signatera 혈액검사(ctDNA 기반 미세잔존암 추적)를 Angiex 항암 임상에 적용.\n액체생검 기반 바이오마커가 임상 엔드포인트 보조 수단으로 부상하는 흐름 반영.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "ctDNA 액체생검 협력 딜로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-09-01T01:30:23.588983+00:00"
+    }
+  ],
+  "overall": [
+    "Eli Lilly가 자가면역 항체 표적 치료제 확보를 위해 Merida를 28.8억 달러에 인수하며 자가면역 분야 빅딜이 성사된 반면, Novartis·Bristol Myers는 자가면역 CAR-T 임상을 이상반응으로 중단하는 등 같은 영역 내 명암이 엇갈렸다.",
+    "자가면역·염증(I&I) 파이프라인에 대한 투자자 관심이 고조되는 가운데, Electra가 2/3상 I&I 프로그램을 앞세워 나스닥 IPO를 추진하며 해당 섹터로의 자금 유입 흐름이 이어지고 있다.",
+    "Natera가 Angiex의 항암제 임상에 종양 모니터링 기술을 접목하는 파트너십을 체결하며, 액체생검 기반 임상 모니터링이 항암 신약 개발의 인프라로 자리잡는 추세가 가속화되고 있다."
+  ]
+}
