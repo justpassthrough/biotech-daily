@@ -4170,5 +4170,54 @@
     "relevance_score": 2,
     "relevance_reason": "ctDNA 액체생검 협력 딜로 사용자 연구 분야와 직접 관련 없음",
     "processed_at": "2026-09-01T01:30:23.588983+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/roche-inks-153-billion-biobucks-deal-simceres-b-cell-targeting-antibody": {
+    "korean_summary": "Roche가 중국 Simcere Zaiming의 전임상 trispecific 항체에 대한 글로벌 권리 확보 계약 체결.\n계약금 7,500만 달러, 총 계약 규모 15.3억 달러(마일스톤 포함), B세포 매개 질환 타깃.\n빅파마의 다중특이성 항체(multispecific Ab) 선점 경쟁 가속화 신호.",
+    "category": "M&A",
+    "relevance_score": 3,
+    "relevance_reason": "다중특이성 항체 라이선싱 딜로 사용자 연구 분야(ADC, 단백질 설계)와 직접 연관성 낮음",
+    "processed_at": "2026-09-02T00:38:58.067997+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/arsenalbio-sheds-most-staff-pivot-vivo-car-t": {
+    "korean_summary": "ArsenalBio가 대부분의 직원을 해고하고 in vivo CAR-T로 전략을 전환.\n약 1년 전 절반 감원에 이어 추가 대규모 구조조정, 기존 자산 매각 추진.\nex vivo CAR-T 개발의 어려움을 보여주는 사례, in vivo cell therapy로의 업계 전환 신호.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "CAR-T 구조조정 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-09-02T00:39:02.514908+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/alumis-crushed-midstage-lupus-flop-plots-path-phase-3-tyk2-inhibitor": {
+    "korean_summary": "Alumis의 TYK2 억제제 envudeucitinib이 루푸스 P2b에서 1차/2차 평가변수 모두 실패.\n그러나 사전 지정된 환자 서브그룹에서 유효성 신호를 근거로 P3 진행 결정.\n실패한 P2b 데이터에도 P3 강행은 높은 위험 전략으로, 업계 관심 집중.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "TYK2 억제제 자가면역 임상, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-09-02T00:39:07.700059+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/novocure-hit-cyberattack-includes-exposure-patient-records-data": {
+    "korean_summary": "Novocure(종양치료 의료기기 기업)가 사이버 공격을 받아 환자 및 직원 데이터가 유출됨.\n정보 시스템에 대한 무단 접근이 확인되었으며, 유출 규모 등 세부사항은 미공개.\n의료기기/바이오 업계의 사이버보안 취약성을 다시 부각시키는 사례.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "사이버보안 사고 관련 뉴스로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-09-02T00:39:18.157470+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots": {
+    "korean_summary": "GSK가 mRNA 계절독감 백신 후보물질의 P2 임상에서 기존 백신 대비 높은 면역반응 확인.\nP2 결과를 바탕으로 이달 피벗 P3 임상을 개시할 예정.\nmRNA 플랫폼의 독감 백신 적용 경쟁 가속화, Moderna·Pfizer와의 경쟁 심화 예상.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "mRNA 백신 임상 결과로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접적 연관성 낮음",
+    "processed_at": "2026-09-02T00:39:23.085997+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/medtronic-recalls-reflux-monitoring-device-184-serious-injuries-linked-capsule": {
+    "korean_summary": "Medtronic이 식도 pH 모니터링 캡슐 전달 장치를 리콜 조치.\n해당 장치 사용 중 184건의 심각한 부상 사례가 보고됨.\n의료기기 안전성 이슈로 나노메디신 연구와는 무관한 사건.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "의료기기 리콜 관련, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-09-02T00:39:27.096563+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/boston-scientific-halts-sales-angiographic-catheters-amid-two-serious-injuries": {
+    "korean_summary": "Boston Scientific이 Imager II 혈관조영 카테터의 판매 및 사용 중단 지시.\n제조 결함으로 카테터 팁 품질 문제 발생, 2건의 심각한 부상 사례 보고.\n의료기기 제조 품질관리 이슈로, 신약/바이오 연구와는 거리가 먼 사안.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "의료기기 리콜 이슈로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-09-02T00:39:31.939520+00:00"
   }
 }
