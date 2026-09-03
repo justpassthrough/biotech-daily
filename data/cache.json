@@ -4219,5 +4219,47 @@
     "relevance_score": 0,
     "relevance_reason": "의료기기 리콜 이슈로 사용자 연구 분야와 완전 무관",
     "processed_at": "2026-09-02T00:39:31.939520+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/fortrea-boosts-early-phase-platform-45-million-cro-acquisition": {
+    "korean_summary": "Fortrea가 Worldwide Clinical Trials의 초기 임상 서비스 부문을 4,500만 달러에 인수.\n인수 대상은 early-phase CRO 서비스 부문이며, 딜 규모는 45M 달러.\nCRO 업계 내 early-phase 역량 강화를 위한 소규모 M&A 거래.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "CRO 업계 M&A로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-09-03T00:49:08.561067+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland": {
+    "korean_summary": "Novartis가 스위스 바젤에서 biologics 기술개발 및 생산 구조 재검토에 따라 약 130명 감원 예고.\n구체적 사업부 또는 파이프라인 변경 사항은 미공개, 생산 거점 재편 가능성 시사.\n빅파마의 biologics 생산 전략 변화 동향으로 제한적 산업 참고 가치.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 구조조정·인사 뉴스로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-09-03T00:49:14.694881+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/teva-autoimmune-antibody-notches-ph-2-win-celiac-disease": {
+    "korean_summary": "Teva의 항-IL-15 항체가 셀리악병 대상 Phase 2 임상에서 긍정적 결과 도출.\nFirst-in-class 자가면역 치료제로 개발 중이며, 중간 단계 임상 성공.\nIL-15 타깃 자가면역 항체 치료제 시장 진입 가능성 확인.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "일반 항체 임상 결과로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관성 낮음",
+    "processed_at": "2026-09-03T00:49:19.324457+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/sec-fda-sign-info-sharing-agreement-signal-market-insider-trading": {
+    "korean_summary": "SEC와 FDA가 3년간 정보 공유 협력 협약을 체결.\n내부자 거래 단속 강화를 목적으로, 각 기관의 규제·집행 역량 향상 도모.\n바이오텍 임상 데이터 관련 내부자 거래에 대한 감시 강화 신호.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "정책/규제 협약으로 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-03T00:49:23.524697+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/tscan-axes-75-workforce-make-room-solid-tumor-programs": {
+    "korean_summary": "TCR-T 전문 바이오텍 TScan Therapeutics가 전체 인력의 75%를 감원 발표.\n혈액암 및 자가면역 프로그램 중단 후 고형암 프로그램에 집중하기 위한 구조조정.\nT세포 치료제 분야의 전략적 피벗, 고형암 타깃 세포치료제 경쟁 심화 반영.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "TCR-T 세포치료제 인력 구조조정, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-09-03T00:49:28.573135+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/novartis-inks-32b-subcutaneous-drug-delivery-deal-alteogen": {
+    "korean_summary": "Novartis가 Alteogen의 피하주사(SC) 약물전달 기술 도입을 위해 최대 32억 달러 규모 딜 체결.\n올해 Biogen, GSK에 이어 세 번째 빅파마 파트너십으로, 선급금+마일스톤 구조.\nSC 제형 전환 기술에 대한 빅파마 수요 급증, 약물전달 플랫폼 가치 재조명.",
+    "category": "M&A",
+    "relevance_score": 5,
+    "relevance_reason": "SC 약물전달 플랫폼 딜로 nanomedicine/drug delivery 인접 분야, 직접 기술 연관성은 낮음",
+    "processed_at": "2026-09-03T00:49:34.324058+00:00"
   }
 }
