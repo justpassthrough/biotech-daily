@@ -4261,5 +4261,40 @@
     "relevance_score": 5,
     "relevance_reason": "SC 약물전달 플랫폼 딜로 nanomedicine/drug delivery 인접 분야, 직접 기술 연관성은 낮음",
     "processed_at": "2026-09-03T00:49:34.324058+00:00"
+  },
+  "https://www.fiercebiotech.com/research/psilocybin-proves-promising-neuropathic-pain-study-mice": {
+    "korean_summary": "연구진이 화학요법 유발 말초신경병증(CIPN)에 대한 실로시빈 치료 가능성을 마우스 모델에서 탐색.\n정신건강 분야 사이키델릭 연구 증가 흐름 속 신경병성 통증으로 적응증 확장 시도.\n전임상 단계의 탐색적 연구로, 임상 적용까지는 추가 검증 필요.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "사이키델릭/신경병증 연구로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-09-04T00:30:30.205434+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/pfizer-offloads-scrapped-seagen-adc-medicus-pharma-1b-deal": {
+    "korean_summary": "Pfizer가 Seagen 인수(430억 달러)로 확보했다가 개발 중단한 ADC 자산을 Medicus Pharma에 라이선스아웃.\n딜 규모는 최대 10억 달러 이상(마일스톤 포함).\nPfizer의 Seagen 포트폴리오 구조조정 일환으로, ADC 자산 재거래 시장의 활성화를 보여줌.",
+    "category": "M&A",
+    "relevance_score": 7,
+    "relevance_reason": "ADC 자산 라이선싱 딜로 ADC 시장 동향 직접 관련, linker/payload 기술 세부 언급은 없음",
+    "processed_at": "2026-09-04T00:30:36.131165+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/abbvies-bispecific-t-cell-engager-shows-promise-ph-3-multiple-myeloma-trial": {
+    "korean_summary": "AbbVie의 bispecific T-cell engager etentamig이 재발/불응성 다발성 골수종 P3에서 긍정적 결과 발표.\n대조군 대비 반응률 및 무진행 생존기간(PFS) 개선 확인.\nBispecific T-cell engager 모달리티의 임상 유효성 입증, 혈액암 치료 옵션 확대.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "bispecific 항체 임상 결과로 사용자 연구 분야(ADC, 단백질 설계, 나노케이지)와 직접 연관성 낮음",
+    "processed_at": "2026-09-04T00:30:40.972629+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gsk-pens-13b-hutchmed-deal-early-stage-kras-egfr-cancer-asset": {
+    "korean_summary": "GSK가 Hutchmed와 최대 12.95억 달러 규모의 라이선싱 딜 체결.\n선급금 1.1억 달러, KRAS-EGFR 이중 타깃 first-in-class 초기 단계 항암 후보물질 확보.\n빅파마의 초기 단계 oncology 자산 선점 전략, KRAS 타깃 경쟁 심화 반영.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "항암제 라이선싱 딜이나 ferritin/ADC/protein design 등 사용자 핵심 연구 분야와 무관",
+    "processed_at": "2026-09-04T00:30:45.897251+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction": {
+    "korean_summary": "Ultragenyx의 앤젤만 증후군 대상 치료제가 Phase 3 임상에서 실패.\n최근 Genglycos FDA 승인으로 기세를 올렸으나, P3 실패로 '대규모 비용 절감' 계획 발표.\n희귀질환 신경계 치료제 개발의 임상 실패 리스크를 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "앤젤만 증후군 P3 실패 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-04T00:30:50.507736+00:00"
   }
 }

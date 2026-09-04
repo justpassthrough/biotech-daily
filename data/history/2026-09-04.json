@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T00:30:58.081313+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Psilocybin proves promising in neuropathic pain mouse study",
+      "link": "https://www.fiercebiotech.com/research/psilocybin-proves-promising-neuropathic-pain-study-mice",
+      "summary_en": "Amid the rise of psychedelics in the mental health space, researchers have begun to explore psilocybin as a treatment for chemotherapy-induced peripheral neuropathy.",
+      "published": "2026-09-03T11:58:00+00:00",
+      "korean_summary": "연구진이 화학요법 유발 말초신경병증(CIPN)에 대한 실로시빈 치료 가능성을 마우스 모델에서 탐색.\n정신건강 분야 사이키델릭 연구 증가 흐름 속 신경병성 통증으로 적응증 확장 시도.\n전임상 단계의 탐색적 연구로, 임상 적용까지는 추가 검증 필요.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "사이키델릭/신경병증 연구로 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-09-04T00:30:30.205434+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Pfizer offloads scrapped Seagen ADC to Medicus Pharma in up to $1B+ deal",
+      "link": "https://www.fiercebiotech.com/biotech/pfizer-offloads-scrapped-seagen-adc-medicus-pharma-1b-deal",
+      "summary_en": "Pfizer has found a new home for an antibody-drug conjugate it acquired in its $43 billion Seagen buyout and dropped earlier this year.",
+      "published": "2026-09-03T11:33:00+00:00",
+      "korean_summary": "Pfizer가 Seagen 인수(430억 달러)로 확보했다가 개발 중단한 ADC 자산을 Medicus Pharma에 라이선스아웃.\n딜 규모는 최대 10억 달러 이상(마일스톤 포함).\nPfizer의 Seagen 포트폴리오 구조조정 일환으로, ADC 자산 재거래 시장의 활성화를 보여줌.",
+      "category": "M&A",
+      "relevance_score": 7,
+      "relevance_reason": "ADC 자산 라이선싱 딜로 ADC 시장 동향 직접 관련, linker/payload 기술 세부 언급은 없음",
+      "processed_at": "2026-09-04T00:30:36.131165+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "AbbVie’s bispecific T-cell engager shows promise in ph. 3 multiple myeloma trial",
+      "link": "https://www.fiercebiotech.com/biotech/abbvies-bispecific-t-cell-engager-shows-promise-ph-3-multiple-myeloma-trial",
+      "summary_en": "AbbVie released positive phase 3 data Thursday showing that its bispecific T-cell engager etentamig improved response rates and progression-free survival in patients with relapsed/refractory multiple myeloma.",
+      "published": "2026-09-03T08:42:00+00:00",
+      "korean_summary": "AbbVie의 bispecific T-cell engager etentamig이 재발/불응성 다발성 골수종 P3에서 긍정적 결과 발표.\n대조군 대비 반응률 및 무진행 생존기간(PFS) 개선 확인.\nBispecific T-cell engager 모달리티의 임상 유효성 입증, 혈액암 치료 옵션 확대.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "bispecific 항체 임상 결과로 사용자 연구 분야(ADC, 단백질 설계, 나노케이지)와 직접 연관성 낮음",
+      "processed_at": "2026-09-04T00:30:40.972629+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "GSK pens $1.3B Hutchmed deal for early-stage KRAS-EGFR cancer asset",
+      "link": "https://www.fiercebiotech.com/biotech/gsk-pens-13b-hutchmed-deal-early-stage-kras-egfr-cancer-asset",
+      "summary_en": "GSK is handing over $110 million upfront to Hutchmed in a deal worth up to $1.295 billion to get its hands on a first-in-class oncology candidate.",
+      "published": "2026-09-03T05:07:00+00:00",
+      "korean_summary": "GSK가 Hutchmed와 최대 12.95억 달러 규모의 라이선싱 딜 체결.\n선급금 1.1억 달러, KRAS-EGFR 이중 타깃 first-in-class 초기 단계 항암 후보물질 확보.\n빅파마의 초기 단계 oncology 자산 선점 전략, KRAS 타깃 경쟁 심화 반영.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "항암제 라이선싱 딜이나 ferritin/ADC/protein design 등 사용자 핵심 연구 분야와 무관",
+      "processed_at": "2026-09-04T00:30:45.897251+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Ultragenyx fails phase 3 Angelman test, plots ‘significant expense reductions’",
+      "link": "https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction",
+      "summary_en": "Ultragenyx had been flying high after its recent FDA approval for Genglycos—but the company has been brought back down to earth with a damaging phase 3 flop.",
+      "published": "2026-09-03T02:40:00+00:00",
+      "korean_summary": "Ultragenyx의 앤젤만 증후군 대상 치료제가 Phase 3 임상에서 실패.\n최근 Genglycos FDA 승인으로 기세를 올렸으나, P3 실패로 '대규모 비용 절감' 계획 발표.\n희귀질환 신경계 치료제 개발의 임상 실패 리스크를 보여주는 사례.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "앤젤만 증후군 P3 실패 뉴스, 사용자 연구 분야와 무관",
+      "processed_at": "2026-09-04T00:30:50.507736+00:00"
+    }
+  ],
+  "overall": [
+    "Pfizer가 Seagen에서 확보한 ADC 자산을 Medicus Pharma에 최대 10억 달러 이상에 매각하고, GSK는 Hutchmed의 초기 단계 KRAS-EGFR 암 자산을 13억 달러에 인수하는 등 빅파마의 파이프라인 재편 M&A가 활발히 진행됨",
+    "AbbVie의 이중특이성 T세포 인게이저가 다발성 골수종 3상에서 긍정적 신호를 보인 반면, Ultragenyx는 Angelman 증후군 3상 실패로 대규모 비용 감축을 예고하며 희귀질환 임상 결과가 엇갈림",
+    "사이로시빈의 신경병증성 통증 마우스 모델 효과 확인 등 비전통적 신경과학 치료제 연구가 전임상 단계에서 지속적으로 탐색되고 있음"
+  ]
+}
