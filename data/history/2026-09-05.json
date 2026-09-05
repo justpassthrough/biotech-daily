@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T00:27:59.869775+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Ionis’ ‘breakthrough’ Alexander disease approval establishes pillar of rare disease pipeline",
+      "link": "https://www.fiercebiotech.com/pharma/ionis-breakthrough-alexander-disease-approval-establishes-pillar-rare-disease-pipeline",
+      "summary_en": "After Jenny Pearson’s daughter Elise first had a seizure at 16 months old, an MRI came back clean—her brain “looked beautiful,” Pearson recalled to Fierce. But a follow-up scan a year later, just days before Thanksgiving, showed her frontal lobe was now awash in white splotches. A genetic test the week before Christmas gave a troubling diagnosis: Alexander disease.",
+      "published": "2026-09-04T10:57:00+00:00",
+      "korean_summary": "Ionis Pharmaceuticals의 희귀질환 치료제가 Alexander disease에 대해 FDA 승인(Breakthrough 지정)을 획득.\nAlexander disease는 GFAP 유전자 변이로 인한 극희귀 신경 퇴행성 질환으로, Ionis의 안티센스 올리고뉴클레오타이드(ASO) 기반 치료제가 적용.\n희귀질환 파이프라인 전략의 핵심 축을 확보한 사례로, ASO 모달리티의 임상 적용 확장을 보여줌.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "ASO 기반 희귀질환 승인 뉴스, 사용자 연구 분야(단백질 설계/ADC/나노의약)와 거의 무관",
+      "processed_at": "2026-09-05T00:27:48.010094+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Menarini signs $771M deal to take Gan & Lee GLP-1 to European market",
+      "link": "https://www.fiercebiotech.com/biotech/menarini-group-signs-771m-deal-take-gan-lee-glp-1-european-market",
+      "summary_en": "Italian company the Menarini Group has agreed to pay Chinese insulin maker Gan & Lee Pharmaceuticals €62 million ($72 million) up front to collaborate on the registration and commercialization of Gan & Lee’s GLP-1 bofanglutide.",
+      "published": "2026-09-04T10:35:00+00:00",
+      "korean_summary": "이탈리아 Menarini 그룹이 중국 Gan & Lee의 GLP-1 신약 bofanglutide의 유럽 등록 및 상업화 계약 체결.\n계약금 6,200만 유로(약 720억 원), 총 계약 규모 최대 7억 7,100만 달러(마일스톤 포함).\nGLP-1 시장의 유럽 확장 및 중국 바이오텍의 글로벌 라이선싱 흐름 지속.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "GLP-1 라이선싱 딜로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-09-05T00:27:54.034749+00:00"
+    }
+  ],
+  "overall": [
+    "Ionis의 Alexander병 치료제가 FDA 혁신적 치료제 지정 획득하며 희귀질환 파이프라인의 핵심 축으로 부상",
+    "Menarini가 Gan & Lee의 GLP-1 계열 약물 유럽 판권을 7억 7,100만 달러에 인수하며 유럽 비만·당뇨 시장 공략 가속",
+    "희귀질환 임상 성과와 GLP-1 기반 대형 라이선스 딜이 동시에 부각되며 특화 파이프라인 및 대사질환 분야로 자본 집중 흐름 확인"
+  ]
+}
