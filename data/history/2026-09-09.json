@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T00:49:46.466128+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "AZ's R&D chief Barr touts internal 'science success story' after IL-33 antibody's stellar showing in COPD",
+      "link": "https://www.fiercebiotech.com/biotech/az-rd-chief-barr-touts-internal-science-success-story-after-il-33-antibodys-stellar-showing",
+      "summary_en": "With a detailed data drop that AstraZeneca’s R&D chief describes as an internal “science success story,” the British Big Pharma has secured an FDA priority review for what it believes could become a flagship biologic in chronic obstructive pulmonary disease.",
+      "published": "2026-09-08T10:18:00+00:00",
+      "korean_summary": "AstraZeneca가 IL-33 항체의 COPD 임상 데이터를 공개하며 FDA 우선심사 획득.\nR&D 총괄 Barr는 내부 '과학적 성공 사례'로 평가하며 COPD 분야 flagship 생물의약품으로 기대.\n빅파마의 호흡기 질환 항체 치료제 영역 확장 및 생물의약품 경쟁 심화를 보여줌.",
+      "category": "빅파마",
+      "relevance_score": 2,
+      "relevance_reason": "항체 치료제 임상이나 COPD 적응증, 사용자 연구 분야(ferritin, ADC linker, 단백질 설계)와 직접 연관성 낮음",
+      "processed_at": "2026-09-09T00:49:05.338128+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "FDA approves AstraZeneca’s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer",
+      "link": "https://www.fiercebiotech.com/pharma/fda-approves-astrazeneca-etcamah-opening-ctdna-guided-treatment-shift-breast-cancer",
+      "summary_en": "In a rare divergence from its own expert panel, the FDA has granted accelerated approval to AstraZeneca’s camizestrant, turning a contentious regulatory review into a landmark win that opens a new treatment paradigm for molecular-guided cancer care.",
+      "published": "2026-09-08T09:57:00+00:00",
+      "korean_summary": "FDA가 AstraZeneca의 camizestrant(Etcamah)에 가속 승인을 부여.\nctDNA 양성 HR+/HER2- 조기 유방암 환자 대상, 자문위원단 반대 의견에도 불구하고 승인 결정.\nctDNA 기반 분자유도 치료 패러다임의 첫 사례로, 액체생검 활용 치료 전략의 새 기준 설정.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "유방암 치료제 FDA 승인 소식으로, 사용자 연구 분야(약물전달, 단백질 설계, ADC)와 직접 관련 없음",
+      "processed_at": "2026-09-09T00:49:12.819356+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Spyre's 3-pronged IBD strategy on track as IL-23 antibody rounds off trio of phase 2 wins",
+      "link": "https://www.fiercebiotech.com/biotech/spyre-snags-phase-2-win-il-23-antibody-round-ulcerative-colitis-program",
+      "summary_en": "Spyre's three-pronged approach to inflammatory bowel disease continues to pay off, with the biotech's anti-IL-23 antibody notching a phase 2 win.",
+      "published": "2026-09-08T09:46:00+00:00",
+      "korean_summary": "Spyre Therapeutics의 항-IL-23 항체가 IBD 대상 P2 임상에서 긍정적 결과를 확보.\nIL-23 항체를 포함한 3개 파이프라인이 모두 P2 성공, 3중 병용 전략이 핵심.\nIBD 면역치료 분야 단일 타깃에서 복합 전략으로 경쟁이 심화되는 추세 반영.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "항체 임상 결과이나 ADC·나노의약·단백질 설계와 직접 연관 없음",
+      "processed_at": "2026-09-09T00:49:18.023880+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Pharvaris' latest phase 3 win builds case for HAE drug with FDA verdict pending",
+      "link": "https://www.fiercebiotech.com/biotech/pharvaris-builds-case-hae-drug-awaiting-fda-verdict-another-phase-3-win",
+      "summary_en": "Pharvaris’ deucrictibant has tasted success in a second phase 3 study, strengthening the case for the therapy to treat hereditary angioedema patients as the Swiss biotech awaits an FDA approval decision.",
+      "published": "2026-09-08T09:29:00+00:00",
+      "korean_summary": "Pharvaris의 deucrictibant가 두 번째 P3 임상에서 성공, FDA 승인 결정 대기 중.\n유전성 혈관부종(HAE) 치료제로 두 건의 P3 긍정 결과 확보.\nHAE 치료 시장 경쟁 심화, 경구용 칼리크레인 억제제 승인 가능성 부각.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "HAE 치료제 임상 결과로, 사용자의 나노의약/단백질 설계 연구와 직접 관련 없음",
+      "processed_at": "2026-09-09T00:49:22.305413+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Bristol Myers’ pivotal CAR-T multiple myeloma trial hits primary endpoint",
+      "link": "https://www.fiercebiotech.com/biotech/bristol-myers-pivotal-car-t-multiple-myeloma-trial-hits-primary-endpoint",
+      "summary_en": "A pivotal trial of Bristol Myers Squibb’s GPRC5D-directed CAR-T cell therapy has hit its primary endpoint, furthering the drugmaker’s efforts to challenge Johnson & Johnson for the post-BCMA multiple myeloma market.",
+      "published": "2026-09-08T09:12:00+00:00",
+      "korean_summary": "Bristol Myers Squibb의 GPRC5D 타깃 CAR-T 치료제가 다발성골수종 피벗 임상에서 1차 평가변수 달성.\nBCMA 이후 다발성골수종 시장을 노리는 전략으로 J&J와의 경쟁 심화 예상.\nCAR-T 분야에서 GPRC5D가 차세대 핵심 타깃으로 부상하는 시장 신호.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "CAR-T 임상 결과로, 사용자 연구 분야(ferritin, ADC, protein design)와 직접 연관성 낮음",
+      "processed_at": "2026-09-09T00:49:29.646134+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Boston Scientific recalls spinal cord implant in wake of more than 1k serious injuries",
+      "link": "https://www.fiercebiotech.com/medtech/boston-scientific-recalls-spinal-cord-implant-wake-more-1k-serious-injuries",
+      "summary_en": "Boston Scientific has issued another recall, this time for its spinal cord implant used to treat pain.",
+      "published": "2026-09-08T08:16:00+00:00",
+      "korean_summary": "Boston Scientific이 척수 자극 임플란트(통증 치료용)에 대해 리콜 발표.\n1,000건 이상의 심각한 부작용 사례 발생 후 조치, 구체적 결함 내용은 미공개.\n의료기기 안전 규제 이슈, 신약 연구와는 직접 관련 없음.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "의료기기 리콜 이슈로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 완전 무관",
+      "processed_at": "2026-09-09T00:49:34.424026+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Novartis stock slides as centerpiece of $12B Avidity buyout flunks ‘crucial’ phase 3 test",
+      "link": "https://www.fiercebiotech.com/biotech/novartis-centerpiece-12b-avidity-buyout-flunks-crucial-phase-3-test",
+      "summary_en": "The phase 3 Harbor trial of Novartis’ del-desiran has missed its primary endpoint, dealing a major blow to an asset that the Swiss drugmaker acquired in the $12 billion takeover of Avidity Biosciences. The flop leaves Novartis with one win and two failures from a rapid-fire run of key clinical readouts.",
+      "published": "2026-09-08T03:35:00+00:00",
+      "korean_summary": "Novartis가 120억 달러에 인수한 Avidity Biosciences의 핵심 자산 del-desiran이 P3 Harbor 시험에서 1차 평가변수 미달성.\n이번 실패로 Novartis는 최근 일련의 임상 발표에서 1성공 2실패 기록.\n대형 M&A 이후 핵심 파이프라인 실패로 인수 가치 훼손 우려 부각.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "RNA 치료제 임상 실패 뉴스로, 사용자 연구 분야와 직접 연관성 낮음",
+      "processed_at": "2026-09-09T00:49:39.494409+00:00"
+    }
+  ],
+  "overall": [
+    "AZ·Spyre·BMS·Pharvaris 등 다수 기업이 COPD(IL-33), IBD(IL-23), CAR-T(다발성골수종), HAE 분야에서 잇따라 임상 2·3상 긍정 결과를 발표하며 면역·희귀질환 파이프라인 가치 입증이 집중된 하루였음",
+    "AstraZeneca는 ctDNA 기반 유방암 치료제 Etcamah의 FDA 승인을 획득해 액체생검 연동 치료 패러다임의 상업화 첫 사례를 열었음",
+    "Novartis는 120억 달러에 인수한 Avidity의 핵심 파이프라인이 '결정적' 3상에서 실패하며 주가가 급락, 대형 M&A 리스크가 부각됨"
+  ]
+}
