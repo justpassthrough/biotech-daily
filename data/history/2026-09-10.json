@@ -1,0 +1,119 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T00:43:05.586358+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Luma locks down 15-year, $410M fund for life science investments",
+      "link": "https://www.fiercebiotech.com/biotech/luma-closes-410m-fund-life-sciences-biotechs-over-15-years",
+      "summary_en": "Luma Group announced the final close of its inaugural life sciences venture capital fund totaling $410 million.",
+      "published": "2026-09-09T09:45:00+00:00",
+      "korean_summary": "Luma Group이 생명과학 벤처캐피털 펀드 최종 클로징, 총 4억 1천만 달러 규모.\n15년 만기의 첫 번째 펀드로, 생명과학 분야 초기 투자에 집중 예정.\n생명과학 VC 자금조달 환경을 보여주는 일반 펀딩 뉴스.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "생명과학 VC 펀딩 뉴스로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-09-10T00:42:18.993627+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "GV-backed Encoded gains $275M to advance Dravet drug, scale genetic med manufacturing",
+      "link": "https://www.fiercebiotech.com/biotech/encoded-executes-275m-raise-advance-dravet-syndrome-asset-and-scale-manufacturing",
+      "summary_en": "Neuro-focused Encoded Therapeutics has bagged a $275 million series F round to support its Dravet syndrome asset and scale up its internal manufacturing capabilities.",
+      "published": "2026-09-09T09:43:00+00:00",
+      "korean_summary": "신경계 유전자치료 기업 Encoded Therapeutics가 시리즈 F로 2억 7,500만 달러 조달.\nDravet 증후군 유전자치료제 파이프라인 개발 및 내부 제조 역량 확장에 사용 예정.\nGV(Google Ventures) 지원 유전자치료 펀딩 흐름, gene therapy 제조 스케일업 트렌드 반영.",
+      "category": "기타",
+      "relevance_score": 2,
+      "relevance_reason": "유전자치료 펀딩 뉴스로, 사용자 연구 분야(ferritin, ADC, protein binder)와 거리가 멈",
+      "processed_at": "2026-09-10T00:42:23.814156+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Tyra rolls toward pivotal bladder cancer study even as midphase data deflates stock",
+      "link": "https://www.fiercebiotech.com/biotech/tyra-rolls-toward-pivotal-bladder-cancer-study-even-midphase-data-deflates-stock",
+      "summary_en": "Tyra Biosciences has reported initial phase 2 data on dabogratinib in bladder cancer, putting the biotech on course to start a registrational study next year. But the biotech’s stock fell in premarket trading after the complete response rate fell short of the level targeted by analysts.",
+      "published": "2026-09-09T09:15:00+00:00",
+      "korean_summary": "Tyra Biosciences가 방광암 대상 dabogratinib의 P2 초기 데이터를 발표하며 내년 등록 임상 착수 계획 발표.\n완전반응률(CR rate)이 애널리스트 목표치에 미치지 못하며 주가 선개장 하락.\n등록 임상 진입 여부는 긍정적이나 효능 데이터 기대치 미달로 시장 신뢰도 도전.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "방광암 FGFR 억제제 임상 결과로, 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 거의 무관",
+      "processed_at": "2026-09-10T00:42:30.218937+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "FDA solidifies CDER, CBER leadership posts as commissioner confirmation awaits",
+      "link": "https://www.fiercebiotech.com/pharma/fda-solidifies-cder-cber-leadership-posts-commissioner-confirmation-awaits",
+      "summary_en": "In a stabilizing move, the Department of Health and Human Services announced Tuesday afternoon that it has tapped Michael Davis, M.D., Ph.D., and Karim Mikhail—who’ve been serving as acting directors of CDER and CBER, respectively—to occupy their posts on a permanent basis.",
+      "published": "2026-09-09T09:01:00+00:00",
+      "korean_summary": "HHS가 CDER와 CBER의 임시 국장을 각각 정식 국장으로 임명 확정.\nMichael Davis(CDER)와 Karim Mikhail(CBER)이 acting 직책에서 정식 직책으로 전환.\nFDA 커미셔너 인준 대기 중 규제기관 리더십 안정화 조치.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "FDA 인사 발표로 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-09-10T00:42:34.601956+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Kura creates Lilly-backed spinout armed with $50M to advance next-gen diabetes therapy",
+      "link": "https://www.fiercebiotech.com/biotech/kura-creates-lilly-backed-spinout-take-forward-next-gen-diabetes-therapy",
+      "summary_en": "Kura Oncology has spun out a biotech armed with $50 million in fresh funding to take forward a next-generation diabetes treatment.",
+      "published": "2026-09-09T08:56:00+00:00",
+      "korean_summary": "Kura Oncology가 Lilly 지원을 받아 차세대 당뇨병 치료제 개발을 위한 스핀아웃 바이오텍 설립.\n신규 자금 5,000만 달러 확보, Lilly가 주요 투자자로 참여.\n빅파마 Lilly의 대사질환 분야 외부 투자 전략의 일환.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "당뇨병 치료제 스핀아웃 펀딩, 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-09-10T00:42:38.676324+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Abbott garners FDA nod for its TactiFlex catheter to treat AFib",
+      "link": "https://www.fiercebiotech.com/medtech/abbott-garners-fda-nod-its-tactiflex-catheter-treat-afib",
+      "summary_en": "Abbot received FDA clearance for its latest-generation catheter that allows physicians more flexibility when treating atrial fibrillation in patients.",
+      "published": "2026-09-09T08:11:00+00:00",
+      "korean_summary": "Abbott의 차세대 TactiFlex 카테터가 심방세동(AFib) 치료용으로 FDA 승인 획득.\n의사의 시술 유연성을 높인 최신 세대 카테터로, 구체적 기술 사양은 미공개.\n심혈관 의료기기 시장에서 Abbott의 카테터 라인업 경쟁력 강화.",
+      "category": "임상결과",
+      "relevance_score": 0,
+      "relevance_reason": "심방세동 치료용 의료기기 승인으로 사용자 연구 분야와 무관",
+      "processed_at": "2026-09-10T00:42:43.284788+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Beeline flies into phase 3 as oral lupus drug soars past placebo",
+      "link": "https://www.fiercebiotech.com/biotech/beeline-flies-phase-3-oral-lupus-drug-soars-past-placebo",
+      "summary_en": "A phase 2 trial of Beeline Medicines’ afimetoran has hit its primary endpoint, positioning the biotech to swarm into pivotal development in two forms of lupus.",
+      "published": "2026-09-09T04:23:00+00:00",
+      "korean_summary": "Beeline Medicines의 경구용 루푸스 치료제 afimetoran이 P2 임상에서 1차 평가변수 달성.\nTLR7/8 억제제 계열로, 두 가지 루푸스 적응증에서 위약 대비 유의미한 효과 확인 후 P3 진입 예정.\n루푸스 경구 치료제 개발 경쟁이 심화되는 가운데 소규모 바이오텍의 P3 도약 사례.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "자가면역 질환 임상 결과로 사용자 연구 분야와 직접적 관련 없음",
+      "processed_at": "2026-09-10T00:42:48.834069+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Evommune gives up hope for MRGPRX2 antagonist to treat itch after latest phase 2 fail",
+      "link": "https://www.fiercebiotech.com/biotech/evommune-gives-hope-mrgprx2-antagonist-treat-itch-after-second-phase-2-fail",
+      "summary_en": "Evommune’s MRGPRX2 antagonist has flunked another phase 2 trial, wiping out the biotech’s last hopes of developing the therapy for any itch-related conditions.",
+      "published": "2026-09-09T04:06:00+00:00",
+      "korean_summary": "Evommune의 MRGPRX2 길항제가 또 다른 P2 임상에서 실패.\n가려움증 관련 모든 적응증 개발 포기 결정, 파이프라인 사실상 소멸.\nMRGPRX2 타깃의 임상적 유효성 입증 한계를 보여주는 사례.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "가려움증 치료제 P2 실패, 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-09-10T00:42:52.717128+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Labcorp snaps up MLM Medical Labs to boost laboratory footprint",
+      "link": "https://www.fiercebiotech.com/medtech/labcorp-snaps-mlm-medical-labs-boost-laboratory-footprint",
+      "summary_en": "Medtech and testing giant Labcorp has bought out MLM Medical Labs to help grow its geographic footprint for laboratory services.",
+      "published": "2026-09-09T02:05:00+00:00",
+      "korean_summary": "Labcorp가 MLM Medical Labs를 인수하여 실험실 서비스 지역 커버리지 확대.\n거래 규모 미공개, 지리적 검사 네트워크 강화 목적.\n임상검사 시장 내 대형 업체 간 인수합병 지속 흐름.",
+      "category": "M&A",
+      "relevance_score": 0,
+      "relevance_reason": "임상검사 랩 인수, 사용자 연구 분야와 무관",
+      "processed_at": "2026-09-10T00:42:57.487435+00:00"
+    }
+  ],
+  "overall": [
+    "Encoded Therapeutics($275M)·Kura($50M) 등 희귀질환·당뇨 차세대 유전자/소분자 치료제 개발사들이 대형 펀딩을 유치하며 초기 파이프라인 구축 경쟁 가속화",
+    "Beeline의 경구용 루푸스 치료제가 임상 3상 진입에 성공한 반면, Evommune의 MRGPRX2 억제제는 2상 실패로 개발 포기하는 등 자가면역·희귀질환 영역에서 임상 희비 엇갈림",
+    "Luma의 15년 만기 $410M 생명과학 펀드 조성과 Labcorp의 MLM Medical Labs 인수 등 인프라·투자 플랫폼 차원의 장기 자본 배치 움직임 동시 포착"
+  ]
+}
