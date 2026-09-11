@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T00:39:24.683806+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Novartis shareholder calls for board overhaul following costly deal setbacks: Reuters",
+      "link": "https://www.fiercebiotech.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters",
+      "summary_en": "Novartis’ recent dual clinical setbacks have prompted questions from a major shareholder about the board’s oversight of dealmaking.",
+      "published": "2026-09-10T10:09:00+00:00",
+      "korean_summary": "Novartis 주요 주주가 최근 연속적인 임상 실패 이후 이사회의 딜 감독 역할에 의문을 제기.\n구체적 딜 규모나 파이프라인 정보는 미공개, 이사회 쇄신 요구 수준.\n빅파마 거버넌스 리스크와 M&A 의사결정 구조에 대한 투자자 압박 사례.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "빅파마 거버넌스 이슈로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-09-11T00:39:01.837483+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Biohaven epilepsy drug suffers FDA hold days after attracting $350M deal",
+      "link": "https://www.fiercebiotech.com/biotech/biohaven-drug-suffers-fda-hold-days-after-attracting-350m-deal",
+      "summary_en": "The FDA has put enrollment in trials of Biohaven’s epilepsy drug candidate BHV-7000 on hold in response to findings from rodent tests, dealing a blow to an asset covered by a pending $350 million deal.",
+      "published": "2026-09-10T10:03:00+00:00",
+      "korean_summary": "Biohaven의 뇌전증 신약 후보 BHV-7000이 FDA 임상 보류(clinical hold) 조치를 받음.\n설치류 시험 결과로 인한 FDA hold로, 350M 달러 계약이 체결된 직후 발생.\n전임상 안전성 이슈가 대형 딜 직후 표면화된 사례로, 신약 개발 리스크 부각.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "뇌전증 약물 FDA hold 사례, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-09-11T00:39:06.363860+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Frazier Life Sciences nets $1.1B in long-running fund aimed at small, midsize biotechs",
+      "link": "https://www.fiercebiotech.com/biotech/frazier-life-sciences-rallies-11b-aimed-small-and-midsize-public-biotechs",
+      "summary_en": "Frazier Life Sciences (FLS) has stacked up another sizable biotech-focused capital commitment, netting more than $1.1 billion for its long-running public fund.",
+      "published": "2026-09-10T09:45:00+00:00",
+      "korean_summary": "Frazier Life Sciences(FLS)가 중소형 바이오테크 중심 공개 펀드에서 11억 달러 이상 자금 조달 성공.\n해당 펀드는 소규모·중형 바이오테크 기업을 주요 투자 대상으로 하는 장기 운용 펀드.\n바이오테크 섹터 투자 심리 및 자금 유입 동향을 보여주는 사례.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "바이오테크 펀딩 뉴스로 사용자 연구 분야와 직접적 연관 없음",
+      "processed_at": "2026-09-11T00:39:12.410772+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Takeda’s long-serving R&D chief Andy Plump to retire in wake of pipeline successes",
+      "link": "https://www.fiercebiotech.com/biotech/takedas-long-serving-rd-chief-andy-plump-retire-wake-pipeline-successes",
+      "summary_en": "Andy Plump, M.D., Ph.D., president of research and development at Takeda, is set to leave the company in June.",
+      "published": "2026-09-10T09:25:00+00:00",
+      "korean_summary": "Takeda의 R&D 총괄 사장 Andy Plump가 6월 퇴임 예정.\n파이프라인 성과를 이끈 장기 재임자로, 후임 인선 및 R&D 전략 방향이 주목됨.\n빅파마 R&D 리더십 교체는 파이프라인 우선순위 변화로 이어질 수 있음.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "임원 인사 뉴스로 사용자 연구 분야와 무관",
+      "processed_at": "2026-09-11T00:39:17.129952+00:00"
+    }
+  ],
+  "overall": [
+    "Frazier Life Sciences가 중소형 바이오텍 대상 펀드로 11억 달러를 조성하며 초기·중기 바이오텍 투자 수요가 지속되고 있음",
+    "Biohaven의 뇌전증 신약이 3억 5천만 달러 딜 체결 직후 FDA 임상 보류를 받으며 빅딜 이후 규제 리스크가 부각됨",
+    "Novartis는 주주의 이사회 개편 압박을, Takeda는 R&D 수장 Andy Plump의 은퇴를 맞이하며 빅파마 거버넌스·리더십 변화가 동시에 진행 중"
+  ]
+}

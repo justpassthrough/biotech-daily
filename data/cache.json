@@ -4429,5 +4429,33 @@
     "relevance_score": 0,
     "relevance_reason": "임상검사 랩 인수, 사용자 연구 분야와 무관",
     "processed_at": "2026-09-10T00:42:57.487435+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters": {
+    "korean_summary": "Novartis 주요 주주가 최근 연속적인 임상 실패 이후 이사회의 딜 감독 역할에 의문을 제기.\n구체적 딜 규모나 파이프라인 정보는 미공개, 이사회 쇄신 요구 수준.\n빅파마 거버넌스 리스크와 M&A 의사결정 구조에 대한 투자자 압박 사례.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 거버넌스 이슈로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-09-11T00:39:01.837483+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/biohaven-drug-suffers-fda-hold-days-after-attracting-350m-deal": {
+    "korean_summary": "Biohaven의 뇌전증 신약 후보 BHV-7000이 FDA 임상 보류(clinical hold) 조치를 받음.\n설치류 시험 결과로 인한 FDA hold로, 350M 달러 계약이 체결된 직후 발생.\n전임상 안전성 이슈가 대형 딜 직후 표면화된 사례로, 신약 개발 리스크 부각.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "뇌전증 약물 FDA hold 사례, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-09-11T00:39:06.363860+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/frazier-life-sciences-rallies-11b-aimed-small-and-midsize-public-biotechs": {
+    "korean_summary": "Frazier Life Sciences(FLS)가 중소형 바이오테크 중심 공개 펀드에서 11억 달러 이상 자금 조달 성공.\n해당 펀드는 소규모·중형 바이오테크 기업을 주요 투자 대상으로 하는 장기 운용 펀드.\n바이오테크 섹터 투자 심리 및 자금 유입 동향을 보여주는 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "바이오테크 펀딩 뉴스로 사용자 연구 분야와 직접적 연관 없음",
+    "processed_at": "2026-09-11T00:39:12.410772+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/takedas-long-serving-rd-chief-andy-plump-retire-wake-pipeline-successes": {
+    "korean_summary": "Takeda의 R&D 총괄 사장 Andy Plump가 6월 퇴임 예정.\n파이프라인 성과를 이끈 장기 재임자로, 후임 인선 및 R&D 전략 방향이 주목됨.\n빅파마 R&D 리더십 교체는 파이프라인 우선순위 변화로 이어질 수 있음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "임원 인사 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-11T00:39:17.129952+00:00"
   }
 }
