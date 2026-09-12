@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T00:46:09.446441+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "The future of RAS inhibitors",
+      "link": "https://www.fiercebiotech.com/biotech/future-ras-inhibitors",
+      "summary_en": "Revolution Medicines recently made history with the approval of its RAS inhibitor Rasonque for advanced pancreatic cancer. But behind RevMed is an entire field of biotechs working to broaden the reach of RAS-targeting drugs.",
+      "published": "2026-09-11T09:55:00+00:00",
+      "korean_summary": "Revolution Medicines의 RAS 억제제 Rasonque가 진행성 췌장암에 대해 FDA 승인을 획득하며 역사적 이정표 달성.\n이를 계기로 RAS 타깃 drug의 적응증 확장 및 차세대 개발에 나서는 바이오테크 생태계 전반이 조명받고 있음.\nKRAS 변이 타깃 치료제 경쟁이 본격화되며 oncology 분야의 장기 미충족 수요 해소 가능성이 높아짐.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "RAS 억제제 oncology 뉴스로, 사용자의 나노의약/단백질 설계 연구와 직접 연관성 낮음",
+      "processed_at": "2026-09-12T00:45:58.408938+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "FDA delays approval decision for Exelixis' tyrosine kinase inhibitor in colorectal cancer",
+      "link": "https://www.fiercebiotech.com/biotech/fda-delays-approval-exelixis-tyrosine-kinase-inhibitor-colorectal-cancer-analysts-believe",
+      "summary_en": "The FDA has delayed its approval decision for Exelixis’ oral kinase inhibitor in combination with Roche’s Tecentriq for the treatment of metastatic colorectal cancer.",
+      "published": "2026-09-11T09:53:00+00:00",
+      "korean_summary": "Exelixis의 경구용 tyrosine kinase inhibitor와 Roche Tecentriq 병용요법에 대한 FDA 승인 결정이 연기됨.\n적응증은 전이성 대장암(metastatic colorectal cancer), 구체적 연기 사유 및 새 목표 심사일은 미공개.\n규제 리스크가 TKI 병용 전략에 미치는 영향 사례로 참고 가능.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "FDA 승인 지연 소식으로 사용자 연구 분야(ferritin, ADC, 단백질 설계 등)와 직접적 관련 없음",
+      "processed_at": "2026-09-12T00:46:03.737969+00:00"
+    }
+  ],
+  "overall": [
+    "RAS 억제제 차세대 치료 전략이 주목받으며 임상 파이프라인 경쟁이 심화되는 가운데, 종양학 분야 혁신 타깃으로 부상 중",
+    "Exelixis의 티로신 키나제 억제제가 FDA로부터 대장암 적응증 승인 결정 지연을 통보받으며 규제 불확실성 직면",
+    "전반적으로 종양학(대장암·RAS 변이암) 중심의 표적 치료제 임상·허가 이슈가 24시간 바이오 뉴스를 주도"
+  ]
+}
