@@ -4471,5 +4471,12 @@
     "relevance_score": 1,
     "relevance_reason": "FDA 승인 지연 소식으로 사용자 연구 분야(ferritin, ADC, 단백질 설계 등)와 직접적 관련 없음",
     "processed_at": "2026-09-12T00:46:03.737969+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/ge-healthcare-mulling-1b-imaging-chemicals-maker-deal-financial-times": {
+    "korean_summary": "GE HealthCare가 방사성의약품 개발사 Sofie Biosciences 인수를 검토 중이라고 Financial Times 보도.\n인수 규모는 약 10억 달러(1B) 수준으로 알려짐.\n영상진단 및 방사성의약품 시장 강화를 위한 빅파마 M&A 흐름의 일환.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "방사성의약품/영상진단 M&A로 사용자 연구 분야(단백질 설계, ADC, 나노약물전달)와 거의 무관",
+    "processed_at": "2026-09-14T00:31:31.703402+00:00"
   }
 }

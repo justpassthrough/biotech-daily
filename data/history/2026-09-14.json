@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T00:31:38.374019+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "GE HealthCare mulls $1B imaging chemicals maker deal: Financial Times",
+      "link": "https://www.fiercebiotech.com/medtech/ge-healthcare-mulling-1b-imaging-chemicals-maker-deal-financial-times",
+      "summary_en": "GE HealthCare is said to be on the cusp of buying out radiopharmaceutical developer Sofie Biosciences, according to a report by the Financial Times.",
+      "published": "2026-09-13T08:05:00+00:00",
+      "korean_summary": "GE HealthCare가 방사성의약품 개발사 Sofie Biosciences 인수를 검토 중이라고 Financial Times 보도.\n인수 규모는 약 10억 달러(1B) 수준으로 알려짐.\n영상진단 및 방사성의약품 시장 강화를 위한 빅파마 M&A 흐름의 일환.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "방사성의약품/영상진단 M&A로 사용자 연구 분야(단백질 설계, ADC, 나노약물전달)와 거의 무관",
+      "processed_at": "2026-09-14T00:31:31.703402+00:00"
+    }
+  ],
+  "overall": [
+    "제공된 뉴스가 1개(GE HealthCare의 ~$1B 이미징 케미컬 기업 인수 검토)뿐이라 3개의 독립적인 bullet을 사실 기반으로 작성하기에 데이터가 부족합니다.\n\n뉴스 목록 전체를 붙여넣어 주시면 정확히 분석해 드리겠습니다."
+  ]
+}
