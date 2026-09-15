@@ -4478,5 +4478,54 @@
     "relevance_score": 1,
     "relevance_reason": "방사성의약품/영상진단 M&A로 사용자 연구 분야(단백질 설계, ADC, 나노약물전달)와 거의 무관",
     "processed_at": "2026-09-14T00:31:31.703402+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/cultural-weight-psychedelic-approval-looms-fda-hearing-focuses-access-and-safety": {
+    "korean_summary": "FDA가 향정신성 의약품(psychedelic) 최초 승인을 앞두고 공청회 개최.\n실사용 환경에서의 사용 방법, 모니터링, 지속 연구 방안에 대한 의견 수렴.\n사용자 연구 분야와 무관한 규제/정책 이슈.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "향정신성 의약품 FDA 정책 공청회, 약물전달/단백질 설계와 무관",
+    "processed_at": "2026-09-15T01:03:06.761450+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/lilly-cans-early-experimental-obesity-drug-after-high-bar-not-met": {
+    "korean_summary": "Eli Lilly가 초기 단계 비만 치료 후보물질 개발을 중단.\n자사 기준(high bar)을 충족하지 못해 조기 종료, 구체적 데이터는 미공개.\nGLP-1 경쟁 심화로 빅파마의 내부 기준이 높아지고 있음을 시사.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "비만 신약 중단 소식으로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-09-15T01:03:11.449595+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/corbus-posts-phase-1-obesity-data-area-where-novo-and-sanofi-stumbled": {
+    "korean_summary": "Corbus Pharmaceuticals가 비만 치료 CB1 inverse agonist의 P1b 임상 결과 발표.\nNovo Nordisk·Sanofi 제품에서 문제가 된 신경정신과적 부작용이 낮을 가능성을 시사, P2 진입 계획.\n과거 실패한 CB1 계열 재도전, 부작용 프로파일 개선 여부가 핵심 관전 포인트.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "비만 치료제 P1b 결과, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-09-15T01:03:15.946219+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/electra-aims-342m-ipo-power-inflammatory-drugs-push-through-phase-3": {
+    "korean_summary": "Electra Therapeutics가 IPO를 통해 최대 3억4190만 달러 조달을 목표로 함.\n자금은 염증성 질환 치료제 ipsoprubart의 P3 임상 개발에 사용 예정.\n염증 질환 분야 중소 바이오테크의 IPO 자금조달 동향 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "IPO 자금조달 뉴스로, 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 무관",
+    "processed_at": "2026-09-15T01:03:21.609079+00:00"
+  },
+  "https://www.fiercebiotech.com/marketing/no-more-nordisk-novo-goes-it-alone-amid-rebranding-push": {
+    "korean_summary": "Novo Nordisk가 사명, 로고, 브랜드 전반을 대대적으로 리브랜딩 추진.\n비만·당뇨 시장에서 Eli Lilly와의 경쟁 심화 속 'Nordisk' 제거 검토.\n사업 정체성 재정립 시도이나, 파이프라인·기술 내용 없는 마케팅/전략 변화.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "리브랜딩 전략 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-15T01:03:26.681925+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/cellectis-cans-allogeneic-car-ts-hop-aboard-vivo-bandwagon": {
+    "korean_summary": "프랑스 바이오텍 Cellectis가 동종이계(allogeneic) CAR-T 개발 방향을 포기하고 in vivo CAR-T 전략으로 전환.\n연초 allogeneic CAR-T에서 'huge momentum'을 선언했으나, in vivo 방식의 업계 주도권에 따라 전략 선회.\nCAR-T 분야에서 in vivo 방식이 ex vivo 동종이계 방식을 압도하는 업계 트렌드를 반영.",
+    "category": "모달리티",
+    "relevance_score": 2,
+    "relevance_reason": "CAR-T 전략 전환 뉴스로, 사용자 연구 분야(ferritin, ADC, protein design)와 직접 관련 없음",
+    "processed_at": "2026-09-15T01:03:32.262529+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/roche-and-medilink-notch-phase-3-lung-cancer-win-trail-gsk-cross-trial-survival": {
+    "korean_summary": "MediLink과 Roche의 B7-H3 표적 ADC가 소세포폐암(SCLC) P3에서 1차 평가변수 달성.\n그러나 전체생존기간(mOS) 중앙값이 GSK 경쟁 자산 대비 열세로 교차 임상 비교에서 뒤처짐.\nADC 시장 내 B7-H3 표적 경쟁 심화, linker·payload 차별화가 임상 성패 좌우 시사.",
+    "category": "임상결과",
+    "relevance_score": 6,
+    "relevance_reason": "ADC P3 임상결과로 ADC 분야 직접 관련, 그러나 linker/delivery 신기술보다는 임상 비교 데이터 중심",
+    "processed_at": "2026-09-15T01:03:38.061055+00:00"
   }
 }
