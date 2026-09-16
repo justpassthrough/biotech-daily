@@ -4527,5 +4527,75 @@
     "relevance_score": 6,
     "relevance_reason": "ADC P3 임상결과로 ADC 분야 직접 관련, 그러나 linker/delivery 신기술보다는 임상 비교 데이터 중심",
     "processed_at": "2026-09-15T01:03:38.061055+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/fda-launches-pilot-program-speed-sluggish-phase-1-trials": {
+    "korean_summary": "FDA가 Phase 1 임상시험 가속화를 위한 IND 신청 파일럿 프로그램 공식 출범.\n중국·호주 수준으로 미국 Phase 1 임상 속도를 맞추기 위한 신속 IND 심사 절차 도입.\n초기 임상 진입 속도 개선으로 신약 개발 타임라인 단축 가능성 시사.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "FDA 규제 정책 변화로 임상 진입 일반 관련, 본인 연구 분야와 직접 연관성 낮음",
+    "processed_at": "2026-09-16T00:52:45.223805+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/connect-biopharma-missing-asthma-primary-endpoint-sends-investors-spiraling-about-copd": {
+    "korean_summary": "Connect Biopharma의 IL-4/IL-13 차단제가 천식 대상 P2 임상에서 1차 평가지표 미달성.\nDupixent(두필루맙) 경쟁 약물로 개발 중이었으나 핵심 엔드포인트 실패.\n바이오텍 측은 일부 하위 분석에서 긍정적 신호를 근거로 개발 지속 의지 표명.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "IL-4/IL-13 항체 천식 임상 결과, 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-16T00:52:50.103856+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/mayo-clinic-teams-thermo-fisher-form-biomedical-data-group-precure": {
+    "korean_summary": "Mayo Clinic과 Thermo Fisher Scientific이 합작하여 바이오메디컬 데이터 그룹 Precure를 설립.\n대규모 데이터 수집을 통해 신규 치료제, 의료기기, 진단 개발을 목표로 함.\n빅데이터 기반 신약개발 인프라 구축 트렌드의 일환.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "데이터 인프라 파트너십으로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 연관성 없음",
+    "processed_at": "2026-09-16T00:52:54.293393+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/lilly-pledges-237m-program-cns-genetic-med-collab-canadian-biotech": {
+    "korean_summary": "Eli Lilly가 캐나다 바이오텍 QurCan Therapeutics와 CNS 유전자 의약품 분야 협력 계약 체결.\n프로그램당 최대 2억 3,700만 달러(마일스톤 포함) 규모, 다수 프로그램 대상.\nLilly의 유전자 치료 포트폴리오 강화 전략의 일환으로 CNS 영역 집중.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "CNS 유전자 의약품 협력 딜로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거리가 멈",
+    "processed_at": "2026-09-16T00:52:59.066243+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/newly-formed-jaguar-acquires-afib-device-assets-jj": {
+    "korean_summary": "신생 메드텍 기업 Jaguar LAA가 J&J의 심방세동 기기 Laminar 프로그램 자산 인수.\n인수 금액 미공개, J&J의 AFib 기기 파이프라인 일부 자산 매각.\n빅파마의 비핵심 자산 정리 및 스핀아웃 트렌드의 일환.",
+    "category": "M&A",
+    "relevance_score": 0,
+    "relevance_reason": "심방세동 의료기기 딜로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-09-16T00:53:03.543299+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/sionna-lays-46-workforce-strategic-shift-after-cystic-fibrosis-trial-fail": {
+    "korean_summary": "Sionna Therapeutics가 낭포성 섬유증(CF) 병용요법 임상 실패 후 전체 인력의 46%를 감원.\n핵심 CF 파이프라인 임상 실패가 직접적 원인이며 구체적 규모는 미공개.\n임상 실패 후 대규모 구조조정으로 이어지는 바이오텍의 전형적 위기 대응 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "CF 바이오텍 구조조정 소식으로 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-16T00:53:08.311375+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gsk-doubles-down-chimagen-750m-multiple-myeloma-wager": {
+    "korean_summary": "GSK가 Chimagen Biosciences의 다발성 골수종 타겟 삼중특이 T세포 인게이저(trispecific TCE)에 최대 7.5억 달러 규모 딜 체결.\n2년 전 루푸스 적응증 삼중특이 항체 딜(3억 달러 선급금)에 이어 두 번째 Chimagen 협력, P1 개시 예정.\nGSK의 다중특이 항체 플랫폼 강화 전략, 혈액암 분야 TCE 경쟁 심화 신호.",
+    "category": "M&A",
+    "relevance_score": 3,
+    "relevance_reason": "다중특이 항체 딜로 사용자 연구 분야(ADC, 단백질 설계, 나노케이지)와 거리가 있음",
+    "processed_at": "2026-09-16T00:53:14.808748+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/novo-walks-away-285m-pact-develop-monthly-glp-1-ascendis": {
+    "korean_summary": "Novo Nordisk가 Ascendis Pharma와 체결한 2억 8500만 달러 규모의 월 1회 투여 GLP-1 비만 치료제 개발 계약을 2년 미만 만에 파기.\n계약 해지 세부 사유는 공개되지 않았으나, 월간 제형 GLP-1 개발 전략에서 후퇴하는 모습.\nNovo의 파이프라인 전략 재조정 신호, 차세대 비만 치료제 경쟁에서의 포트폴리오 변화를 시사.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "GLP-1 비만 치료제 딜 해지, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-09-16T00:53:20.863569+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/after-rejection-fda-approves-telixs-pixclara-first-fet-pet-imaging-drug-brain-cancer": {
+    "korean_summary": "Telix Pharmaceuticals의 뇌암 진단용 PET 이미징 약물 Pixclara(FET-PET)가 FDA 승인을 획득.\n2023년 초기 거부 이후 1년 이상 만에 승인, 교모세포종(glioma) 대상 최초의 FET-PET 진단제.\n뇌암 정밀 진단 영역에서 신규 영상 바이오마커 도구 확보, 방사성의약품 진단 시장 확장.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "방사성의약품 진단제 FDA 승인 뉴스로, 사용자의 연구 분야(ferritin, ADC, 단백질 설계)와 거의 무관",
+    "processed_at": "2026-09-16T00:53:26.212749+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/jjs-contineum-partnered-asset-flunks-another-phase-2-test": {
+    "korean_summary": "J&J와 Contineum Therapeutics가 공동개발 중인 우울증 신약 JNJ-5120이 P2 임상에서 1차 평가변수 미달성.\n이번이 두 번째 P2 실패로, 해당 파이프라인의 개발 전망에 타격.\n우울증 신약 개발의 높은 임상 실패율을 재확인하는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "우울증 신약 임상 실패 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-16T00:53:30.479571+00:00"
   }
 }
