@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T00:57:09.969056+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Novartis ends ALS program after phase 2 flop, adding to R&D woes",
+      "link": "https://www.fiercebiotech.com/biotech/novartis-ends-als-program-after-phase-2-flop-adding-rd-woes",
+      "summary_en": "Novartis has extended its losing streak, stopping an amyotrophic lateral sclerosis program after flunking a phase 2 trial.",
+      "published": "2026-09-16T10:28:00+00:00",
+      "korean_summary": "Novartis가 ALS(근위축성측삭경화증) 대상 파이프라인을 P2 실패 후 중단.\n해당 프로그램의 P2 임상이 유효성 기준 미달로 개발 중단 결정.\nNovartis의 R&D 연속 실패 사례로, 빅파마 임상 성공률 우려 지속.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "ALS 임상 실패 뉴스, 사용자 연구 분야와 직접적 연관 없음",
+      "processed_at": "2026-09-17T00:56:57.033925+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Novartis pays Sironax $125M to acquire platform for crossing the blood-brain barrier",
+      "link": "https://www.fiercebiotech.com/biotech/novartis-pays-sironax-125m-acquire-platform-crossing-blood-brain-barrier",
+      "summary_en": "Novartis is paying Sironax $125 million to take up its option on a brain delivery platform, gaining control of technology for getting large molecules to targets in the central nervous system.",
+      "published": "2026-09-16T08:32:00+00:00",
+      "korean_summary": "Novartis가 Sironax의 혈액뇌장벽(BBB) 통과 플랫폼 옵션을 1억 2,500만 달러에 행사.\n대형 분자의 CNS 전달 기술 확보가 핵심, 구체적 기술 메커니즘은 미공개.\nBBB 통과 drug delivery 플랫폼에 대한 빅파마 투자 관심 지속 확인.",
+      "category": "M&A",
+      "relevance_score": 5,
+      "relevance_answer": "CNS 타깃 drug delivery 플랫폼 딜, 나노의약품/단백질 전달 시스템 인접 영역",
+      "relevance_reason": "BBB 통과 대형분자 전달 기술로 nanomedicine/drug delivery 분야와 간접 관련",
+      "processed_at": "2026-09-17T00:57:02.105603+00:00"
+    }
+  ],
+  "overall": [
+    "Novartis는 ALS 대상 phase 2 임상 실패로 해당 프로그램을 종료하는 한편, 혈액-뇌 장벽(BBB) 투과 플랫폼 보유사 Sironax를 1억 2,500만 달러에 인수하며 CNS 영역에서 선택과 집중 전략을 구사했다.",
+    "단일 기업(Novartis)이 같은 날 임상 철수와 대형 플랫폼 인수를 동시에 단행하며, 내부 R&D 실패를 외부 기술 도입(BD)으로 보완하는 빅파마의 전형적 대응 패턴이 나타났다.",
+    "BBB 투과 기술이 1억 2,500만 달러 규모 딜의 핵심 자산으로 부상하며, CNS 약물 전달 플랫폼이 현재 바이오텍 M&A 시장에서 높은 전략적 가치를 인정받고 있음이 확인됐다."
+  ]
+}
