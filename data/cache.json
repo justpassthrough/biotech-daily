@@ -4612,5 +4612,61 @@
     "relevance_answer": "CNS 타깃 drug delivery 플랫폼 딜, 나노의약품/단백질 전달 시스템 인접 영역",
     "relevance_reason": "BBB 통과 대형분자 전달 기술로 nanomedicine/drug delivery 분야와 간접 관련",
     "processed_at": "2026-09-17T00:57:02.105603+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/goa-therapeutics-launches-immeasurably-huge-vision-creating-narcan-alcohol": {
+    "korean_summary": "Goa Therapeutics가 스텔스 모드에서 공개, 음주 후 빠른 해독을 가능하게 하는 신약 개발을 목표로 설립.\n구체적인 임상 단계, 딜 규모, 기전 등 세부 정보는 공개되지 않음.\n알코올 해독제(Narcan 유사 개념)라는 새로운 적응증 접근법이지만 초기 단계.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "알코올 해독 신약 론칭, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 완전 무관",
+    "processed_at": "2026-09-18T00:53:01.563816+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/dpharm-how-address-clinical-trial-enrollment-crisis": {
+    "korean_summary": "임상시험 등록 위기: 전체 시험의 80%가 등록 일정 미달, 성인 암환자의 5% 미만만 참여.\nDPHARM 컨퍼런스에서 임상시험 등록률 저하 문제와 해결 방안 논의.\n임상시험 운영 효율화 이슈, 신약개발 전반의 속도와 비용에 직접 영향.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "임상시험 운영 행정 이슈로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-09-18T00:53:06.665303+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/after-one-failed-acquisition-attempt-lisata-finds-lifeline-marea-merger": {
+    "korean_summary": "고형암 바이오텍 Lisata Therapeutics가 심혈관 전문 Marea Therapeutics와 합병 발표.\n이전 합병 실패로 대규모 감원 및 소송을 겪은 후 새로운 활로 모색.\n소규모 바이오텍의 생존 전략으로서 M&A 활용 사례.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "합병 관련 뉴스이나 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 무관",
+    "processed_at": "2026-09-18T00:53:11.047608+00:00"
+  },
+  "https://www.fiercebiotech.com/research/rare-egfr-mutation-increases-lung-cancer-risk-25-times-62-times-never-smokers": {
+    "korean_summary": "희귀 생식세포 EGFR 돌연변이가 비흡연자의 폐암 위험을 62배 증가시킨다는 연구 발표.\n흡연의 폐암 위험 증가(4배) 대비 해당 돌연변이의 영향(25배)이 훨씬 크다는 것이 핵심 발견.\n유전성 폐암 위험인자로서 EGFR 생식세포 돌연변이의 임상적 중요성을 부각.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "폐암 유전 역학 연구로 사용자의 약물전달/단백질 설계 연구와 무관",
+    "processed_at": "2026-09-18T00:53:15.806953+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/roche-pays-dualitas-365m-pair-big-bispecific-screening-drive": {
+    "korean_summary": "Roche가 Dualitas Therapeutics와 총 1억 달러 규모 딜 체결, 선급금 3,650만 달러.\n면역학·염증 질환 대상으로 30만 개 이상의 신규 이중항체(bispecific) 조합 스크리닝 추진.\n대규모 bispecific 탐색 플랫폼에 빅파마가 투자하는 트렌드, 항체 포맷 다양화 가속화.",
+    "category": "M&A",
+    "relevance_score": 3,
+    "relevance_reason": "bispecific 항체 스크리닝 딜로, 사용자 연구 분야(ferritin, ADC linker, de novo protein design)와 직접 연관성 낮음",
+    "processed_at": "2026-09-18T00:53:20.932424+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/north-immunology-goes-public-reverse-merger-eczema-drug-heads-toward-clinic": {
+    "korean_summary": "North Immunology가 역합병(reverse merger)을 통해 상장을 결정.\n아토피 피부염 치료제의 임상 진입을 위한 자금 확보 전략으로 역합병 방식 선택.\n소규모 바이오텍의 비전통적 상장 방식, 임상 이전 단계 파이프라인.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "아토피 피부염 바이오텍 역합병 뉴스, 사용자 연구 분야와 직접적 관련 없음",
+    "processed_at": "2026-09-18T00:53:25.131467+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/sk-pens-315m-pact-fellow-south-korean-company-parkinsons-prospect": {
+    "korean_summary": "SK바이오팜이 국내 다른 제약사와 315백만 달러 규모의 파킨슨병 전임상 후보물질 도입 계약 체결.\n계약금 및 마일스톤 합산 3억 1480만 달러(바이오벅스) 규모, 전임상 단계 파킨슨 치료제.\nSK바이오팜의 CNS 파이프라인 확장 전략, 국내 기업 간 딜로 주목.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "CNS/파킨슨 라이선싱 딜로 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-18T00:53:30.483442+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/longeverons-phase-2b-stem-cell-flop-spurs-cost-cutting-exploration-all-options": {
+    "korean_summary": "Longeveron의 소아 심장질환 대상 줄기세포 치료제가 Phase 2b 임상에서 1차 평가변수 미달.\n자금 부족 상황에서 임상 실패로 회사 전략 전면 재검토, '모든 옵션' 검토 중.\n소규모 바이오텍의 단일 파이프라인 리스크와 줄기세포 치료제 개발 어려움을 재확인.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "줄기세포 임상 실패 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-18T00:53:35.371839+00:00"
   }
 }
