@@ -4668,5 +4668,61 @@
     "relevance_score": 1,
     "relevance_reason": "줄기세포 임상 실패 뉴스로 사용자 연구 분야와 무관",
     "processed_at": "2026-09-18T00:53:35.371839+00:00"
+  },
+  "https://www.fiercebiotech.com/research/artelos-ex-astrazeneca-cannabinoid-agonist-holds-its-own-against-glp1s-obese-mice": {
+    "korean_summary": "Artelo Biosciences의 경구용 이중 cannabinoid agonist(전 AstraZeneca 화합물)가 비만 마우스 모델에서 체중 감소 효과를 GLP-1 약물 semaglutide와 비교.\n전임상 단계(비만 마우스 모델)에서 semaglutide와 유사한 체중 감소 결과 확인.\nGLP-1 대안 기전으로서 cannabinoid 수용체 타깃 접근의 가능성 탐색 단계.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "비만 전임상 결과, 사용자 연구 분야(나노케이지/ADC/단백질 설계)와 무관",
+    "processed_at": "2026-09-19T00:44:55.116170+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/refreshed-novo-corrals-three-new-early-stage-obesity-drugs-kallyope": {
+    "korean_summary": "Novo Nordisk가 뉴욕 바이오텍 Kallyope로부터 초기단계 비만 치료제 3개 프로그램을 도입.\n딜 규모 및 임상 단계 세부사항 미공개, 장 신경계 기반 대사질환 타깃 프로그램으로 알려짐.\nNovo의 비만/대사 파이프라인 다각화 전략의 일환.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "비만 초기 파이프라인 라이선싱 딜, 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-19T00:45:01.057504+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/inside-growing-world-biopharma-prediction-markets": {
+    "korean_summary": "바이오파마 예측 시장(prediction market)의 성장과 작동 방식을 탐구하는 팟캐스트 에피소드.\n내부자 정보 악용 위험 및 임상시험 무결성 위협 등 리스크 이슈 논의.\n바이오파마 금융/정책 영역의 트렌드로, 연구 분야와는 직접적 연관 없음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "예측 시장 관련 정책/금융 주제로 연구 분야와 무관",
+    "processed_at": "2026-09-19T00:45:05.324322+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/medtronic-earns-fda-clearance-liagsure-use-its-hugo-robotic-system": {
+    "korean_summary": "Medtronic의 LigaSure RAS Maryland jaw vessel sealer-divider가 Hugo 로봇수술 시스템과 함께 사용하도록 FDA 허가 취득.\n수술용 혈관 밀봉-절단 기기와 로봇수술 플랫폼의 결합 허가, 구체적 임상 데이터는 미공개.\n로봇수술 기기 시장 경쟁 심화 속 Medtronic의 Hugo 플랫폼 확장 전략.",
+    "category": "임상결과",
+    "relevance_score": 0,
+    "relevance_reason": "로봇수술 기기 FDA 허가, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-09-19T00:45:10.083325+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/fda-clears-aptitudes-latest-matrix-molecular-dx-test-covid": {
+    "korean_summary": "Aptitude Medical Systems가 차세대 Metrix COVID 진단기기에 대해 FDA 510(k) 승인 획득.\n기존 EUA 제품 대비 민감도 3배 향상, 결과 도출 시간 30% 단축.\nCOVID 진단 시장의 기술 고도화 흐름을 보여주나 연구 분야와 무관.",
+    "category": "임상결과",
+    "relevance_score": 0,
+    "relevance_reason": "COVID 진단기기 FDA 승인, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 완전 무관",
+    "processed_at": "2026-09-19T00:45:14.537745+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/xenon-pauses-phase-3-depression-trials-after-psychosis-events": {
+    "korean_summary": "Xenon Pharmaceuticals가 우울증 치료제 P3 임상시험을 자발적으로 중단.\n정신증(psychosis) 사례 보고로 신규 환자 등록 중단, 대부분 경증~중등도 부작용.\n중추신경계 약물 개발에서 정신과적 부작용이 임상 진행을 저해하는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "CNS P3 부작용 사례, 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-19T00:45:18.991421+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/bristol-myers-dumps-100m-orum-degrader-antibody-conjugate-after-phase-1-look": {
+    "korean_summary": "BMS가 Orum Therapeutics로부터 1억 달러에 도입한 degrader-antibody conjugate(DAC) 자산을 Phase 1 데이터 확인 후 반환 결정.\n구체적 임상 데이터는 미공개이나, BMS가 P1 초기 결과만 보고 계약 해지를 선택한 것으로 보아 효능 또는 안전성 문제 추정.\nDAC(단백질 분해제-항체 결합체) 모달리티의 임상 전환 난이도를 보여주는 사례, ADC 인접 분야 리스크 신호.",
+    "category": "임상결과",
+    "relevance_score": 7,
+    "relevance_reason": "ADC 인접 모달리티인 DAC(degrader-antibody conjugate)의 임상 실패 사례, 항체-페이로드 컨주게이트 분야 리스크 직접 관련",
+    "processed_at": "2026-09-19T00:45:25.249673+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/electra-rides-biotech-ipo-surge-charge-350m-upsized-listing": {
+    "korean_summary": "염증 질환 전문 바이오테크 Electra Therapeutics가 나스닥 IPO를 통해 3억 5천만 달러 조달.\n당초 목표를 초과한 upsized IPO로, 2025년 바이오테크 IPO 호조 흐름의 연장선.\n염증 분야 바이오테크 투자심리 회복 및 IPO 시장 활성화 신호.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "IPO 펀딩 뉴스로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-09-19T00:45:29.351598+00:00"
   }
 }
