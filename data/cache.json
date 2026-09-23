@@ -4766,5 +4766,75 @@
     "relevance_score": 1,
     "relevance_reason": "자가면역 임상 결과로 사용자 연구 분야와 거의 무관",
     "processed_at": "2026-09-22T01:21:04.305083+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/novartis-secures-new-radioligand-900m-deal-competition-strengthens": {
+    "korean_summary": "Novartis가 중국 바이오테크로부터 전임상 단계 radioligand therapy를 9억 달러 규모 라이선싱 계약으로 도입.\n경쟁 심화에 대응하여 radiopharma 파이프라인 강화, 구체적 타깃/페이로드 정보는 미공개.\nNovartis의 RLT 선도 지위 유지 전략, 중국 바이오텍 기술 글로벌 라이선스 트렌드 반영.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "Radioligand therapy 딜, 사용자 연구 분야(ADC linker, ferritin, 단백질 설계)와 직접 연관성 낮음",
+    "processed_at": "2026-09-23T01:01:15.571982+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/celldex-redeems-monoclonal-antibody-pair-phase-3-wins-chronic-skin-condition": {
+    "korean_summary": "Celldex가 치료 불응성 만성 자발성 두드러기(CSU) 대상 단클론항체의 P3 임상 2건에서 성공 발표.\n두 건의 P3 시험 모두 양성 결과, 구체적 수치는 공개 전 단계.\n희귀 피부질환 분야 항체 치료제 확장 가능성 시사.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "단클론항체 임상이나 CSU 피부질환 대상으로 본 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-09-23T01:01:27.617342+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/amgens-horizon-acquired-fusion-protein-eases-sjogrens-severity-ph-3-win": {
+    "korean_summary": "Amgen이 Horizon Therapeutics 인수를 통해 확보한 융합 단백질 신약이 쇼그렌병 P3 임상에서 긍정적 결과 도출.\n쇼그렌 질환 중증도 개선 확인, 구체적 수치는 미공개 상태이나 1차 평가변수 충족.\nHorizon 인수 파이프라인의 첫 P3 성과로, Amgen의 자가면역 포트폴리오 전략에 의미 있는 신호.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "융합 단백질 치료제이나 ferritin·ADC·단백질 설계 등 사용자 핵심 연구와 직접 연관성 낮음",
+    "processed_at": "2026-09-23T01:01:33.467416+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/vertexs-midstage-data-amplify-kidney-disease-market-opportunity": {
+    "korean_summary": "Vertex가 신장질환 후보물질 inaxaplin의 P2b 임상에서 긍정적 데이터를 발표.\n피벗 임상 대상 집단을 넘어 더 넓은 환자군으로 적응증 확장 가능성 시사.\n신장질환 시장 기회 확대 신호로 해석되나, 약물 기전 상세 미공개.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "신장질환 P2b 임상 결과로 사용자 연구 분야(단백질 전달체, ADC, de novo design)와 직접 관련 없음",
+    "processed_at": "2026-09-23T01:01:45.336741+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/lexeo-takes-mantle-8m-acquisition-friedreich-ataxia-assets": {
+    "korean_summary": "Lexeo Therapeutics가 Mantle Therapeutics를 830만 달러에 인수, Friedreich ataxia(FA) 파이프라인 확대.\n인수와 함께 3개의 전략적 협력 계약을 체결하여 리드 에셋 지원 강화.\nFA 분야 소규모 M&A, 희귀신경질환 유전자치료 파이프라인 확장 전략.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "Friedreich ataxia 유전자치료 M&A로 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-23T01:01:50.370886+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/otsuka-heads-fda-ionis-partnered-als-drug-hits-primary-phase-3-endpoint": {
+    "korean_summary": "Otsuka와 Ionis가 공동개발 중인 ALS 치료 후보물질이 P3 임상에서 1차 평가변수 달성.\n두 회사는 규제기관과 신속 승인 절차 논의를 위해 FDA와 접촉 예정.\nALS 치료제 희귀질환 분야 신속심사 전략의 사례.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "ALS P3 임상 결과로, 사용자 연구 분야(나노의약, ADC, 단백질 설계)와 거의 무관",
+    "processed_at": "2026-09-23T01:01:55.355094+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/siemens-healthineers-team-novo-fatty-liver-disease-awareness-blood-testing": {
+    "korean_summary": "Siemens Healthineers와 Novo Nordisk가 지방간 질환 인식 제고 및 진단 향상을 위한 협력 발표.\n구체적 딜 규모나 임상 데이터 없이 인식 캠페인 및 진단 역량 강화 목적의 파트너십.\n지방간(NASH/MAFLD) 시장 확대에 따른 진단-치료 연계 전략의 일환.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "지방간 진단 파트너십으로 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 무관",
+    "processed_at": "2026-09-23T01:02:00.077798+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/cordis-sirolimus-drug-coated-balloon-earns-fda-approval-breakthrough-device": {
+    "korean_summary": "Cordis의 시롤리무스 약물 코팅 풍선(DCB)이 FDA 승인을 획득.\n관상동맥 내 스텐트 재협착 치료 목적, 혁신 기기(Breakthrough Device)로 지정된 최초 sirolimus DCB.\n심혈관 인터벤션 기기 분야의 신규 승인, 약물전달 방식으로서 코팅 기술 활용 사례.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "약물코팅 기기 FDA 승인이나 심혈관 기기 분야로 사용자 연구와 거리 있음",
+    "processed_at": "2026-09-23T01:02:13.729252+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/roches-glp-1gip-drug-hits-phase-2-diabetes-trial-fueling-best-disease-prediction": {
+    "korean_summary": "Roche의 dual GLP-1/GIP 수용체 작용제가 P2 당뇨병 임상에서 1차 평가변수 달성.\n2형 당뇨병 및 과체중/비만 환자 대상, best-in-disease 가능성 제시.\nGLP-1 계열 경쟁 심화 속 Roche의 비만·당뇨 시장 진입 시도.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "GLP-1/GIP 당뇨 P2 결과로 사용자 연구 분야와 직접 관련성 없음",
+    "processed_at": "2026-09-23T01:02:18.320731+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/iambic-maintains-momentum-big-pharma-partnerships-planning-ipo": {
+    "korean_summary": "AI 신약개발 기업 Iambic Therapeutics가 IPO를 준비 중.\n최근 대형 빅파마 파트너십과 메가 라운드 투자 유치 이후 상장으로 모멘텀 이어가려는 전략.\nAI drug discovery 섹터의 자본시장 접근 신호.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "AI 신약 IPO 뉴스, 사용자 연구 분야와 직접 관련성 낮음",
+    "processed_at": "2026-09-23T01:02:25.348761+00:00"
   }
 }
