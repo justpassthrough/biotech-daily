@@ -4871,5 +4871,61 @@
     "relevance_score": 1,
     "relevance_reason": "신장질환 항체 치료제 P3 결과로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 무관",
     "processed_at": "2026-09-24T00:57:39.710747+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/fda-nominee-overton-calls-vaccines-mifepristone-safe-and-effective-confirmation-hearing": {
+    "korean_summary": "트럼프 대통령이 지명한 FDA 청장 후보 Heidi Overton이 상원 인사청문회에 출석.\n백신·미페프리스톤 안전성·유효성 인정, 가향 전자담배 등 민감 이슈에 대해 신중한 입장 견지.\nFDA 리더십 변화가 의약품 규제 방향에 미칠 영향 주목.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "FDA 청장 인사청문회 관련 정책/인사 뉴스로 연구 분야와 무관",
+    "processed_at": "2026-09-25T01:00:09.925484+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/chinas-henlius-carves-out-440m-t-cell-engager-deal-amberstone": {
+    "korean_summary": "Fosun Pharma 자회사 Henlius Biotech가 Amberstone Biosciences와 T-cell engager 분야 협력 계약 체결.\n계약 규모 최대 4억 4천만 달러(biobucks) 규모, 캘리포니아 기반 Amberstone과 공동 개발.\n중국 빅파마의 T-cell engager 플랫폼 확보 전략, 이중특이항체 모달리티 경쟁 심화 반영.",
+    "category": "M&A",
+    "relevance_score": 3,
+    "relevance_reason": "T-cell engager 항체 딜로 사용자 연구 분야(ADC, 단백질 설계, 나노의학)와 직접 관련성 낮음",
+    "processed_at": "2026-09-25T01:00:15.399616+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/acadia-misses-mark-alzheimers-concludes-phase-3-absolutely-worth-pursuing": {
+    "korean_summary": "Acadia Pharmaceuticals의 알츠하이머 P2 임상이 1차 평가지표 미달성으로 실패.\n그러나 회사 및 분석가들은 긍정적 신호를 근거로 P3 진행이 정당하다고 판단.\n알츠하이머 치료제 개발의 높은 난이도와 P2 실패 후 P3 지속 결정의 리스크를 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "알츠하이머 임상 결과로 사용자 연구 분야(나노케이지, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-09-25T01:00:21.530073+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/merck-co-uncorks-pivotal-victory-3b-eye-disease-prospect": {
+    "korean_summary": "Merck & Co.가 당뇨황반부종(DME) 치료제 후보물질의 pivotal 임상(Brunello trial)에서 1차 평가변수 달성.\n해당 물질은 trispecific(삼중특이성) 항체로, Merck가 30억 달러 인수를 통해 확보한 자산.\n멀티타깃 항체 전략의 임상 유효성 확인, 안과 질환 분야 빅파마 경쟁 심화.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "안과 DME 임상 결과로 사용자 연구 분야(ADC, 나노케이지, 단백질 설계)와 직접 관련성 낮음",
+    "processed_at": "2026-09-25T01:00:27.553958+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/roche-pens-backloaded-2b-deal-atavistik-discover-new-cvrm-drugs": {
+    "korean_summary": "Roche가 Atavistik Bio와 심혈관·대사질환(CVRM) 분야 allosteric 소분자 발굴을 위한 최대 20억 달러 규모 딜 체결.\n계약금보다 마일스톤 중심의 backloaded 구조, allosteric 소분자 타깃 발굴 협력.\n빅파마의 CVRM 파이프라인 강화 흐름, allosteric 약물설계 가치 상승 반영.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "allosteric 소분자/CVRM 딜로, 사용자 연구 분야(단백질 설계·나노의학·ADC)와 직접 연관성 낮음",
+    "processed_at": "2026-09-25T01:00:33.399200+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/adagio-medical-implements-strategic-review-and-trims-more-half-its-staff": {
+    "korean_summary": "Adagio Medical이 전략적 검토를 개시하고 전체 직원의 절반 이상을 해고.\nNasdaq 상장폐지 위기에 처한 cryoablation 기기 제조사로, 구조조정 중.\n의료기기 회사의 재정 위기 사례, 연구 분야와 무관.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "cryoablation 의료기기 회사 구조조정, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-09-25T01:00:37.667245+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/eli-lilly-puts-100m-plus-billions-backend-form-5-target-deal-innocare": {
+    "korean_summary": "Eli Lilly가 중국 InnoCare Pharma와 5개 타깃 신약 발굴 파트너십 체결.\n계약금 및 단기 지급액 1억 달러, 마일스톤 최대 32.5억 달러 포함.\n빅파마의 중국 바이오텍과의 대형 딜 지속, 신약 발굴 단계부터 협력 확대.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "빅파마 라이선싱 딜이나 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-09-25T01:00:46.015465+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/grail-survives-adcomm-vote-it-now-awaits-fda-decision-cancer-blood-test": {
+    "korean_summary": "Grail의 다중암 혈액검사 Galleri가 FDA 자문위원회에서 긍정적 권고 획득.\n올해 초 주요 임상 실패와 효능 논란에도 불구하고 어드컴 통과, 최종 FDA 결정 대기 중.\n액체생검 기반 다중암 조기진단 기술의 규제 경로에 중요한 이정표.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "액체생검/암 진단 분야로 사용자 연구 분야(단백질 설계, 약물전달)와 거의 무관",
+    "processed_at": "2026-09-25T01:00:50.891102+00:00"
   }
 }
