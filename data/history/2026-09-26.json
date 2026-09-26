@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T01:03:08.471169+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Lundbeck to move US digs to Boston as it eyes bigger innovation frontiers",
+      "link": "https://www.fiercebiotech.com/pharma/lundbeck-move-us-digs-boston-it-eyes-bigger-innovation-frontiers",
+      "summary_en": "With Lundbeck steering its R&D engine toward increasingly specialized neuroscience targets, the Danish drugmaker is plotting a U.S. HQ move to one of the country’s preeminent biopharma hotspots.",
+      "published": "2026-09-25T10:43:00+00:00",
+      "korean_summary": "덴마크 제약사 Lundbeck이 미국 본사를 보스턴으로 이전할 계획 발표.\n신경과학 전문 타깃 중심으로 R&D 전략 강화, 미국 바이오파마 허브 접근성 확보 목적.\n기업 전략적 이전으로 연구 생태계 활용 의도.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "본사 이전 및 조직 전략 뉴스, 사용자 연구 분야와 무관",
+      "processed_at": "2026-09-26T01:02:39.494077+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Indivior ends PAM drug collab with Addex ahead of Supernus merger",
+      "link": "https://www.fiercebiotech.com/biotech/indivior-hands-back-pam-drug-addex-ahead-supernus-merger",
+      "summary_en": "Ahead of its upcoming merger with Supernus, Indivior Pharmaceuticals has ended its long-running collaboration with Addex Therapeutics to develop positive allosteric modulators (PAMs).",
+      "published": "2026-09-25T05:24:00+00:00",
+      "korean_summary": "Indivior가 Supernus와의 합병을 앞두고 Addex Therapeutics와의 PAM 공동개발 협력을 종료.\nPositive allosteric modulator(PAM) 개발 협업이 대상이며, 합병 전 파이프라인 정리 차원으로 해석됨.\n빅파마 M&A 과정에서의 파이프라인 구조조정 사례.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "PAM 약물 협업 종료 뉴스로 사용자 연구 분야와 실질적 연관성 없음",
+      "processed_at": "2026-09-26T01:02:44.466994+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Novo inks $1.3B Nanexa deal to unlock long-acting obesity injectables",
+      "link": "https://www.fiercebiotech.com/biotech/novo-inks-13b-nanexa-deal-unlock-long-acting-obesity-injectables",
+      "summary_en": "Novo has struck a 1.17 billion euro ($1.3 billion) deal to combine Nanexa’s long-acting injectable drug delivery platform with its obesity and Type 2 diabetes drugs.",
+      "published": "2026-09-25T04:54:00+00:00",
+      "korean_summary": "Novo Nordisk가 스웨덴 Nanexa와 최대 11.7억 유로(약 13억 달러) 규모 딜 체결.\nNanexa의 장기지속형 주사 약물전달 플랫폼을 Novo의 비만·2형 당뇨 치료제에 접목하는 것이 핵심.\nGLP-1 계열 약물의 투약 편의성 향상을 위한 나노의약 기반 장기지속형 플랫폼 수요 증가 확인.",
+      "category": "M&A",
+      "relevance_score": 6,
+      "relevance_reason": "장기지속형 주사 약물전달 플랫폼 딜로 nanomedicine 분야 시장 신호, 단 ferritin/ADC/단백질 설계와 직접 연관은 낮음",
+      "processed_at": "2026-09-26T01:02:50.592603+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Roche's Genentech inks $1.5B bispecific pact with fast-rising Earendil",
+      "link": "https://www.fiercebiotech.com/biotech/genentech-inks-15b-bispecific-pact-fast-rising-earendil",
+      "summary_en": "Roche’s Genentech is paying Earendil Labs $55 million upfront to discover and develop multiple bispecific antibodies. The deal, which focuses on oncology, includes milestones that could take the deal's value above $1.5 billion.",
+      "published": "2026-09-25T02:52:00+00:00",
+      "korean_summary": "Genentech이 Earendil Labs와 이중항체 발굴·개발을 위한 최대 15억 달러 규모 파트너십 체결.\n선급금 5,500만 달러, 종양학 분야 다수 이중항체 타깃 대상, 마일스톤 달성 시 총 15억 달러 초과.\n빅파마의 이중항체 플랫폼 확보 경쟁 가속화, 초기 바이오테크의 기술 가치 재확인.",
+      "category": "M&A",
+      "relevance_score": 3,
+      "relevance_reason": "이중항체 딜로 항체 엔지니어링 관련이나, 사용자 핵심 연구 분야(ferritin, ADC linker, de novo design)와 직접 연관성 낮음",
+      "processed_at": "2026-09-26T01:02:56.440646+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "ADARx scores upsized $446M IPO, while fellow RNA biotech City maps out Nasdaq plans",
+      "link": "https://www.fiercebiotech.com/biotech/adarx-scores-upsized-446m-ipo-while-city-maps-out-own-nasdaq-plans",
+      "summary_en": "ADARx Pharmaceuticals has overshot its own IPO ambitions, as fellow RNA-focused biotech City Therapeutics also plans a public listing.",
+      "published": "2026-09-25T02:47:00+00:00",
+      "korean_summary": "ADARx Pharmaceuticals가 목표를 초과한 4억 4,600만 달러 규모 IPO를 성공적으로 완료.\nRNA 기반 치료제 전문 바이오텍 City Therapeutics도 Nasdaq 상장을 계획 중.\nRNA 치료제 섹터에 대한 공개시장 투자자 수요가 강세임을 시사하는 이중 상장 동향.",
+      "category": "기타",
+      "relevance_score": 2,
+      "relevance_reason": "RNA 바이오텍 IPO 금융 뉴스로 사용자 연구 분야와 직접 관련성 낮음",
+      "processed_at": "2026-09-26T01:03:01.417784+00:00"
+    }
+  ],
+  "overall": [
+    "Novo Nordisk가 Nanexa를 13억 달러에 인수하고 Genentech이 Earendil과 15억 달러 이중항체 계약을 체결하는 등, 빅파마의 외부 혁신 확보를 위한 대형 딜이 하루 사이 집중됐다.",
+    "비만·대사질환 치료제 분야에서 Novo의 Nanexa 딜(지속형 주사제 기술 확보)을 중심으로 장기작용 제형 플랫폼에 대한 전략적 투자가 가속화되고 있다.",
+    "ADARx가 4억 4,600만 달러의 증액 IPO에 성공하고 City of Hope 산하 RNA 바이오텍이 나스닥 상장을 추진하는 등, RNA 치료제 플랫폼 기업들의 자본시장 접근이 활발하다."
+  ]
+}
