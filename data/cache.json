@@ -4962,5 +4962,68 @@
     "relevance_score": 2,
     "relevance_reason": "RNA 바이오텍 IPO 금융 뉴스로 사용자 연구 분야와 직접 관련성 낮음",
     "processed_at": "2026-09-26T01:03:01.417784+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/roche-drops-muscle-sparing-obesity-antibody-after-flunked-interim-analysis": {
+    "korean_summary": "Roche가 근육 보존형 비만 항체 후보물질을 P2 중간 분석 실패 후 개발 중단.\nP2 연구에서 1차 평가변수 달성 가능성 부재로 중단 결정.\n비만 치료제 시장에서 차별화 전략(근육 보존)의 임상 실패 사례.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "비만 항체 임상 실패 뉴스, 사용자 연구 분야와 거리가 멂",
+    "processed_at": "2026-09-29T02:22:27.627111+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/mirum-posts-phase-3-hepatitis-win-commercially-differentiated-challenger-gilead-and-vir": {
+    "korean_summary": "Mirum Pharmaceuticals의 만성 델타 간염(HDV) 치료 후보물질이 P3 임상에서 1차 평가변수 달성.\nGilead Sciences가 최근 시장 선점한 HDV 분야에 도전하는 결과로, 상업적 차별화 가능성 주장.\nHDV 치료제 시장 경쟁 구도 형성 초기 단계임을 시사.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "HDV 감염 P3 임상 결과로, 사용자 연구 분야(단백질 설계·약물전달)와 거의 무관",
+    "processed_at": "2026-09-29T02:22:32.712308+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/scynexis-bags-214m-barda-contract-antifungal-development": {
+    "korean_summary": "Scynexis가 BARDA로부터 침습성 진균 감염 치료제 개발을 위한 2억 1,400만 달러 계약 수주.\n계약은 항진균제 개발 지원이 목적이며, Scynexis는 ibrexafungerp 등 항진균 파이프라인 보유.\n정부 주도 항감염제 개발 지원 확대 흐름 반영, 사용자 연구 분야와는 무관.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "항진균제 정부 계약 뉴스, 사용자 연구 분야(DDS, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-09-29T02:22:37.407602+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/tolerance-continues-thymus-focused-deals-560m-pact-tanabe": {
+    "korean_summary": "Tolerance Bio가 Tanabe Pharma로부터 임상단계 항-IL-33 약물을 5억 6천만 달러 규모 계약으로 도입.\n흉선(thymus) 중심 파이프라인 강화 전략의 일환으로, 지난달 fusion protein 라이선스 이후 연속 딜.\n자가면역/면역관용 분야 파이프라인 확장을 위한 라이선스인 전략 지속.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "항체 기반 면역치료 딜이나 단백질 설계·약물전달·ADC 등 사용자 연구 분야와 거리 있음",
+    "processed_at": "2026-09-29T02:22:43.736126+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/precision-neuroscience-taps-250m-series-d-funding-brain-computer-interface": {
+    "korean_summary": "Precision Neuroscience가 뇌-컴퓨터 인터페이스(BCI) 기술 개발을 위해 시리즈 D로 2.5억 달러 조달.\n초과 청약된 라운드로, 누적 투자 규모 확대.\nBCI 섹터 투자 과열 지속, 사용자 연구 분야와는 무관.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "뇌-컴퓨터 인터페이스 펀딩, 약물 전달/단백질 설계와 완전 무관",
+    "processed_at": "2026-09-29T02:22:48.058297+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/kodiak-roars-back-pivotal-victory-resurrected-eye-disease-drug": {
+    "korean_summary": "Kodiak Sciences의 안과 질환 신약 후보 2종이 P3에서 Eylea(aflibercept)와 동등한 효능 입증.\n두 후보물질 모두 P3 비열등성 달성, 2024년 내 FDA 승인 신청 계획.\n한때 실패로 여겨졌던 파이프라인 부활, 안과 VEGF 치료제 시장 경쟁 심화.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "안과 VEGF 치료제 P3 결과, 사용자 연구 분야와 직접적 관련 없음",
+    "processed_at": "2026-09-29T02:22:52.416359+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/merck-pens-21b-deal-chinas-scibrunch-chase-kras-g12d": {
+    "korean_summary": "Merck & Co.가 중국 SciBrunch와 KRAS G12D 저해제 개발을 위한 최대 21억 달러 규모 딜 체결.\n선급금 4억 달러, 전임상 단계 후보물질 도입이 핵심.\nKRAS G12D 타깃 경쟁 심화, 빅파마의 중국 바이오텍 파트너링 트렌드 지속.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "KRAS 소분자 저해제 딜, 사용자의 단백질 나노전달 및 ADC 연구 분야와 거리",
+    "processed_at": "2026-09-29T02:22:57.512352+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/vc-sofinnova-reels-eur82m-target-medtechs-next-5-years": {
+    "korean_summary": "유럽 VC Sofinnova Partners가 8,200만 유로(약 9,330만 달러) 규모의 펀드를 조성.\n초과 청약 달성, 향후 5년간 유럽·미국 메드텍 기업 육성 전략에 활용 예정.\n메드텍 섹터 VC 투자 환경을 보여주는 펀딩 소식.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "메드텍 VC 펀딩으로 사용자 연구 분야(나노의약, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-09-29T02:23:03.112597+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/merck-co-and-daiichi-pull-lung-cancer-filing-after-fda-pushback-deals-another-blow-4b-deal": {
+    "korean_summary": "Daiichi Sankyo와 Merck가 폐암 적응증에 대한 ADC BLA를 FDA 요청으로 자진 철회.\nFDA가 가속승인을 위한 데이터 불충분을 이유로 제동, 220억 달러 규모 파트너십 딜에 또 다른 악재.\nADC 규제 불확실성 부각, 가속승인 경로의 까다로운 증거 기준을 재확인.",
+    "category": "임상결과",
+    "relevance_score": 6,
+    "relevance_reason": "ADC 규제 및 승인 동향 직접 관련, ADC 개발 전략의 리스크 요소 파악에 유용",
+    "processed_at": "2026-09-29T02:23:08.130747+00:00"
   }
 }
