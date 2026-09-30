@@ -5025,5 +5025,40 @@
     "relevance_score": 6,
     "relevance_reason": "ADC 규제 및 승인 동향 직접 관련, ADC 개발 전략의 리스크 요소 파악에 유용",
     "processed_at": "2026-09-29T02:23:08.130747+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/canadian-5m-accelerated-clinical-trial-program-cuts-start-45-days": {
+    "korean_summary": "캐나다 온타리오주, 5백만 달러 규모의 임상시험 가속 프로그램 신규 출범.\n임상시험 개시 기간을 최단 45일로 단축하는 것이 핵심 목표.\n임상 인프라 정책 개선 사례로, 연구자 입장에서 참고 가능한 규제 환경 변화.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "임상시험 행정·정책 관련 뉴스로 사용자 연구 분야와 직접 연관성 없음",
+    "processed_at": "2026-09-30T01:43:37.189596+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/enanta-sheds-staffers-key-antiviral-and-immunology-readouts-loom": {
+    "korean_summary": "항바이러스 전문 Enanta Pharmaceuticals가 37명 직원을 해고하는 구조조정 단행.\n면역학 분야 확장을 추진하는 가운데, 핵심 항바이러스·면역학 파이프라인 임상 결과 발표를 앞두고 있음.\n소규모 바이오텍의 현금 절감 및 전략 재편 흐름의 일환.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "인력 감축·구조조정 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-30T01:43:41.791236+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/uniqure-stock-crashes-huntingtons-gene-therapy-data-weaken": {
+    "korean_summary": "uniQure의 헌팅턴병 유전자치료제 AMT-130, 48개월 추적 결과 질환 진행 억제 효과 미흡으로 주가 41% 급락.\n1차 평가변수 실패에도 일부 2차 평가변수 긍정적 결과로 일부 애널리스트는 승인 가능성 유지.\n유전자치료제 임상 불확실성과 장기 추적 데이터의 중요성을 재확인하는 사례.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "헌팅턴병 유전자치료제 임상 결과, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-09-30T01:43:46.757463+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/novo-agrees-26b-deal-preclinical-glp-1gip-drug-demand-hengrui": {
+    "korean_summary": "Novo Nordisk가 중국 Hengrui의 전임상 단계 GLP-1/GIP 이중 작용제를 26억 달러 규모 딜로 도입.\n계약금 및 마일스톤 합산 최대 26억 달러, 대상 물질은 전임상 단계.\nNovo의 파이프라인 강화 전략 지속, 중국 바이오텍의 글로벌 기술 수출 트렌드 확인.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "GLP-1/GIP 라이선싱 딜로 사용자 연구 분야와 무관",
+    "processed_at": "2026-09-30T01:43:52.185952+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/astrazeneca-scales-summits-pd-1xvegf-strategy-2b-investment-fuel-adc-combinations": {
+    "korean_summary": "AstraZeneca가 Summit Therapeutics에 20억 달러를 투자, ivonescimab(PD-1xVEGF 이중항체)과 ADC 병용 개발 가속화.\n첫 병용 임상은 AZ의 CLDN18.2 타깃 ADC와 ivonescimab 조합으로 위장관암 대상 진행 예정.\nPD-1xVEGF + ADC 병용 전략이 차세대 항암 표준으로 부상하는 흐름, ADC 시장 확장 신호.",
+    "category": "M&A",
+    "relevance_score": 6,
+    "relevance_reason": "ADC 병용 전략 관련 대형 딜, ADC 직접 언급되나 linker/delivery 기술보다 임상 전략 중심",
+    "processed_at": "2026-09-30T01:43:57.644685+00:00"
   }
 }
