@@ -5060,5 +5060,68 @@
     "relevance_score": 6,
     "relevance_reason": "ADC 병용 전략 관련 대형 딜, ADC 직접 언급되나 linker/delivery 기술보다 임상 전략 중심",
     "processed_at": "2026-09-30T01:43:57.644685+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/lilly-raises-weight-loss-bar-its-amylin-zepbound-combo": {
+    "korean_summary": "Eli Lilly가 amylin-Zepbound(tirzepatide) 병용 요법 eloraTZP의 P2 임상 결과 발표.\n2형 당뇨병+비만/과체중 성인에서 23.3% 체중 감소, 자사 triple-G 후보 retatrutide보다 우수.\nGLP-1 기반 비만·당뇨 치료제 병용 전략의 효능 상한선이 지속 상향되는 트렌드.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "비만·당뇨 P2 임상 결과로 사용자 연구 분야와 관련성 없음",
+    "processed_at": "2026-10-01T01:39:33.859053+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/beam-therapeutics-sues-base-editing-rival-claims-former-scientist-stole-secrets": {
+    "korean_summary": "Beam Therapeutics가 경쟁 바이오테크를 상대로 영업비밀 도용 소송 제기.\n전직 과학자가 Beam의 핵심 프로그램 기밀을 빼내 경쟁 치료제 개발에 사용했다고 주장.\nbase editing 분야 경쟁 심화 속 지식재산권 분쟁 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "base editing 법적 분쟁으로 사용자 연구 분야와 무관",
+    "processed_at": "2026-10-01T01:39:45.365324+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/mercks-anti-tl1a-antibody-secures-win-ph-2-hidradenitis-suppurativa-trial": {
+    "korean_summary": "Merck & Co.의 항-TL1A 항체가 중등도~중증 화농성 한선염(HS) 환자 대상 Phase 2b 임상에서 긍정적 결과 확인.\n구체적 수치는 공개되지 않았으나 P2b에서 유효성 입증, 차기 단계 진행 기대.\nTL1A는 염증성 질환 신규 타깃으로 주목받고 있으며, 경쟁사들도 다수 진입 중인 분야.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "일반 항체 임상 결과로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거리가 멈",
+    "processed_at": "2026-10-01T01:39:51.068275+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gsk-continues-stock-waves-rna-drugs-liver-focused-program": {
+    "korean_summary": "GSK가 Wave Life Sciences와의 협업에서 파생된 간 표적 RNA 프로그램을 1,200만 달러에 인수.\n기존 장기 협업 관계에서 GSK가 해당 프로그램 완전 소유권 획득.\nRNA 치료제 영역에서 빅파마의 선택적 자산 확보 전략이 지속되는 흐름.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "RNA 치료제 딜, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 연관성 낮음",
+    "processed_at": "2026-10-01T01:39:55.744985+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/connects-dupixent-rival-reduces-copd-attacks-85-misses-secondary-goal": {
+    "korean_summary": "Connect Biopharma의 IL-4/IL-13 차단제가 COPD P2에서 호흡기 발작을 85% 감소시키는 결과 발표.\n단, 폐기능 검사 관련 이차 평가변수는 미달성으로 혼재된 결과.\nDupixent(dupilumab)의 경쟁 후보로 포지셔닝하나, 이차 지표 미달로 임상적 의미 해석에 논란.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "COPD 항체 임상 결과로 사용자 연구 분야(DDC/나노의학/단백질 설계)와 무관",
+    "processed_at": "2026-10-01T01:40:01.226774+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/vertigodx-firm-ground-fda-520k-geenlight-vertigo-diagnostic-system": {
+    "korean_summary": "Miami 기반 VertigoDx社가 휴대용 어지럼증 진단 시스템에 대해 FDA 510(k) 승인 획득.\n양성 발작성 두위성 어지럼증(BPPV) 포함 다양한 어지럼증 평가 가능한 휴대용 기기.\n진단기기 분야 FDA 510(k) 절차 사례로, 사용자 연구 분야와 무관.",
+    "category": "임상결과",
+    "relevance_score": 0,
+    "relevance_reason": "어지럼증 진단기기 FDA 승인으로 사용자 연구 분야(약물전달, 단백질 설계)와 완전 무관",
+    "processed_at": "2026-10-01T01:40:05.953856+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/roche-zealand-see-phase-2-amylin-weight-loss-peak-mid-dose-start-pivotal-program": {
+    "korean_summary": "Zealand Pharma가 Roche와 공동개발 중인 amylin 유사체 petrelintide의 P2 1차 평가변수 데이터 공개.\n중간 용량군에서 28주 시점 최대 체중감소 9.8% 달성, 이후 피벗 프로그램(P3) 개시 결정.\nGLP-1 이외 비만 기전(amylin) 개발 경쟁 심화, 차세대 비만치료제 시장 다각화 신호.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "비만 펩타이드 치료제 P2 결과로, 사용자 연구 분야(ferritin/ADC/단백질 설계)와 직접 관련 없음",
+    "processed_at": "2026-10-01T01:40:11.363287+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/amgen-reveals-6-point-drop-lupus-severity-behind-phase-2-win-horizon-antibody": {
+    "korean_summary": "Amgen이 자사 monoclonal antibody daxdilimab의 lupus 대상 P2 결과 공개.\n저용량 투여군에서 질병 중증도 6점 감소 달성.\nlupus 치료 신규 항체 옵션 가능성, 자가면역 영역 파이프라인 확장 신호.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "일반 monoclonal antibody 임상 결과, 사용자 연구 분야와 직접 연관성 낮음",
+    "processed_at": "2026-10-01T01:40:15.840862+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/eli-lilly-sets-next-gen-obesity-battle-full-phase-3-retatrutide-data": {
+    "korean_summary": "Eli Lilly가 triple-G(GIP/GLP-1/glucagon) agonist retatrutide의 P3 상세 데이터 공개.\n최고 용량군에서 환자의 1/3 이상이 체중 25% 이상 감량 달성.\n차세대 비만치료제 시장 경쟁 심화, Lilly의 GLP-1 시장 지배력 강화 전망.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "비만 P3 임상 결과, 사용자 연구 분야와 거리가 멀어 참고용에 불과",
+    "processed_at": "2026-10-01T01:40:19.843770+00:00"
   }
 }
