@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T01:52:30.190320+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Patient death in BMS pulmonary fibrosis trial raises questions, but analysts unshaken",
+      "link": "https://www.fiercebiotech.com/biotech/patient-death-bms-pulmonary-fibrosis-trial-raises-questions-analysts-unshaken",
+      "summary_en": "The revelation of a patient death in Bristol Myers Squibb’s phase 3 trial of a potential pulmonary fibrosis treatment has raised concerns ahead of the study’s readout, but analysts were quick to dispel worries about broader implications for the drug mechanism involved.",
+      "published": "2026-10-01T10:24:00+00:00",
+      "korean_summary": "BMS의 폐섬유증 치료제 P3 임상에서 환자 사망 사례가 공개되며 우려 제기.\n애널리스트들은 해당 약물 기전의 전반적 안전성에 대한 광범위한 영향은 없다고 신속히 일축.\n임상 결과 발표를 앞두고 안전성 신호 해석을 둘러싼 시장 민감도를 보여주는 사례.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "폐섬유증 P3 임상 안전성 이슈, 사용자 연구 분야와 무관",
+      "processed_at": "2026-10-02T01:52:04.121534+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Roche launches simultaneous screening test for SMA, SCID and SCD",
+      "link": "https://www.fiercebiotech.com/medtech/roche-launches-simultaneous-screening-test-sma-scid-and-scd",
+      "summary_en": "Roche Diagnostics has launched a new in vitro diagnostic test for newborn screening to detect a series of rare disorders.",
+      "published": "2026-10-01T09:37:00+00:00",
+      "korean_summary": "Roche Diagnostics가 척수성 근위축증(SMA), 중증복합면역결핍증(SCID), 겸상적혈구병(SCD) 동시 선별 신생아 진단 검사를 출시.\n단일 검사로 3종 희귀질환 동시 스크리닝 가능한 체외진단(IVD) 제품.\n신생아 희귀질환 조기 발견 확대, 진단 시장 내 멀티플렉스 플랫폼 경쟁 심화.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "체외진단 제품 출시 뉴스로 사용자의 약물전달/단백질 설계 연구와 무관",
+      "processed_at": "2026-10-02T01:52:09.376950+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Foghorn lays off 40% of employees as Lilly cancer collab collapses over poor data",
+      "link": "https://www.fiercebiotech.com/ai-and-machine-learning/foghorn-lays-40-employees-lilly-collab-collapses-over-poor-data",
+      "summary_en": "Foghorn Therapeutics is laying off 40% of its workforce after a long-running collaboration with Eli Lilly collapsed over disappointing phase 1 data.",
+      "published": "2026-10-01T08:37:00+00:00",
+      "korean_summary": "Foghorn Therapeutics가 Eli Lilly와의 암 치료제 공동연구 붕괴 후 직원 40% 감원 발표.\nP1 임상에서 실망스러운 데이터로 Lilly와의 장기 협력 계약이 종료됨.\n크로마틴 리모델링 기반 oncology 접근법의 임상 실패 사례로, 계약 해지 리스크 부각.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "임원 인사·구조조정 및 oncology 일반 뉴스, 사용자 연구 분야와 무관",
+      "processed_at": "2026-10-02T01:52:14.288078+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Zealand's stock slides as Boehringer-partnered obesity drug underwhelms again in phase 3",
+      "link": "https://www.fiercebiotech.com/biotech/zealand-pharma-slides-boehringer-partnered-obesity-drug-underwhelms-again-phase-3",
+      "summary_en": "A phase 3 trial of Boehringer Ingelheim’s survodutide in people with obesity and Type 2 diabetes has met its co-primary endpoints. Yet, with the readout echoing earlier data that underwhelmed analysts, shares in Boehringer’s partner Zealand Pharma fell 12% in early trading in Denmark.",
+      "published": "2026-10-01T06:15:00+00:00",
+      "korean_summary": "Boehringer Ingelheim과 Zealand Pharma의 비만/2형 당뇨 치료제 survodutide가 P3 공동 1차 평가변수를 달성.\n그러나 이전 데이터와 유사한 수준의 결과로 시장 기대에 미치지 못해 Zealand 주가 12% 하락.\nGLP-1 계열 경쟁 심화 속 차별화 실패 시 시장 반응의 가혹함을 보여주는 사례.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "비만 치료제 P3 임상 결과로 사용자 연구 분야와 무관",
+      "processed_at": "2026-10-02T01:52:19.283184+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Sanofi pays Dupixent partner Regeneron $1B upfront for 4 early-stage assets to ignite R&D",
+      "link": "https://www.fiercebiotech.com/biotech/sanofi-pays-regeneron-1b-4-early-stage-assets-ignite-rd",
+      "summary_en": "Sanofi is paying Regeneron $1 billion upfront to collaborate on four early-stage immunology programs, teeing the longstanding partners up to try to replicate Dupixent’s success.",
+      "published": "2026-10-01T04:24:00+00:00",
+      "korean_summary": "Sanofi가 Regeneron에 10억 달러 선불 지급, 초기 단계 면역학 프로그램 4개 공동 개발 합의.\nDupixent(dupilumab) 성공 파트너십 연장 형태, 구체적 타깃은 초기 단계로 미공개.\n빅파마의 면역학 R&D 투자 확대 및 기존 파트너십 심화 전략을 보여주는 딜.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "면역학 빅딜이나 사용자 연구 분야(ADC, 단백질 설계, 약물전달)와 직접 관련 없음",
+      "processed_at": "2026-10-02T01:52:24.239607+00:00"
+    }
+  ],
+  "overall": [
+    "Sanofi가 Regeneron에 10억 달러를 선불로 지급하며 초기 단계 파이프라인 4개를 확보, 빅파마의 R&D 강화를 위한 적극적 외부 자산 도입 기조가 지속됨",
+    "Zealand·BMS 등 비만·섬유증 분야 임상 3상 결과 실망 및 사망 사례로 후기 임상 리스크가 부각되며 투자 심리 위축",
+    "Foghorn Therapeutics가 Lilly와의 암 협력 붕괴로 직원 40% 감원, 데이터 실패에 따른 파트너십 해소와 즉각적 구조조정이 연쇄적으로 나타남"
+  ]
+}
