@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T01:32:00.648716+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "‘We’ve been taking our time’: Buzzy AI biotech Xaira reveals antibody platform, first taste of pipeline",
+      "link": "https://www.fiercebiotech.com/biotech/weve-been-taking-our-time-xaira-reveals-antibody-platform-and-first-taste-pipeline",
+      "summary_en": "When Xaira Therapeutics first debuted in 2024 with a gobsmacking $1 billion in funding, a natural expectation would have been for a flurry of further activity to follow. Instead, the buzzy AI biotech went quiet.",
+      "published": "2026-10-02T09:58:00+00:00",
+      "korean_summary": "Xaira Therapeutics가 2024년 10억 달러 펀딩 이후 처음으로 항체 플랫폼 및 파이프라인 일부를 공개.\nAI 기반 de novo 항체 설계 플랫폼이 핵심이며, 구체적 임상 단계나 분자 데이터는 아직 제한적으로 공개.\nAI 신약설계 기업의 플랫폼 실체화 여부를 가늠할 수 있는 초기 신호.",
+      "category": "모달리티",
+      "relevance_score": 6,
+      "relevance_reason": "AI 기반 de novo 항체 설계 플랫폼 공개, de novo protein design 연구 분야와 간접 관련",
+      "processed_at": "2026-10-03T01:31:42.629924+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Novartis pens $7.8B deal for Abogen's in vivo autoimmune T-cell engager",
+      "link": "https://www.fiercebiotech.com/biotech/novartis-pays-abogen-575m-vivo-autoimmune-t-cell-engager",
+      "summary_en": "Novartis is paying Abogen Biosciences $575 million upfront for an mRNA-encoded T-cell engager that showed early clinical promise in autoimmune disease. The deal, which includes up to $7.2 billion in milestones, comes weeks after Novartis paused an autoimmune CAR-T program over three deaths.",
+      "published": "2026-10-02T04:25:00+00:00",
+      "korean_summary": "Novartis가 Abogen Biosciences와 최대 78억 달러 규모의 mRNA 기반 T-cell engager 딜 체결.\n선급금 5.75억 달러, 마일스톤 최대 72억 달러; 대상은 자가면역질환용 mRNA 인코딩 T-cell engager.\n CAR-T 프로그램 사망 사례 이후 대안 모달리티 전략 전환, mRNA 치료제 가치 재부각.",
+      "category": "M&A",
+      "relevance_score": 3,
+      "relevance_reason": "mRNA 기반 딜이나 ferritin/ADC/단백질 설계와 직접 연관성 낮음",
+      "processed_at": "2026-10-03T01:31:47.219648+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Immunotherapy startup Adecto blames ‘risk-averse funding environment’ for closing down",
+      "link": "https://www.fiercebiotech.com/biotech/immmunotherapy-startup-adecto-blames-risk-adverse-funding-environment-closing-down",
+      "summary_en": "Adecto Pharmaceuticals’ 12-year story has come to an end as the immunotherapy biotech blamed a “risk-averse funding environment” for shutting up shop.",
+      "published": "2026-10-02T03:54:00+00:00",
+      "korean_summary": "면역항암제 바이오텍 Adecto Pharmaceuticals가 12년 만에 폐업 발표.\n'위험 회피적 펀딩 환경'을 직접적인 원인으로 지목.\n바이오텍 자금 조달 환경 악화로 인한 중소 면역치료제 기업의 생존 어려움을 보여주는 사례.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "바이오텍 폐업 소식으로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-10-03T01:31:51.067578+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Abbott launches SimpleScreen CRC blood test in the US",
+      "link": "https://www.fiercebiotech.com/medtech/abbott-launches-simplescreen-crc-blood-test-us",
+      "summary_en": "Abbott is kick-starting the U.S. commercial launch of SimpleScreen CRC, an FDA-approved blood-based colorectal cancer (CRC) screening test for adults age 45 and older who are at average risk for the disease.",
+      "published": "2026-10-02T02:18:00+00:00",
+      "korean_summary": "Abbott이 미국에서 혈액 기반 대장암 조기 선별 검사 SimpleScreen CRC를 상업적으로 출시.\nFDA 승인 제품으로, 45세 이상 평균 위험군 성인 대상.\n액체 생검 기반 암 스크리닝 시장 확대 추세를 반영한 상업화 사례.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "대장암 혈액 스크리닝 진단 제품으로, 사용자 연구 분야(약물전달, 단백질 설계)와 무관",
+      "processed_at": "2026-10-03T01:31:55.014582+00:00"
+    }
+  ],
+  "overall": [
+    "Xaira Therapeutics가 AI 기반 항체 플랫폼과 초기 파이프라인을 공개하며 AI 바이오텍의 구체적 모달리티 전략이 가시화되고 있음",
+    "Novartis가 Abogen의 생체 내(in vivo) 자가면역 T세포 인게이저를 78억 달러에 인수하며 빅파마의 차세대 면역 치료 모달리티 확보 경쟁이 가속화됨",
+    "면역항암 스타트업 Adecto가 리스크 회피적 펀딩 환경을 이유로 폐업하며 초기 단계 바이오텍의 자금 조달 환경이 여전히 냉각 상태임을 시사"
+  ]
+}
