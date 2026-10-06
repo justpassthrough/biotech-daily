@@ -5186,5 +5186,40 @@
     "relevance_score": 1,
     "relevance_reason": "대장암 혈액 스크리닝 진단 제품으로, 사용자 연구 분야(약물전달, 단백질 설계)와 무관",
     "processed_at": "2026-10-03T01:31:55.014582+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/genentech-pays-alector-100m-preclinical-parkinsons-prospect": {
+    "korean_summary": "Genentech이 Alector의 전임상 파킨슨병 후보물질에 대한 독점 권리 계약 체결.\n계약금 1억 달러 선지급, 신경퇴행 유발 타깃을 겨냥한 전임상 단계 물질.\n빅파마의 신경계 질환 전임상 자산 조기 확보 전략 지속.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "파킨슨병 라이선싱 딜, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-10-06T02:34:43.541562+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/vaxcytes-stock-jumps-pneumococcal-vaccine-holds-its-own-against-pfizer-mercks-shots": {
+    "korean_summary": "Vaxcyte의 31가 폐렴구균 백신 후보가 P3 임상에서 Pfizer Prevnar 20, Merck Capvaxive와 직접 비교 시험 실시.\n헤드투헤드 비교에서 경쟁 제품 대비 동등 이상의 결과를 보여 주가 급등.\n폐렴구균 백신 시장에서 Pfizer·Merck 독점 구도에 새 경쟁자 부상 가능성.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "폐렴구균 백신 P3 결과, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-10-06T02:34:48.129949+00:00"
+  },
+  "https://www.fiercebiotech.com/research/3-scientists-who-developed-neuron-light-switches-win-nobel-prize-physiology-or-medicine": {
+    "korean_summary": "2026년 노벨 생리의학상이 빛으로 뉴런을 선택적으로 활성화/억제하는 신경과학 기법을 개발한 과학자 3인에게 수여됨.\n해당 기법은 optogenetics로, 특정 뉴런에 광감응 단백질을 발현시켜 빛으로 신경 활동을 정밀 제어하는 기술.\n기초신경과학 분야의 landmark 수상이나 사용자 연구 분야와 직접 연관성은 낮음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "노벨상 수상 뉴스, 신경과학 기법으로 사용자 연구 분야(단백질 설계/약물전달)와 무관",
+    "processed_at": "2026-10-06T02:34:53.797562+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/csl-pays-355m-co-develop-alentis-phase-2-stage-fibrosis-drug": {
+    "korean_summary": "CSL이 Alentis Therapeutics의 P2 단계 섬유증 치료제 권리를 3억 5,500만 달러에 선불 취득.\n대상 약물은 섬유증 적응증의 P2 단계이며, 공동 개발 방식으로 진행.\n빅바이오파마의 섬유증 파이프라인 강화 전략의 일환으로 볼 수 있는 대형 라이선싱 딜.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "섬유증 치료제 라이선싱 딜로, 사용자의 연구 분야(나노케이지, ADC, 단백질 설계)와 직접 관련 없음",
+    "processed_at": "2026-10-06T02:34:58.891259+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/genmab-data-spur-claim-adc-clearly-superior-abbvies-elahere": {
+    "korean_summary": "Genmab의 ADC가 P2에서 중앙값 무진행생존기간(mPFS) 9.5개월을 기록.\nTD Cowen 분석가들은 AbbVie의 Elahere(mirvetuximab soravtansine) 대비 '명확히 우월'하다고 평가.\nFolate receptor 타깃 ADC 시장에서 차세대 경쟁 가열, ADC 임상 우월성 경쟁 심화.",
+    "category": "임상결과",
+    "relevance_score": 6,
+    "relevance_reason": "ADC 임상 비교 데이터로 ADC 분야 시장 흐름 파악에 유용하나 linker/기술 세부사항 없음",
+    "processed_at": "2026-10-06T02:35:04.136216+00:00"
   }
 }
