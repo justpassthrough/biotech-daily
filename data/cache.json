@@ -5221,5 +5221,61 @@
     "relevance_score": 6,
     "relevance_reason": "ADC 임상 비교 데이터로 ADC 분야 시장 흐름 파악에 유용하나 linker/기술 세부사항 없음",
     "processed_at": "2026-10-06T02:35:04.136216+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/big-pharma-backed-nuvig-halts-development-lead-fusion-protein-rare-autoimmune-disease": {
+    "korean_summary": "Nuvig Therapeutics가 희귀 자가면역질환 대상 선도 융합단백질의 임상시험 중 하나를 중단.\n두 개 진행 중이던 시험 중 하나를 속도 문제로 조기 종료, 단일 임상 자산의 리스크 노출.\n빅파마 지원 바이오텍도 임상 속도 및 전략적 판단에 따라 개발 중단 결정 가능.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "융합단백질 임상 중단 소식이나, 사용자 연구 분야와 직접 연관성 낮음",
+    "processed_at": "2026-10-07T01:54:17.651012+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/arrivents-phase-3-lung-cancer-trial-flops-sinking-stock": {
+    "korean_summary": "ArriVent BioPharma의 EGFR 억제제가 폐암 대상 Phase 3 임상에서 1차 평가변수 미달성.\n결과 발표 후 나스닥에서 주가 57% 급락.\nEGFR 억제제 경쟁 심화 속 후발주자의 한계를 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "소분자 EGFR 억제제 임상 실패, 사용자 연구 분야와 무관",
+    "processed_at": "2026-10-07T01:54:21.796961+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/kairos-seizes-moment-push-prostate-cancer-prospect-earlier-setting": {
+    "korean_summary": "Kairos Pharma가 전립선암 후보물질 ENV-105를 중기 임상 생존 데이터를 근거로 더 이른 치료 라인으로 개발 방향을 전환.\n구체적 수치는 공개되지 않았으나, midphase 생존 데이터가 earlier setting 진입의 근거.\n임상 전략 조정으로 시장 기회 확대를 노리는 소규모 바이오테크 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "전립선암 임상 전략 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-10-07T01:54:26.644800+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-new-cardiomems-hf-system-allows-heart-readings-be-seen-home": {
+    "korean_summary": "Abbott의 심부전 모니터링 기기 CardioMEMS HF System이 FDA 승인을 획득.\n환자용 앱 CardioGuide HF App을 통해 가정에서 심장 데이터 확인 가능한 기능이 추가됨.\n심부전 원격 모니터링 디지털헬스 영역 확장 사례.",
+    "category": "임상결과",
+    "relevance_score": 0,
+    "relevance_reason": "심부전 의료기기 FDA 승인, 사용자 연구 분야와 무관",
+    "processed_at": "2026-10-07T01:54:30.269294+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/forbions-landmark-eur23b-fundraise-benefit-30-high-potential-biotechs": {
+    "korean_summary": "유럽 생명과학 특화 VC Forbion이 2개 펀드에서 총 23억 유로(약 26억 달러) 조달 성공.\n유럽 생명과학 VC 역대 최대 규모 펀드레이즈로, 약 30개 고잠재력 바이오텍 지원 예정.\n유럽 바이오텍 투자 생태계 확장 신호, 개별 기업 기술과는 직접 연관 없음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "VC 펀딩 뉴스로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-10-07T01:54:34.819494+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/astrazeneca-hopes-achieve-amazing-things-new-kendall-square-rd-center": {
+    "korean_summary": "AstraZeneca가 매사추세츠 켄달스퀘어에 새 R&D 센터를 개소.\n보스턴 바이오파마 생태계 내 거점 확장이 목적, 구체적 투자 규모나 파이프라인 정보는 미공개.\n빅파마의 보스턴 클러스터 집중 현상의 연장선.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "AZ 시설 확장 뉴스, 사용자 연구 분야와 직접 연관 없음",
+    "processed_at": "2026-10-07T01:54:39.332175+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/trex-bio-stomps-toward-111m-ipo-retension-and-lycia-also-gear-go-public": {
+    "korean_summary": "TRex Bio(Eli Lilly 지원), Retension Pharmaceuticals, Lycia Therapeutics 3개 바이오테크가 IPO 추진.\nTRex Bio 목표액 1억 1130만 달러, Retension 3380만 달러, Lycia Therapeutics는 단백질 분해 기반.\n바이오테크 IPO 시장 재활성화 신호, 특히 단백질 분해(protein degrader) 모달리티 관심 반영.",
+    "category": "기타",
+    "relevance_score": 3,
+    "relevance_reason": "IPO 자금조달 뉴스 위주, 단백질 분해 언급 있으나 연구 분야와 직접 연관성 낮음",
+    "processed_at": "2026-10-07T01:54:44.998800+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/uk-unveils-new-policy-constantly-monitor-ai-based-medical-devices": {
+    "korean_summary": "영국 MHRA가 AI 기반 의료기기 전체에 대한 상시 모니터링 정책을 발표.\n구체적 규제 프레임워크 및 지속적 감시 체계 도입 예정.\nAI 의료기기 시장에서 규제 불확실성이 증가할 수 있음을 시사.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "AI 의료기기 규제 정책으로, 사용자의 연구 분야(단백질 설계, ADC, 나노의약)와 직접 관련 없음",
+    "processed_at": "2026-10-07T01:54:49.010855+00:00"
   }
 }
