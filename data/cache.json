@@ -5319,5 +5319,40 @@
     "relevance_score": 2,
     "relevance_reason": "공유결합 소분자 신약 펀딩, 사용자의 단백질/나노전달 연구 분야와 거리가 멂",
     "processed_at": "2026-10-08T02:21:30.981038+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor": {
+    "korean_summary": "Endeavor BioMedicines가 IPF(특발성 폐섬유증) 치료제 Hedgehog 억제제의 Phase 2b 결과를 발표.\n폐 섬유화 감소 + 총 폐용량 증가를 동시에 보인 첫 번째 약물 후보 가능성 제시.\n기존 IPF 시장 강자(빅파마)에 대한 경쟁 압력 증가, 새로운 기전 치료제 가능성 입증.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "IPF 임상 결과로 사용자 연구 분야(나노케이지, ADC, 단백질 설계)와 거의 무관",
+    "processed_at": "2026-10-09T02:38:57.324743+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic": {
+    "korean_summary": "AI 신약개발 바이오텍 Iambic Therapeutics가 IPO를 통해 1억 3,500만 달러 조달 목표.\n리드 항암제 후보의 임상 개발 자금 확보가 주요 목적.\nAI 기반 신약개발 기업의 임상 진입 및 자금조달 트렌드를 보여주는 사례.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "AI 신약개발 IPO 뉴스로, 사용자 연구 분야(ferritin, ADC, de novo 단백질 설계)와 직접적 관련성 낮음",
+    "processed_at": "2026-10-09T02:39:01.926820+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ono-pays-80m-regional-rights-trio-biohaven-igg-degraders-including-phase-3-graves-asset": {
+    "korean_summary": "일본 Ono Pharmaceutical이 Biohaven의 IgG 분해제(IgG degrader) 3종 아시아 지역 권리를 8,000만 달러에 라이선스 도입.\n리드 에셋은 그레이브스병 대상 P3 단계 IgG degrader이며, 나머지 2종 포함 총 3개 프로그램.\nIgG degrader는 자가면역 분야의 신규 모달리티로, 항체 분해 메커니즘 기반 치료제 시장 확대를 보여주는 딜.",
+    "category": "M&A",
+    "relevance_score": 4,
+    "relevance_reason": "IgG degrader는 항체 공학 관련 모달리티이나, ferritin/ADC linker/de novo protein design과는 직접 연관성 낮음",
+    "processed_at": "2026-10-09T02:39:09.190904+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/zealand-roches-intriguing-weight-loss-soured-blood-sugar-data": {
+    "korean_summary": "Zealand Pharma가 Roche 파트너십 amylin 유사체의 P2 추가 데이터를 발표.\n체중감소 효과는 경쟁력 있으나 혈당 조절 효과는 기대 이하로 평가됨.\nGLP-1 이후 비만·대사질환 차세대 기전 경쟁에서 amylin 계열의 한계 가능성 시사.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "비만 치료 P2 결과로 사용자 연구 분야와 무관",
+    "processed_at": "2026-10-09T02:39:14.166422+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/argenx-digests-phase-2-celiac-win-22b-drug-preps-pivotal-run": {
+    "korean_summary": "Argenx가 22억 달러에 인수한 Forte Biosciences의 FB102가 복강병(celiac disease) P2 임상 1차 평가변수 달성.\n구체적 수치는 공개되지 않았으나 pivotal 시험 준비 단계로 진입 예정.\n대형 M&A로 확보한 파이프라인의 조기 임상 성과로, argenx의 면역질환 포트폴리오 확장 전략 검증.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "복강병 항체 치료제 P2 결과로, 사용자 연구 분야와 직접적 연관성 없음",
+    "processed_at": "2026-10-09T02:39:19.423261+00:00"
   }
 }

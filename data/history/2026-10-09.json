@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T02:39:26.580945+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Endeavor’s threat to IPF incumbents increases after phase 2 win for Hedgehog inhibitor",
+      "link": "https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor",
+      "summary_en": "Endeavor BioMedicines solidified its potential threat to Big Pharma with a phase 2b readout suggesting its Hedgehog inhibitor could become the first drug to reduce lung fibrosis while increasing total lung capacity.",
+      "published": "2026-10-08T09:36:00+00:00",
+      "korean_summary": "Endeavor BioMedicines가 IPF(특발성 폐섬유증) 치료제 Hedgehog 억제제의 Phase 2b 결과를 발표.\n폐 섬유화 감소 + 총 폐용량 증가를 동시에 보인 첫 번째 약물 후보 가능성 제시.\n기존 IPF 시장 강자(빅파마)에 대한 경쟁 압력 증가, 새로운 기전 치료제 가능성 입증.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "IPF 임상 결과로 사용자 연구 분야(나노케이지, ADC, 단백질 설계)와 거의 무관",
+      "processed_at": "2026-10-09T02:38:57.324743+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "AI biotech Iambic aims for $135M IPO to push cancer drugs through clinic",
+      "link": "https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic",
+      "summary_en": "Iambic Therapeutics is aiming to raise $135 million in net proceeds from an IPO as the AI biotech looks to fund the clinical development of its lead cancer drug.",
+      "published": "2026-10-08T08:46:00+00:00",
+      "korean_summary": "AI 신약개발 바이오텍 Iambic Therapeutics가 IPO를 통해 1억 3,500만 달러 조달 목표.\n리드 항암제 후보의 임상 개발 자금 확보가 주요 목적.\nAI 기반 신약개발 기업의 임상 진입 및 자금조달 트렌드를 보여주는 사례.",
+      "category": "기타",
+      "relevance_score": 2,
+      "relevance_reason": "AI 신약개발 IPO 뉴스로, 사용자 연구 분야(ferritin, ADC, de novo 단백질 설계)와 직접적 관련성 낮음",
+      "processed_at": "2026-10-09T02:39:01.926820+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Ono pays $80M for regional rights to trio of Biohaven IgG degraders, including phase 3 Grave’s asset",
+      "link": "https://www.fiercebiotech.com/biotech/ono-pays-80m-regional-rights-trio-biohaven-igg-degraders-including-phase-3-graves-asset",
+      "summary_en": "Japan’s Ono Pharmaceutical is paying $80 million upfront for the regional rights to a trio of Biohaven’s IgG degraders, led by a phase 3-stage Grave’s disease prospect.",
+      "published": "2026-10-08T05:25:00+00:00",
+      "korean_summary": "일본 Ono Pharmaceutical이 Biohaven의 IgG 분해제(IgG degrader) 3종 아시아 지역 권리를 8,000만 달러에 라이선스 도입.\n리드 에셋은 그레이브스병 대상 P3 단계 IgG degrader이며, 나머지 2종 포함 총 3개 프로그램.\nIgG degrader는 자가면역 분야의 신규 모달리티로, 항체 분해 메커니즘 기반 치료제 시장 확대를 보여주는 딜.",
+      "category": "M&A",
+      "relevance_score": 4,
+      "relevance_reason": "IgG degrader는 항체 공학 관련 모달리티이나, ferritin/ADC linker/de novo protein design과는 직접 연관성 낮음",
+      "processed_at": "2026-10-09T02:39:09.190904+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Zealand, Roche’s ‘intriguing’ weight loss for amylin drug soured by blood sugar data",
+      "link": "https://www.fiercebiotech.com/biotech/zealand-roches-intriguing-weight-loss-soured-blood-sugar-data",
+      "summary_en": "Zealand Pharma has reported more phase 2 data on its Roche-partnered amylin analog, linking the drug candidate to competitive weight loss but a lackluster effect on blood sugar.",
+      "published": "2026-10-08T04:34:00+00:00",
+      "korean_summary": "Zealand Pharma가 Roche 파트너십 amylin 유사체의 P2 추가 데이터를 발표.\n체중감소 효과는 경쟁력 있으나 혈당 조절 효과는 기대 이하로 평가됨.\nGLP-1 이후 비만·대사질환 차세대 기전 경쟁에서 amylin 계열의 한계 가능성 시사.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "비만 치료 P2 결과로 사용자 연구 분야와 무관",
+      "processed_at": "2026-10-09T02:39:14.166422+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Argenx digests phase 2 celiac win for $2.2B drug, preps pivotal run",
+      "link": "https://www.fiercebiotech.com/biotech/argenx-digests-phase-2-celiac-win-22b-drug-preps-pivotal-run",
+      "summary_en": "A phase 2 celiac disease trial of argenx’s FB102 has hit its primary endpoint, delivering a boost to a drug candidate that the biotech acquired in its $2.2 billion takeover of Forte Biosciences.",
+      "published": "2026-10-08T03:04:00+00:00",
+      "korean_summary": "Argenx가 22억 달러에 인수한 Forte Biosciences의 FB102가 복강병(celiac disease) P2 임상 1차 평가변수 달성.\n구체적 수치는 공개되지 않았으나 pivotal 시험 준비 단계로 진입 예정.\n대형 M&A로 확보한 파이프라인의 조기 임상 성과로, argenx의 면역질환 포트폴리오 확장 전략 검증.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "복강병 항체 치료제 P2 결과로, 사용자 연구 분야와 직접적 연관성 없음",
+      "processed_at": "2026-10-09T02:39:19.423261+00:00"
+    }
+  ],
+  "overall": [
+    "Ono가 Biohaven의 IgG 분해제 3종(phase 3 Graves' disease 포함)에 대한 지역 판권을 8000만 달러에 인수하며 자가면역 분야 라이선싱 딜이 활발히 진행됨",
+    "Iambic(AI 신약개발)이 1억 3500만 달러 IPO를 추진하고, argenx가 22억 달러 규모 약물의 celiac disease phase 2 성공으로 피벗 임상을 준비하는 등 AI·자가면역 파이프라인에 자본 유입 가속화",
+    "Endeavor의 Hedgehog 억제제가 IPF phase 2에서 긍정적 결과를 내며 기존 강자를 위협한 반면, Zealand·Roche의 amylin 계열 비만 약물은 혈당 데이터 부진으로 기대감이 꺾임"
+  ]
+}
