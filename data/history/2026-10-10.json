@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T01:58:58.740584+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "GSK drinks in Chai Discovery’s AI models after wet-lab validation",
+      "link": "https://www.fiercebiotech.com/biotech/gsk-drinks-chai-discoverys-ai-models-after-wet-lab-validation",
+      "summary_en": "GSK has joined Chai Discovery’s growing roster of Big Pharma clients, signing up to access protein-folding and design models.",
+      "published": "2026-10-09T10:37:00+00:00",
+      "korean_summary": "GSK가 Chai Discovery의 단백질 폴딩 및 설계 AI 모델 접근권 계약 체결.\nChai Discovery는 AlphaFold 대안 모델 개발사로, 빅파마 고객군을 확장 중.\nde novo 단백질 설계 AI 플랫폼의 상업화 가속, 빅파마의 AI 기반 단백질 설계 도입 트렌드 확인.",
+      "category": "M&A",
+      "relevance_score": 6,
+      "relevance_reason": "단백질 폴딩/설계 AI 모델 관련 딜, de novo protein design 인접 영역이나 직접 기술 내용은 미흡",
+      "processed_at": "2026-10-10T01:58:33.737035+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Ferass Abuzaina named Worldwide President of Surgery at BD",
+      "link": "https://www.fiercebiotech.com/medtech/ferass-abuzaina-named-worldwide-president-surgery-bd",
+      "summary_en": "Becton, Dickinson and Company has named Ferass Abuzaina as its new Worldwide President of its Surgery business unit.",
+      "published": "2026-10-09T09:07:00+00:00",
+      "korean_summary": "BD(Becton, Dickinson)가 Ferass Abuzaina를 외과 사업부 전세계 총괄 사장으로 임명.\n수술 사업부 리더십 교체 외 구체적 전략 변화나 수치 미공개.\n의료기기 기업 임원 인사, 사용자 연구 분야와 무관.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "임원 인사 발표로 ferritin/ADC/단백질 설계 연구와 완전 무관",
+      "processed_at": "2026-10-10T01:58:38.174489+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "How we picked the Fierce 15",
+      "link": "https://www.fiercebiotech.com/biotech/how-we-picked-fierce-15",
+      "summary_en": "What does it mean to be a Fierce 15 biotech in 2026? With this year’s list unveiled, the Fierce Biotech team gets together to discuss what the winners tell us about the state of the sector.",
+      "published": "2026-10-09T07:32:00+00:00",
+      "korean_summary": "Fierce Biotech이 2026년 Fierce 15 바이오텍 선정 기준과 수상 기업들을 발표.\n선정된 15개 기업들이 현재 바이오텍 섹터의 트렌드를 반영한다는 내용.\n구체적 기술이나 데이터 없이 업계 동향을 논평하는 미디어 콘텐츠.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "바이오텍 업계 일반 미디어 콘텐츠로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-10-10T01:58:43.213595+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "‘We’re making a lot of progress’: How Nobel-winning optogenetics is being harnessed by biotechs",
+      "link": "https://www.fiercebiotech.com/biotech/how-nobel-winning-optogenetics-went-pond-potential-treatments-vision-loss-and-schizophrenia",
+      "summary_en": "As a notorious night owl, it was already very early in the morning of October 5 when Karl Deisseroth, M.D., Ph.D., finally laid down to get some shuteye. Not long after, the phone of the Stanford psychiatrist and bioengineer lit up with an incoming call from Sweden.",
+      "published": "2026-10-09T04:59:00+00:00",
+      "korean_summary": "노벨상 수상 기술인 옵토제네틱스(optogenetics)가 바이오테크에 의해 치료제로 개발되는 현황 소개.\nKarl Deisseroth의 노벨상 수상을 계기로 광유전학 기반 치료 접근법의 산업화 동향 조명.\n광유전학은 신경/망막 질환 치료에 적용 중이나 사용자 연구 분야와는 직접 연관성 낮음.",
+      "category": "모달리티",
+      "relevance_score": 1,
+      "relevance_reason": "옵토제네틱스 기술 트렌드 기사, 단백질 설계/ADC/나노의약품 연구와 무관",
+      "processed_at": "2026-10-10T01:58:48.585796+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Lilly-backed TRex rakes in $117M IPO, while hypertension biotech Retension reveals $45M listing",
+      "link": "https://www.fiercebiotech.com/biotech/lilly-backed-trex-rakes-117m-ipo-while-retension-reveals-45m-listing",
+      "summary_en": "Eli Lilly-backed TRex Bio and hypertension-focused Retension Pharmaceuticals brought in $116.7 million and $45 million from their respective IPOs, continuing a bumper year for biotech listings.",
+      "published": "2026-10-09T04:31:00+00:00",
+      "korean_summary": "Eli Lilly 지원 TRex Bio와 고혈압 바이오텍 Retension Pharmaceuticals가 각각 IPO 완료.\nTRex Bio 1억 1,670만 달러, Retension 4,500만 달러 조달, 2024년 바이오텍 IPO 호조 지속.\n바이오텍 자본시장 활성화 신호이나 사용자 연구 분야와 직접 연관성은 낮음.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "IPO 자금조달 뉴스, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+      "processed_at": "2026-10-10T01:58:53.586922+00:00"
+    }
+  ],
+  "overall": [
+    "GSK가 AI 신약개발사 Chai Discovery의 AI 모델을 습식실험(wet-lab) 검증 후 인수하며 AI 기반 신약개발 M&A 본격화",
+    "Lilly 지원을 받은 TRex Bio가 $117M IPO에 성공하고 Retension이 $45M 상장을 예고하며 바이오텍 IPO 시장 회복세 신호",
+    "노벨상 수상 기술인 광유전학(optogenetics)이 다수 바이오텍에 의해 치료제 모달리티로 실용화 단계 진입 중"
+  ]
+}

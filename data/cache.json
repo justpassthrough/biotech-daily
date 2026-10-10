@@ -5354,5 +5354,40 @@
     "relevance_score": 2,
     "relevance_reason": "복강병 항체 치료제 P2 결과로, 사용자 연구 분야와 직접적 연관성 없음",
     "processed_at": "2026-10-09T02:39:19.423261+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gsk-drinks-chai-discoverys-ai-models-after-wet-lab-validation": {
+    "korean_summary": "GSK가 Chai Discovery의 단백질 폴딩 및 설계 AI 모델 접근권 계약 체결.\nChai Discovery는 AlphaFold 대안 모델 개발사로, 빅파마 고객군을 확장 중.\nde novo 단백질 설계 AI 플랫폼의 상업화 가속, 빅파마의 AI 기반 단백질 설계 도입 트렌드 확인.",
+    "category": "M&A",
+    "relevance_score": 6,
+    "relevance_reason": "단백질 폴딩/설계 AI 모델 관련 딜, de novo protein design 인접 영역이나 직접 기술 내용은 미흡",
+    "processed_at": "2026-10-10T01:58:33.737035+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/ferass-abuzaina-named-worldwide-president-surgery-bd": {
+    "korean_summary": "BD(Becton, Dickinson)가 Ferass Abuzaina를 외과 사업부 전세계 총괄 사장으로 임명.\n수술 사업부 리더십 교체 외 구체적 전략 변화나 수치 미공개.\n의료기기 기업 임원 인사, 사용자 연구 분야와 무관.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "임원 인사 발표로 ferritin/ADC/단백질 설계 연구와 완전 무관",
+    "processed_at": "2026-10-10T01:58:38.174489+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/how-we-picked-fierce-15": {
+    "korean_summary": "Fierce Biotech이 2026년 Fierce 15 바이오텍 선정 기준과 수상 기업들을 발표.\n선정된 15개 기업들이 현재 바이오텍 섹터의 트렌드를 반영한다는 내용.\n구체적 기술이나 데이터 없이 업계 동향을 논평하는 미디어 콘텐츠.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "바이오텍 업계 일반 미디어 콘텐츠로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-10-10T01:58:43.213595+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/how-nobel-winning-optogenetics-went-pond-potential-treatments-vision-loss-and-schizophrenia": {
+    "korean_summary": "노벨상 수상 기술인 옵토제네틱스(optogenetics)가 바이오테크에 의해 치료제로 개발되는 현황 소개.\nKarl Deisseroth의 노벨상 수상을 계기로 광유전학 기반 치료 접근법의 산업화 동향 조명.\n광유전학은 신경/망막 질환 치료에 적용 중이나 사용자 연구 분야와는 직접 연관성 낮음.",
+    "category": "모달리티",
+    "relevance_score": 1,
+    "relevance_reason": "옵토제네틱스 기술 트렌드 기사, 단백질 설계/ADC/나노의약품 연구와 무관",
+    "processed_at": "2026-10-10T01:58:48.585796+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/lilly-backed-trex-rakes-117m-ipo-while-retension-reveals-45m-listing": {
+    "korean_summary": "Eli Lilly 지원 TRex Bio와 고혈압 바이오텍 Retension Pharmaceuticals가 각각 IPO 완료.\nTRex Bio 1억 1,670만 달러, Retension 4,500만 달러 조달, 2024년 바이오텍 IPO 호조 지속.\n바이오텍 자본시장 활성화 신호이나 사용자 연구 분야와 직접 연관성은 낮음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "IPO 자금조달 뉴스, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-10-10T01:58:53.586922+00:00"
   }
 }
