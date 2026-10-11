@@ -5389,5 +5389,12 @@
     "relevance_score": 1,
     "relevance_reason": "IPO 자금조달 뉴스, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
     "processed_at": "2026-10-10T01:58:53.586922+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/parkinsons-focused-aspen-and-bispecific-biotech-aspen-plan-ipos": {
+    "korean_summary": "Aspen Neuroscience(파킨슨 세포치료)와 Bambusa Therapeutics(이중특이항체)가 IPO를 추진 중.\n두 바이오테크 모두 구체적 공모 규모는 미공개 상태.\n바이오테크 IPO 시장 회복 흐름의 일부로, 세포치료 및 이중특이항체 분야 자금조달 신호.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "IPO 소식으로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관 없음",
+    "processed_at": "2026-10-11T01:23:47.326786+00:00"
   }
 }
