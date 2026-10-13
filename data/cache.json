@@ -5396,5 +5396,26 @@
     "relevance_score": 1,
     "relevance_reason": "IPO 소식으로 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관 없음",
     "processed_at": "2026-10-11T01:23:47.326786+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/roche-sets-sights-july-fda-ruling-updated-eye-drug-data": {
+    "korean_summary": "Roche가 안과 질환 치료제의 업데이트된 임상 데이터를 공개하며 FDA 승인을 목표로 함.\n2027년 7월 FDA 승인 결정을 목표로 하며, 1년 전 혼재된 P3 결과를 보완하는 추가 데이터 제출.\n안과 치료제 시장에서 Roche의 규제 전략 변화를 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "안과 질환 치료제 FDA 승인 관련, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-10-13T03:15:50.337467+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/tortugas-schizophrenia-drug-proves-worth-phase-2-hansoh-trial-china": {
+    "korean_summary": "Tortugas Neuroscience의 정신분열증 치료제가 Hansoh Pharma와의 중국 P2b 임상에서 긍정적 결과 확인.\n구체적 수치는 미공개이나 P2b 유효성 입증으로 신경과학 전략 검증.\n초기 신경과학 바이오테크의 임상 성과로 중국 파트너십 모델 가능성 시사.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "정신분열증 CNS 약물 P2b 결과, 사용자 연구 분야와 무관",
+    "processed_at": "2026-10-13T03:15:54.323769+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/bristol-myers-doubles-pivotal-wins-lung-disease-and-solid-tumor": {
+    "korean_summary": "BMS가 폐질환 및 고형암 대상 두 건의 Phase 3 임상에서 긍정적 결과 발표.\n특허 절벽 이후 성장 전략의 일환으로 파이프라인 다각화 진행 중이며, 구체적 약물명·수치는 미공개.\nBMS의 포스트-특허 절벽 대응 전략 관점에서 빅파마 파이프라인 동향 참고 가능.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "BMS 빅파마 P3 결과이나 사용자 연구 분야(ADC, 단백질 설계, nanomedicine)와 직접 연관성 없음",
+    "processed_at": "2026-10-13T03:15:59.601075+00:00"
   }
 }
