@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T01:28:29.193390+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "BioNTech’s mRNA cancer vaccine fails phase 3 test, significantly denting analysts’ confidence",
+      "link": "https://www.fiercebiotech.com/biotech/biontechs-mrna-cancer-vaccine-fails-phase-3-test-significantly-denting-analysts-confidence",
+      "summary_en": "A phase 2/3 clinical trial of BioNTech’s mRNA cancer immunotherapy BNT113 has missed one of its dual primary endpoints. But with immature overall survival data offering a path to redemption, the German biotech is continuing to track patients in the metastatic head and neck cancer study.",
+      "published": "2026-10-13T08:49:00+00:00",
+      "korean_summary": "BioNTech의 mRNA 암 면역치료제 BNT113이 P2/3 임상에서 이중 1차 평가변수 중 하나를 달성 실패.\n전이성 두경부암 대상 연구에서 전체생존(OS) 데이터는 아직 미성숙하여 추적 지속 중.\nmRNA 암백신 분야에 대한 시장 신뢰도 하락, 향후 OS 데이터가 임상 방향 결정할 전망.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "mRNA 암백신 임상 실패 뉴스, 사용자 연구 분야(단백질 설계·ADC·약물전달)와 거리 있음",
+      "processed_at": "2026-10-14T01:28:04.571602+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Biotech builder Paragon imports Apogee's top brass after AbbVie buyout",
+      "link": "https://www.fiercebiotech.com/biotech/biotech-builder-paragon-imports-apogees-leadership-wholesale-wake-abbvie-buyout",
+      "summary_en": "It’s been a busy morning for Paragon Labs. In addition to bringing over much of the leadership team from AbbVie-acquired Apogee Therapeutics, Paragon has overseen a reverse merger to take its hypertension-focused spinout Velaris Therapeutics public.",
+      "published": "2026-10-13T08:46:00+00:00",
+      "korean_summary": "Paragon Labs가 AbbVie에 인수된 Apogee Therapeutics의 핵심 경영진을 영입.\n동시에 고혈압 중심 자회사 Velaris Therapeutics를 역합병(reverse merger)을 통해 상장.\n바이오테크 빌더 모델의 인재·자산 재활용 전략 사례.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "경영진 인사 및 기업 구조 재편 뉴스로 사용자 연구 분야와 무관",
+      "processed_at": "2026-10-14T01:28:08.794313+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Roche inks $1.2B deal with China's Rona to enter emerging ALK7 obesity race",
+      "link": "https://www.fiercebiotech.com/biotech/roche-inks-116b-rona-deal-enter-emerging-obesity-race",
+      "summary_en": "Roche has committed $100 million in upfront and near-term payments to license Rona Therapeutics’ ALK7 drug candidate, joining Alnylam, Arrowhead, GSK and Novo Nordisk in an emerging obesity niche.",
+      "published": "2026-10-13T07:16:00+00:00",
+      "korean_summary": "Roche가 중국 Rona Therapeutics의 ALK7 억제제 후보물질을 총 12억 달러 규모로 라이선스 계약.\n선급금 및 단기 지급액 1억 달러, ALK7은 비만 치료 신규 타깃으로 Alnylam·GSK·Novo Nordisk 등도 진입 중.\n비만 치료제 시장에서 GLP-1 외 새로운 기전 경쟁이 본격화되는 신호.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "비만 신규 타깃 라이선싱 딜로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+      "processed_at": "2026-10-14T01:28:14.177134+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Nurix drops one BTK degrader as momentum builds behind Roche-partnered option",
+      "link": "https://www.fiercebiotech.com/biotech/nurix-drops-one-btk-inhibitor-momentum-builds-behind-roche-partnered-option",
+      "summary_en": "Nurix’s BTK degrader zelebrudomide may have survived a clinical hold in recent years, but that hasn’t stopped the California biotech from dropping the cancer drug.",
+      "published": "2026-10-13T03:24:00+00:00",
+      "korean_summary": "Nurix가 자체 BTK 분해제 zelebrudomide를 개발 중단, Roche와 파트너십 중인 BTK degrader에 집중.\n임상 보류(clinical hold) 이력 이후 파이프라인 정리, Roche 협력 프로그램으로 자원 재배분.\nProtein degrader 분야 우선순위 조정, 빅파마 파트너십 중심 전략 선택 사례.",
+      "category": "빅파마",
+      "relevance_score": 2,
+      "relevance_reason": "BTK protein degrader 관련이나 ferritin/ADC/protein design 연구와 직접 관련성 낮음",
+      "processed_at": "2026-10-14T01:28:18.952911+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Insulet’s Omnipod Discover platform sees full market release in US",
+      "link": "https://www.fiercebiotech.com/medtech/insulets-omnipod-discover-platform-sees-full-market-release-us",
+      "summary_en": "Insulet Corporation has announced the U.S. full market release of Omnipod Discover, a web-based data platform designed for Omnipod 5.",
+      "published": "2026-10-13T01:42:00+00:00",
+      "korean_summary": "Insulet Corporation이 Omnipod 5용 웹 기반 데이터 플랫폼 Omnipod Discover를 미국 전체 시장에 출시.\n당뇨병 관리용 인슐린 자동 주입기(AID) 데이터 플랫폼으로, 클라우드 기반 모니터링 지원.\n디지털 헬스 및 당뇨 디바이스 시장 관련 뉴스로 본 연구 분야와 무관.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "당뇨병 디바이스 데이터 플랫폼 출시, 약물전달/단백질 설계 연구와 완전 무관",
+      "processed_at": "2026-10-14T01:28:23.646348+00:00"
+    }
+  ],
+  "overall": [
+    "BioNTech의 mRNA 암백신이 3상 임상에서 실패하며 분석가들의 신뢰도에 타격, mRNA 치료백신 플랫폼의 한계 재부각",
+    "Roche가 중국 Rona와 12억 달러 규모 ALK7 비만 타깃 딜을 체결하는 동시에 Nurix의 BTK 분해제 파트너십에서도 주도권 강화하며 공격적 파이프라인 확장",
+    "AbbVie 인수 후 Apogee 핵심 인력이 Paragon으로 이동하는 등 빅파마 M&A 이후 인재 재편 움직임 포착"
+  ]
+}
