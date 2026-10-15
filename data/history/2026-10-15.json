@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T01:03:58.737581+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Verastem CEO claims RAS drug has 'set a new benchmark' for tricky cancer in early readout",
+      "link": "https://www.fiercebiotech.com/biotech/verastem-challenging-daraxonrasib-its-kras-drug-multiple-solid-cancers",
+      "summary_en": "Verastem Oncology's decision to refocus its R&D efforts on its KRAS inhibitor appears to be paying off, at least based on initial data from a phase 1/2 trial.",
+      "published": "2026-10-14T10:32:00+00:00",
+      "korean_summary": "Verastem Oncology가 KRAS 억제제의 P1/2 초기 데이터를 공개.\n난치성 암종에서 새로운 기준점을 세웠다고 CEO가 주장했으나 구체적 수치 미공개.\nKRAS 억제제 분야의 경쟁이 지속되는 가운데 초기 신호 수준의 결과.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "KRAS 억제제 임상 초기 결과, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-10-15T01:03:27.991527+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Deep-pocketed Verdiva axes GLP-1 switching trial over ‘market evolution’",
+      "link": "https://www.fiercebiotech.com/biotech/deep-pocketed-verdiva-axes-glp-1-switching-trial-over-market-evolution",
+      "summary_en": "Verdiva Bio has scrapped a phase 2 trial of its once-weekly oral GLP-1 drug candidate VRB-101, pulling the plug the year after launching with $410 million.",
+      "published": "2026-10-14T10:13:00+00:00",
+      "korean_summary": "Verdiva Bio가 경구용 GLP-1 주 1회 투여 후보물질 VRB-101의 P2 임상을 중단.\n4억 1천만 달러 자금으로 런칭 1년 만에 '시장 변화'를 이유로 스위칭 시험 철회.\nGLP-1 경구제 경쟁 심화로 임상 전략 변경 사례, 시장 포화 신호.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "GLP-1 경구제 임상 중단 뉴스, 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-10-15T01:03:32.854416+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Biomea posts phase 1 data to pitch oral GLP-1 to potential partners, but investors appear unconvinced",
+      "link": "https://www.fiercebiotech.com/biotech/biomea-posts-phase-1-data-pitch-oral-glp-1-potential-partners",
+      "summary_en": "Biomea Fusion has shared phase 1 data on its oral GLP-1 prospect, shedding light on a small molecule designed to balance efficacy and gastrointestinal tolerability. Management hailed the data as a launchpad for talks with potential partners, but investors drove down the share price of the cash-strapped biotech.",
+      "published": "2026-10-14T09:24:00+00:00",
+      "korean_summary": "Biomea Fusion이 경구용 GLP-1 소분자 후보물질의 P1 데이터를 공개하며 파트너십 유치 시도.\n효능과 위장관 내약성 균형을 목표로 설계된 소분자, 구체적 수치는 미공개; 주가 하락으로 투자자 반응은 부정적.\n현금 부족 바이오텍의 경구 GLP-1 경쟁 진입 시도, 시장 신뢰 확보 어려움 시사.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "경구 GLP-1 소분자 P1 데이터, 사용자 연구 분야와 무관",
+      "processed_at": "2026-10-15T01:03:38.390484+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "GSK to lay off over 1,200 roles in Belgium as cost-saving program picks up steam",
+      "link": "https://www.fiercebiotech.com/biotech/gsk-lay-over-12k-roles-belgium-cost-saving-program-picks-steam",
+      "summary_en": "Up to 1,217 GSK employees in Belgium are at risk of losing their jobs as the Big Pharma rolls out its global cost-saving plans.",
+      "published": "2026-10-14T06:39:00+00:00",
+      "korean_summary": "GSK가 벨기에에서 최대 1,217명을 감원할 예정이라고 발표.\n글로벌 비용 절감 프로그램의 일환으로 빅파마 구조조정 가속화.\nGSK의 인력 재편 전략, 연구개발 우선순위 변화 가능성 시사.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "빅파마 구조조정 인사 뉴스, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-10-15T01:03:42.420310+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Zealand inks $1.2B Generate pact to add multispecific proteins to obesity pipeline",
+      "link": "https://www.fiercebiotech.com/biotech/zealand-inks-12b-generate-pact-add-multispecific-proteins-obesity-pipeline",
+      "summary_en": "Zealand Pharma is paying Generate Biomedicines $30 million upfront to collaborate on multispecific drug candidates for metabolic diseases. Milestones could bring the total value of the deal above $1 billion.",
+      "published": "2026-10-14T04:09:00+00:00",
+      "korean_summary": "Zealand Pharma가 Generate Biomedicines와 비만/대사질환 대상 multispecific 단백질 개발 협력 계약 체결.\n선급금 3천만 달러, 마일스톤 포함 총 계약가치 12억 달러 이상.\nAI 기반 de novo 단백질 설계(Generate) + 대사질환 파이프라인 결합, multispecific 단백질 신약 개발 트렌드 반영.",
+      "category": "M&A",
+      "relevance_score": 6,
+      "relevance_reason": "Generate Biomedicines의 AI 기반 단백질 설계 플랫폼이 de novo protein design 영역과 직접 연관",
+      "processed_at": "2026-10-15T01:03:46.826639+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Agilent spends $240M upfront to buy digital pathology specialist Proscia",
+      "link": "https://www.fiercebiotech.com/medtech/agilent-spends-240m-upfront-buy-digital-pathology-specialist-proscia",
+      "summary_en": "Agilent Technologies is buying up the digital pathology software company Proscia in an all-cash transaction valued at $240 million with an additional $30 million on the cards for future performance milestones.",
+      "published": "2026-10-14T03:36:00+00:00",
+      "korean_summary": "Agilent Technologies가 디지털 병리 소프트웨어 기업 Proscia를 2억4천만 달러에 인수.\n전액 현금 거래, 추가 성과 마일스톤 최대 3천만 달러 포함.\n병리 데이터 디지털화 분야 강화, 진단 플랫폼 확장 전략의 일환.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "디지털 병리 소프트웨어 인수 딜로 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-10-15T01:03:50.888014+00:00"
+    }
+  ],
+  "overall": [
+    "Zealand Pharma가 Generate Biomedicines과 12억 달러 규모 계약을 체결하며 다중특이성 단백질 기술을 비만 파이프라인에 추가, 비만 치료제 경쟁이 차세대 분자 플랫폼 확보 전쟁으로 확대되는 양상",
+    "Verastem의 RAS 표적 항암제가 초기 임상에서 '새로운 기준점'을 제시하고, Biomea는 경구용 GLP-1 1상 데이터를 공개해 파트너 유치에 나서는 등 난치성 적응증 및 GLP-1 경구화 임상 데이터 발표가 잇따름",
+    "GSK가 벨기에에서 1,200명 이상 감원을 진행하고 Verdiva가 GLP-1 전환 임상을 중단하는 등 빅파마와 중소 바이오텍 모두 비용 효율화 및 파이프라인 선택과 집중을 강화하는 흐름"
+  ]
+}

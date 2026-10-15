@@ -5452,5 +5452,47 @@
     "relevance_score": 0,
     "relevance_reason": "당뇨병 디바이스 데이터 플랫폼 출시, 약물전달/단백질 설계 연구와 완전 무관",
     "processed_at": "2026-10-14T01:28:23.646348+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/verastem-challenging-daraxonrasib-its-kras-drug-multiple-solid-cancers": {
+    "korean_summary": "Verastem Oncology가 KRAS 억제제의 P1/2 초기 데이터를 공개.\n난치성 암종에서 새로운 기준점을 세웠다고 CEO가 주장했으나 구체적 수치 미공개.\nKRAS 억제제 분야의 경쟁이 지속되는 가운데 초기 신호 수준의 결과.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "KRAS 억제제 임상 초기 결과, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-10-15T01:03:27.991527+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/deep-pocketed-verdiva-axes-glp-1-switching-trial-over-market-evolution": {
+    "korean_summary": "Verdiva Bio가 경구용 GLP-1 주 1회 투여 후보물질 VRB-101의 P2 임상을 중단.\n4억 1천만 달러 자금으로 런칭 1년 만에 '시장 변화'를 이유로 스위칭 시험 철회.\nGLP-1 경구제 경쟁 심화로 임상 전략 변경 사례, 시장 포화 신호.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "GLP-1 경구제 임상 중단 뉴스, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-10-15T01:03:32.854416+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/biomea-posts-phase-1-data-pitch-oral-glp-1-potential-partners": {
+    "korean_summary": "Biomea Fusion이 경구용 GLP-1 소분자 후보물질의 P1 데이터를 공개하며 파트너십 유치 시도.\n효능과 위장관 내약성 균형을 목표로 설계된 소분자, 구체적 수치는 미공개; 주가 하락으로 투자자 반응은 부정적.\n현금 부족 바이오텍의 경구 GLP-1 경쟁 진입 시도, 시장 신뢰 확보 어려움 시사.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "경구 GLP-1 소분자 P1 데이터, 사용자 연구 분야와 무관",
+    "processed_at": "2026-10-15T01:03:38.390484+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gsk-lay-over-12k-roles-belgium-cost-saving-program-picks-steam": {
+    "korean_summary": "GSK가 벨기에에서 최대 1,217명을 감원할 예정이라고 발표.\n글로벌 비용 절감 프로그램의 일환으로 빅파마 구조조정 가속화.\nGSK의 인력 재편 전략, 연구개발 우선순위 변화 가능성 시사.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 구조조정 인사 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-10-15T01:03:42.420310+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/zealand-inks-12b-generate-pact-add-multispecific-proteins-obesity-pipeline": {
+    "korean_summary": "Zealand Pharma가 Generate Biomedicines와 비만/대사질환 대상 multispecific 단백질 개발 협력 계약 체결.\n선급금 3천만 달러, 마일스톤 포함 총 계약가치 12억 달러 이상.\nAI 기반 de novo 단백질 설계(Generate) + 대사질환 파이프라인 결합, multispecific 단백질 신약 개발 트렌드 반영.",
+    "category": "M&A",
+    "relevance_score": 6,
+    "relevance_reason": "Generate Biomedicines의 AI 기반 단백질 설계 플랫폼이 de novo protein design 영역과 직접 연관",
+    "processed_at": "2026-10-15T01:03:46.826639+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/agilent-spends-240m-upfront-buy-digital-pathology-specialist-proscia": {
+    "korean_summary": "Agilent Technologies가 디지털 병리 소프트웨어 기업 Proscia를 2억4천만 달러에 인수.\n전액 현금 거래, 추가 성과 마일스톤 최대 3천만 달러 포함.\n병리 데이터 디지털화 분야 강화, 진단 플랫폼 확장 전략의 일환.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "디지털 병리 소프트웨어 인수 딜로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-10-15T01:03:50.888014+00:00"
   }
 }
