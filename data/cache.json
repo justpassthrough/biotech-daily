@@ -5536,5 +5536,33 @@
     "relevance_score": 1,
     "relevance_reason": "신경계 임상 실패 뉴스로 사용자 연구 분야와 무관",
     "processed_at": "2026-10-16T00:53:15.667906+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/china-looks-ban-foreign-acquisitions-critical-biopharma-platforms": {
+    "korean_summary": "중국이 핵심 바이오의약품 플랫폼의 외국 기업 인수를 금지·제한하는 초안 정책을 발표.\n항체, 유전자치료, 세포치료 등 핵심 기술의 해외 수출·매각 제한이 주요 내용.\n미·중 바이오 기술 디커플링 가속화로 글로벌 라이선싱 딜 구조에 영향 전망.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "규제 정책 뉴스로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-10-17T00:53:46.617674+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/labcorp-thrive-global-launch-latest-thrive-5-health-test": {
+    "korean_summary": "Labcorp과 Thrive Global이 협력하여 'Thrive 5 Health Test'를 출시.\n아리아나 허핑턴의 행동 변화 기술 기업 Thrive Global과의 협업 기반 건강 검사 서비스.\n일반 소비자 건강검진 시장 관련 제품으로, 바이오테크 R&D와 직접 연관성 없음.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "일반 소비자 건강검진 서비스 출시, 연구 분야와 무관",
+    "processed_at": "2026-10-17T00:53:50.541610+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/city-goes-public-200m-ipo-while-frazier-takes-biotech-focused-spac-nasdaq": {
+    "korean_summary": "City Therapeutics가 2억 달러 규모 IPO를 통해 나스닥에 상장.\n동일 날 Frazier Life Sciences도 두 번째 바이오텍 특화 SPAC을 나스닥에 상장.\n바이오텍 IPO 및 SPAC 시장 활동 재개 신호.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "바이오텍 IPO/SPAC 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-10-17T00:53:54.039407+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/fda-calls-early-alert-edwards-lifesciences-mitral-valve-replacement-after-injury-death": {
+    "korean_summary": "FDA가 Edwards Lifesciences의 SAPIEN M3 경카테터 승모판 교체 시스템 관련 조기 경보 발령.\n사망 및 부상 사례 보고로 인한 심각한 안전성 우려, 특정 전달 시스템 대상.\n의료기기 안전 규제 동향이나 FDA 경보 절차 관련 사례.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "의료기기 안전 경보로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-10-17T00:53:58.278164+00:00"
   }
 }
