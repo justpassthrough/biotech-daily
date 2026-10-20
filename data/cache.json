@@ -5564,5 +5564,68 @@
     "relevance_score": 0,
     "relevance_reason": "의료기기 안전 경보로 사용자 연구 분야와 완전 무관",
     "processed_at": "2026-10-17T00:53:58.278164+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/lilly-partners-hong-kongs-metis-11b-deal-bolster-ai-nanoparticle-discovery": {
+    "korean_summary": "Eli Lilly가 홍콩 기반 AI 나노입자 발굴 기업 Metis와 11억 달러 규모 파트너십 체결.\nAI 기반 나노입자 약물전달 기술 공동개발이 핵심, Lilly의 drug delivery 및 AI 기술 파트너십 시리즈 중 하나.\n빅파마의 AI+나노입자 전달 플랫폼 투자 가속화 트렌드를 보여주는 딜.",
+    "category": "M&A",
+    "relevance_score": 7,
+    "relevance_reason": "AI 기반 나노입자 drug delivery 직접 관련, nanomedicine 연구와 시장 신호 공유",
+    "processed_at": "2026-10-20T01:20:28.523181+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/investment-firm-tcgx-picks-migraine-biotech-trigemx-take-public-spac": {
+    "korean_summary": "TCGX 투자사가 편두통 치료제 개발 바이오텍 TriGemX Bio를 SPAC을 통해 상장 추진.\n구체적 딜 규모나 임상 데이터는 공개되지 않았으며, 편두통 타깃 치료제 중심 파이프라인 보유.\n바이오텍 SPAC 상장 트렌드의 일환으로 편두통 치료 시장 진입 시도.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "편두통 바이오텍 SPAC 상장 뉴스, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-10-20T01:20:33.061161+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gilead-sitting-foundational-asset-its-oral-ibd-drug-after-mid-stage-win": {
+    "korean_summary": "Gilead의 경구용 궤양성 대장염 치료제가 Phase 2 임상에서 임상적 개선 효과를 입증.\n중기 임상(P2)에서 UC 환자 대상 유효성 확인, 구체적 수치는 미공개.\nIBD 경구 치료제 시장 경쟁 심화, Gilead의 염증성 장질환 파이프라인 강화.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "궤양성 대장염 경구 치료제 P2 결과, 사용자 연구 분야와 무관",
+    "processed_at": "2026-10-20T01:20:37.671831+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/enlivex-lays-60-employees-and-gives-execs-substantial-salary-cuts": {
+    "korean_summary": "이스라엘 바이오텍 Enlivex가 전체 직원의 60%를 해고하고 전임상 R&D를 전면 중단.\n임원 급여 삭감과 구조조정을 통해 골관절염 치료제 파이프라인에 자금 집중.\n소규모 바이오텍의 현금 위기와 파이프라인 선택 집중 전략을 보여주는 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "구조조정/인사 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-10-20T01:20:41.905905+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/merck-kgaa-buys-silence-13b-deal-biotechs-blood-cancer-sirna-drug": {
+    "korean_summary": "Merck KGaA가 영국 siRNA 바이오텍 Silence Therapeutics를 13억 달러에 인수 합의.\nSilence의 혈액암 치료용 siRNA 후보물질이 P2에서 Takeda의 Mimrylo 경쟁 약물로 성과를 보인 후 딜 성사.\nsiRNA 분야 빅파마 인수 활발, RNA 기반 치료제 시장 경쟁 심화.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "siRNA/RNA 치료제 딜로 사용자 연구 분야(단백질 나노케이지, ADC, de novo 설계)와 직접 관련성 낮음",
+    "processed_at": "2026-10-20T01:20:47.285869+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/disc-spins-past-fda-rejection-overwhelmingly-positive-phase-3-data": {
+    "korean_summary": "Disc Medicine의 bitopertin이 희귀질환 대상 P3 임상에서 공동 1차 및 모든 2차 평가변수 달성.\n이전 FDA 거부 후 재신청을 위한 데이터 확보, 구체적 수치는 미공개.\n희귀질환 분야에서 한 차례 거부된 약물의 재도전 성공 사례로 주목.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "희귀질환 소분자 약물 P3 결과, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-10-20T01:20:51.726512+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/roche-returns-chinas-adc-powerhouse-hansoh-15b-biobucks-pact": {
+    "korean_summary": "Roche가 중국 ADC 강자 Hansoh Pharmaceutical과 150억 달러 규모의 라이선싱 계약 체결.\n지난해 첫 ADC 협력에 이어 두 번째 대형 딜, 총 계약 규모 15B 달러(바이오벅스 기준).\n빅파마의 중국 ADC 기술 확보 경쟁 심화, ADC 플랫폼 가치 지속 상승 신호.",
+    "category": "M&A",
+    "relevance_score": 7,
+    "relevance_reason": "ADC 분야 대형 라이선싱 딜, ADC 기술 및 시장 동향 직접 관련",
+    "processed_at": "2026-10-20T01:20:56.515629+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/abbvies-next-gen-crohns-combination-beats-skyrizi-phase-2-trial": {
+    "korean_summary": "AbbVie의 차세대 크론병 병용 후보물질이 P2 임상에서 자사 Skyrizi(risankizumab) 대비 우수한 결과 달성.\n구체적 수치는 공개되지 않았으나, 기존 블록버스터 대비 효능 우위 확인.\n자가면역 치료제 시장 내 AbbVie의 차세대 파이프라인 강화 전략.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "크론병 P2 임상 결과, 연구 분야와 직접 연관 없음",
+    "processed_at": "2026-10-20T01:21:00.969055+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/siemens-healthineers-partners-paradromics-build-out-new-imaging-system-support-bcis": {
+    "korean_summary": "Paradromics와 Siemens Healthineers가 뇌-컴퓨터 인터페이스(BCI) 지원용 멀티모달 이미징 플랫폼 구축 협업 발표.\n이식형 BCI의 임상 사용 증가를 지원하기 위한 첨단 이미징 시스템 개발이 목표.\nBCI 임상 인프라 확장 트렌드를 보여주나, 신약/단백질 연구와는 거리 있음.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "BCI 이미징 플랫폼 협업으로 사용자 연구 분야(약물전달, 단백질 설계)와 무관",
+    "processed_at": "2026-10-20T01:21:05.574835+00:00"
   }
 }
