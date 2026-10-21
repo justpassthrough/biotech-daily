@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T01:06:12.508155+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Rapport's phase 2 bipolar win strikes chord with analysts despite falling short of original ambition",
+      "link": "https://www.fiercebiotech.com/biotech/rapport-bipolar-data-strike-chord-analysts-despite-missing-target",
+      "summary_en": "Rapport Therapeutics’ phase 2 bipolar mania study has hit its primary endpoint, furthering the biotech’s efforts to make RAP-219 a multiindication blockbuster. However, the effect size fell short of the level targeted by Rapport and analysts ahead of the readout.",
+      "published": "2026-10-20T09:20:00+00:00",
+      "korean_summary": "Rapport Therapeutics의 RAP-219가 양극성 조증 P2 임상에서 1차 평가지표 달성.\n그러나 효과 크기(effect size)는 사전에 설정한 목표치에 미치지 못해 기대 이하.\nRAP-219의 다적응증 전략 지속 추진 가능하나, 임상 성과 수준에 대한 불확실성 존재.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "정신과 약물 P2 결과, 사용자 연구 분야와 무관",
+      "processed_at": "2026-10-21T01:05:47.230381+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Lycia aims for $228M IPO to generate data on food allergy rival to Xolair",
+      "link": "https://www.fiercebiotech.com/biotech/lycia-aims-228m-generate-data-food-allergy-rival-xolair",
+      "summary_en": "Lycia Therapeutics is banking on a $227.8 million IPO as the biotech seeks to finance its pipeline of protein degraders for autoimmune, inflammatory and allergic diseases.",
+      "published": "2026-10-20T07:50:00+00:00",
+      "korean_summary": "Lycia Therapeutics가 2억 2,780만 달러 규모 IPO를 추진 중.\n자가면역·염증·알레르기 질환 대상 단백질 분해제(protein degrader) 파이프라인 임상 데이터 확보 목적이며, Xolair 경쟁 식품 알레르기 후보 포함.\nprotein degrader 섹터 IPO 동향 및 자금조달 환경 신호.",
+      "category": "기타",
+      "relevance_score": 2,
+      "relevance_reason": "protein degrader 언급이나 본인 연구(ferritin, ADC linker, de novo binder)와 직접 연관성 낮음",
+      "processed_at": "2026-10-21T01:05:52.361041+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Industry at a ‘turning point’ with growth dominated by commercial leaders: EY report",
+      "link": "https://www.fiercebiotech.com/medtech/industry-turning-point-growth-dominated-commercial-leaders-ey-report",
+      "summary_en": "A new report has found that in 2025 through the first half of 2026, innovation increased dealmaking and R&D investment, AI heavily influenced the future of value creation, and that industry growth continued to expand into alternative care settings.",
+      "published": "2026-10-20T04:44:00+00:00",
+      "korean_summary": "EY 보고서, 2025~2026년 상반기 바이오텍 산업이 '전환점'에 있다고 발표.\nAI가 가치 창출에 큰 영향, 딜메이킹·R&D 투자 증가, 대형 상업화 기업 중심으로 성장 지속.\n산업 전반 거시 트렌드 보고서로, 개별 기술보다 섹터 동향 파악 용도.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "산업 전반 거시 트렌드 보고서로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-10-21T01:05:57.211470+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Pfizer makes ‘business decision’ to end phase 2 trial of autoimmune drug as program’s future uncertain",
+      "link": "https://www.fiercebiotech.com/biotech/pfizer-makes-business-decision-end-phase-2-trial-autoimmune-drug-while-programs-future",
+      "summary_en": "Pfizer has called time on a phase 2 trial of its CXCR5 antibody in an autoimmune blood disorder, with the company tight-lipped on whether this marks the end of the road for the asset.",
+      "published": "2026-10-20T04:03:00+00:00",
+      "korean_summary": "Pfizer가 자가면역 혈액질환 대상 CXCR5 항체의 P2 임상시험을 '사업적 결정'으로 중단.\n구체적 실패 이유나 향후 프로그램 계획에 대해 공식 언급 없음.\n빅파마의 자가면역 파이프라인 구조조정 일환으로, 자산 가치 불확실성 부각.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "자가면역 항체 P2 중단 소식으로, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-10-21T01:06:01.843410+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "AstraZeneca taps Oracle to help improve recruitment for clinical trials",
+      "link": "https://www.fiercebiotech.com/biotech/astrazeneca-taps-oracle-help-improve-recruitment-clinical-trials",
+      "summary_en": "AstraZeneca has turned to data giant Oracle as the U.K.-based Big Pharma works on one of the eternal problems of drug development—improving patient recruitment.",
+      "published": "2026-10-20T02:37:00+00:00",
+      "korean_summary": "AstraZeneca가 임상시험 환자 모집 개선을 위해 Oracle과 협력 체결.\n데이터 플랫폼 활용을 통한 임상 리크루트먼트 효율화가 핵심 목적.\n빅파마의 임상 운영 디지털화 트렌드의 일환으로, 직접적 신약 개발 기술과는 거리 있음.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "임상 운영 인프라 관련 빅파마 뉴스로, 사용자 연구 분야와 무관",
+      "processed_at": "2026-10-21T01:06:06.498287+00:00"
+    }
+  ],
+  "overall": [
+    "Lycia Therapeutics가 식품 알레르기 치료제(Xolair 경쟁약) 임상 데이터 확보를 위해 2억 2,800만 달러 IPO를 추진하며 자금 조달에 나섰음",
+    "Pfizer는 자가면역 질환 대상 2상 임상을 '사업적 판단'으로 조기 종료하며 파이프라인 선택과 집중 기조를 재확인함",
+    "Rapport Therapeutics의 양극성장애 2상 부분 성공과 AstraZeneca-Oracle 임상 모집 협력 등, 임상 효율화와 데이터 확보가 업계 핵심 과제로 부상함"
+  ]
+}
