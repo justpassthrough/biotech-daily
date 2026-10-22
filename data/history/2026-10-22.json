@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T01:04:38.896326+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Amid bepirovirsen triumph, GSK quietly scraps trial of next-gen hep B therapy",
+      "link": "https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy",
+      "summary_en": "GSK may have cemented its hepatitis B credentials with Tuesday’s landmark FDA nod for its “functional cure” bepirovirsen, but the pharma continues to rethink its strategy for next-gen candidates.",
+      "published": "2026-10-21T09:37:00+00:00",
+      "korean_summary": "GSK가 B형간염 치료제 bepirovirsen의 FDA 승인을 획득했으나, 차세대 후보 임상은 조용히 중단.\nB형간염 분야에서 '기능적 치료(functional cure)' 달성으로 주목받는 한편, 다음 세대 전략 재편 중.\n빅파마의 승인 후 파이프라인 조정 패턴, 차세대 간염 치료제 개발 방향성에 대한 시사점.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "B형간염 치료제 관련 빅파마 전략 뉴스로, 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-10-22T01:04:08.550960+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Roche builds blockbuster BTK case for fenebrutinib in multiple sclerosis as FDA decision approaches",
+      "link": "https://www.fiercebiotech.com/biotech/roche-builds-blockbuster-btk-case-multiple-sclerosis-fda-decision-approaches",
+      "summary_en": "Roche has dived into the data behind its filing for FDA approval of fenebrutinib in multiple sclerosis, unpacking the BTK inhibitor’s effect on chronic active lesions, disease control and brain volume.",
+      "published": "2026-10-21T09:30:00+00:00",
+      "korean_summary": "Roche가 BTK 억제제 fenebrutinib의 다발성경화증 FDA 승인 신청 관련 데이터를 공개.\n만성 활성 병변 감소, 뇌 용적 보존 등 BTK 억제 효과 구체적 수치 제시.\nFDA 결정을 앞두고 BTK 억제제 MS 치료제 시장 진입 가능성 부각.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "신경과 임상 결과, 사용자 연구 분야(나노케이지/ADC/단백질 설계)와 거의 무관",
+      "processed_at": "2026-10-22T01:04:13.130175+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Astellas links up with AI Proteins in $400M computational drug discovery deal",
+      "link": "https://www.fiercebiotech.com/biotech/astellas-links-ai-proteins-400m-computational-discovery-deal",
+      "summary_en": "Japan's Astellas Pharma has tapped Boston computational discovery company AI Proteins in a drug discovery deal potentially worth $400 million.",
+      "published": "2026-10-21T09:16:00+00:00",
+      "korean_summary": "Astellas Pharma가 보스턴 기반 AI Proteins社와 최대 4억 달러 규모의 신약개발 딜 체결.\n계약 구조 세부사항 미공개, AI 기반 단백질 설계 플랫폼 활용 신약 발굴이 핵심.\nde novo 단백질 설계 기업의 빅파마 파트너십 사례로, 해당 기술의 상업적 가치 상승 시사.",
+      "category": "M&A",
+      "relevance_score": 7,
+      "relevance_reason": "AI 기반 de novo 단백질 설계 전문 기업과의 빅파마 딜로, 사용자 연구 분야인 단백질 binder 설계 기술의 산업화 트렌드와 직접 연관",
+      "processed_at": "2026-10-22T01:04:18.783282+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Biotech reverse mergers rebound to highest level since 2021 as PIPEs flood market: report",
+      "link": "https://www.fiercebiotech.com/biotech/biotech-reverse-mergers-rebound-highest-level-2021-pipes-flood-markets",
+      "summary_en": "Reverse mergers have returned with a bang. More biotechs have taken the back door to the public markets so far in 2026 than in any full year since 2021, according to J.P. Morgan, with institutional investors backing many of the newly public companies from day one.",
+      "published": "2026-10-21T03:13:00+00:00",
+      "korean_summary": "2026년 바이오텍 역합병(reverse merger) 건수가 2021년 이후 최고 수준으로 반등.\nJ.P. Morgan 보고서에 따르면 PIPE 투자자들이 초기부터 신규 상장사 지원, 기관 자본 유입 활발.\n자금조달 환경 변화로 비공개 바이오텍의 우회상장 전략이 다시 부상.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "바이오텍 금융/IPO 동향으로 사용자 연구 분야와 무관",
+      "processed_at": "2026-10-22T01:04:23.320735+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Myriad Genetics to sell off Prenatal Health testing business to Labcorp",
+      "link": "https://www.fiercebiotech.com/medtech/myriad-genetics-sell-prenatal-health-testing-business-labcorp",
+      "summary_en": "Myriad Genetics is selling off its Prenatal Health testing biz to Labcorp for $210 million in cash.",
+      "published": "2026-10-21T02:18:00+00:00",
+      "korean_summary": "Myriad Genetics가 산전 검사(Prenatal Health) 사업부를 Labcorp에 매각.\n매각 금액 2억 1천만 달러 현금 거래.\n진단 기업의 포트폴리오 재편 사례, 유전자 검사 시장 구조 변화.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "유전자 진단 사업 매각, 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-10-22T01:04:27.011851+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Hologic snaps up Reveal Genomics to boost genomic diagnostic reach",
+      "link": "https://www.fiercebiotech.com/medtech/hologic-snaps-reveal-genomics-boost-genomic-diagnostic-reach",
+      "summary_en": "Hologic is acquiring precision oncology company Reveal Genomics.",
+      "published": "2026-10-21T02:11:00+00:00",
+      "korean_summary": "Hologic이 정밀 종양학 기업 Reveal Genomics를 인수한다고 발표.\n딜 규모 등 구체적 수치는 미공개, 정밀 진단 포트폴리오 확장이 목적.\n종양 유전체 진단 시장 내 M&A 흐름의 일부.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "유전체 진단 기업 인수, 사용자 연구 분야(나노의약, ADC, 단백질 설계)와 직접 연관 없음",
+      "processed_at": "2026-10-22T01:04:33.048872+00:00"
+    }
+  ],
+  "overall": [
+    "Astellas가 AI Proteins과 최대 $400M 규모의 AI 기반 신약 발굴 딜을 체결하며, 빅파마의 AI 플랫폼 기업 활용 전략이 가속화되고 있음",
+    "Roche의 fenebrutinib이 다발성경화증 임상에서 블록버스터 가능성을 입증하며 FDA 결정을 앞두고 BTK 억제제 시장 경쟁이 본격화되고 있음",
+    "Myriad Genetics의 산전검사 사업부 Labcorp 매각, Hologic의 Reveal Genomics 인수 등 진단·유전체 분야에서 포트폴리오 재편 M&A가 동시다발적으로 진행되고 있음"
+  ]
+}
