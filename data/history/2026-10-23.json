@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T01:04:34.163485+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "AbbVie scratches out phase 3 hidradenitis suppurativa win but falls short of expectations",
+      "link": "https://www.fiercebiotech.com/biotech/abbvie-scratches-out-phase-3-hidradenitis-suppurativa-win-falls-short-expectations",
+      "summary_en": "A phase 3 trial of AbbVie’s lutikizumab in hidradenitis suppurativa has hit its primary endpoint. But with the drug candidate beating placebo by a narrower margin than expected, the readout raises questions about AbbVie’s chances of cracking a competitive market.",
+      "published": "2026-10-22T10:39:00+00:00",
+      "korean_summary": "AbbVie의 lutikizumab이 화농성 한선염(HS) 대상 P3 임상에서 1차 평가변수 달성.\n그러나 위약 대비 효능 차이가 예상보다 좁아 경쟁 시장 진입 가능성에 의문 제기.\n이미 AbbVie 자사 Humira 후속제품들과 경쟁 중인 HS 시장에서 차별화 어려울 전망.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "HS 적응증 P3 임상 결과, 사용자 연구 분야와 거리가 멈",
+      "processed_at": "2026-10-23T01:03:57.093901+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Celltrion picks up another Kaigene autoimmune antibody for up to $580.5M",
+      "link": "https://www.fiercebiotech.com/biotech/celltrion-picks-another-kaigene-autoimmune-antibody-5805m",
+      "summary_en": "Celltrion has licensed a preclinical antibody targeting autoimmune conditions from Maryland-based biotech Kaigene in a deal worth up to $580.5 million, marking another step in the South Korean drugmaker's expansion beyond its traditional biosimilar business.",
+      "published": "2026-10-22T10:29:00+00:00",
+      "korean_summary": "셀트리온이 미국 바이오텍 Kaigene으로부터 자가면역 항체(전임상)를 최대 5억 8050만 달러에 라이선스 인.\n바이오시밀러 중심 사업에서 벗어나 오리지널 항체 파이프라인 확장 전략의 일환.\n한국 대형 제약사의 신약 항체 딜 확대 흐름, Kaigene과의 두 번째 계약으로 파트너십 심화.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "항체 라이선싱 딜이나 ADC·단백질 설계·약물전달과 직접 연관 없는 일반 항체 계약",
+      "processed_at": "2026-10-23T01:04:03.132597+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Menarini's Stemline picks up Georgiamune preclinical cancer immunotherapy in $1.1B deal",
+      "link": "https://www.fiercebiotech.com/biotech/menarini-stemline-pick-georgiamune-preclinical-cancer-immunotherapy-11b",
+      "summary_en": "Georgiamune, an immunology-focused biotech out of Maryland, has licensed a preclinical cancer drug candidate to Stemline Therapeutics, owned by Italy's Menarini Group, for up to $1.1 billion.",
+      "published": "2026-10-22T09:11:00+00:00",
+      "korean_summary": "Menarini 계열 Stemline Therapeutics가 Georgiamune의 전임상 항암 면역치료제 후보를 최대 11억 달러에 라이선싱.\n계약금 및 마일스톤 합산 최대 11억 달러 규모, 대상 물질은 전임상 단계 면역항암제.\n빅파마-바이오텍 간 전임상 단계 라이선싱 딜 활발, 면역항암 분야 조기 기술 확보 경쟁 지속.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "면역항암 라이선싱 딜로 사용자 연구 분야(약물전달, 단백질 설계)와 직접 관련 없음",
+      "processed_at": "2026-10-23T01:04:08.839065+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Quest Diagnostics’ test results system breached in yet another medtech cyberattack",
+      "link": "https://www.fiercebiotech.com/medtech/quest-diagnostics-test-results-system-breached-yet-another-medtech-cyberattack",
+      "summary_en": "Quest Diagnostics is the latest life sciences company to fall victim to a cyberattack, with the company believing patient records have been compromised.",
+      "published": "2026-10-22T08:28:00+00:00",
+      "korean_summary": "Quest Diagnostics의 환자 검사 결과 시스템이 사이버 공격으로 침해됨.\n환자 기록 유출 가능성 있으며, 의료 IT 보안 사고로 신고됨.\n의료/생명과학 분야 사이버 공격 증가 추세를 보여주는 사례.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "사이버보안 사고로 연구 분야와 완전 무관",
+      "processed_at": "2026-10-23T01:04:12.460158+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Rebranded NodThera plans IPO to fund NLRP3 inhibitor’s push toward approval",
+      "link": "https://www.fiercebiotech.com/biotech/rebranded-nodthera-plans-ipo-fund-nlrp3-inhibitors-push-toward-approval",
+      "summary_en": "NodThera—under its new name Rezera—is planning an IPO as the biotech steps up its ambitions to get its NLRP3 inhibitor to market.",
+      "published": "2026-10-22T05:28:00+00:00",
+      "korean_summary": "NodThera가 Rezera로 사명 변경 후 IPO를 통한 자금조달 계획 발표.\nNLRP3 억제제 상업화를 목표로 하며, 구체적 공모 규모 및 임상 단계는 미공개.\n염증 경로 타깃 소분자 신약 개발사의 상장 전략 신호.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "NLRP3 억제제 IPO 뉴스로 사용자 연구 분야와 직접 연관성 없음",
+      "processed_at": "2026-10-23T01:04:17.038585+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Roche’s CEO has ‘absolutely not’ changed tune on Poseida despite scrapping CAR-T from the buyout",
+      "link": "https://www.fiercebiotech.com/biotech/roches-ceo-has-absolutely-not-changed-tune-15b-poseida-buy-despite-scrapping-asset",
+      "summary_en": "Roche’s CEO has insisted to Fierce that the company’s view on its $1.5 billion Poseida buyout has “absolutely not” changed, even as the Swiss pharma scraps one of the CAR-T therapy’s from the acquisition.",
+      "published": "2026-10-22T04:21:00+00:00",
+      "korean_summary": "Roche CEO가 15억 달러 규모 Poseida 인수에 대한 전략적 시각이 변하지 않았다고 강조.\n인수 후 CAR-T 치료제 중 하나를 파이프라인에서 제거했음에도 불구하고 인수 가치 유지 입장.\n빅파마의 세포치료제 포트폴리오 조정 전략과 M&A 후 파이프라인 선별 과정을 보여주는 사례.",
+      "category": "빅파마",
+      "relevance_score": 2,
+      "relevance_reason": "CAR-T 관련 빅파마 전략 뉴스, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-10-23T01:04:22.487457+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Abbott to separate Nutrition business into an independent, publicly traded company",
+      "link": "https://www.fiercebiotech.com/medtech/abbott-separate-nutrition-business-independent-publicly-traded-company",
+      "summary_en": "Abbott will separate its Nutrition business into an independent, publicly traded company through a tax-free distribution to Abbott shareholders.",
+      "published": "2026-10-22T02:33:00+00:00",
+      "korean_summary": "Abbott이 영양사업부를 독립적인 상장 법인으로 분사할 계획 발표.\n주주들에게 세금 없는 분배(tax-free distribution) 방식으로 진행.\n빅파마 포트폴리오 재편의 일환으로, 의료기기·제약 핵심사업 집중 전략.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "Abbott 사업부 분사 발표로 사용자 연구 분야와 실질적 연관 없음",
+      "processed_at": "2026-10-23T01:04:26.821272+00:00"
+    }
+  ],
+  "overall": [
+    "Celltrion의 Kaigene 자가면역 항체 $580.5M 인수, Menarini/Stemline의 Georgiamune 항암 면역치료 $1.1B 딜 등 자가면역·종양면역 분야 M&A가 24시간 내 연속 성사되며 빅딜 집중",
+    "Roche가 Poseida CAR-T 프로그램을 인수 대상에서 제외했음에도 CEO가 거래 의지를 재확인하며, 빅파마의 세포·유전자치료 전략적 선별 기조가 뚜렷해짐",
+    "Abbott이 Nutrition 사업부를 독립 상장사로 분리 추진하고, NodThera(리브랜딩)가 NLRP3 억제제 승인을 위한 IPO를 계획하는 등 기업 구조 재편과 자본 조달 움직임이 동시 진행"
+  ]
+}
