@@ -5753,5 +5753,47 @@
     "relevance_score": 1,
     "relevance_reason": "Abbott 사업부 분사 발표로 사용자 연구 분야와 실질적 연관 없음",
     "processed_at": "2026-10-23T01:04:26.821272+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde": {
+    "korean_summary": "Gilead가 PepStar Therapeutics의 경구용 IL-23 수용체 억제제 프로그램을 12.75억 달러에 인수 계약 체결.\nJ&J의 Icotyde(IL-23 억제제)에 대항하는 염증성 질환 치료제 파이프라인 확보가 목적.\n빅파마의 경구용 면역억제제 시장 경쟁 심화, 생물학적제제 대체 트렌드 지속.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "IL-23 경구 억제제 딜로, 사용자 연구 분야(단백질 전달, ADC, 나노의학)와 직접 연관성 없음",
+    "processed_at": "2026-10-24T01:14:24.493851+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies": {
+    "korean_summary": "Bolt Biotherapeutics가 Prana Therapies를 주식 교환 방식 역합병으로 인수, 1억 2천만 달러 파이낸싱 병행.\n염증성 질환 대상 Prana의 리드 항체를 다수의 P2 임상으로 진전시키는 것이 목표.\n항체 치료제 중심의 전통적 염증 분야 딜, 신규 모달리티 요소 없음.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "항체 기반 염증 딜이나 ADC/나노의약/단백질 설계와 직접 연관 없음",
+    "processed_at": "2026-10-24T01:14:29.357781+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/roches-igan-kidney-disease-drug-sefaxersen-snags-ph3-win": {
+    "korean_summary": "Roche/Genentech의 antisense oligonucleotide sefaxersen이 IgA 신증(IgAN) P3에서 신장 손상 바이오마커 43.1% 감소(위약 대비) 달성.\nP3 임상 성공으로 블록버스터 가능성 부각, 구체적 수치 공개.\nASOl 기반 신장 질환 치료제 경쟁 심화, RNA 표적 치료제 영역 확장 시사.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "ASO 기반 신장 질환 임상결과로, 사용자 연구 분야(ferritin/ADC/단백질 설계)와 직접 관련성 낮음",
+    "processed_at": "2026-10-24T01:14:34.119689+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win": {
+    "korean_summary": "Takeda가 Innovent로부터 도입한 claudin18.2 타깃 ADC의 P3 임상 결과를 ESMO에서 공개.\n전체 생존기간(OS) 10.2개월로 P3 유효성 입증, 계약 규모 12억 달러.\nCLDN18.2 타깃 ADC 경쟁 심화 속 Takeda의 차세대 ADC 전략 유효성 확인.",
+    "category": "임상결과",
+    "relevance_score": 6,
+    "relevance_reason": "ADC P3 임상 결과, linker/payload 상세 없으나 ADC 모달리티 시장 동향 파악에 유용",
+    "processed_at": "2026-10-24T01:14:38.631289+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/eqt-buys-molecular-diagnostics-specialist-qiagen-eur108b-deal": {
+    "korean_summary": "스웨덴 사모펀드 EQT가 네덜란드 분자진단 기업 Qiagen을 108억 유로(약 121억 달러)에 인수.\n순부채 11억 달러 포함한 기업가치 기준 딜, Qiagen은 PCR 및 분자진단 시약·장비 선도기업.\n진단 분야 대형 사모펀드 M&A, 바이오 인프라 투자 지속 신호.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "분자진단 기업 M&A로 사용자 연구 분야(drug delivery, protein design, ADC)와 거의 무관",
+    "processed_at": "2026-10-24T01:14:43.622973+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/roche-pays-zymeworks-55m-trispecific-challenger-amgens-imdelltra": {
+    "korean_summary": "Roche가 Zymeworks의 삼중특이성 항체 ZW209에 대한 글로벌 권리를 5500만 달러 선불로 확보.\nZW209는 Amgen의 Imdelltra(SCLC 치료 BiTE) 대비 반응률 및 반응 깊이 개선을 목표로 한 trispecific 항체.\n다중특이성 항체(multispecific antibody) 경쟁 심화, Roche의 항체 포맷 다각화 전략을 보여주는 딜.",
+    "category": "M&A",
+    "relevance_score": 4,
+    "relevance_reason": "다중특이성 항체 딜로 단백질 엔지니어링 관련성은 있으나, 사용자 핵심 연구(ferritin, ADC linker, de novo design)와는 직접 연관 낮음",
+    "processed_at": "2026-10-24T01:14:49.359833+00:00"
   }
 }
