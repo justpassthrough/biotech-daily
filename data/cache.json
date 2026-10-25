@@ -5795,5 +5795,12 @@
     "relevance_score": 4,
     "relevance_reason": "다중특이성 항체 딜로 단백질 엔지니어링 관련성은 있으나, 사용자 핵심 연구(ferritin, ADC linker, de novo design)와는 직접 연관 낮음",
     "processed_at": "2026-10-24T01:14:49.359833+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data": {
+    "korean_summary": "Merck와 Moderna의 ESMO 학회 암 백신 데이터가 공식 발표 전 유출되는 사고 발생.\nMerck 임원은 유출에 대해 '어쩔 수 없다'는 반응으로 담담하게 대응.\n데이터 유출 자체가 뉴스가 된 사례로, 실질적인 임상 내용보다 사건 자체에 초점.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "암 백신 데이터 유출 관련 뉴스로, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-10-25T00:39:21.695517+00:00"
   }
 }
