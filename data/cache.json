@@ -5802,5 +5802,12 @@
     "relevance_score": 1,
     "relevance_reason": "암 백신 데이터 유출 관련 뉴스로, 사용자 연구 분야와 거의 무관",
     "processed_at": "2026-10-25T00:39:21.695517+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug": {
+    "korean_summary": "J&J가 ESMO에서 RIPTAC 기술 기반 전립선암 치료제의 첫 임상 데이터를 공개.\n약 30억 달러에 인수한 Halda Therapeutics의 RIPTAC 플랫폼 활용, J&J 임원은 '역대 최고 데이터'로 평가.\n전립선암 시장에서 J&J의 주도권 유지 전략의 일환으로, RIPTAC(단백질 분해 유도 기술) 파이프라인 가치 검증.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "전립선암 임상 결과 발표, 사용자 연구 분야(단백질 설계/나노의학)와 직접 연관성 낮음",
+    "processed_at": "2026-10-26T00:49:59.735470+00:00"
   }
 }
