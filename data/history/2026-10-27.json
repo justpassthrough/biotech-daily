@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T01:41:26.832911+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Boehringer, Microsoft team up to explore digital patient twins for clinical trials",
+      "link": "https://www.fiercebiotech.com/cro/microsoft-bi-team-launch-digital-patient-twins-trial-design-improvements",
+      "summary_en": "Boehringer Ingelheim and Microsoft have launched a collaboration to explore the use of AI-powered digital patient twins to improve clinical trial design.",
+      "published": "2026-10-26T13:24:00+00:00",
+      "korean_summary": "Boehringer Ingelheim과 Microsoft가 AI 기반 디지털 환자 트윈 활용 협업 체결.\n임상시험 설계 개선을 목표로 하며, 구체적 딜 규모나 파이프라인은 미공개.\n디지털 트윈 기술의 임상시험 적용 가능성 탐색 단계의 빅파마-빅테크 협력 사례.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "AI 임상시험 설계 협력으로, 사용자 연구 분야(단백질 설계·약물전달)와 직접 관련성 없음",
+      "processed_at": "2026-10-27T01:41:01.461700+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Anthropic lays out drug R&D ambitions, risks in mammoth IPO filing",
+      "link": "https://www.fiercebiotech.com/biotech/anthropic-extols-ais-drug-rd-potential-including-risks-mammoth-ipo-filing",
+      "summary_en": "Artificial intelligence giant Anthropic is pushing deeper into drug discovery, building its own molecular biology lab and investing in research that could eventually produce drug candidates, according to the company's blockbuster IPO filing.",
+      "published": "2026-10-26T11:51:00+00:00",
+      "korean_summary": "AI 기업 Anthropic이 IPO 신청서에서 신약 R&D 진출 계획을 공개.\n자체 분자생물학 실험실 구축 및 약물 후보 발굴 연구에 투자 예정.\nAI 빅테크의 직접적 신약 개발 진입, 기존 AI 신약 기업들과 경쟁 구도 형성 가능성.",
+      "category": "기타",
+      "relevance_score": 2,
+      "relevance_reason": "AI 기업 IPO 및 신약 R&D 진출 선언, 사용자 연구 분야(단백질 설계, ADC)와 직접 연관성은 낮음",
+      "processed_at": "2026-10-27T01:41:06.084894+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "BioNTech sees ‘limited’ benefit to ADC after phase 3 reveals modest efficacy, ILD cases",
+      "link": "https://www.fiercebiotech.com/biotech/biontech-sees-limited-benefit-adc-after-phase-3-reveals-modest-efficacy-ild-cases",
+      "summary_en": "BioNTech has reported modest efficacy and unexpected safety findings in a phase 3 breast cancer trial, leading the company to conclude its HER2-directed candidate may offer limited benefits in the current treatment landscape.",
+      "published": "2026-10-26T08:40:00+00:00",
+      "korean_summary": "BioNTech의 HER2 표적 ADC 후보물질이 유방암 P3 임상에서 미미한 효능과 예상치 못한 안전성 문제(ILD) 발생.\n간질성 폐질환(ILD) 부작용 및 제한적 효능으로 현 치료 환경에서 임상적 이점이 제한적이라고 결론.\nADC 분야에서 HER2 타깃 포화 및 ILD 부작용 관리의 중요성을 재확인하는 사례.",
+      "category": "임상결과",
+      "relevance_score": 7,
+      "relevance_reason": "HER2 ADC P3 결과로 ADC 효능·안전성(ILD) 트렌드 직접 관련",
+      "processed_at": "2026-10-27T01:41:11.383684+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "ESMO: Tango trims headcount after impressing analysts with ‘highly synergistic’ RevMed combo",
+      "link": "https://www.fiercebiotech.com/biotech/esmo-tango-dances-phase-3-analysts-hail-highly-synergistic-revmed-combo",
+      "summary_en": "Tango disclosed a 14% reduction in headcount even as the company shared more evidence that its PRMT5 inhibitor enhances Revolution Medicines’ Rasonque.",
+      "published": "2026-10-26T05:07:00+00:00",
+      "korean_summary": "Tango Therapeutics가 인력 14% 감축을 단행하며 ESMO에서 PRMT5 억제제 데이터 발표.\nRevolution Medicines의 RAS 억제제(Rasonque)와의 병용 시 시너지 효과 확인, 애널리스트 긍정 반응.\n구조조정과 병용요법 전략 병행, 소규모 바이오텍의 선택과 집중 사례.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "PRMT5 억제제·RAS 병용 임상 데이터, 사용자 연구 분야와 직접 연관성 없음",
+      "processed_at": "2026-10-27T01:41:16.904103+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Lycia leaps onto Nasdaq with upsized $318M IPO as Windward breezes toward listing",
+      "link": "https://www.fiercebiotech.com/biotech/lycia-leaps-nasdaq-upsized-318m-ipo-while-windward-also-plans-listing",
+      "summary_en": "Lycia Therapeutics went public with an upsized $317.5 million IPO on Friday, while immunology-focused Windward Bio is hoping to catch the same tailwinds.",
+      "published": "2026-10-26T05:05:00+00:00",
+      "korean_summary": "Lycia Therapeutics가 나스닥에 3억1750만 달러 규모의 IPO를 완료(당초 규모 상향).\nLycia는 LYTAC 기술(단백질 분해/제거 플랫폼) 기반 바이오텍으로, Windward Bio도 상장 추진 중.\n바이오텍 IPO 시장 회복 신호, 단백질 분해 modality에 대한 투자 관심 지속.",
+      "category": "기타",
+      "relevance_score": 2,
+      "relevance_reason": "IPO 자금조달 뉴스로 사용자 연구 분야와 직접 관련성 낮음",
+      "processed_at": "2026-10-27T01:41:21.975119+00:00"
+    }
+  ],
+  "overall": [
+    "BioNTech의 ADC 후보가 phase 3에서 제한적 효능과 ILD 부작용을 보이며 ADC 계열 치료제의 임상 한계가 재조명됨",
+    "Lycia Therapeutics가 $318M 규모의 IPO를 나스닥에 상장하며 바이오텍 기업공개 시장이 회복 흐름을 이어감",
+    "Boehringer Ingelheim과 Microsoft가 임상시험용 디지털 환자 트윈 개발에 협력하며 빅파마의 AI·디지털 기술 접목이 가속화됨"
+  ]
+}
