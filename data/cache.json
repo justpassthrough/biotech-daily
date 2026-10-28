@@ -5844,5 +5844,47 @@
     "relevance_score": 2,
     "relevance_reason": "IPO 자금조달 뉴스로 사용자 연구 분야와 직접 관련성 낮음",
     "processed_at": "2026-10-27T01:41:21.975119+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/artiva-lays-94-staff-after-deaths-and-durability-sink-autoimmune-cell-therapy": {
+    "korean_summary": "Artiva Biotherapeutics가 자가면역 세포치료제 개발 중단 후 직원 94%를 해고.\n임상에서 환자 2명 사망 및 내구성(durability) 데이터 기대치 미달이 원인.\n세포치료제 분야의 안전성·지속성 한계를 다시 한번 부각시킨 사례.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "세포치료제 임상 실패 소식으로 사용자 연구 분야와 직접 관련성 낮음",
+    "processed_at": "2026-10-28T01:53:33.254241+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/parkinsons-focused-aspen-and-bispecific-biotech-bambusa-both-shoot-134m-ipos": {
+    "korean_summary": "파킨슨병 세포치료제 기업 Aspen Neuroscience와 이중특이항체 바이오텍 Bambusa Therapeutics가 각각 IPO 추진.\n두 회사 모두 약 1억 3,400만 달러 조달 목표.\nIPO 시장 회복 신호, 세포치료제 및 이중특이항체 분야 투자 수요 확인.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "IPO 펀딩 뉴스로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-10-28T01:53:37.397692+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ras-rivalries-leaked-vaccine-readouts-esmo-brought-data-drama": {
+    "korean_summary": "ESMO 2024에서 Moderna/Merck의 암 백신 P3 데이터가 공식 발표 이틀 전 유출되는 사건 발생.\nRAS 표적 치료제 경쟁 데이터 등 주요 종양학 임상 결과 다수 공개.\n학회 발표 전 데이터 유출 및 RAS 경쟁 심화 등 종양학 트렌드 반영.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "종양학 학회 이슈로 사용자 연구 분야(나노케이지, ADC, 단백질 설계)와 직접 관련 없음",
+    "processed_at": "2026-10-28T01:53:42.312442+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/novartis-ceo-keeps-faith-avidity-deal-despite-19b-hit-del-desiran-fail": {
+    "korean_summary": "Novartis CEO가 del-desiran의 P3 실패에도 불구하고 Avidity와의 딜에 대한 신뢰를 유지.\n해당 실패로 약 19억 달러 손실 추정, CEO는 이를 일시적 장애물로 표현.\nRNA 기반 치료제 분야 대형 라이선싱 딜의 임상 리스크를 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "RNA 치료제 P3 실패 뉴스, 사용자 연구 분야와 직접 연관성 낮음",
+    "processed_at": "2026-10-28T01:53:47.366668+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gsks-b7-h3-adc-drives-67-cancer-risk-reduction-phase-3": {
+    "korean_summary": "GSK의 B7-H3 표적 ADC risvutatug rezetecan이 Hansoh와의 협력 하에 중국 P3 임상에서 긍정적 결과 발표.\n재발성 골육종 환자에서 질병진행 또는 사망 위험 67% 감소 (주요 P3 결과).\nB7-H3 표적 ADC의 임상 유효성 입증, 희귀 소아암 적응증에서 ADC 확장 가능성 시사.",
+    "category": "임상결과",
+    "relevance_score": 6,
+    "relevance_reason": "ADC 임상 결과 직접 관련이나, linker 기술·나노의학·단백질 설계 등 핵심 연구 분야와는 간접적 연관",
+    "processed_at": "2026-10-28T01:53:52.690399+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/labcorp-continues-acquisition-spree-it-buys-millennium-health": {
+    "korean_summary": "Labcorp이 Millennium Health를 인수하여 미국 내 독성학 검사 역량 강화.\n거래 규모 미공개, 독성학 테스트 서비스 확장이 핵심 목적.\nLabcorp의 연속 인수 전략의 일환으로 진단 서비스 시장 통합 가속.",
+    "category": "M&A",
+    "relevance_score": 0,
+    "relevance_reason": "독성학 검사 서비스 M&A로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-10-28T01:53:56.564733+00:00"
   }
 }
