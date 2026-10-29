@@ -5886,5 +5886,47 @@
     "relevance_score": 0,
     "relevance_reason": "독성학 검사 서비스 M&A로 사용자 연구 분야와 완전 무관",
     "processed_at": "2026-10-28T01:53:56.564733+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/fdas-rare-disease-framework-aims-stand-test-time": {
+    "korean_summary": "FDA가 희귀질환 신규 프레임워크 공청회를 개최하고 센터장 Michael Davis가 발언.\n구체적 수치나 정책 내용보다 장기적 지속 가능한 체계 설계 의지 표명 수준.\n희귀질환 규제 환경 변화 가능성을 시사하는 정책 동향.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 희귀질환 정책 일반 뉴스, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-10-29T01:59:35.897914+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/genmabs-head-and-neck-cancer-bispecific-cuts-risk-death-half-ph3": {
+    "korean_summary": "Genmab의 이중특이항체 petosemtamab + Keytruda 병용이 두경부 편평세포암 P3 1차 중간분석에서 사망 위험 50% 감소.\nPD-L1 양성 재발/전이성 HNSCC 환자 대상, Keytruda 단독 대비 OS 개선 확인.\nGenmab의 Merus 80억달러 인수 전략이 임상적으로 확인된 결과로, 이중항체 병용요법의 가치 입증.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "이중특이항체 임상 결과로 항체 분야이나, ADC/linker/protein design/nanomedicine과 직접 연관성 낮음",
+    "processed_at": "2026-10-29T01:59:41.576612+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/biogen-ceo-focused-early-stage-future-company": {
+    "korean_summary": "Biogen CEO가 애널리스트들에게 초기 R&D 역량 강화를 최우선 과제로 제시.\n2024년 내 5개 신약 후보를 임상 진입시킨 것을 성과로 언급, 과거 초기 R&D 부진 인정.\nBiogen의 내부 파이프라인 재건 전략 전환 신호, 외부 딜 의존도 감소 가능성.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 경영전략 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-10-29T01:59:46.525489+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/eli-lillys-retatrutide-tops-ozempic-phase-3-diabetes-showdown": {
+    "korean_summary": "Lilly의 triple agonist retatrutide가 P3 head-to-head 시험에서 Novo의 Ozempic을 능가.\n80주 시험에서 혈당 및 체중 감소 모두 Ozempic 대비 우월한 결과 확인.\nGLP-1 시장 패권 경쟁 심화, 차세대 당뇨/비만 치료제 경쟁 구도 재편 가능성.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "GLP-1/당뇨 P3 결과로 사용자 연구 분야와 거리가 멀고 직접적 관련성 없음",
+    "processed_at": "2026-10-29T01:59:50.800547+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/gsk-predicts-some-limited-impact-uk-roles-restructuring-rolls": {
+    "korean_summary": "GSK가 진행 중인 글로벌 구조조정으로 영국 내 일부 인력 감축 예상.\n경영진이 영국 내 '제한적 영향'을 공식 확인한 수준이며 구체적 규모는 미발표.\nGSK의 조직 슬림화 기조가 지속되는 가운데 빅파마 구조조정 트렌드의 일환.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 구조조정 인사 이슈로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-10-29T01:59:55.739316+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/astellas-makes-13b-bet-audaxs-preclinical-push-reverse-decades-il-12-woes": {
+    "korean_summary": "Astellas가 Audax Biosciences의 전임상 IL-12 면역항암 프로그램에 최대 13억 달러 규모의 딜 체결.\n계약금 및 옵션 피 최대 2억 8,500만 달러 선지급, 전임상 단계 라이선스 옵션 계약.\nIL-12는 과거 독성 문제로 임상 실패 반복, 이를 극복하는 조건부 활성화 전략에 빅파마 베팅.",
+    "category": "M&A",
+    "relevance_score": 5,
+    "relevance_reason": "TME 조건부 활성화(masked IL-12) 전략이 TME masked 항체 연구와 개념적으로 인접",
+    "processed_at": "2026-10-29T02:00:01.100096+00:00"
   }
 }
