@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T02:15:43.957565+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Eli Lilly scraps phase 2 Alzheimer's program after drug falls short of expectations",
+      "link": "https://www.fiercebiotech.com/biotech/lilly-scraps-ph-2-alzheimers-disease-drug-it-did-not-meet-high-internal-bar",
+      "summary_en": "Eli Lilly has dropped its phase 2 Alzheimer's disease program for mevidalen, marking another setback for the experimental drug as the Big Pharma expands its neuroscience pipeline through multibillion-dollar acquisitions.",
+      "published": "2026-10-29T11:59:00+00:00",
+      "korean_summary": "Eli Lilly가 알츠하이머 치료제 mevidalen의 P2 임상 프로그램을 중단.\n기대 이하의 효능으로 개발 중단, Lilly는 동시에 수십억 달러 규모 인수를 통해 신경과학 파이프라인 확장 중.\n빅파마의 알츠하이머 신약 개발 난항 지속, 전략적 파이프라인 재편 신호.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "알츠하이머 P2 실패 뉴스로 사용자 연구 분야와 무관",
+      "processed_at": "2026-10-30T02:15:15.923224+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Merck outlines 2027 as ‘another year of investment’ despite recent clinical wins",
+      "link": "https://www.fiercebiotech.com/pharma/merck-outlines-2027-another-year-investment-despite-recent-clinical-wins",
+      "summary_en": "Even as a wave of clinical trial wins bolsters its momentum, Merck & Co. is prioritizing ongoing pipeline and commercial expansions over near-term margin growth, hoping to strengthen its long-term prospects past Keytruda's loss of exclusivity.",
+      "published": "2026-10-29T10:55:00+00:00",
+      "korean_summary": "Merck & Co.가 최근 임상 성과에도 불구하고 2027년을 '투자의 해'로 규정, 단기 마진보다 파이프라인 확장 우선.\nKeytruda 특허 만료 이후를 대비한 장기 전략으로 파이프라인·상업화 투자 지속 방침.\n빅파마의 블록버스터 의존 탈피 전략과 포스트-LOE 준비 사례로 업계 주목.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "Merck 전략 방향성 뉴스, 사용자 연구 분야와 직접 연관 없음",
+      "processed_at": "2026-10-30T02:15:24.614851+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "BioMarin inks up to $475M deal to challenge Fabry ERT incumbents",
+      "link": "https://www.fiercebiotech.com/biotech/biomarin-inks-475m-deal-expand-challenge-fabry-incumbents",
+      "summary_en": "BioMarin is paying $70 million upfront to license a Fabry disease drug candidate, expanding the franchise it acquired through its $4.8 billion takeover of Amicus Therapeutics.",
+      "published": "2026-10-29T10:14:00+00:00",
+      "korean_summary": "BioMarin이 Fabry disease 치료제 후보물질 라이선스 계약 체결, 선급금 7천만 달러 지급.\n총 계약 규모 최대 4억 7,500만 달러, 기존 Amicus Therapeutics 인수(48억 달러)에 이은 Fabry 프랜차이즈 확장.\nERT(효소대체요법) 시장 주도권 경쟁 심화, 희귀질환 포트폴리오 강화 전략.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "희귀질환 라이선싱 딜로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련 없음",
+      "processed_at": "2026-10-30T02:15:29.801989+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "BMS walks away from $80M neurodegeneration bet after phase 1",
+      "link": "https://www.fiercebiotech.com/biotech/bms-walks-away-80m-phase-1-neurodegeneration-bet",
+      "summary_en": "Bristol Myers Squibb has scrapped a phase 1 program it bet $80 million on just two years ago.",
+      "published": "2026-10-29T09:04:00+00:00",
+      "korean_summary": "BMS가 2년 전 8천만 달러를 투자한 신경퇴행 P1 프로그램을 전면 철수.\n구체적인 실패 원인은 미공개이나 P1 단계에서 개발 중단 결정.\n빅파마의 신경퇴행 분야 조기 실패 사례, 고위험 영역 투자 리스크 재확인.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "신경퇴행 P1 중단 소식으로 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-10-30T02:15:34.116412+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Ascletis’ challenger to Lilly’s Foundayo hits goals in phase 2 diabetes trial",
+      "link": "https://www.fiercebiotech.com/biotech/ascletis-challenger-eli-lillys-foundayo-hits-goals-phase-2-diabetes-trial",
+      "summary_en": "A phase 2 trial of Ascletis’ oral GLP-1 drug candidate has hit its primary and secondary endpoints, positioning the Chinese biotech to mount a two-front attack on Eli Lilly’s Foundayo.",
+      "published": "2026-10-29T05:11:00+00:00",
+      "korean_summary": "중국 바이오텍 Ascletis의 경구용 GLP-1 후보물질이 P2 당뇨 임상에서 1차·2차 평가변수 달성.\nLilly의 경구 GLP-1 Foundayo에 대한 직접 경쟁 구도 형성.\n경구 GLP-1 시장 경쟁 심화, 중국 바이오텍의 글로벌 경쟁력 확인.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "경구 GLP-1 P2 결과, 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-10-30T02:15:38.558596+00:00"
+    }
+  ],
+  "overall": [
+    "Eli Lilly·BMS가 각각 알츠하이머·신경퇴행성 임상을 중단하는 등 빅파마의 신경계 파이프라인 손질이 가속화되고 있음",
+    "BioMarin이 최대 4억 7,500만 달러 규모 딜로 Fabry병 ERT 시장에 도전장을 내밀며 희귀질환 M&A 경쟁이 재점화됨",
+    "Ascletis의 당뇨 신약이 Lilly의 Foundayo 대항마로 Phase 2 목표를 달성하며 GLP-1/당뇨 영역의 중국발 도전이 구체화됨"
+  ]
+}
