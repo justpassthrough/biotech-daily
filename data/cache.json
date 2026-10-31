@@ -5963,5 +5963,54 @@
     "relevance_score": 2,
     "relevance_reason": "경구 GLP-1 P2 결과, 사용자 연구 분야와 거의 무관",
     "processed_at": "2026-10-30T02:15:38.558596+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/when-drug-development-gets-personal": {
+    "korean_summary": "Third Rock Ventures 파트너 Jigar Raythatha가 뇌암 진단 후 자사 투자 바이오텍 Agios의 약물로 치료받은 경험 공유.\n개인적 환자 경험이 신약 개발 관점에 미친 영향을 팟캐스트 인터뷰에서 소개.\n투자자-환자 이중 경험담으로 산업적 시사점보다 인간적 관점 중심의 스토리.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "신약개발 투자자의 개인 경험담으로 사용자 연구 분야와 무관",
+    "processed_at": "2026-10-31T01:54:54.063523+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/bracco-invests-230m-first-us-diagnostic-imaging-manufacturing-facility": {
+    "korean_summary": "Bracco가 미국 노스캐롤라이나주 Sanford에 첫 미국 내 진단 조영제 생산 시설 설립 투자 발표.\n투자 규모 2억 3천만 달러, 주사용 조영제(injectable contrast media) 제조 시설.\n진단 이미징 공급망 미국 내재화 전략, 사용자 연구와 직접 관련성 없음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "진단 조영제 제조 시설 투자, 나노의학/단백질 설계 연구와 무관",
+    "processed_at": "2026-10-31T01:54:58.587612+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/astrazeneca-cuts-early-phase-prostate-cancer-pipeline": {
+    "korean_summary": "AstraZeneca가 분기 파이프라인 정리의 일환으로 초기 단계 전립선암 프로그램 2개를 중단.\n구체적인 타깃 또는 메커니즘 정보는 공개되지 않은 early-phase 단계 프로그램.\n빅파마의 파이프라인 선택과 집중 전략, 전립선암 경쟁 심화 반영.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 파이프라인 정리 뉴스, 사용자 연구 분야와 직접 연관 없음",
+    "processed_at": "2026-10-31T01:55:02.974223+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/bambusa-shoots-past-ipo-targets-aspen-trims-offering": {
+    "korean_summary": "Bambusa Therapeutics가 IPO를 통해 1억 6,890만 달러 조달, 이중특이항체 R&D 자금 확보.\nAspen Neuroscience는 목표 하단에서 예상보다 적은 주식 매각으로 저조한 성과.\n바이오텍 IPO 시장의 종목별 온도차를 보여주는 단면.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "IPO 자금조달 뉴스, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-10-31T01:55:07.577211+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/roche-launches-differential-diagnosis-test-mesothelioma": {
+    "korean_summary": "Roche가 중피종 감별 진단용 VENTANA BAP1 (SP527) 검사를 글로벌 출시.\n자동화 면역조직화학(IHC) 분석법으로 즉시 사용 가능한 형태.\n중피종 진단 정확도 향상 목적이나 신약 연구와 직접 연관성은 낮음.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "진단 키트 출시 뉴스로 사용자 연구 분야(약물 전달, 단백질 설계 등)와 무관",
+    "processed_at": "2026-10-31T01:55:11.771218+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/sanofi-considering-moonshot-ma-targets-survive-dupixent-patent-cliff": {
+    "korean_summary": "Sanofi CFO가 Dupixent 특허절벽 대비 M&A 전략으로 '문샷' 치료제 인수를 검토 중임을 밝힘.\nDupixent는 Sanofi 매출의 핵심이나 특허 만료 이후 파이프라인 공백이 우려됨.\n빅파마의 특허절벽 대응 M&A 수요 증가, 혁신 모달리티 기업에 대한 인수 가능성 시사.",
+    "category": "빅파마",
+    "relevance_score": 2,
+    "relevance_reason": "빅파마 전략 뉴스로, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-10-31T01:55:17.134726+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/molecular-partners-lay-44-workforce-radiotherapy-pivot": {
+    "korean_summary": "Molecular Partners가 전체 인력의 최대 44%를 감축하는 대규모 구조조정 발표.\n현금 자원 감소로 방사선 치료제(radiotherapeutic) 파이프라인 집중 전략, 소세포폐암 초기 임상 후보물질 주력.\n중소 바이오테크의 재정 압박 속 파이프라인 축소·피벗 사례.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "구조조정 및 파이프라인 피벗 뉴스로 사용자 연구 분야와 무관",
+    "processed_at": "2026-10-31T01:55:21.874748+00:00"
   }
 }
