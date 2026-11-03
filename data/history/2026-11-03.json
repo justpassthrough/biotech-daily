@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T03:46:31.837631+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "FDA grants uniQure’s Huntington’s gene therapy priority review, teeing up ‘defining milestone’",
+      "link": "https://www.fiercebiotech.com/biotech/fda-grants-uniqure-review-its-huntingtons-drug-approval-would-be-defining-milestone",
+      "summary_en": "The FDA has accepted uniQure’s priority review and application for its gene therapy treatment for Huntington’s disease.",
+      "published": "2026-11-02T15:28:00+00:00",
+      "korean_summary": "uniQure의 헌팅턴병 유전자 치료제가 FDA로부터 우선심사(Priority Review) 지정 및 신청 수리.\n헌팅턴병 대상 유전자 치료제로, BLA/NDA 심사 일정이 앞당겨지는 효과.\n희귀 신경질환 분야 유전자 치료제 승인 경로의 주요 사례로 주목.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "유전자 치료제 FDA 심사 뉴스로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 관련 없음",
+      "processed_at": "2026-11-03T03:45:58.334818+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Karyopharm files Chapter 11, lines up Ayrmid as lead bidder in planned merger",
+      "link": "https://www.fiercebiotech.com/pharma/karyopharm-files-chapter-11-and-ayrmid-agrees-make-first-bid",
+      "summary_en": "In an answer to Karyopharm's cash crisis, Irish biotech Ayrmid has agreed to make the first bid on the struggling biopharma's assets in a court supervised auction, teeing up a potential hematology merger.",
+      "published": "2026-11-02T10:17:00+00:00",
+      "korean_summary": "Karyopharm Therapeutics가 파산 신청(Chapter 11)을 하고 아일랜드 바이오텍 Ayrmid를 선도 입찰자로 지정.\n법원 감독 경매를 통해 혈액암 관련 자산 매각 절차 진행 예정.\n소규모 혈액암 바이오파마의 재무 위기 및 M&A 구조조정 사례.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "파산/자산매각 관련 뉴스로 사용자 연구 분야와 무관",
+      "processed_at": "2026-11-03T03:46:02.636086+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "OpenAI-funded Biossil snags Theriva's unwanted antibiotic degrader portfolio for up to $91M",
+      "link": "https://www.fiercebiotech.com/biotech/openai-funded-biossil-snags-therivas-antibiotic-degrader-portfolio-91m",
+      "summary_en": "Canada's OpenAI-backed startup Biossil Labs has extended its pharma shopping spree with a deal worth up to $91 million for Theriva Biologics' deprioritized early- to mid-stage portfolio of antibiotic-degrading enzymes.",
+      "published": "2026-11-02T09:55:00+00:00",
+      "korean_summary": "캐나다 스타트업 Biossil Labs가 Theriva Biologics의 항생제 분해 효소 포트폴리오를 최대 9,100만 달러에 인수.\n초기~중기 단계의 항생제 분해 효소 파이프라인으로, Theriva가 우선순위를 낮춘 자산.\nOpenAI 투자 바이오텍의 자산 매입 전략, 항생제 내성 관련 효소 치료제 시장 동향 반영.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "항생제 분해 효소 딜로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거리가 멈",
+      "processed_at": "2026-11-03T03:46:08.294532+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Teva ends trial of one of its original line-up of innovative meds over futility",
+      "link": "https://www.fiercebiotech.com/biotech/teva-ends-trial-one-its-original-line-innovative-meds-over-futility",
+      "summary_en": "Teva has given up on a key trial of one of its original line-up of innovative medicines.",
+      "published": "2026-11-02T09:24:00+00:00",
+      "korean_summary": "Teva가 자체 혁신 신약 파이프라인 중 하나의 핵심 임상시험을 무익성(futility)으로 종료.\n구체적 약물명 및 수치 정보는 공개되지 않았으나, 혁신 의약품 라인업 일부 탈락.\nTeva의 제네릭 중심 사업 구조에서 혁신 신약 전환 전략에 차질.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "임상 futility 종료 소식으로 사용자 연구 분야와 무관",
+      "processed_at": "2026-11-03T03:46:12.985750+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "FDA dims Bright Minds’ outlook with partial hold on seizure trial over toxicity in mice",
+      "link": "https://www.fiercebiotech.com/biotech/fda-dims-bright-minds-outlook-partial-hold-seizure-trial",
+      "summary_en": "The FDA has put a partial hold on Bright Minds Biosciences’ seizure study application over preclinical toxicity data and concerns about its preparations for enrolling children.",
+      "published": "2026-11-02T08:43:00+00:00",
+      "korean_summary": "FDA가 Bright Minds Biosciences의 발작 임상시험에 전임상 독성 데이터 문제로 부분 임상보류(partial hold) 조치.\n마우스 독성 데이터 및 소아 환자 등록 준비 미흡이 주요 사유.\n소아 대상 신경계 임상의 전임상 안전성 기준 엄격성을 보여주는 사례.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "신경계 소아 임상 규제 이슈, 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-11-03T03:46:17.341030+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Lower dose of Tiziana's MS drug reduces neuroinflammation, while higher dose struggles",
+      "link": "https://www.fiercebiotech.com/biotech/tiziana-sees-lower-dose-intranasal-ms-drug-hit-neuroinflammation-goal-while-higher-dose",
+      "summary_en": "Tiziana Life Sciences’ intranasal drug has hit the dual endpoints of a phase 2a study in patients with a form of multiple sclerosis (MS), although the win was slightly marred by the higher dose missing a key neuroinflammation goal.",
+      "published": "2026-11-02T08:40:00+00:00",
+      "korean_summary": "Tiziana Life Sciences의 비강 투여 MS 치료제가 Phase 2a 듀얼 엔드포인트 달성.\n저용량에서 신경염증 감소 효과 확인, 고용량은 주요 신경염증 지표 미달.\n비강 투여 경로의 용량-반응 관계 복잡성을 보여주는 임상 결과.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "MS 약물 임상 결과로 사용자 연구 분야와 거의 무관",
+      "processed_at": "2026-11-03T03:46:21.189099+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "China's InventisBio delivers competitive TYK2 data in phase 3 psoriasis win",
+      "link": "https://www.fiercebiotech.com/biotech/inventisbio-delivers-competitive-tyk2-data-phase-3-psoriasis-win",
+      "summary_en": "A phase 3 trial of InventisBio’s nomelcitinib has hit its primary endpoint, delivering evidence that the TYK2 inhibitor can hold its own against rival psoriasis drugs.",
+      "published": "2026-11-02T05:47:00+00:00",
+      "korean_summary": "중국 InventisBio의 TYK2 억제제 nomelcitinib이 건선 P3 임상에서 1차 평가변수 달성.\n기존 경쟁 건선 치료제 대비 동등 이상의 효능 데이터 확보.\nTYK2 억제제 시장(BMS Sotyktu 선점) 내 후발 경쟁 심화 신호.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "TYK2 억제제 건선 임상 결과로 사용자 연구 분야와 무관",
+      "processed_at": "2026-11-03T03:46:25.518030+00:00"
+    }
+  ],
+  "overall": [
+    "uniQure의 헌팅턴병 유전자치료제가 FDA 우선심사 지정을 받으며 유전자치료 분야의 규제 진전이 가속화되고 있음",
+    "OpenAI 투자를 받은 Biossil이 Theriva의 항생제 분해 포트폴리오를 최대 9,100만 달러에 인수하며 AI 바이오텍의 항감염 자산 확보 움직임이 두드러짐",
+    "Karyopharm의 Chapter 11 파산 신청과 Teva의 혁신신약 임상 조기 중단 등 자금난 및 임상 실패에 따른 중소 바이오텍의 구조조정 압박이 심화되고 있음"
+  ]
+}
