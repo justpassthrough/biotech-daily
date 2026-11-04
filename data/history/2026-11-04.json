@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T02:49:19.867718+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Rhythm doubles down on LG obesity license, raising payout to as much as $855M",
+      "link": "https://www.fiercebiotech.com/biotech/rhythm-doubles-down-lg-obesity-license-raising-payout-much-855m",
+      "summary_en": "Rhythm Pharmaceuticals and LG Chem have rewritten the terms of their licensing agreement for the oral obesity and hyperphagia drug bivamelagon, growing to $855 million in scheduled payments from the earlier milestone-based deal of $305 million.",
+      "published": "2026-11-03T09:35:00+00:00",
+      "korean_summary": "Rhythm Pharmaceuticals와 LG Chem이 경구용 비만/과식증 치료제 bivamelagon 라이선스 계약을 재협상.\n기존 마일스톤 기반 계약(3억 500만 달러)에서 확정 지급 방식으로 변경, 총 8억 5500만 달러로 증가.\nLG Chem 비만 파이프라인의 글로벌 라이선스 가치 상승을 보여주는 사례.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "비만 치료제 라이선싱 딜, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-11-04T02:48:48.212598+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "AbbVie abandons phase 2 solid tumor drug over ‘limited benefit’",
+      "link": "https://www.fiercebiotech.com/biotech/abbvie-abandons-phase-2-stage-solid-tumor-drug-over-limited-benefit",
+      "summary_en": "AbbVie has scrapped a phase 2 solid tumor drug after deciding that the monoclonal antibody was unlikely to best the current standard of care, Fierce has learned.",
+      "published": "2026-11-03T08:41:00+00:00",
+      "korean_summary": "AbbVie가 고형암 대상 단클론항체의 Phase 2 개발을 중단.\n현재 표준치료 대비 임상적 이점이 제한적이라는 판단에서 프로그램 종료.\n빅파마의 고형암 항체 프로그램 실패 사례, 항체 단독 치료의 한계 재확인.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "단클론항체 임상 실패 소식이나, 사용자 연구 분야(ADC linker, 단백질 설계 등)와 직접 연관성 낮음",
+      "processed_at": "2026-11-04T02:48:53.007267+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Pfizer pares back obesity pipeline, drops phase 2-stage lung disease candidate",
+      "link": "https://www.fiercebiotech.com/biotech/pfizer-drops-phase-2-lung-disease-candidate-pares-back-obesity-pipeline",
+      "summary_en": "Pfizer has axed a phase 2 pulmonary arterial hypertension program on business grounds, dealing a setback to a long-running effort to treat the lung disease by targeting BMP9.",
+      "published": "2026-11-03T08:29:00+00:00",
+      "korean_summary": "Pfizer가 BMP9 타깃 폐동맥 고혈압(PAH) P2 프로그램을 사업상 이유로 중단.\n비만 파이프라인 재편 과정에서 폐질환 후보물질도 함께 정리.\nPfizer의 비만 치료제 집중 전략 강화, 비핵심 파이프라인 축소 흐름.",
+      "category": "빅파마",
+      "relevance_score": 1,
+      "relevance_reason": "빅파마 파이프라인 조정 뉴스, 사용자 연구 분야와 무관",
+      "processed_at": "2026-11-04T02:48:57.313763+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Philips sets aside $322M for proposed DOJ settlement over sleep apnea device recall",
+      "link": "https://www.fiercebiotech.com/medtech/philips-books-322m-payment-proposed-doj-settlement-over-sleep-apnea-device-recall",
+      "summary_en": "Philips’ Respironics division has reached an “agreement in principle” with the U.S. Department of Justice to settle a long-running investigation into its recall of potentially defective sleep apnea devices.",
+      "published": "2026-11-03T05:05:00+00:00",
+      "korean_summary": "Philips Respironics가 수면무호흡 기기 리콜 관련 DOJ 조사 합의안 도출.\n합의금으로 3억 2,200만 달러 적립, 아직 최종 합의 단계는 아님.\n의료기기 리콜 및 규제 대응 관련 사안으로 제약/바이오와 직접 연관성 낮음.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "의료기기 리콜 법적 분쟁, 사용자 연구 분야와 무관",
+      "processed_at": "2026-11-04T02:49:01.602431+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "BioArctic left out in the cold as Novartis walks away from $800M neuro collab",
+      "link": "https://www.fiercebiotech.com/biotech/novartis-scraps-800m-bioartic-neuroscience-collab-after-barely-year",
+      "summary_en": "Just 14 months after Novartis signed an $800 million biobucks neuroscience partnership with BioArctic, the Swiss pharma has walked away from the deal.",
+      "published": "2026-11-03T04:55:00+00:00",
+      "korean_summary": "Novartis가 BioArctic와 체결한 8억 달러 규모 신경과학 파트너십을 계약 14개월 만에 일방 종료.\n계약 해지 사유는 공개되지 않았으며, BioArctic는 해당 파이프라인 권리를 반환받음.\n빅파마의 신경과학 포트폴리오 조정 사례, 대형 딜도 조기 종료될 수 있음을 보여줌.",
+      "category": "M&A",
+      "relevance_score": 1,
+      "relevance_reason": "신경과학 파트너십 해지 뉴스로, 사용자 연구 분야와 무관",
+      "processed_at": "2026-11-04T02:49:06.201773+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Abbott's Tectonic test looks to shift artery disease treatment with ‘early’ win",
+      "link": "https://www.fiercebiotech.com/medtech/abbotts-tectonic-test-looks-shift-artery-disease-treatment-early-win",
+      "summary_en": "Abbott has posted positive 30-day results from its Tectonic trial of the investigational SonicForce Coronary IVL System in coronary artery disease (CAD), but analysts urge caution on results.",
+      "published": "2026-11-03T04:09:00+00:00",
+      "korean_summary": "Abbott이 관상동맥 질환 대상 SonicForce Coronary IVL System의 Tectonic 임상에서 30일 긍정적 결과 발표.\n30일 시점 초기 데이터이며, 애널리스트들은 결과 해석에 신중론 제기.\n의료기기 임상 조기 결과로, 최종 효능 판단을 위해 장기 추적 필요.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "관상동맥 의료기기 임상 결과로 사용자 연구 분야와 무관",
+      "processed_at": "2026-11-04T02:49:10.802444+00:00"
+    }
+  ],
+  "overall": [
+    "Rhythm Pharmaceuticals이 LG화학 비만 치료제 라이선스 계약 규모를 최대 $855M으로 상향하며 비만 치료제 경쟁이 심화되는 가운데, Pfizer는 비만 파이프라인을 축소하며 Phase 2 폐질환 후보물질을 중단하는 등 빅파마 간 선택과 집중이 뚜렷해짐",
+    "AbbVie가 고형암 대상 Phase 2 약물을 '제한적 효과'를 이유로 포기하고, Novartis가 BioArctic과의 $800M 규모 신경계 협력을 철회하는 등 임상 실패 및 파트너십 해소로 인한 파이프라인 구조조정이 복수 빅파마에서 동시에 진행됨",
+    "Abbott의 Tectonic 기기가 동맥 질환 치료에서 초기 임상 성과를 거두며 의료기기 분야에서 긍정적 신호가 나온 반면, Philips는 수면무호흡 기기 리콜 관련 DOJ 합의금으로 $322M을 적립하며 대조적인 흐름을 보임"
+  ]
+}
