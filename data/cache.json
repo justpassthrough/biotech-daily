@@ -6103,5 +6103,89 @@
     "relevance_score": 1,
     "relevance_reason": "관상동맥 의료기기 임상 결과로 사용자 연구 분야와 무관",
     "processed_at": "2026-11-04T02:49:10.802444+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/charles-river-teams-ipsen-use-virtual-control-groups-toxicology-studies": {
+    "korean_summary": "Charles River Laboratories가 Ipsen과 협력해 독성학 연구에 가상 대조군(VCG) 데이터베이스를 적용.\n프랑스 바이오파마 Ipsen의 독성 연구에 Charles River의 VCG 플랫폼 활용, 동물 사용 감소 및 연구 효율화 목적.\n비임상 독성 연구의 디지털화·데이터 공유 트렌드 반영, 규제 수용성 확대가 관건.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "독성학 연구 방법론 협력, 사용자 연구 분야와 직접 연관성 없음",
+    "processed_at": "2026-11-05T02:56:48.481406+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/madrigal-former-clinical-development-head-files-whistleblower-lawsuit-alleging-rezdiffra": {
+    "korean_summary": "Madrigal Pharmaceuticals 전 임상개발 책임자가 Rezdiffra 안전성 데이터 은폐 관련 내부고발자 소송 제기.\nMASH 치료제 Rezdiffra의 심각한 간독성 데이터를 고위 경영진이 검열·은폐했다는 주장, 내부 고발자에 대한 보복도 포함.\n상업화된 MASH 신약의 안전성 신뢰도 문제로 규제기관 주목 가능성.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "간질환 치료제 안전성 소송, 사용자 연구 분야와 무관",
+    "processed_at": "2026-11-05T02:56:53.532327+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/minghui-grants-aska-exclusive-japanese-rights-sub-q-ted-candidate-440m": {
+    "korean_summary": "중국 Minghui Pharmaceutical이 갑상선 안병증(TED) 후보물질의 일본 권리를 ASKA Pharmaceutical에 라이선스 아웃.\n계약 규모 최대 4억 4천만 달러, ASKA가 일본 내 독점 개발 및 상업화 권리 획득.\n중국 바이오텍의 아시아 내 라이선싱 확대 흐름을 보여주는 사례.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "TED 치료제 라이선싱 딜로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-11-05T02:56:58.390723+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/blackstone-life-sciences-teams-boston-scientific-455m-heart-pump-deal": {
+    "korean_summary": "Blackstone Life Sciences와 Boston Scientific이 차세대 소형 심장 펌프 개발을 위한 4억 5,500만 달러 규모 협업 체결.\n공동 자금 조달 방식으로 차세대 miniature 심장 펌프 시스템 개발 추진.\n메드텍 분야 대형 사모 투자 협업 모델, 신약 외 의료기기 자금조달 트렌드.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "심장 펌프 의료기기 딜로 사용자 연구 분야(단백질 설계, 약물전달, ADC)와 무관",
+    "processed_at": "2026-11-05T02:57:03.695625+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/boehringer-returns-sino-biopharma-74b-deal-preclinical-tces-adcs": {
+    "korean_summary": "Boehringer Ingelheim이 중국 Sino Biopharma와 최대 74억 달러 규모의 라이선싱 딜 체결.\n전임상 단계의 T-cell engager(TCE) 및 ADC 파이프라인 다수 도입 계약, 구체적 선급금 미공개.\n빅파마의 중국 바이오텍 ADC/TCE 기술 확보 경쟁 지속, 전임상 자산도 대형 딜 성사 가능성 시사.",
+    "category": "M&A",
+    "relevance_score": 7,
+    "relevance_reason": "ADC 파이프라인 대형 라이선싱 딜, ADC 모달리티 시장 동향 직접 관련",
+    "processed_at": "2026-11-05T02:57:09.162504+00:00"
+  },
+  "https://www.fiercebiotech.com/cro/nphase-rakes-30m-expand-ai-native-clinical-data-platform": {
+    "korean_summary": "임상 데이터 플랫폼 기업 nPhase가 시리즈 D로 3000만 달러 조달.\nAI 기반 임상 데이터 플랫폼 확장에 자금 사용 예정.\nAI 임상 인프라 투자 지속 흐름의 일부로, 사용자 연구 분야와 직접 관련 없음.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "AI 임상 데이터 플랫폼 펀딩으로 나노의학/단백질 설계 연구와 무관",
+    "processed_at": "2026-11-05T02:57:12.927499+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/abbvie-pens-14b-deal-deprioritized-ibd-drug-nxera": {
+    "korean_summary": "AbbVie가 Nxera의 IBD(염증성 장질환) 후보물질에 대해 14억 달러 규모 딜 체결.\n계약금 1억 달러 선지급, 해당 후보물질은 Phase 1 단계이며 Nxera가 우선순위를 낮춘 에셋.\n빅파마의 면역·염증 분야 파이프라인 강화를 위한 외부 에셋 도입 전략 지속.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "IBD 라이선싱 딜로, 사용자 연구 분야(ADC, 나노케이지, 단백질 설계)와 직접 연관성 없음",
+    "processed_at": "2026-11-05T02:57:18.733860+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/ultragenyx-shrinks-workforce-and-axes-assets-halve-rd-spend": {
+    "korean_summary": "Ultragenyx가 전체 인력의 20%를 감원하고 복수의 신약개발 프로그램을 중단.\nR&D 예산을 2025년 대비 절반 수준으로 삭감하는 대규모 구조조정 단행.\n희귀질환 중소 바이오텍의 비용 압박과 파이프라인 선택 집중 추세를 반영.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "구조조정 및 인사 뉴스로 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-11-05T02:57:23.604334+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/sanofi-scraps-stat6-degrader-nurix-just-2-months-after-entering-clinic": {
+    "korean_summary": "Sanofi가 Nurix로부터 도입한 STAT6 degrader를 임상 진입 불과 2개월 만에 개발 중단.\n염증성 질환 적응증으로 임상 1상 시작 직후 중단, 구체적 이유는 미공개.\nprotein degrader 분야의 임상 리스크와 빅파마의 빠른 포트폴리오 정리 경향을 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 3,
+    "relevance_reason": "protein degrader 임상 중단 소식, 사용자 연구 분야와 직접 연관성 낮음",
+    "processed_at": "2026-11-05T02:57:28.504656+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/novos-ceo-still-looking-deals-close-some-gaps-misfires-hit-profits": {
+    "korean_summary": "Novo Nordisk CEO가 파이프라인 공백 보완을 위한 추가 딜 탐색 중임을 밝힘.\n최근 임상 실패 연속으로 수십억 달러 규모 손상차손(impairment charge) 발생, 수익성 압박.\n빅파마의 M&A/라이선싱 드라이브가 임상 실패 리스크 관리 차원에서 지속될 것임을 시사.",
+    "category": "빅파마",
+    "relevance_score": 2,
+    "relevance_reason": "빅파마 전략 동향이나 사용자 연구 분야(ADC, 단백질 설계, 나노의약)와 직접 연관성 없음",
+    "processed_at": "2026-11-05T02:57:34.256892+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/serviers-155b-muscular-dystrophy-bet-delivers-quick-fire-pivotal-failure": {
+    "korean_summary": "Servier가 15.5억 달러에 인수한 Edgewise의 베커 근이영양증 프로그램이 임상 실패.\n피벗 임상(Becker muscular dystrophy)에서 1차 및 2차 평가변수 모두 미충족.\n딜 체결 5개월 만의 실패로 M&A 리스크 및 임상 성공률 한계를 재조명.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "근이영양증 임상 실패 뉴스, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-11-05T02:57:39.011728+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/smithnephew-held-failed-talks-jj-orthopaedics-biz-combination": {
+    "korean_summary": "Smith+Nephew가 J&J의 정형외과 사업부 DePuy Synthes와 합병 협상을 진행했으나 결렬.\n양사 정형외과(고관절·슬관절 치환술) 사업부 간 결합 추진이었으나 세부 내용 미공개.\n대형 의료기기 M&A 시도의 실패 사례로, 정형외과 시장 재편 시도 지속.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "의료기기 정형외과 M&A, 사용자 연구 분야와 무관",
+    "processed_at": "2026-11-05T02:57:44.086414+00:00"
   }
 }
