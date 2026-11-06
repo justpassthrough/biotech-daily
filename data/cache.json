@@ -6187,5 +6187,54 @@
     "relevance_score": 1,
     "relevance_reason": "의료기기 정형외과 M&A, 사용자 연구 분야와 무관",
     "processed_at": "2026-11-05T02:57:44.086414+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/rezera-revs-181m-ipo-fund-phase-3-trial-nlrp3-inhibitor": {
+    "korean_summary": "Rezera(구 NodThera)가 NLRP3 억제제 P3 임상 자금 조달을 위해 1.81억 달러 IPO 추진.\n적응증은 심혈관 질환이며, IPO 성공 시 P3 진입 예정.\nNLRP3 염증경로 타깃 치료제의 임상 개발 가속화 신호.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "NLRP3 억제제 IPO 관련 뉴스로 사용자 연구 분야와 직접적 관련 없음",
+    "processed_at": "2026-11-06T02:57:01.631716+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/metavias-glp-1-sheds-liver-fat-and-body-weight-phase-1-fails-wow-investors": {
+    "korean_summary": "MetaVia의 GLP-1/glucagon 이중 수용체 작용제가 P1에서 간지방 및 체중 감소 효과 확인.\n알코올성 간질환(ALD) 대상 P2 임상을 내년 착수 예정.\nGLP-1 계열 약물의 적응증 확장 흐름, 간질환 치료제 시장으로 진입 시도.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "GLP-1 P1 임상 결과, 사용자 연구 분야와 직접 연관성 없음",
+    "processed_at": "2026-11-06T02:57:05.887934+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/astrazeneca-offers-10b-acquire-rhythm-analysts-whisper-bidding-war": {
+    "korean_summary": "AstraZeneca가 희귀 비만 질환 전문 Rhythm Pharmaceuticals에 약 100억 달러 인수 제안.\n복수의 애널리스트 팀이 경쟁 입찰 가능성 제기, Rhythm이 현재 AZ 제안에 응할 가능성 낮다는 분석.\n빅파마의 비만 치료제 포트폴리오 확장 경쟁 심화, M&A 프리미엄 상승 가능성.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "빅파마 M&A 뉴스, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 연관성 없음",
+    "processed_at": "2026-11-06T02:57:11.687260+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/agios-aims-shed-100-rd-roles-year-ahead-hoped-scd-approval": {
+    "korean_summary": "Agios Pharmaceuticals가 2026년 말까지 R&D 인력 100명 이상을 감축 계획.\n겸상적혈구병(sickle cell disease) 치료제 승인을 앞두고 상업화 단계 비용 구조 조정 중.\n임상 성공 후 파이프라인 축소 및 인력 재편, 바이오텍 구조조정 흐름의 일환.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "임원 인사 및 조직 구조조정 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-11-06T02:57:16.491417+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/cash-strapped-vivoryon-regains-china-rights-kidney-disease-prospect-simcere": {
+    "korean_summary": "Vivoryon Therapeutics가 Simcere로부터 중국 지역 신장질환 후보물질 권리를 반환받음.\n독일 바이오텍 Vivoryon의 현금 소진으로 인한 라이선스 계약 해소 상황.\n재정 악화로 인한 파트너십 붕괴 사례, 바이오텍 현금 위기 반영.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "신장질환 권리 반환 딜로, 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-11-06T02:57:20.574812+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/evommune-signs-1b-deal-chinas-hinova-enter-same-molecular-glue-space-novartis": {
+    "korean_summary": "Evommune이 중국 Hinova Pharmaceuticals와 최대 10억 달러 규모의 분자 접착제(molecular glue) 분해제 개발 딜 체결.\n선급금 3천만 달러, 전임상 단계 molecular glue degrader 프로그램 대상.\nNovartis도 동일 니치 추구 중으로, molecular glue degrader 경쟁 심화 신호.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "Molecular glue degrader 딜로 단백질 분해 modality이나 ferritin/ADC/protein binder 연구와 직접 연관성 낮음",
+    "processed_at": "2026-11-06T02:57:25.509736+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/cloudbreak-posts-phase-3-eye-disease-win-amid-ipo-storm": {
+    "korean_summary": "Cloudbreak Pharma의 안과 질환 후보물질이 Phase 3 임상에서 공동 1차 평가지표를 달성.\nIPO 조사에 휘말린 상황에서 나온 긍정적 임상 결과로 주목.\n구체적 수치나 약물 메커니즘 상세 정보는 제한적.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "안과 질환 P3 결과로 사용자 연구 분야(ferritin, ADC, protein design)와 무관",
+    "processed_at": "2026-11-06T02:57:29.839101+00:00"
   }
 }
