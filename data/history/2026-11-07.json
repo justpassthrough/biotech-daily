@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T02:27:00.159547+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "There's more than one way to build a biotech",
+      "link": "https://www.fiercebiotech.com/biotech/theres-more-one-way-build-biotech",
+      "summary_en": "Axiom Biosciences is taking an unconventional approach to raising capital and developing new therapies. In this episode of \"The Top Line,\" founder and CEO Remo Moomiaie-Qajar joins Fierce Biotech's Marissa Russo to discuss the company's financing strategy, drug development approach and upcoming clinical milestones.",
+      "published": "2026-11-06T10:13:00+00:00",
+      "korean_summary": "Axiom Biosciences 창업자 Remo Moomiaie-Qajar가 비전통적 자본조달 및 치료제 개발 전략을 소개.\n구체적 수치나 임상 단계 데이터는 공개되지 않은 팟캐스트/인터뷰 형식 콘텐츠.\n바이오텍 경영전략 일반 논의로, 연구 분야와 직접 연관성 없음.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "바이오텍 자본조달 전략 일반 인터뷰, 연구 분야와 무관",
+      "processed_at": "2026-11-07T02:26:40.875076+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Moderna’s norovirus vaccine plans in limbo in wake of phase 3 miss",
+      "link": "https://www.fiercebiotech.com/biotech/modernas-norovirus-plans-limbo-after-ph3-miss",
+      "summary_en": "Moderna has scrapped plans to enroll a new cohort in a phase 3 trial of its norovirus vaccine and instead will meet with regulators to decide on next steps.",
+      "published": "2026-11-06T09:52:00+00:00",
+      "korean_summary": "Moderna가 노로바이러스 백신의 P3 임상에서 목표 미달 후 추가 코호트 등록 계획을 철회.\n규제기관과의 협의를 통해 차후 방향 결정 예정, 구체적 수치는 미공개.\nmRNA 백신 플랫폼의 비-COVID 적용 확장 전략에 차질이 생긴 사례.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "mRNA 백신 임상 실패 뉴스, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-11-07T02:26:45.439309+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Merck abandons Sutro-partnered IL-2 drug in ‘routine pipeline prioritization’",
+      "link": "https://www.fiercebiotech.com/biotech/merck-abandons-sutro-partnered-il-2-drug-routine-pipeline-prioritization",
+      "summary_en": "Merck & Co. has called time on a Sutro Biopharma-partnered IL-2 agonist that was being tested for solid tumors.",
+      "published": "2026-11-06T04:21:00+00:00",
+      "korean_summary": "Merck & Co.가 Sutro Biopharma와 공동개발 중이던 IL-2 agonist 프로그램을 종료.\n고형암 대상으로 임상 개발 중이었으나 '정례 파이프라인 우선순위 조정'으로 중단.\nIL-2 기반 면역항암제 개발의 어려움과 빅파마의 선택적 파이프라인 정리 추세 반영.",
+      "category": "빅파마",
+      "relevance_score": 2,
+      "relevance_reason": "IL-2 면역항암제 종료 소식으로, 사용자 연구 분야(ferritin, ADC, protein binder)와 직접 연관성 낮음",
+      "processed_at": "2026-11-07T02:26:51.006146+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Siemens Healthineers rebrands and carves out in vitro diagnostics biz",
+      "link": "https://www.fiercebiotech.com/medtech/siemens-healthineers-rebrands-and-carves-out-vitro-diagnostics-biz",
+      "summary_en": "Siemens Healthineers will carve out its in vitro diagnostics business as a standalone company operating under the name Olyrian Diagnostics.",
+      "published": "2026-11-06T02:36:00+00:00",
+      "korean_summary": "Siemens Healthineers가 체외진단(IVD) 사업부를 독립 법인으로 분리.\n분리된 법인은 'Olyrian Diagnostics'라는 새 사명으로 운영 예정.\nIVD 시장의 전문화 및 사업 구조 재편 흐름을 보여주는 사례.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "IVD 사업 분리 소식으로 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-11-07T02:26:54.986561+00:00"
+    }
+  ],
+  "overall": [
+    "Moderna의 노로바이러스 백신이 Phase 3 임상 실패로 개발 계획이 불투명해지며 mRNA 플랫폼의 감염병 확장 전략에 차질이 생겼다.",
+    "Merck가 Sutro Biopharma와 파트너십으로 개발 중이던 IL-2 계열 항암제를 '정기 파이프라인 우선순위 조정'을 이유로 전격 포기했다.",
+    "Siemens Healthineers가 체외진단(IVD) 사업부를 별도 분리·리브랜딩하며 대형 의료기기 기업의 사업 구조 재편 움직임이 가시화됐다."
+  ]
+}
