@@ -6264,5 +6264,54 @@
     "relevance_score": 0,
     "relevance_reason": "IVD 사업 분리 소식으로 사용자 연구 분야와 완전 무관",
     "processed_at": "2026-11-07T02:26:54.986561+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/mercks-mash-hopeful-efinopegdutide-wins-mid-stage-study": {
+    "korean_summary": "Merck의 GLP-1/glucagon 수용체 이중 작용제 efinopegdutide가 MASH 대상 중기 임상에서 긍정적 결과.\n위약 대비 MASH 해소 및 간 섬유화 악화 없음을 확인한 P2 수준 결과.\nNASH/MASH 치료제 개발 경쟁에서 GLP-1 기반 이중 작용제의 가능성을 추가로 입증.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "MASH 대상 GLP-1 임상 결과로, 사용자 연구 분야와 직접적 연관성 없음",
+    "processed_at": "2026-11-10T04:24:07.155195+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/zura-scraps-hidradenitis-suppurativa-program-after-phase-2-miss": {
+    "korean_summary": "Zura Bio의 tibulizumab이 화농성 한선염(HS) 대상 P2 임상에서 실패.\n해당 적응증 개발 중단 결정, 주가 급락; 타 적응증 연구는 지속 예정.\nHS 치료제 경쟁 심화 속 임상 실패로 파이프라인 가치 재평가.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "HS 임상 실패 뉴스, 사용자 연구 분야와 무관한 일반 임상 결과",
+    "processed_at": "2026-11-10T04:24:11.446429+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/delix-drums-100m-its-non-hallucinatory-psychedelic-therapy-depression": {
+    "korean_summary": "Delix Therapeutics가 J&J 등으로부터 시리즈 C 1억 달러를 조달.\n비환각성 사이키델릭 기반 우울증 치료제를 P2 진입 준비 단계까지 개발.\n사이키델릭 치료제의 부작용 개선형 신약 개발 트렌드 반영.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "사이키델릭 우울증 치료제 펀딩, 사용자 연구 분야와 무관",
+    "processed_at": "2026-11-10T04:24:15.331642+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/sanofi-backed-windward-breezes-toward-204m-ipo-fund-respiratory-pipeline": {
+    "korean_summary": "Sanofi가 지원하는 Windward Bio가 2억 달러 규모 IPO를 추진 중.\n중국에서 라이선스 받은 두 가지 호흡기 치료제 파이프라인 임상 개발 자금 확보 목적.\n중국 발 호흡기 에셋의 글로벌 IPO 활용 사례로, 바이오텍 자금조달 환경 반영.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "호흡기 약물 IPO 뉴스, 사용자 연구 분야와 무관",
+    "processed_at": "2026-11-10T04:24:19.966369+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/spruce-propagates-preclinical-asset-newly-formed-adrenyx-biosciences": {
+    "korean_summary": "Spruce Biosciences가 전임상 내분비학 프로그램을 Adrenyx Biosciences로 분사.\n익명 투자자로부터 최대 5천만 달러 지원, 전임상 단계 자회사로 독립.\n내분비 분야 특화 바이오텍의 분사 전략, 사용자 연구 분야와 무관.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "내분비학 전임상 분사 뉴스, 약물전달/단백질 설계 연구와 무관",
+    "processed_at": "2026-11-10T04:24:24.049019+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/kyorin-pens-140m-deal-japan-rights-edesas-phase-3-stage-respiratory-drug": {
+    "korean_summary": "Kyorin Pharmaceutical이 Edesa Biotech의 항-TLR4 항체 일본 권리를 1억 4천만 달러 규모 딜로 확보.\n계약금 1,200만 달러, 급성호흡곤란증후군(ARDS) 치료 대상 P3 단계 약물.\nTLR4 타깃 항체의 일본 시장 진출, 호흡기 염증 치료 분야 라이선싱 동향.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "항체 라이선싱 딜이나 ADC/나노의학/단백질 설계 등 사용자 연구와 직접 연관성 낮음",
+    "processed_at": "2026-11-10T04:24:29.395591+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/virs-phase-3-hepatitis-delta-win-fuels-push-eclipse-gilead": {
+    "korean_summary": "Vir Biotechnology의 만성 B형 간염 델타 대상 P3 임상이 1차 평가변수 달성.\nFDA 승인 신청을 위한 핵심 데이터 확보, 내년 허가 신청 계획.\nGilead 대비 경쟁 우위 확보를 위한 Vir의 간염 치료제 전략 가속화.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "간염 항바이러스 P3 결과로 사용자 연구 분야와 무관",
+    "processed_at": "2026-11-10T04:24:33.599999+00:00"
   }
 }
