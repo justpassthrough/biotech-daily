@@ -6313,5 +6313,68 @@
     "relevance_score": 1,
     "relevance_reason": "간염 항바이러스 P3 결과로 사용자 연구 분야와 무관",
     "processed_at": "2026-11-10T04:24:33.599999+00:00"
+  },
+  "https://www.fiercebiotech.com/digital-health/oura-acquire-ai-virtual-primary-care-partner-counsel-health-625m": {
+    "korean_summary": "웨어러블 기업 Oura가 AI 가상 1차 의료 기업 Counsel Health를 6억 2500만 달러에 인수 발표.\n양사는 2024년 6월부터 협력해왔으며 CMS ACCESS 모델 공동 파트너십도 계획 중.\n디지털 헬스와 AI 의료 플랫폼 통합 트렌드를 보여주는 사례.",
+    "category": "M&A",
+    "relevance_score": 0,
+    "relevance_reason": "디지털 헬스/웨어러블 M&A로 사용자의 연구 분야(나노의약, 단백질 설계, ADC)와 완전 무관",
+    "processed_at": "2026-11-11T02:20:45.428340+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/beams-sickle-cell-therapy-risto-cels-phase-12-results-position-potential-casgevy-lyfgenia": {
+    "korean_summary": "Beam Therapeutics가 겸상적혈구병 치료제 risto-cel(base editing 기반 세포치료제)의 P1/2 결과 공개.\n1년간 가장 심각한 통증 합병증(VOC) 발생이 유의미하게 감소, 연내 FDA 허가 신청 목표.\nCasgevy(CRISPR), Lyfgenia(렌티바이러스)에 이어 base editing 기반 치료제 경쟁 가시화.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "유전자/세포치료제 임상결과로 사용자 연구 분야(ferritin, ADC, protein design)와 거리 있음",
+    "processed_at": "2026-11-11T02:20:50.841135+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/pepgens-stock-doubles-midphase-dm1-data-wow-analysts": {
+    "korean_summary": "PepGen이 근긴장성 이영양증 1형(DM1) 대상 P2 임상 결과를 발표, 주가 2배 이상 급등.\n분석가들의 최선 시나리오를 충족하는 결과로 평가받았으나 구체적 수치는 미공개.\nRNA-기반 근육 질환 치료제 분야의 임상 가능성을 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "근육 질환 P2 임상 결과로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 직접 연관성 없음",
+    "processed_at": "2026-11-11T02:20:55.907625+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/astrazeneca-buys-omniose-bacterial-vaccine-technology": {
+    "korean_summary": "AstraZeneca가 세균성 백신 전문 바이오테크 Omniose를 인수.\n딜 규모는 미공개, Omniose의 vaccine bioconjugation 기술 확보가 목적.\n빅파마의 bacterial vaccine 역량 강화 움직임, bioconjugation 기술의 전략적 가치 부각.",
+    "category": "M&A",
+    "relevance_score": 3,
+    "relevance_reason": "백신 bioconjugation 인수 소식으로, ADC linker/ferritin 나노케이지와 간접적 연관만 있음",
+    "processed_at": "2026-11-11T02:21:00.249043+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/mirum-scores-again-hepatitis-d-phase-3-setting-stage-fda-run": {
+    "korean_summary": "Mirum Pharmaceuticals가 B형간염 바이러스 D형(HDV) 치료제 brelovitug의 P3 임상에서 1차 평가변수 달성.\nBrelovitug는 항바이러스 단클론항체로, 이번 결과로 FDA 허가 신청 준비 단계 진입.\nHDV는 미충족 의료 수요가 큰 희귀 감염병으로, 항체 치료제 허가 가능성 주목.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "항체 치료제 임상 결과이나 HDV 감염병 대상, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-11-11T02:21:05.568398+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/abcellera-becomes-latest-biotech-abandon-dream-developing-ox40-drug": {
+    "korean_summary": "AbCellera가 OX40 타깃 약물 개발 프로그램을 중단하기로 결정.\n다수의 바이오테크가 OX40 접근에 연속 실패하는 추세 속 추가 사례 발생.\nOX40 면역항암제 분야 전반의 임상 효능 입증 어려움을 재확인.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "면역항암 타깃 프로그램 중단 소식으로 사용자 연구 분야와 거의 무관",
+    "processed_at": "2026-11-11T02:21:09.938973+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/coherus-shrinks-headcount-30-narrow-focus-cancer-combo": {
+    "korean_summary": "Coherus Oncology가 전체 인력의 30%를 감축하는 대규모 구조조정 단행.\nCCR8 타깃 항체를 식도암 단독 적응증으로 집중하는 전략 선회가 배경.\n파이프라인 집중화를 위한 비용 절감, 소규모 항암 바이오텍의 생존 전략 패턴.",
+    "category": "기타",
+    "relevance_score": 2,
+    "relevance_reason": "항체 치료제 관련이나 CCR8 항체 단독 집중 전략으로 사용자 연구 분야와 거리",
+    "processed_at": "2026-11-11T02:21:14.883779+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/deerfield-management-partners-amazons-aws-ai-drive-life-sciences": {
+    "korean_summary": "Deerfield Management가 Amazon AWS와 협력하여 헬스케어·생명과학 포트폴리오 기업의 AI 개발 가속화 추진.\n양사는 Deerfield 투자 포트폴리오 내 AI 네이티브 기업의 클라우드 인프라 및 AI 역량 강화를 목표로 함.\n대형 헬스케어 투자사와 클라우드 기업 간 협력으로 생명과학 AI 인프라 구축 트렌드 반영.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "AI 인프라 투자 협력 뉴스로, 사용자 연구 분야(단백질 설계, ADC, 나노의약)와 직접 연관성 없음",
+    "processed_at": "2026-11-11T02:21:19.794799+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/novocure-denied-fda-approval-optune-mya-cancer-device-after-efficacy-concerns": {
+    "korean_summary": "Novocure의 종양치료 전기장 장치 Optune Mya가 FDA로부터 'not approvable' 판정 수령.\n효능 우려를 이유로 한 비교적 드문 형태의 FDA 불승인 결정.\n전기장 기반 암치료 기기의 임상적 증거 기준에 대한 FDA의 엄격한 입장을 시사.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "전기장 암치료 기기 관련, 사용자의 연구 분야(나노케이지/ADC/단백질 설계)와 무관",
+    "processed_at": "2026-11-11T02:21:24.783119+00:00"
   }
 }
