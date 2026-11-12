@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T03:29:14.318355+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Valo and Montai become one as the Flagship AI-based biotechs tie the knot",
+      "link": "https://www.fiercebiotech.com/biotech/flagship-ai-based-biotechs-valo-montai-tie-knot",
+      "summary_en": "Two Flagship Pioneering-founded AI drug discovery and development biotechs, Valo Health and Montai Therapeutics, will join forces in a merger that aims to advance Montai’s early-stage and preclinical pipeline as well as continue a series of big-name partnerships already in tow.",
+      "published": "2026-11-11T09:18:00+00:00",
+      "korean_summary": "Flagship Pioneering 산하 AI 신약개발 바이오텍 Valo Health와 Montai Therapeutics가 합병 발표.\nMontai의 초기/전임상 파이프라인 가속화 및 기존 대형 파트너십 유지가 목적.\nFlagship 내 AI 플랫폼 통합으로 자원 집중 및 시너지 추구 전략.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "AI 신약개발 M&A이나 ferritin, ADC, 단백질 설계 등 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-11-12T03:28:55.635878+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "BioNTech pays $205M for FDA voucher to speed up ‘late-stage oncology pipeline’",
+      "link": "https://www.fiercebiotech.com/pharma/biontech-pays-205m-fda-voucher-speed-late-stage-oncology-pipeline",
+      "summary_en": "BioNTech has agreed to pay $205 million to purchase an FDA priority review voucher to support a future filing of a drug in its “late-stage oncology pipeline.” Fierce breaks down which candidate is most likely to claim the regulatory accelerator.",
+      "published": "2026-11-11T07:49:00+00:00",
+      "korean_summary": "BioNTech가 FDA 우선심사 바우처(PRV)를 2억 500만 달러에 매입.\n'후기 임상 종양학 파이프라인' 중 특정 후보의 규제 심사 가속화에 활용 예정.\nPRV 시장 가격 상승 및 빅바이오의 규제 전략 활용 사례로 주목.",
+      "category": "빅파마",
+      "relevance_score": 2,
+      "relevance_reason": "규제 바우처 구매 뉴스, 사용자 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-11-12T03:29:00.564371+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Capricor, NextCure shed light on recent layoffs as they gear up for approval decision, merger",
+      "link": "https://www.fiercebiotech.com/biotech/capricor-nextcure-shed-light-recent-layoffs",
+      "summary_en": "Capricor and NextCure have shed light on recent rounds of layoffs, as the biotechs brace for a hoped-for drug approval and merger, respectively.",
+      "published": "2026-11-11T04:49:00+00:00",
+      "korean_summary": "Capricor와 NextCure가 최근 인력 감축 배경을 공개.\nCapricor는 신약 승인 심사 대비, NextCure는 합병 추진을 위한 구조조정 목적.\n소규모 바이오텍의 비용 절감 및 전략적 구조조정 흐름의 일환.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "인력 감축 및 합병 관련 소식으로 사용자 연구 분야와 무관",
+      "processed_at": "2026-11-12T03:29:04.584827+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Amgen builds Sjögren’s case with detailed phase 3 data ahead of Novartis showdown",
+      "link": "https://www.fiercebiotech.com/biotech/amgen-builds-sjogrens-case-detailed-phase-3-data-ahead-novartis-showdown",
+      "summary_en": "Amgen has shared more data from a phase 3 Sjögren’s disease trial that dazzled analysts, digging into the details that could shape its showdown with Novartis.",
+      "published": "2026-11-11T04:47:00+00:00",
+      "korean_summary": "Amgen이 쇼그렌 증후군 대상 P3 임상 데이터를 추가 공개하며 Novartis와의 경쟁 구도 형성.\n구체적 임상 수치와 세부 데이터가 분석가들의 주목을 받았으며, Novartis 대비 경쟁 우위 주장.\n자가면역 질환 시장에서 빅파마 간 직접 경쟁이 심화되는 흐름.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "자가면역 P3 임상 결과로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+      "processed_at": "2026-11-12T03:29:09.525327+00:00"
+    }
+  ],
+  "overall": [
+    "Flagship Pioneering 산하 AI 신약개발 바이오텍 Valo와 Montai가 합병, AI 기반 플랫폼 통합으로 대형화 가속",
+    "BioNTech이 후기 임상 항암 파이프라인 가속화를 위해 FDA 우선심사 바우처를 2억 500만 달러에 매입",
+    "Amgen이 쇼그렌 증후군 대상 3상 세부 데이터를 공개하며 Novartis와의 시장 경쟁 본격화"
+  ]
+}
