@@ -6404,5 +6404,54 @@
     "relevance_score": 1,
     "relevance_reason": "자가면역 P3 임상 결과로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
     "processed_at": "2026-11-12T03:29:09.525327+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/arpa-h-bets-49-million-ibogaine-ptsd-treatment-veterans": {
+    "korean_summary": "미국 ARPA-H가 퇴역군인 PTSD 치료를 위한 이보가인(ibogaine) 개발에 490만 달러 지원 발표.\n이보가인은 아프리카 식물 유래 사이키델릭 물질로 PTSD 치료 가능성이 주목받고 있음.\n정부 주도 사이키델릭 의약품 개발 투자 확대 흐름의 일환.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "사이키델릭 약물 PTSD 치료 개발, 사용자 연구 분야와 무관",
+    "processed_at": "2026-11-13T03:01:11.256856+00:00"
+  },
+  "https://www.fiercebiotech.com/pharma/fda-appears-pause-controversial-speedy-review-program-complete-response-letter-disclosures": {
+    "korean_summary": "FDA가 Commissioner's National Priority Voucher(CNPV) 파일럿 프로그램을 조용히 중단한 것으로 보도됨.\n동시에 Complete Response Letter(CRL) 공개 관행도 일시 중단된 상태.\nFDA 운영 투명성 및 심사 절차 관련 정책 변화로 업계 모니터링 필요.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 행정 정책 변화로, 사용자 연구 분야(단백질 설계/ADC/나노의약)와 직접 관련 없음",
+    "processed_at": "2026-11-13T03:01:15.836102+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/vor-pays-remegen-10m-long-acting-successor-autoimmune-drug": {
+    "korean_summary": "Vor Bio가 RemeGen으로부터 RC298의 중국 외 지역 권리를 1,000만 달러에 도입.\nRC298은 BAFF/APRIL 타깃 장기작용(long-acting) 자가면역 치료 후보물질.\nVor의 자가면역 파이프라인 확장 전략, 소규모 라이선싱 딜.",
+    "category": "M&A",
+    "relevance_score": 1,
+    "relevance_reason": "자가면역 항체 라이선싱 딜로, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-11-13T03:01:20.271125+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/kyverna-abandons-next-gen-car-t-once-touted-follow-miv-cel": {
+    "korean_summary": "Kyverna Therapeutics가 차세대 CD19 CAR-T 프로그램 개발을 중단.\n현재 FDA 승인 신청을 추진 중인 miv-cel(1세대 CD19 CAR-T)에 자원 집중하는 전략적 선택.\n자가면역 질환 최초 CAR-T 승인을 앞두고 파이프라인 선택과 집중이 이루어짐.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "CAR-T 자가면역 적응증 뉴스로 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 거리",
+    "processed_at": "2026-11-13T03:01:25.016417+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/bristol-myers-reunites-rd-divisions-under-cristian-massacesi": {
+    "korean_summary": "BMS가 연구·개발 부문을 통합하고 Cristian Massacesi를 수장으로 임명.\nRobert Plenge CMO는 조직 개편과 함께 퇴임.\n빅파마 R&D 구조조정의 일환으로, 운영 효율화 목적의 리더십 변화.",
+    "category": "빅파마",
+    "relevance_score": 1,
+    "relevance_reason": "BMS 내부 조직 개편·인사 이슈로 사용자 연구 분야와 무관",
+    "processed_at": "2026-11-13T03:01:29.020695+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/addex-spinout-neurosterix-raises-105m-series-b-fund-phase-2-schizophrenia-trial": {
+    "korean_summary": "Addex Therapeutics에서 분사한 Neurosterix가 시리즈 B로 1억 500만 달러 조달.\n조현병 치료제의 P2 임상 진행을 위한 자금 확보가 목적.\n신경정신과 특화 스핀아웃의 대형 펀딩, 조현병 임상 분야 투자 활성화 신호.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "신경정신과 임상 펀딩으로 사용자 연구 분야와 무관",
+    "processed_at": "2026-11-13T03:01:33.908826+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/pfizer-taps-blackstone-15b-pave-path-glp-1-launch": {
+    "korean_summary": "Pfizer가 Blackstone Life Sciences로부터 최대 15억 달러 투자 유치.\n월 1회 투여 GLP-1 수용체 작용제 개발 자금 확보 목적.\n빅파마의 GLP-1 경쟁 참여 가속화, 대규모 외부 자금조달 전략 주목.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "GLP-1 비만 치료제 딜, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-11-13T03:01:37.592343+00:00"
   }
 }
