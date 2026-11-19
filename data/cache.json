@@ -6509,5 +6509,33 @@
     "relevance_score": 1,
     "relevance_reason": "자율신경계 희귀질환 임상 결과로, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
     "processed_at": "2026-11-14T02:47:43.474617+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update": {
+    "korean_summary": "Biogen이 tau 타깃 안티센스 올리고뉴클레오타이드(ASO)의 2년 임상 업데이트 결과를 발표.\n2년 시점에서 임상적 악화 지연 효과가 더 강화되는 추세를 확인, 애널리스트들은 후기 임상 진입 근거 강화로 평가.\n알츠하이머 타우 타깃 ASO 치료제의 임상 가능성이 높아지며 신경퇴행성 질환 분야 주목도 상승.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "ASO 기반 신경계 임상 결과로 본인 연구 분야(나노약물전달, 단백질 설계)와 직접 관련 없음",
+    "processed_at": "2026-11-19T03:54:05.861113+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna": {
+    "korean_summary": "Pfizer가 중국 Starna Therapeutics와 3개 전임상 프로그램에 대해 26억 달러 규모 딜 체결.\nin vivo CAR-T 3개 후보물질 대상이며, 선급금 및 마일스톤 합산 금액.\n빅파마의 in vivo CAR-T 경쟁 본격화, 체내 직접 T세포 재프로그래밍 기술 상업화 가속 신호.",
+    "category": "M&A",
+    "relevance_score": 2,
+    "relevance_reason": "in vivo CAR-T 딜로 세포치료제 영역, 사용자 연구 분야(ferritin/ADC/단백질 설계)와 거리",
+    "processed_at": "2026-11-19T03:54:10.848563+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/less-year-job-everett-cunningham-steps-down-quanterix-ceo": {
+    "korean_summary": "Quanterix의 CEO Everett Cunningham이 취임 1년도 안 돼 사임.\n2024년 1월 취임 후 수개월 만에 퇴임, 후임 CEO 물색 중.\n경영진 불안정으로 회사 방향성에 불확실성 발생.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "임원 인사 뉴스, 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-11-19T03:54:14.641054+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/priavoids-alzheimers-pill-fails-prove-efficacy-phase-2-trial": {
+    "korean_summary": "독일 바이오텍 Priavoid의 알츠하이머 경구약이 P2 임상에서 유효성 입증 실패.\n1차 평가변수 미달성, 다만 장기 추적 데이터에서 일부 긍정적 신호 확인.\n알츠하이머 경구 치료제 개발의 높은 임상 실패율 재확인.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "알츠하이머 P2 임상 실패, 사용자 연구 분야와 무관",
+    "processed_at": "2026-11-19T03:54:19.078142+00:00"
   }
 }

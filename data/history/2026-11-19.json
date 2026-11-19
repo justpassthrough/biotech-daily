@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T03:54:25.791341+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "Biogen’s tau therapy drives bigger benefits in 2-year Alzheimer’s update",
+      "link": "https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update",
+      "summary_en": "Biogen has linked its tau-targeting antisense oligonucleotide to a further slowing of clinical decline after two years, leading analysts to hail the strengthening of evidence supporting late-phase development.",
+      "published": "2026-11-18T09:27:00+00:00",
+      "korean_summary": "Biogen이 tau 타깃 안티센스 올리고뉴클레오타이드(ASO)의 2년 임상 업데이트 결과를 발표.\n2년 시점에서 임상적 악화 지연 효과가 더 강화되는 추세를 확인, 애널리스트들은 후기 임상 진입 근거 강화로 평가.\n알츠하이머 타우 타깃 ASO 치료제의 임상 가능성이 높아지며 신경퇴행성 질환 분야 주목도 상승.",
+      "category": "임상결과",
+      "relevance_score": 2,
+      "relevance_reason": "ASO 기반 신경계 임상 결과로 본인 연구 분야(나노약물전달, 단백질 설계)와 직접 관련 없음",
+      "processed_at": "2026-11-19T03:54:05.861113+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Pfizer enters in vivo CAR-T space via 3-program, $2.6B deal with China’s Starna",
+      "link": "https://www.fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna",
+      "summary_en": "Pfizer has decided to join the in vivo CAR-T race, penning a $2.6 billion deal for three preclinical candidates from China’s Starna Therapeutics.",
+      "published": "2026-11-18T08:31:00+00:00",
+      "korean_summary": "Pfizer가 중국 Starna Therapeutics와 3개 전임상 프로그램에 대해 26억 달러 규모 딜 체결.\nin vivo CAR-T 3개 후보물질 대상이며, 선급금 및 마일스톤 합산 금액.\n빅파마의 in vivo CAR-T 경쟁 본격화, 체내 직접 T세포 재프로그래밍 기술 상업화 가속 신호.",
+      "category": "M&A",
+      "relevance_score": 2,
+      "relevance_reason": "in vivo CAR-T 딜로 세포치료제 영역, 사용자 연구 분야(ferritin/ADC/단백질 설계)와 거리",
+      "processed_at": "2026-11-19T03:54:10.848563+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Less than a year into the job, Everett Cunningham steps down as Quanterix CEO",
+      "link": "https://www.fiercebiotech.com/medtech/less-year-job-everett-cunningham-steps-down-quanterix-ceo",
+      "summary_en": "Quanterix is on the lookout for a new chief executive once again as Everett Cunningham, who only started the top job back in January, hits the exit.",
+      "published": "2026-11-18T08:17:00+00:00",
+      "korean_summary": "Quanterix의 CEO Everett Cunningham이 취임 1년도 안 돼 사임.\n2024년 1월 취임 후 수개월 만에 퇴임, 후임 CEO 물색 중.\n경영진 불안정으로 회사 방향성에 불확실성 발생.",
+      "category": "기타",
+      "relevance_score": 0,
+      "relevance_reason": "임원 인사 뉴스, 사용자 연구 분야와 완전 무관",
+      "processed_at": "2026-11-19T03:54:14.641054+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Priavoid’s Alzheimer’s pill fails to prove efficacy in phase 2 trial",
+      "link": "https://www.fiercebiotech.com/biotech/priavoids-alzheimers-pill-fails-prove-efficacy-phase-2-trial",
+      "summary_en": "Priavoid’s pill for Alzheimer's disease has failed to prove its effectiveness in a phase 2 dementia study, although the German biotech pointed to encouraging signs in the longer-term data.",
+      "published": "2026-11-18T04:23:00+00:00",
+      "korean_summary": "독일 바이오텍 Priavoid의 알츠하이머 경구약이 P2 임상에서 유효성 입증 실패.\n1차 평가변수 미달성, 다만 장기 추적 데이터에서 일부 긍정적 신호 확인.\n알츠하이머 경구 치료제 개발의 높은 임상 실패율 재확인.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "알츠하이머 P2 임상 실패, 사용자 연구 분야와 무관",
+      "processed_at": "2026-11-19T03:54:19.078142+00:00"
+    }
+  ],
+  "overall": [
+    "Biogen의 tau 표적 치료제가 2년 장기 추적에서 알츠하이머 개선 효과를 확인하며 tau 타깃 접근법의 임상적 가능성을 재부각시킨 반면, Priavoid의 경구용 알츠하이머 신약은 2상에서 효능 입증 실패로 희비가 엇갈림",
+    "Pfizer가 중국 Starna와 3개 프로그램 대상 26억 달러 규모 딜을 체결하며 in vivo CAR-T 분야에 본격 진입, 빅파마의 차세대 세포치료제 경쟁 가속화",
+    "Quanterix CEO Everett Cunningham이 취임 1년 미만에 사임하며 진단 바이오텍 섹터 내 경영 불안정 신호 포착"
+  ]
+}
