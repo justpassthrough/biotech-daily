@@ -6537,5 +6537,26 @@
     "relevance_score": 1,
     "relevance_reason": "알츠하이머 P2 임상 실패, 사용자 연구 분야와 무관",
     "processed_at": "2026-11-19T03:54:19.078142+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/fda-delays-belites-eye-disease-pill-decision-three-months-may": {
+    "korean_summary": "FDA가 Belite Bio의 희귀 유전성 안과질환 치료제 신청에 대한 심사 기한을 3개월 연장.\n기존 예정 심사일에서 내년 5월로 결정 시점 지연.\nFDA 심사 일정 조정은 드문 사안이 아니나, 해당 기업 입장에서는 불확실성 연장.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "FDA 심사 연장 소식으로 사용자 연구 분야와 무관한 안과 희귀질환 사안",
+    "processed_at": "2026-11-21T03:37:32.118487+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/mercks-trop2-adc-extends-survival-pivotal-gastroesophageal-cancer-trial": {
+    "korean_summary": "Merck의 TROP2 표적 ADC sacituzumab tirumotecan이 위식도암 P3 임상에서 전체생존기간(OS) 개선 확인.\n두 번째 글로벌 P3 성공으로 TROP2 ADC의 적응증 확장 가능성 입증.\nTROP2 ADC 경쟁 심화 속 Merck의 ADC 파이프라인 위상 강화.",
+    "category": "임상결과",
+    "relevance_score": 6,
+    "relevance_reason": "TROP2 ADC P3 성공 사례로 ADC 모달리티 임상 트렌드 파악에 유용",
+    "processed_at": "2026-11-21T03:37:36.511750+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/its-very-health-sector-biopharma-gathers-london-ma-shines-will-china-clouds-loom": {
+    "korean_summary": "런던 생명과학 주간(London Life Sciences Week)에 바이오파마 임원·투자자들이 모임.\nM&A 활황 분위기와 중국 관련 지정학적 리스크가 주요 화두로 거론됨.\n구체적 딜이나 데이터 없는 행사 분위기 소개 기사.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "업계 행사 분위기 보도로 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-11-21T03:37:40.582698+00:00"
   }
 }

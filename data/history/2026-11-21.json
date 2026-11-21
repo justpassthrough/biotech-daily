@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T03:37:46.215834+00:00",
+  "items": [
+    {
+      "source": "Fierce Biotech",
+      "title": "FDA pushes decision on Belite’s eye disease pill back to May",
+      "link": "https://www.fiercebiotech.com/biotech/fda-delays-belites-eye-disease-pill-decision-three-months-may",
+      "summary_en": "The FDA is taking a little extra time to review Belite Bio’s application for its treatment for a rare genetic eye condition, pushing the expected action date back by three months into May next year.",
+      "published": "2026-11-20T09:09:00+00:00",
+      "korean_summary": "FDA가 Belite Bio의 희귀 유전성 안과질환 치료제 신청에 대한 심사 기한을 3개월 연장.\n기존 예정 심사일에서 내년 5월로 결정 시점 지연.\nFDA 심사 일정 조정은 드문 사안이 아니나, 해당 기업 입장에서는 불확실성 연장.",
+      "category": "임상결과",
+      "relevance_score": 1,
+      "relevance_reason": "FDA 심사 연장 소식으로 사용자 연구 분야와 무관한 안과 희귀질환 사안",
+      "processed_at": "2026-11-21T03:37:32.118487+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "Merck’s TROP2 ADC extends survival in pivotal gastroesophageal cancer trial",
+      "link": "https://www.fiercebiotech.com/biotech/mercks-trop2-adc-extends-survival-pivotal-gastroesophageal-cancer-trial",
+      "summary_en": "Merck & Co.’s sacituzumab tirumotecan has improved overall survival in a phase 3 cancer trial, delivering a second pivotal global victory for the TROP2-directed antibody-drug conjugate.",
+      "published": "2026-11-20T07:53:00+00:00",
+      "korean_summary": "Merck의 TROP2 표적 ADC sacituzumab tirumotecan이 위식도암 P3 임상에서 전체생존기간(OS) 개선 확인.\n두 번째 글로벌 P3 성공으로 TROP2 ADC의 적응증 확장 가능성 입증.\nTROP2 ADC 경쟁 심화 속 Merck의 ADC 파이프라인 위상 강화.",
+      "category": "임상결과",
+      "relevance_score": 6,
+      "relevance_reason": "TROP2 ADC P3 성공 사례로 ADC 모달리티 임상 트렌드 파악에 유용",
+      "processed_at": "2026-11-21T03:37:36.511750+00:00"
+    },
+    {
+      "source": "Fierce Biotech",
+      "title": "‘It’s a very healthy sector’: Biopharma gathers in London as M&A shines and China clouds loom",
+      "link": "https://www.fiercebiotech.com/biotech/its-very-health-sector-biopharma-gathers-london-ma-shines-will-china-clouds-loom",
+      "summary_en": "As the grand hotels and cosy cafes filled with biopharma executives and investors for London Life Sciences Week, the weather was as temperamental as any other English November.",
+      "published": "2026-11-20T06:51:00+00:00",
+      "korean_summary": "런던 생명과학 주간(London Life Sciences Week)에 바이오파마 임원·투자자들이 모임.\nM&A 활황 분위기와 중국 관련 지정학적 리스크가 주요 화두로 거론됨.\n구체적 딜이나 데이터 없는 행사 분위기 소개 기사.",
+      "category": "기타",
+      "relevance_score": 1,
+      "relevance_reason": "업계 행사 분위기 보도로 연구 분야와 직접 관련 없음",
+      "processed_at": "2026-11-21T03:37:40.582698+00:00"
+    }
+  ],
+  "overall": [
+    "Merck의 TROP2 ADC(항체-약물 접합체)가 위식도암 핵심 임상에서 생존기간 연장을 입증하며 ADC 계열 항암제의 임상적 유효성이 재확인됨",
+    "FDA가 Belite의 안질환 경구제 승인 결정을 5월로 연기하며 규제 불확실성이 지속되는 가운데 일부 파이프라인의 허가 일정 지연 흐름이 나타남",
+    "런던 바이오파마 업계 모임에서 M&A 활성화 기대감이 높은 반면 중국발 리스크가 주요 변수로 부상하며 글로벌 딜 환경의 양면성이 부각됨"
+  ]
+}
