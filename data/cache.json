@@ -6558,5 +6558,40 @@
     "relevance_score": 1,
     "relevance_reason": "업계 행사 분위기 보도로 연구 분야와 직접 관련 없음",
     "processed_at": "2026-11-21T03:37:40.582698+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/select-committee-china-makes-final-push-us-biotech-vs-china": {
+    "korean_summary": "미국 하원 중국특위가 미국 바이오테크 산업 공동화 역전을 위한 정책 권고 보고서 발표.\n중국의 부상에 맞선 미국 신약 혁신 산업 보호·육성 방안 담긴 의회 보고서.\n바이오 산업 정책 환경 변화 가능성, 미중 바이오 경쟁 구도 심화 신호.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "정책/지정학 보고서로 사용자의 연구 분야(ferritin, ADC, 단백질 설계)와 직접적 연관 없음",
+    "processed_at": "2026-11-24T06:34:17.718089+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/arcus-halts-phase-3-study-cd73-inhibitor-looked-destined-fail": {
+    "korean_summary": "Arcus Biosciences가 CD73 억제제 quemliclustat의 췌장암 대상 P3 임상을 중단.\n소분자 CD73 억제제로 생존 개선 가능성 없다는 판단 하에 조기 종료.\n종양 미세환경(TME) 타깃 면역항암 전략의 한계를 보여주는 사례.",
+    "category": "임상결과",
+    "relevance_score": 3,
+    "relevance_reason": "TME 관련 임상이나 CD73 억제제 실패 사례로 사용자 연구와 직접 연관성 낮음",
+    "processed_at": "2026-11-24T06:34:21.990339+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/kymeras-oral-eczema-drug-impresses-analysts-dupixent-phase-2-efficacy": {
+    "korean_summary": "Kymera Therapeutics의 경구용 습진 치료제가 P2b 임상에서 1차 평가변수 달성.\n효능이 Dupixent(듀피젠트) 수준으로 분석가 기대 이상의 결과를 보임.\n경구용 아토피 치료제 시장 경쟁 가능성을 시사하는 임상 성과.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "아토피 피부염 경구 치료제 P2b 결과, 사용자 연구 분야와 직접 관련 없음",
+    "processed_at": "2026-11-24T06:34:25.828560+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/invivyd-aims-q127-approval-submission-after-pemgarda-successor-shows-potential-phase-3": {
+    "korean_summary": "Invivyd, Pemgarda 후속 모노클로날 항체의 P3 임상에서 '높고 지속적인 항바이러스 활성' 확인.\n2027년 1분기 FDA 승인 신청 계획, 구체적 수치는 미공개.\n면역저하 환자 대상 COVID-19 예방용 단클론항체 시장 지속 타진.",
+    "category": "임상결과",
+    "relevance_score": 2,
+    "relevance_reason": "모노클로날 항체 임상 뉴스이나 ferritin/ADC/단백질 설계와 직접 연관 없음",
+    "processed_at": "2026-11-24T06:34:30.272669+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/led-founders-jj-acquired-intra-cellular-ritzey-debuts-112m": {
+    "korean_summary": "Intra-Cellular Therapies 창업자가 새 바이오텍 Ritzey를 설립하며 1억 1200만 달러 시리즈 A 조달.\nDYRK1A 억제제 기반 뇌 신호전달 경로 타깃, 정신/신경질환 치료제 개발 목표.\nJ&J의 146억 달러 Intra-Cellular 인수 후 창업자 재기, 신경과학 분야 연속 창업 트렌드.",
+    "category": "기타",
+    "relevance_score": 1,
+    "relevance_reason": "신경질환 소분자 억제제 중심, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-11-24T06:34:35.127551+00:00"
   }
 }
