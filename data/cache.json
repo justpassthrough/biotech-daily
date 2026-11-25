@@ -6593,5 +6593,26 @@
     "relevance_score": 1,
     "relevance_reason": "신경질환 소분자 억제제 중심, 사용자 연구 분야(ferritin, ADC, 단백질 설계)와 무관",
     "processed_at": "2026-11-24T06:34:35.127551+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/diamedica-shares-signs-drug-extends-pregnancy-fetal-growth-restriction-trial": {
+    "korean_summary": "DiaMedica Therapeutics가 중증 조기발현 태아성장제한(FGR) 대상 P2 임상 결과 발표.\n대부분의 참가자가 예상보다 더 오래 임신을 유지한 것으로 보고됨(구체적 수치 미공개).\n희귀 산과 질환 대상 소규모 P2로, 본 연구 분야와 관련성 낮음.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "태아성장제한 임상 결과로 약물전달/단백질 설계와 무관",
+    "processed_at": "2026-11-25T05:07:50.959474+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/fda-signs-siemens-healthineers-next-gen-multiple-sclerosis-blood-test": {
+    "korean_summary": "Siemens Healthineers의 다발성경화증 혈액검사 Atellica IM NfL assay가 FDA de novo 마케팅 승인 획득.\n혈중 Neurofilament Light Chain(NfL) 측정 기반 차세대 MS 진단 검사.\nMS 진단 시장 확대, 신경계 바이오마커 혈액검사 접근성 향상.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "MS 진단기기 FDA 승인, 사용자 연구 분야(나노의약, ADC, 단백질 설계)와 무관",
+    "processed_at": "2026-11-25T05:07:55.383692+00:00"
+  },
+  "https://www.fiercebiotech.com/medtech/ge-healthcare-launches-viewpoint-ultra-simplify-ultrasound-workflows": {
+    "korean_summary": "GE HealthCare가 초음파 워크플로우 솔루션 ViewPoint Ultra를 출시.\n의료기관 내 임상 문서화 및 보고 표준화를 지원하는 소프트웨어 제품.\n의료 IT 인프라 개선 목적, 신약개발 및 나노의학과 무관.",
+    "category": "기타",
+    "relevance_score": 0,
+    "relevance_reason": "초음파 워크플로우 소프트웨어로 사용자 연구 분야와 완전 무관",
+    "processed_at": "2026-11-25T05:07:59.207666+00:00"
   }
 }
