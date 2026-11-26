@@ -6614,5 +6614,26 @@
     "relevance_score": 0,
     "relevance_reason": "초음파 워크플로우 소프트웨어로 사용자 연구 분야와 완전 무관",
     "processed_at": "2026-11-25T05:07:59.207666+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc": {
+    "korean_summary": "Bayer가 중국 Hansoh Pharma와 ADC 기술 도입 계약을 33억 달러 규모로 체결.\n대상 ADC는 현재 Phase 1 단계이며, Bayer의 ADC 포트폴리오 확장 전략의 일환.\n빅파마들의 Hansoh ADC 플랫폼 도입 행렬이 이어지며 중국발 ADC 기술의 글로벌 가치 입증.",
+    "category": "M&A",
+    "relevance_score": 6,
+    "relevance_reason": "ADC 딜 직접 관련이나 linker 기술 등 세부 정보 없어 일반 ADC 시장 동향 수준",
+    "processed_at": "2026-11-26T04:34:23.005653+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/schrodinger-forms-ties-sequencing-automation-outfit-enpicom-eur22m": {
+    "korean_summary": "Schrödinger가 시퀀싱 자동화 기업 Enpicom과 생물의약품 공동연구 계약 체결.\n계약 규모 2,200만 유로(현금), 계산 기반 항체/생물의약품 발굴 협력이 핵심.\n항체 설계 자동화 파이프라인 강화 흐름, AI 기반 생물의약품 개발 협력 증가 추세 반영.",
+    "category": "M&A",
+    "relevance_score": 4,
+    "relevance_reason": "계산생물학 기반 항체 설계 협력으로 단백질 binder 설계와 간접 연관, 직접 기술 연관성은 낮음",
+    "processed_at": "2026-11-26T04:34:28.166063+00:00"
+  },
+  "https://www.fiercebiotech.com/biotech/desentum-delivers-durable-symptom-relief-phase-2-birch-pollen-allergy-trial": {
+    "korean_summary": "핀란드 바이오텍 Desentum이 자작나무 꽃가루 알레르기 면역요법 P2 임상에서 1차 평가변수 달성.\n단기 투여 후 지속적 증상 완화 효과 확인, 추가 연구 계획.\n알레르기 면역요법 분야의 단기 처방 가능성을 보여주는 임상 결과.",
+    "category": "임상결과",
+    "relevance_score": 1,
+    "relevance_reason": "알레르기 면역요법 임상 결과로 사용자 연구 분야와 무관",
+    "processed_at": "2026-11-26T04:34:31.744240+00:00"
   }
 }
